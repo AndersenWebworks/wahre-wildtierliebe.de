@@ -3,6 +3,9 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
+  "dependencies": {
+    "linkedom": "^0.18.12"
+  },
   "scripts": {
     "build": "node tools/build-static-pages.mjs",
     "extract:public-copy": "node tools/extract-public-copy.mjs",

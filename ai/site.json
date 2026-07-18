@@ -2,30 +2,237 @@
   "name": "Wa(h)re Wildtier(liebe)",
   "url": "https://wahre-wildtierliebe.de",
   "language": "de-DE",
+  "description": "Wildtiere im Alltag erkennen, Notlagen einschätzen und Lebensräume in Garten, Wohnung, Stadt und Dorf verbessern.",
   "pages": [
     {
-      "title": "Wa(h)re Wildtier(liebe) - Wildtiere im Alltag",
+      "title": "Wa(h)re Wildtier(liebe) – Wildtieren richtig helfen",
+      "description": "Wildtiere im Alltag erkennen, Notlagen einschätzen und Lebensräume in Garten, Wohnung, Stadt und Dorf verbessern.",
       "url": "https://wahre-wildtierliebe.de/"
     },
     {
-      "title": "Wildtierfreundlicher Garten - Wa(h)re Wildtier(liebe)",
+      "title": "Tier gefunden – Wa(h)re Wildtier(liebe)",
+      "description": "Fundtiere richtig einschätzen und unnötige Eingriffe vermeiden.",
+      "url": "https://wahre-wildtierliebe.de/tier-gefunden/"
+    },
+    {
+      "title": "Jungvogel am Boden – Wa(h)re Wildtier(liebe)",
+      "description": "Jungvögel am Boden richtig einschätzen.",
+      "url": "https://wahre-wildtierliebe.de/jungvogel-am-boden/"
+    },
+    {
+      "title": "Verletzter Vogel – Wa(h)re Wildtier(liebe)",
+      "description": "Verletzte oder kollidierte Vögel sichern.",
+      "url": "https://wahre-wildtierliebe.de/verletzter-vogel/"
+    },
+    {
+      "title": "Igel am Tag – Wa(h)re Wildtier(liebe)",
+      "description": "Tagaktive Igel richtig einschätzen.",
+      "url": "https://wahre-wildtierliebe.de/igel-am-tag/"
+    },
+    {
+      "title": "Fledermaus im Zimmer – Wa(h)re Wildtier(liebe)",
+      "description": "Fledermäusen sicher aus Innenräumen helfen.",
+      "url": "https://wahre-wildtierliebe.de/fledermaus-im-zimmer/"
+    },
+    {
+      "title": "Tier im Schacht oder Fallrohr – Wa(h)re Wildtier(liebe)",
+      "description": "Tiere aus baulichen Fallen retten und Wiederholungen verhindern.",
+      "url": "https://wahre-wildtierliebe.de/tier-im-schacht/"
+    },
+    {
+      "title": "Nest beschädigt – Wa(h)re Wildtier(liebe)",
+      "description": "Beschädigte und belegte Nester schützen.",
+      "url": "https://wahre-wildtierliebe.de/nest-beschaedigt/"
+    },
+    {
+      "title": "Wildtier-Jungtier allein – Wa(h)re Wildtier(liebe)",
+      "description": "Allein sitzende Wildtierjunge richtig einschätzen.",
+      "url": "https://wahre-wildtierliebe.de/jungtier-allein/"
+    },
+    {
+      "title": "Lebensraum schaffen – Wa(h)re Wildtier(liebe)",
+      "description": "Wildtierfreundliche Lebensräume für jede verfügbare Fläche.",
+      "url": "https://wahre-wildtierliebe.de/lebensraum-schaffen/"
+    },
+    {
+      "title": "Wildtierfreundlicher Garten – Wa(h)re Wildtier(liebe)",
+      "description": "Die wirksamsten Maßnahmen für einen wildtierfreundlichen Garten.",
       "url": "https://wahre-wildtierliebe.de/garten/"
     },
     {
-      "title": "Wildtiere auf Balkon und in Wohnung - Wa(h)re Wildtier(liebe)",
-      "url": "https://wahre-wildtierliebe.de/balkon-und-wohnung/"
+      "title": "Wildtierfreundlicher Balkon – Wa(h)re Wildtier(liebe)",
+      "description": "Natur auf Balkon, Fensterbank und kleiner Fläche unterstützen.",
+      "url": "https://wahre-wildtierliebe.de/balkon-und-fenster/"
     },
     {
-      "title": "Wildtiere in Stadt und Dorf - Wa(h)re Wildtier(liebe)",
+      "title": "Wildtierfreundliches Haus und Dach – Wa(h)re Wildtier(liebe)",
+      "description": "Quartiere und Brutplätze an Gebäuden schützen.",
+      "url": "https://wahre-wildtierliebe.de/haus-und-dach/"
+    },
+    {
+      "title": "Wildtierfreundlicher Hof und Kleingarten – Wa(h)re Wildtier(liebe)",
+      "description": "Höfe und Kleingärten als Lebensraum entwickeln.",
+      "url": "https://wahre-wildtierliebe.de/hof-und-kleingarten/"
+    },
+    {
+      "title": "Wildtiere in Stadt und Dorf – Wa(h)re Wildtier(liebe)",
+      "description": "Wildtiere in Siedlungen schützen und beobachten.",
       "url": "https://wahre-wildtierliebe.de/stadt-und-dorf/"
     },
     {
-      "title": "Fundtier einschätzen - Wa(h)re Wildtier(liebe)",
+      "title": "Gefahren für Wildtiere vermeiden – Wa(h)re Wildtier(liebe)",
+      "description": "Alltägliche Tierfallen an Haus und Garten entschärfen.",
+      "url": "https://wahre-wildtierliebe.de/gefahren-vermeiden/"
+    },
+    {
+      "title": "Glasflächen gegen Vogelschlag sichern – Wa(h)re Wildtier(liebe)",
+      "description": "Vogelkollisionen an Scheiben verhindern.",
+      "url": "https://wahre-wildtierliebe.de/glasflaechen/"
+    },
+    {
+      "title": "Lichtverschmutzung vermeiden – Wa(h)re Wildtier(liebe)",
+      "description": "Außenlicht wildtierfreundlich planen.",
+      "url": "https://wahre-wildtierliebe.de/licht-in-der-nacht/"
+    },
+    {
+      "title": "Mähroboter und Wildtiere – Wa(h)re Wildtier(liebe)",
+      "description": "Wildtiere vor Mährobotern und Gartengeräten schützen.",
+      "url": "https://wahre-wildtierliebe.de/maehroboter-und-gartenarbeit/"
+    },
+    {
+      "title": "Regentonnen, Teiche und Schächte sichern – Wa(h)re Wildtier(liebe)",
+      "description": "Wasserbehälter und Vertiefungen als Tierfallen entschärfen.",
+      "url": "https://wahre-wildtierliebe.de/wasser-und-schaechte/"
+    },
+    {
+      "title": "Netze und Zäune wildtiersicher machen – Wa(h)re Wildtier(liebe)",
+      "description": "Zäune durchlässig und Netze sicher gestalten.",
+      "url": "https://wahre-wildtierliebe.de/netze-und-zaeune/"
+    },
+    {
+      "title": "Gifte und Leimfallen vermeiden – Wa(h)re Wildtier(liebe)",
+      "description": "Nichtzieltiere und Nahrungsketten vor Giften schützen.",
+      "url": "https://wahre-wildtierliebe.de/gifte-und-leimfallen/"
+    },
+    {
+      "title": "Katzen und Wildtiere – Wa(h)re Wildtier(liebe)",
+      "description": "Wildtiere in Katzenhaushalten besser schützen.",
+      "url": "https://wahre-wildtierliebe.de/katzen-und-wildtiere/"
+    },
+    {
+      "title": "Bau- und Gartenarbeiten mit Wildtierschutz – Wa(h)re Wildtier(liebe)",
+      "description": "Brutplätze und Quartiere vor Arbeiten prüfen.",
+      "url": "https://wahre-wildtierliebe.de/bau-und-pflege/"
+    },
+    {
+      "title": "Wildtiere erkennen – Wa(h)re Wildtier(liebe)",
+      "description": "Arten über Ort, Größe, Verhalten, Stimme und Spuren eingrenzen.",
+      "url": "https://wahre-wildtierliebe.de/tier-erkennen/"
+    },
+    {
+      "title": "Vögel erkennen – Wa(h)re Wildtier(liebe)",
+      "description": "Vögel im Alltag systematisch bestimmen.",
+      "url": "https://wahre-wildtierliebe.de/vogel-erkennen/"
+    },
+    {
+      "title": "Wildtierspuren erkennen – Wa(h)re Wildtier(liebe)",
+      "description": "Spuren, Fraßbilder und Kot vorsichtig einordnen.",
+      "url": "https://wahre-wildtierliebe.de/spuren-und-kot/"
+    },
+    {
+      "title": "Tierstimmen erkennen – Wa(h)re Wildtier(liebe)",
+      "description": "Vogel- und Wildtierstimmen beobachten und eingrenzen.",
+      "url": "https://wahre-wildtierliebe.de/stimmen-und-rufe/"
+    },
+    {
+      "title": "Nester und Tierbauten erkennen – Wa(h)re Wildtier(liebe)",
+      "description": "Tierbauten beobachten, ohne sie zu stören.",
+      "url": "https://wahre-wildtierliebe.de/nester-und-bauten/"
+    },
+    {
+      "title": "Insekten erkennen – Wa(h)re Wildtier(liebe)",
+      "description": "Insekten auf Balkon und im Garten beobachten.",
+      "url": "https://wahre-wildtierliebe.de/insekten-erkennen/"
+    },
+    {
+      "title": "Natur beobachten – Wa(h)re Wildtier(liebe)",
+      "description": "Wildtiere rücksichtsvoll und systematisch beobachten.",
+      "url": "https://wahre-wildtierliebe.de/natur-beobachten/"
+    },
+    {
+      "title": "Wildtiere nachts beobachten – Wa(h)re Wildtier(liebe)",
+      "description": "Nachtaktive Tiere ohne Störung beobachten.",
+      "url": "https://wahre-wildtierliebe.de/nachts-beobachten/"
+    },
+    {
+      "title": "Natur- und Gartentagebuch – Wa(h)re Wildtier(liebe)",
+      "description": "Naturbeobachtungen vergleichbar dokumentieren.",
+      "url": "https://wahre-wildtierliebe.de/gartentagebuch/"
+    },
+    {
+      "title": "Wildtiere rund um Plau am See – Wa(h)re Wildtier(liebe)",
+      "description": "Regionale Naturbeobachtung rund um Plau am See.",
+      "url": "https://wahre-wildtierliebe.de/regional-plau/"
+    },
+    {
+      "title": "Fundtier – Wa(h)re Wildtier(liebe)",
+      "description": "Zum neuen Entscheidungsbereich für Wildtierfunde.",
       "url": "https://wahre-wildtierliebe.de/fundtier/"
     },
     {
-      "title": "Wildtiere beobachten - Wa(h)re Wildtier(liebe)",
+      "title": "Balkon und Wohnung – Wa(h)re Wildtier(liebe)",
+      "description": "Zum neuen Lebensraumweg für Balkon, Fenster und Wohnung.",
+      "url": "https://wahre-wildtierliebe.de/balkon-und-wohnung/"
+    },
+    {
+      "title": "Arten beobachten – Wa(h)re Wildtier(liebe)",
+      "description": "Zu den neuen Bereichen für Tiererkennung und Naturbeobachtung.",
       "url": "https://wahre-wildtierliebe.de/arten-beobachten/"
+    },
+    {
+      "title": "Braucht dieses Wildtier Hilfe? – Wa(h)re Wildtier(liebe)",
+      "description": "Ein kurzer Entscheidungsweg für Wildtierfunde.",
+      "url": "https://wahre-wildtierliebe.de/braucht-das-tier-hilfe/"
+    },
+    {
+      "title": "Jungvogel-Check – Wa(h)re Wildtier(liebe)",
+      "description": "Jungvögel mit wenigen Fragen einschätzen.",
+      "url": "https://wahre-wildtierliebe.de/jungvogel-check/"
+    },
+    {
+      "title": "Garten- und Balkoncheck – Wa(h)re Wildtier(liebe)",
+      "description": "Prioritäten für einen wildtierfreundlicheren Ort finden.",
+      "url": "https://wahre-wildtierliebe.de/lebensraum-check/"
+    },
+    {
+      "title": "Lichtfallen-Check – Wa(h)re Wildtier(liebe)",
+      "description": "Außenbeleuchtung auf Wildtierverträglichkeit prüfen.",
+      "url": "https://wahre-wildtierliebe.de/licht-check/"
+    },
+    {
+      "title": "Zaun-Check – Wa(h)re Wildtier(liebe)",
+      "description": "Zäune und Netze auf Durchgänge und Fallen prüfen.",
+      "url": "https://wahre-wildtierliebe.de/zaun-check/"
+    },
+    {
+      "title": "Maßnahmenplan nach Fläche – Wa(h)re Wildtier(liebe)",
+      "description": "Wildtierhilfen für Fenster, Balkon, Hof und Garten auswählen.",
+      "url": "https://wahre-wildtierliebe.de/flaechenplan/"
+    },
+    {
+      "title": "Saisonkalender für Wildtiere – Wa(h)re Wildtier(liebe)",
+      "description": "Beobachtung und Gartenarbeit im Jahreslauf planen.",
+      "url": "https://wahre-wildtierliebe.de/saisonkalender/"
+    },
+    {
+      "title": "Tierfinder – Wa(h)re Wildtier(liebe)",
+      "description": "Häufige Wildtierbeobachtungen über Merkmale eingrenzen.",
+      "url": "https://wahre-wildtierliebe.de/tierfinder/"
+    },
+    {
+      "title": "Wildtier-Hilfestellen rund um Plau am See – Wa(h)re Wildtier(liebe)",
+      "description": "Regionale Kontaktwege für verletzte und hilfsbedürftige Wildtiere.",
+      "url": "https://wahre-wildtierliebe.de/hilfestellen/"
     }
   ]
 }

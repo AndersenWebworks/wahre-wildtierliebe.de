@@ -1,23 +1,33 @@
 # wahre-wildtierliebe.de
 
-`Wa(h)re Wildtier(liebe)` ist das Gegenstück zu `Wa(h)re Haustier(liebe)`: ein statisches Wissensprojekt für Wildtiere im menschlichen Alltag.
+`Wa(h)re Wildtier(liebe)` ist ein statisches Entscheidungs- und Wissensportal für Begegnungen mit Wildtieren im menschlichen Alltag.
 
-Im Mittelpunkt stehen Gärten, Balkone, Wohnungen, Stadt, Dorf und Land. Das Projekt sammelt später konkrete Orientierung für Situationen wie ein Vogel im Regenrohr, ein Igel am Zaun oder ein Tier, das in einer Einzimmerwohnung auftaucht.
+Die öffentliche Struktur beginnt bei der wirklichen Situation: Tier gefunden, Lebensraum schaffen, Gefahren vermeiden, Tier erkennen und Natur beobachten. Garten, Balkon, Fenster, Haus, Hof, Stadt und Dorf werden als zusammenhängende Lebensräume behandelt.
+
+## Umfang
+
+- 46 statische Routen mit Startseite, fünf Aufgabenbereichen und vertiefenden Situations-, Lebensraum-, Gefahren-, Bestimmungs- und Beobachtungsseiten
+- neun Werkzeuge für Fundtiere, Jungvögel, Flächen, Außenlicht, Zäune, Saison, Bestimmung und regionale Hilfestellen
+- strukturierte lokale Suche über konkrete Situationen statt freier Schlagwortlogik
+- regionale Ebene für Plau am See und Mecklenburg-Vorpommern
+- Sitemap, `robots.txt`, `llms.txt` und `ai/site.json`
 
 ## Struktur
 
-- `src/site-source.js` ist die gepflegte Quelle für Seiten, Metadaten und sichtbare Inhalte.
-- `tools/build-static-pages.mjs` erzeugt die öffentlichen HTML-Seiten sowie Sitemap, Robots-Datei und maschinenlesbare Projektdateien.
-- `.clautz/public-copy-surface.json` hält die aus der Quelle erzeugte sichtbare Copy-Fläche für die unabhängige Freigabe fest.
+- `src/site-source.js` enthält Seiten, Werkzeuge, Verknüpfungen, Quellen und Bildnachweise.
+- `tools/build-static-pages.mjs` erzeugt die öffentlichen HTML-Seiten und maschinenlesbaren Dateien.
+- `tools/extract-public-copy.mjs` liest die gebauten HTML-Seiten mit einem HTML-Parser und erzeugt die vollständige öffentliche Copy-Fläche.
+- `.clautz/public-copy-surface.json` bindet die unabhängige Copy-Prüfung an den gebauten Stand.
 
-## Lokaler Build
+## Build
 
 ```powershell
+npm install
 npm run build
 ```
 
-Die öffentliche Copy muss vor einer Veröffentlichung separat geprüft werden. `npm run verify:public-copy` bleibt ohne aktuelle, hashgebundene Freigabe absichtlich rot.
+Die Freigabe der öffentlichen Copy läuft getrennt. `npm run verify:public-copy` akzeptiert nur eine aktuelle, hashgebundene Prüfung der vollständig gebauten Oberfläche.
 
-## Inhaltliche Leitlinie
+## Inhaltliche Grundlage
 
-Das Projekt trennt Beobachtung, Schutz im Alltag und akute Fundtier-Situationen. Konkrete Handlungsanweisungen, Artwissen und regionale Kontakte kommen erst nach eigener Quellenprüfung in die Seiten.
+Die vorhandenen lokalen Projekte `Wa(h)re Haustier(liebe)`, Vogelguide Klein Dammerow und Wildtier-Gartenguide liefern Struktur und Inspiration. Fachliche Soforthilfe verweist zusätzlich auf zuständige Stellen wie NABU, Pro Igel, BUND Naturschutz und regionale Wildtierhilfen.
