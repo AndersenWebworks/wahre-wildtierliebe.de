@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "project": "wahre-wildtierliebe",
+  "audience": "Menschen, die Wildtieren in Garten, Wohnung, Balkon, Dorf oder Stadt begegnen und sinnvoll handeln wollen.",
+  "purpose": "Die Website bündelt alltagsnahe Orientierung zu Wildtieren und ihren Lebensräumen.",
+  "surface": ".clautz/public-copy-surface.json",
+  "attestation": ".clautz/public-copy-review.json"
+}

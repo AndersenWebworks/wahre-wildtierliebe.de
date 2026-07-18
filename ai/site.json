@@ -1,0 +1,31 @@
+{
+  "name": "Wa(h)re Wildtier(liebe)",
+  "url": "https://wahre-wildtierliebe.de",
+  "language": "de-DE",
+  "pages": [
+    {
+      "title": "Wa(h)re Wildtier(liebe) - Wildtiere im Alltag",
+      "url": "https://wahre-wildtierliebe.de/"
+    },
+    {
+      "title": "Wildtierfreundlicher Garten - Wa(h)re Wildtier(liebe)",
+      "url": "https://wahre-wildtierliebe.de/garten/"
+    },
+    {
+      "title": "Wildtiere auf Balkon und in Wohnung - Wa(h)re Wildtier(liebe)",
+      "url": "https://wahre-wildtierliebe.de/balkon-und-wohnung/"
+    },
+    {
+      "title": "Wildtiere in Stadt und Dorf - Wa(h)re Wildtier(liebe)",
+      "url": "https://wahre-wildtierliebe.de/stadt-und-dorf/"
+    },
+    {
+      "title": "Fundtier einschätzen - Wa(h)re Wildtier(liebe)",
+      "url": "https://wahre-wildtierliebe.de/fundtier/"
+    },
+    {
+      "title": "Wildtiere beobachten - Wa(h)re Wildtier(liebe)",
+      "url": "https://wahre-wildtierliebe.de/arten-beobachten/"
+    }
+  ]
+}

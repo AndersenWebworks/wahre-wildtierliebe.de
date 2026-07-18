@@ -1,0 +1,11 @@
+{
+  "name": "wahre-wildtierliebe.de",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build-static-pages.mjs",
+    "extract:public-copy": "node tools/extract-public-copy.mjs",
+    "verify:public-copy": "node C:/Andersen/Webworks/GitHub/Webworks/ClautzGPT/scripts/public-copy-guard.js verify --config public-copy.config.json"
+  }
+}

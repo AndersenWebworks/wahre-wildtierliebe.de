@@ -1,0 +1,24 @@
+:root { color: #183a32; background: #f5f4ec; font-family: Georgia, 'Times New Roman', serif; }
+* { box-sizing: border-box; }
+body { margin: 0; background: #f5f4ec; color: #183a32; line-height: 1.55; }
+a { color: inherit; }
+.skip { left: -999px; position: absolute; top: 0; }
+.skip:focus { left: 1rem; top: 1rem; z-index: 2; }
+.header, main, footer { margin: 0 auto; max-width: 72rem; padding-left: 1.5rem; padding-right: 1.5rem; }
+.header { align-items: center; display: flex; justify-content: space-between; min-height: 5.5rem; gap: 1rem; }
+.brand { color: #183a32; font-size: 1.25rem; font-weight: 700; text-decoration: none; }
+nav { display: flex; flex-wrap: wrap; gap: .8rem 1rem; justify-content: flex-end; }
+nav a { color: #285c4f; font-family: Arial, sans-serif; font-size: .9rem; text-decoration: none; }
+nav a:hover, nav a:focus-visible { text-decoration: underline; }
+.hero { border-top: 1px solid #b4c6ac; border-bottom: 1px solid #b4c6ac; padding: clamp(4rem, 10vw, 8rem) 0; max-width: 55rem; }
+.kicker { color: #9c4e27; font-family: Arial, sans-serif; font-size: .78rem; font-weight: 700; letter-spacing: .08em; margin: 0 0 1rem; text-transform: uppercase; }
+h1 { font-size: clamp(2.6rem, 6vw, 5.5rem); font-weight: 500; letter-spacing: 0; line-height: 1.02; margin: 0; }
+.hero > p:last-child { font-size: clamp(1.15rem, 2vw, 1.45rem); margin: 1.6rem 0 0; max-width: 46rem; }
+.topics { display: grid; gap: 1px; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); margin: 4rem 0; background: #b4c6ac; }
+.topic { background: #e6eee0; min-height: 15rem; padding: 1.5rem; text-decoration: none; transition: background .15s ease; }
+.topic:hover, .topic:focus-visible { background: #d7e4d0; }
+.topic h2 { font-size: 1.5rem; font-weight: 500; margin: 0; }
+.topic p { margin: .7rem 0 1.5rem; }
+.topic span { color: #9c4e27; font-family: Arial, sans-serif; font-size: .9rem; font-weight: 700; }
+footer { border-top: 1px solid #b4c6ac; display: flex; gap: 1rem; justify-content: space-between; padding-bottom: 2rem; padding-top: 2rem; }
+@media (max-width: 42rem) { .header { align-items: flex-start; flex-direction: column; padding-bottom: 1.25rem; padding-top: 1.25rem; } nav { justify-content: flex-start; } footer { align-items: flex-start; flex-direction: column; } }

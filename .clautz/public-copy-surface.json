@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "project": "wahre-wildtierliebe",
+  "pages": [
+    {
+      "route": "/",
+      "title": "Wa(h)re Wildtier(liebe) - Wildtiere im Alltag",
+      "content": [
+        "Wa(h)re Wildtier(liebe)",
+        "Wildtiere nebenan",
+        "Wildtiere leben nicht nur im Wald.",
+        "Sie sitzen im Regenrohr, laufen über den Balkon, verschwinden unter der Hecke oder ziehen nachts durch die Stadt. Diese Seite ordnet solche Begegnungen ein – ohne Wildtiere zu Haustieren zu machen.",
+        "garten",
+        "Garten",
+        "Hecken, Wasser, Licht, Zäune und die kleinen Entscheidungen zwischen Rasen und Rückzugsort.",
+        "balkon-und-wohnung",
+        "Balkon & Wohnung",
+        "Was tun, wenn Natur auf wenigen Quadratmetern auftaucht oder dort einen Platz finden soll?",
+        "stadt-und-dorf",
+        "Stadt & Dorf",
+        "Wildtiere zwischen Straßen, Höfen, Schuppen, Parks und Feldrand.",
+        "fundtier",
+        "Fundtier",
+        "Eine Begegnung richtig einschätzen, bevor gut gemeinte Hilfe Schaden anrichtet.",
+        "arten-beobachten",
+        "Arten beobachten",
+        "Vögel, Insekten, Amphibien und Säugetiere sehen lernen, ohne sie zu bedrängen."
+      ]
+    },
+    {
+      "route": "/garten/",
+      "title": "Wildtierfreundlicher Garten - Wa(h)re Wildtier(liebe)",
+      "content": [
+        "Wa(h)re Wildtier(liebe)",
+        "Garten",
+        "Ein Garten ist auch Durchgang, Versteck und Lebensraum.",
+        "Hecken, Wasserstellen, dunkle Ecken und Durchgänge am Boden entscheiden mit darüber, ob Tiere Nahrung, Schutz und sichere Wege finden."
+      ]
+    },
+    {
+      "route": "/balkon-und-wohnung/",
+      "title": "Wildtiere auf Balkon und in Wohnung - Wa(h)re Wildtier(liebe)",
+      "content": [
+        "Wa(h)re Wildtier(liebe)",
+        "Balkon & Wohnung",
+        "Balkone und Fensterplätze sind Teil des Lebensraums.",
+        "Wasser, Pflanzen, künstliches Licht und offene Fenster verändern, wie Tiere den Ort nutzen. Wer eine Begegnung bemerkt, hält Abstand und prüft zuerst, ob überhaupt Hilfe nötig ist."
+      ]
+    },
+    {
+      "route": "/stadt-und-dorf/",
+      "title": "Wildtiere in Stadt und Dorf - Wa(h)re Wildtier(liebe)",
+      "content": [
+        "Wa(h)re Wildtier(liebe)",
+        "Stadt & Dorf",
+        "Wildtiere leben mitten in unserer Infrastruktur.",
+        "Straßen, Höfe, Schuppen, Parks und Feldränder prägen ihre Wege. Wer ein Tier entdeckt, hält Abstand, sichert unmittelbare Gefahren und beobachtet, bevor er eingreift."
+      ]
+    },
+    {
+      "route": "/fundtier/",
+      "title": "Fundtier einschätzen - Wa(h)re Wildtier(liebe)",
+      "content": [
+        "Wa(h)re Wildtier(liebe)",
+        "Fundtier",
+        "Nicht jedes allein wirkende Tier braucht dieselbe Hilfe.",
+        "Bei akuter Gefahr oder sichtbarer Verletzung zählt fachkundige Hilfe. Abstand halten, Fundort und Zustand notieren und eine Wildtierstation oder Tierarztpraxis anrufen, bevor das Tier gefüttert oder umgesetzt wird."
+      ]
+    },
+    {
+      "route": "/arten-beobachten/",
+      "title": "Wildtiere beobachten - Wa(h)re Wildtier(liebe)",
+      "content": [
+        "Wa(h)re Wildtier(liebe)",
+        "Arten beobachten",
+        "Ort, Größe, Farbe und Verhalten helfen bei der Bestimmung.",
+        "Beobachtungsort, Uhrzeit, Größe, Farben, Bewegung und Stimme liefern Hinweise auf die Art. Abstand und eine ruhige Position verhindern, dass die Beobachtung das Tier unnötig stört."
+      ]
+    }
+  ]
+}
