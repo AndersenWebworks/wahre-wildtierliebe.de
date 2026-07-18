@@ -7,7 +7,8 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const pageUrl = (page) => page.slug ? `/${page.slug}/` : '/';
 const esc = (value = '') => String(value).replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;');
 const json = (value) => JSON.stringify(value).replaceAll('<', '\\u003c');
-const relative = (page, slug = '') => `${page.slug ? '../' : './'}${slug ? `${slug}/` : ''}`;
+const relativeBase = (page) => page.slug ? '../' : './';
+const relative = (page, slug = '') => `${relativeBase(page)}${slug ? `${slug}/index.html` : 'index.html'}`;
 const icon = (name) => {
   const paths = {
     search: '<circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path>',
@@ -165,12 +166,12 @@ function render(page) {
   <link rel="canonical" href="${site.url}${pageUrl(page)}">
   <meta property="og:title" content="${esc(page.title)}"><meta property="og:description" content="${esc(page.description)}"><meta property="og:url" content="${site.url}${pageUrl(page)}"><meta property="og:type" content="website">
   <meta property="og:image" content="${esc((page.image || images.hedgehog).src)}">
-  <link rel="stylesheet" href="${relative(page)}assets/site.css">
+  <link rel="stylesheet" href="${relativeBase(page)}assets/site.css">
   <script type="application/ld+json">${json(schema)}</script>
 </head>
-<body data-base="${relative(page)}">
+<body data-base="${relativeBase(page)}">
   ${renderHeader(page)}${body}${renderFooter(page)}
-  <script src="${relative(page)}assets/site.js"></script>
+  <script src="${relativeBase(page)}assets/site.js"></script>
 </body>
 </html>\n`;
   return html.split('\n').map((line) => line.trimEnd()).join('\n');
