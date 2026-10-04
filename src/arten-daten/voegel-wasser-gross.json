@@ -48,12 +48,14 @@
    ],
    "verwechslung": null,
    "lebensraum": "Besiedelt fast alle Feuchtgebiete, vom Parkteich über Flüsse und große Seen bis zur Küste. Sie hält sich gern auf Wiesen, Viehweiden und Stoppelfeldern auf.",
-   "zeit": "Die Brutzeit reicht von März bis August, die Art wird zunehmend zum Standvogel und ist dann ganzjährig zu sehen.",
+   "zeit": "Die Brutzeit reicht von März bis August, die Art wird zunehmend zum Standvogel und ist dann ganzjährig zu sehen. Die Mauser, bei der die Schwungfedern gewechselt werden, liegt vor allem in den Monaten Mai und Juni. Dann sind die Vögel etwa dreieinhalb bis vier Wochen flugunfähig und sollten in Ruhe gelassen werden.",
    "spuren": null,
    "regional": null,
    "umgang": "Gänse nicht füttern und nicht bedrängen, Familien mit Jungen Abstand lassen.",
    "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG). Laut NABU-Vogelporträt nicht gefährdet, 54.000 bis 77.000 Brutpaare, Bestand stark zunehmend.",
-   "naturdeck_ids": [],
+   "naturdeck_ids": [
+    "a0c9a29e"
+   ],
    "korrekturen": [
     "48481486: Das Kurzrupfen von Uferwiesen ist gedeckt, die Angaben zu Kot und Tritt nicht. Nicht als bestätigt übernommen.",
     "a0c9a29e: Mauser im Frühsommer an Seen in den gelesenen Quellen nicht belegt, daher nicht übernommen."
@@ -62,6 +64,10 @@
     [
      "NABU-Vogelporträt Graugans",
      "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/graugans/"
+    ],
+    [
+     "Wildtierportal Bayern: Graugans",
+     "https://www.wildtierportal.bayern.de/wildtiere_bayern/085417/index.php"
     ]
    ]
   },
@@ -552,13 +558,16 @@
     "Männchen rufen ihren Namen „Ku-Kuck“, bei nahem Weibchen schneller"
    ],
    "verwechslung": "Im Vorbeiflug mit dem Sperber, vom Kuckuck unterscheiden ihn der graue Kopf und der dünnere Schnabel.",
-   "lebensraum": "Wälder und halboffene Landschaften mit Gebüsch, gern in Gewässernähe. Er meidet ausgeräumte Agrarlandschaften und Siedlungen.",
-   "zeit": "Von April bis September bei uns; Ankunft ab Ende März bis Ende April, Langstreckenzieher mit Winterquartier im tropischen Afrika.",
+   "lebensraum": "Wälder und halboffene Landschaften mit Gebüsch, gern in Gewässernähe. Er meidet ausgeräumte Agrarlandschaften und Siedlungen. Als Wirtsvögel bevorzugt der Kuckuck Grasmücken und Rohrsänger. Die Wirtseltern füttern den viel größeren Jungvogel trotzdem weiter.",
+   "zeit": "Von April bis September bei uns; Ankunft ab Ende März bis Ende April, Langstreckenzieher mit Winterquartier im tropischen Afrika. Zu hören sind nur die Männchen, ihr Reviergesang erreicht im Mai und Juni den Höhepunkt und zieht sich mancherorts bis in den Juli. Danach wird es an den Waldrändern deutlich stiller.",
    "spuren": "Der Ruf der Männchen im Frühjahr.",
    "regional": null,
    "umgang": "Der Kuckuck legt bis zu 25 Eier einzeln in fremde Nester und wirft vorher ein Wirtsei hinaus. Das ist natürliches Verhalten, der Jungvogel wird nicht entfernt oder umgesetzt. Hilfreich sind strukturreiche Hecken und Waldränder für die Wirtsvögel.",
    "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG). Laut NABU-Vogelporträt gefährdet (Rote Liste, Stand 2021), 39.000 bis 65.000 Reviere; Rückgang der Wirtsvögel ist die Hauptgefahr.",
-   "naturdeck_ids": [],
+   "naturdeck_ids": [
+    "663647b9",
+    "275fd1fb"
+   ],
    "korrekturen": [
     "275fd1fb: Ruf im Frühjahr ist belegt, die Aussage zum Verstummen ab Juli nicht, daher nicht übernommen.",
     "45202978: Abstimmung von Ei und Wirtsart nicht in den gelesenen Quellen belegt.",
@@ -572,6 +581,14 @@
     [
      "LBV-Artenporträt Kuckuck",
      "https://www.lbv.de/ratgeber/naturwissen/artenportraits/detail/kuckuck/"
+    ],
+    [
+     "NABU: Kuckuck, Rufe und Gesang",
+     "https://www.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/vogel-des-jahres/2008-kuckuck/07195.html"
+    ],
+    [
+     "LBV: Schon gehört? Der Kuckuck ist zurück",
+     "https://www.lbv.de/news/details/schon-gehoert-der-kuckuck-ist-zurueck/"
     ]
    ]
   },
@@ -587,7 +604,7 @@
     "ähnlich der Stadttaube, aber ohne weiße Gefiederpartien",
     "leiser Gesang wie „oo-uo“ oder „huu“"
    ],
-   "verwechslung": "Der Stadttaube ähnlich; ihr fehlen die weißen Gefiederpartien.",
+   "verwechslung": "Der Stadttaube ähnlich; ihr fehlen die weißen Gefiederpartien. Von der größeren Ringeltaube unterscheidet sie, dass ihr der weiße Halsseitenfleck fehlt, ihr Halsfleck schillert grün. Anders als die Ringeltaube baut sie kein freies Nest im Geäst, sondern brütet in Baumhöhlen, besonders in Höhlen des Schwarzspechts.",
    "lebensraum": "Lichte Wälder und Gehölze mit alten Bäumen, in Städten große Parks und Gärten. Sie nutzt verlassene Baumhöhlen und alte Spechthöhlen, auch Nistkästen.",
    "zeit": "Von März bis Oktober bei uns, Zugvogel mit Winterquartier in Süd- und Westeuropa.",
    "spuren": null,
@@ -595,7 +612,9 @@
    "umgang": "Alte Höhlenbäume und Spechthöhlen im Wald erhalten, besonders Altbuchen mit Höhlen nicht fällen.",
    "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG). Laut NABU-Vogelporträt nicht gefährdet, 87.000 bis 145.000 Brutpaare, Bestand stark zunehmend.",
    "naturdeck_ids": [
-    "2fff18d0"
+    "2fff18d0",
+    "d6d8a12b",
+    "5728651d"
    ],
    "korrekturen": [
     "5728651d, c626a174: Spechthöhlen sind belegt, ausdrücklich Schwarzspechthöhlen nennt das NABU-Porträt nicht; „kurzer Hals“ und Vergleich mit der Ringeltaube sind nicht belegt.",
@@ -605,6 +624,14 @@
     [
      "NABU-Vogelporträt Hohltaube",
      "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/hohltaube/"
+    ],
+    [
+     "NABU: Vögel bestimmen, Tauben im Vergleich",
+     "https://www.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/stunde-der-gartenvoegel/voegel-bestimmen/13777.html"
+    ],
+    [
+     "waldwissen.net: Die Hohltaube (Columba oenas)",
+     "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/voegel/die-hohltaube"
     ]
    ]
   },

@@ -1,0 +1,332 @@
+[
+ {
+  "id": "0f22bc75",
+  "bezug": "umwelt",
+  "text": "Abends duftet das Wald-Geißblatt am stärksten, und so finden Nachtfalter seine hellen Blüten."
+ },
+ {
+  "id": "49acee15",
+  "bezug": "umwelt",
+  "text": "Adlerfarn rollt seine jungen Wedel wie Hirtenstäbe aus. Wo er dicht wächst, ist der Waldrand meist sauer und licht."
+ },
+ {
+  "id": "b64a2ca9",
+  "bezug": "umwelt",
+  "text": "Adlerfarn rollt seine jungen Wedel zuerst wie kleine Fäuste ein. Wo er dicht steht, ist der Waldboden meist sauer und licht."
+ },
+ {
+  "id": "01aa56a6",
+  "bezug": "umwelt",
+  "text": "Adlerfarn schiebt seine jungen Wedel aus eingerollten Spitzen hoch. Wo er dicht steht, ist der Boden in lichten Kiefernwäldern meist sauer."
+ },
+ {
+  "id": "20f8aedd",
+  "bezug": "umwelt",
+  "text": "Am Feldrand fällt Rainfarn auf, denn er trägt gelbe Blütenknöpfe ohne Strahlen. Seine gefiederten Blätter riechen herb."
+ },
+ {
+  "id": "ada85ba2",
+  "bezug": "umwelt",
+  "text": "Am Graben blüht das Sumpf-Vergissmeinnicht hellblau. Seine Blütenstände sind erst eingerollt und rollen sich von der Spitze her auf."
+ },
+ {
+  "id": "b4ba48b0",
+  "bezug": "umwelt",
+  "text": "Am Graben rankt der Bittersüße Nachtschatten. Seine violetten Blütenblätter biegen sich zurück, und in der Mitte stehen die gelben Staubbeutel frei."
+ },
+ {
+  "id": "9c41e178",
+  "bezug": "umwelt",
+  "text": "Am Hofrand reift der Schwarze Holunder nicht auf einmal. Schwarze Beeren an roten Stielen hängen neben Nachzüglern, die noch grün sind."
+ },
+ {
+  "id": "57057ecd",
+  "bezug": "umwelt",
+  "text": "Am Moorwald wächst der Faulbaum mit heller Rinde. Im Sommer können Blüten und schwarze Beeren am selben Zweig sitzen."
+ },
+ {
+  "id": "36f1e84a",
+  "bezug": "umwelt",
+  "text": "Auf nährstoffarmen Feuchtwiesen blüht der Teufelsabbiss spät im Jahr violett. Die Blütenköpfe sitzen einzeln auf drahtig dünnen Stielen."
+ },
+ {
+  "id": "e6748d59",
+  "bezug": "umwelt",
+  "text": "Auf trockenen, lichten Kiefernflächen blüht die Besenheide erst spät im Jahr. Ihre braunen Kapseln bleiben danach lange zwischen den Zweigen stehen."
+ },
+ {
+  "id": "7ac9aefa",
+  "bezug": "umwelt",
+  "text": "Beim Breitblättrigen Rohrkolben am Graben sitzen die Kolben dicht an dicht, ohne hellen Stielabschnitt dazwischen."
+ },
+ {
+  "id": "ac0e68a5",
+  "bezug": "umwelt",
+  "text": "Beim Rotfußröhrling reißt die Hutoberfläche trocken in kleine Felder auf. Die gelben Röhren laufen bei Druck schwach blau an, und am Stiel sitzen rote Fasern."
+ },
+ {
+  "id": "dfb0170c",
+  "bezug": "umwelt",
+  "text": "Besenginster bleibt am Sandweg auch im Winter grün. Seine kantigen Ruten übernehmen einen Teil der Blattarbeit und bilden aus Licht Nährstoffe."
+ },
+ {
+  "id": "aae89f48",
+  "bezug": "umwelt",
+  "text": "Besenheide blüht auf sandigen Kiefernlichtungen. Wo keine Tiere weiden und nichts geschnitten wird, verholzen die alten Triebe."
+ },
+ {
+  "id": "1cdbe91b",
+  "bezug": "umwelt",
+  "text": "Besenheide blüht in sandigen, lichten Kiefernwäldern. Ihre winzigen Schuppenblätter zeigen trockenen, sauren Boden an."
+ },
+ {
+  "id": "615deb0a",
+  "bezug": "umwelt",
+  "text": "Besenheide mag lichte Sandstellen. Alte, verholzte Triebe blühen deutlich schwächer."
+ },
+ {
+  "id": "e894896d",
+  "bezug": "umwelt",
+  "text": "Besenmoos überzieht morsche Baumstümpfe. Über dem grünen, filzigen Polster stehen aufrechte Kapseln auf feinen Stielen."
+ },
+ {
+  "id": "796be7fb",
+  "bezug": "umwelt",
+  "text": "Birkenporlinge hängen hufförmig an alten Birken. Die helle Unterseite ist glatt, ein Röhrenmuster sieht man nicht."
+ },
+ {
+  "id": "cd661f72",
+  "bezug": "umwelt",
+  "text": "Birkenporlinge sind Pilze und wachsen meist einzeln an Birkenstämmen. Jung sind sie glatt und hellbraun."
+ },
+ {
+  "id": "fb707d3e",
+  "bezug": "umwelt",
+  "text": "Birkenporlinge sind weiße Pilze an geschwächten Birken. Sie wachsen als runde Konsolen aus dem Stamm und zeigen, dass das Holz zu zerfallen beginnt."
+ },
+ {
+  "id": "45594890",
+  "bezug": "umwelt",
+  "text": "Birkenporlinge sitzen wie helle Konsolen an toten Birken. Auf der Unterseite haben sie feine weiße Poren, das sind winzige Röhrenmündungen."
+ },
+ {
+  "id": "3600f632",
+  "bezug": "umwelt",
+  "text": "Birkenporlinge wachsen einzeln an geschwächten Birken. Unter dem Hut sind sie hell und glatt, mit sehr feinen Poren."
+ },
+ {
+  "id": "8a84c6cf",
+  "bezug": "umwelt",
+  "text": "Blutweiderich färbt die Gräben purpurn. Vom Weidenröschen unterscheidet er sich durch kantige Stängel und Blätter, die sich paarweise gegenüberstehen."
+ },
+ {
+  "id": "fad78076",
+  "bezug": "umwelt",
+  "text": "Blutweiderich leuchtet am Graben purpurn. Seine langen Blütenähren ziehen Hummeln an, und zwar bis in den August."
+ },
+ {
+  "id": "06147026",
+  "bezug": "umwelt",
+  "text": "Blutweiderich leuchtet violett am Graben. Man erkennt ihn an den kantigen Stängeln und an den Blättern, die sich paarweise gegenübersitzen."
+ },
+ {
+  "id": "a6bd7a6b",
+  "bezug": "umwelt",
+  "text": "Brunnenlebermoos glänzt an Grabenböschungen. Seine flachen, gegabelten Äste tragen kleine grüne Becher, in denen Brutkörper für die Vermehrung wachsen."
+ },
+ {
+  "id": "6afd747d",
+  "bezug": "umwelt",
+  "text": "Brunnenlebermoos glänzt in quelligen Fahrspuren. Auf den flachen Lappen sitzen kleine Becher, in denen winzige Brutkörper heranwachsen, mit denen es sich vermehrt."
+ },
+ {
+  "id": "4f645405",
+  "bezug": "umwelt",
+  "text": "Das Gemeine Weißmoos bildet im Kiefernwald helle Kissen. Wenn sie austrocknen, bleichen sie fast silbern aus."
+ },
+ {
+  "id": "026a1e3b",
+  "bezug": "umwelt",
+  "text": "Das Gemeine Widertonmoos wächst in sauren Waldmulden. Seine roten Stämmchen tragen sternförmige Kränze aus Blättern."
+ },
+ {
+  "id": "a977feb0",
+  "bezug": "umwelt",
+  "text": "Das Kiefern-Sparrige wächst auf sandigem Waldboden und streckt seine schuppigen Triebe steif vom Stämmchen ab."
+ },
+ {
+  "id": "8865fd69",
+  "bezug": "umwelt",
+  "text": "Das Scheiden-Wollgras trägt im Moor weiße Wollbüschel an den Halmen. Es wächst in dichten Büscheln, die trockener stehen als die weichen Torfmoospolster."
+ },
+ {
+  "id": "878ec082",
+  "bezug": "umwelt",
+  "text": "Das Sumpf-Blutauge kriecht im Moor am Boden entlang. Seine dunkelroten, sternförmigen Blüten stehen einzeln über Blättern, die wie Finger geteilt sind."
+ },
+ {
+  "id": "6a17f236",
+  "bezug": "umwelt",
+  "text": "Das Sumpf-Blutauge kriecht im Moor durch das Torfmoos. Über rötlichen Stängeln sitzen seine dunklen, sternförmigen Blüten."
+ },
+ {
+  "id": "78547477",
+  "bezug": "umwelt",
+  "text": "Das Sumpf-Vergissmeinnicht kriecht an Gräben entlang. An feuchten Knoten bilden sich Wurzeln, darüber stehen hellblaue Blüten."
+ },
+ {
+  "id": "cd4257dd",
+  "bezug": "umwelt",
+  "text": "Das Waldgeißblatt windet sich am Waldrand spiralig um Stützen. Abends weht der Duft der hellen Blüten weit in den Waldsaum."
+ },
+ {
+  "id": "8f7b6d52",
+  "bezug": "umwelt",
+  "text": "Der Bittersüße Nachtschatten klettert in feuchten Hecken nach oben. Seine violetten Blüten mit dem gelben Kegel in der Mitte fallen sofort auf."
+ },
+ {
+  "id": "a39d592f",
+  "bezug": "umwelt",
+  "text": "Der Bittersüße Nachtschatten schlingt sich durchs Schilf nach oben. Seine violetten Blüten haben gelbe Staubbeutel, die wie ein spitzer Kegel in der Mitte zusammenstehen."
+ },
+ {
+  "id": "dd972884",
+  "bezug": "umwelt",
+  "text": "Der Blutweiderich blüht purpurfarben an Gräben. Seine Blätter sitzen oft ohne Stiel direkt am Stängel."
+ },
+ {
+  "id": "6d62a01b",
+  "bezug": "umwelt",
+  "text": "Der Boden trockener Kiefernwälder wirkt durch Weißmoos hell. In der Dürre wird das Moos silbrig statt frischgrün."
+ },
+ {
+  "id": "76efc8c2",
+  "bezug": "umwelt",
+  "text": "Der Breitblättrige Rohrkolben steht im flachen Uferwasser. Die weiblichen Kolben sitzen direkt unter den männlichen Blüten."
+ },
+ {
+  "id": "44c429e2",
+  "bezug": "umwelt",
+  "text": "Der Faulbaum blüht am Moorwald eher unscheinbar. Dafür hängen im Spätsommer oft schwarze und rote Beeren am selben Zweig."
+ },
+ {
+  "id": "83d43445",
+  "bezug": "umwelt",
+  "text": "Der Faulbaum trägt gleichzeitig grüne und schwarze Beeren. An seiner glatten Rinde fallen helle, quer liegende Korkporen auf."
+ },
+ {
+  "id": "e6427619",
+  "bezug": "umwelt",
+  "text": "Der Froschlöffel wächst im flachen Grabenwasser. Seine löffelförmigen Blätter ragen heraus, dazu kommen blasse Blüten."
+ },
+ {
+  "id": "f82671ee",
+  "bezug": "umwelt",
+  "text": "Der Gelbe Gilbweiderich wächst an Gräben. Seine Blüten haben keinen Nektar, sondern Öl, und das sammeln die Schenkelbienen, eine Gruppe der Wildbienen."
+ },
+ {
+  "id": "138677d1",
+  "bezug": "umwelt",
+  "text": "Der Gemeine Tüpfelfarn wächst auf alten Baumstümpfen. Auf den Unterseiten der Wedel sitzen die runden Sporenhäufchen in Punktreihen."
+ },
+ {
+  "id": "604ef208",
+  "bezug": "umwelt",
+  "text": "Der Gemeine Widerton ist ein Moos, das in feuchten Waldmulden wächst. Die festen Blättchen stehen sternförmig und bauen kleine Etagen."
+ },
+ {
+  "id": "39de9500",
+  "bezug": "umwelt",
+  "text": "Der Gewöhnliche Gilbweiderich blüht gelb am Graben und wächst aufrecht. Das Kriechende Pfennigkraut liegt dagegen am Boden."
+ },
+ {
+  "id": "a644bcb2",
+  "bezug": "umwelt",
+  "text": "Der Gewöhnliche Gilbweiderich leuchtet am Graben. Am Blattrand sitzen feine dunkle Punkte, in denen die Pflanze Stoffe absondert."
+ },
+ {
+  "id": "4a5d1cf4",
+  "bezug": "umwelt",
+  "text": "Der Holunder trägt schwarze Beeren, die in Rispen auf roten Stielen sitzen. Seine Blüten haben jeweils fünf Staubblätter."
+ },
+ {
+  "id": "290d9d57",
+  "bezug": "umwelt",
+  "text": "Der Kiefern-Braunporling wächst an altem Nadelholz und färbt es dunkel bis schwarz. Seine zähen Hüte findet man an trockenen Kiefernstandorten."
+ },
+ {
+  "id": "7f4256bb",
+  "bezug": "umwelt",
+  "text": "Der Kiefern-Reizker wächst an Sandwegen und sondert bei Verletzung orangefarbenen Milchsaft ab. An Druckstellen werden die Blättchen unter dem Hut später grün."
+ },
+ {
+  "id": "2c768fa9",
+  "bezug": "umwelt",
+  "text": "Der Königsfarn schiebt hohe Wedel aus nassen Waldmulden. An der Spitze tragen sie braune Rispen mit den Sporen, die fast wie eigene Fiederblätter aussehen."
+ },
+ {
+  "id": "4af4872c",
+  "bezug": "umwelt",
+  "text": "Der Nickende Zweizahn trägt am Graben gelbe Blütenkörbchen, die nach unten hängen. Seine Früchte haben Haken und bleiben später gern an Hosen kleben."
+ },
+ {
+  "id": "9993b458",
+  "bezug": "umwelt",
+  "text": "Der Rotrandige Baumschwamm wächst an altem Totholz. Am Rand zeigen helle Streifen, wo er zuletzt gewachsen ist."
+ },
+ {
+  "id": "7a571715",
+  "bezug": "umwelt",
+  "text": "Der Rundblättrige Sonnentau wächst im Moor zwischen Torfmoos. Seine roten Drüsenhaare tragen klebrige Tropfen, an denen kleine Mücken hängen bleiben."
+ },
+ {
+  "id": "0c95686e",
+  "bezug": "umwelt",
+  "text": "Der Rundblättrige Sonnentau wächst im Moor. Mit klebrigen, roten Drüsenhaaren hält er kleine Mücken auf dem nassen Torf fest."
+ },
+ {
+  "id": "6f21192f",
+  "bezug": "umwelt",
+  "text": "Der Rundblättrige Sonnentau wächst im offenen Moor auf nassem Torf. Seine roten Haare sind klebrig und halten kleine Mücken fest."
+ },
+ {
+  "id": "18297460",
+  "bezug": "umwelt",
+  "text": "Der Schwarze Holunder am Hofrand reift nicht auf einmal. An den roten Stielen hängen schwarze Beeren neben noch grünen."
+ },
+ {
+  "id": "22d0c15d",
+  "bezug": "umwelt",
+  "text": "Der Schwarze Holunder hat flache Dolden und Fiederblätter, die einander paarweise gegenüberstehen. Wer die Blätter zerreibt, riecht etwas Herbes."
+ },
+ {
+  "id": "98df155c",
+  "bezug": "umwelt",
+  "text": "Der Schwarze Holunder trägt im Juli noch grüne Beeren. Seine Zweige brechen leicht, innen steckt weißes, weiches Mark."
+ },
+ {
+  "id": "f1968216",
+  "bezug": "umwelt",
+  "text": "Der Sumpf-Ziest blüht purpurn im Gras am Graben. Seine Blüten sitzen in Etagen rund um den kantigen Stängel."
+ },
+ {
+  "id": "47f7d192",
+  "bezug": "umwelt",
+  "text": "Der Sumpfporst duftet harzig im Moorwald. Die Ränder seiner ledrigen Blätter sind nach unten eingerollt."
+ },
+ {
+  "id": "7d10de49",
+  "bezug": "umwelt",
+  "text": "Der Sumpfporst riecht im Moor harzig. Zum Erkennen hilft, dass sich seine Blattränder nach unten einrollen."
+ },
+ {
+  "id": "325e20ce",
+  "bezug": "umwelt",
+  "text": "Der Wassernabel kriecht am Moorgraben flach über den Torf. Seine Blätter sind rund wie kleine Schilde, der Stiel setzt in der Mitte an."
+ },
+ {
+  "id": "3760fe44",
+  "bezug": "umwelt",
+  "text": "Der Zunderschwamm ist ein Pilz und sitzt wie ein Huf am Baumstamm. Unten wächst jedes Jahr eine neue Schicht dazu."
+ }
+]

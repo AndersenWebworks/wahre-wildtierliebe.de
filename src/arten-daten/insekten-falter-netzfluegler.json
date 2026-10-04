@@ -322,12 +322,13 @@
    "verwechslung": null,
    "lebensraum": "Offene, schütter bewachsene Flächen wie Sandgruben, Binnendünen, Wegränder und Brachen. Die Raupen fressen Ampfer.",
    "zeit": "Mehrere sich überlappende Generationen, meist von April bis Oktober.",
-   "spuren": null,
+   "spuren": "Die jungen Raupen schaben die Blätter des Sauerampfers zunächst bis auf die Haut ab, dieser Fensterfraß lässt die dünne Blattoberhaut stehen. Später fressen sie seitlich vom Blattrand her. Die Raupen leben einzeln und sitzen meist versteckt auf der Blattunterseite.",
    "regional": null,
    "umgang": "Ampfer an mageren Rändern und Brachen stehen lassen. Die Falter nicht anfassen.",
    "schutz": null,
    "naturdeck_ids": [
-    "525f377a"
+    "525f377a",
+    "3bd67f37"
    ],
    "korrekturen": [
     "3bd67f37: Sauerampfer als Raupenfutter stimmt, der Fensterfraß als Merkmal ist nicht belegt und wurde nicht übernommen.",
@@ -345,6 +346,10 @@
     [
      "butterflies.de: Lycaena phlaeas",
      "http://www.butterflies.de/Deutsch/phlaeas.htm"
+    ],
+    [
+     "BUND Rheinland-Pfalz (W. Düring): Tagfalter in Rheinland-Pfalz, Kleiner Feuerfalter",
+     "https://www.bund-rlp.de/fileadmin/rlp/Tiere_und_Pflanzen/Schmetterling/Schmetterlinge_W_Duering/Artenportraets_20/Kleiner_Feuerfalter_2020.pdf"
     ]
    ]
   },
@@ -753,12 +758,14 @@
    "verwechslung": "Steinfliegenlarven haben zwei Schwanzfäden und keine Kiemenplättchen.",
    "lebensraum": "Saubere Gewässer. Eintagsfliegen verschwinden bei Verschmutzung.",
    "zeit": null,
-   "spuren": null,
+   "spuren": "Beim Schlupf platzt die Larvenhaut längs einer Naht auf, und innerhalb weniger Sekunden erscheint die flugfähige, aber noch nicht geschlechtsreife Subimago. Sie ruht zunächst am Ufer, bevor sie sich ein letztes Mal häutet.",
    "regional": null,
    "umgang": "Gewässerränder und Ufer naturnah lassen und keine Stoffe einleiten.",
    "schutz": null,
    "naturdeck_ids": [
-    "85147b7b"
+    "85147b7b",
+    "4558eb87",
+    "e3239a30"
    ],
    "korrekturen": [
     "85147b7b: Drei Schwanzfäden stimmen. Der Aufenthalt unter Steinen im Graben ist nicht belegt.",
@@ -772,6 +779,10 @@
     [
      "Landesbildungsserver Baden-Württemberg: Eintagsfliegen Ephemeroptera",
      "https://www.schule-bw.de/faecher-und-schularten/mathematisch-naturwissenschaftliche-faecher/biologie/unterrichtsmaterialien/7-10/oeko/bach/ephemeroptera.html"
+    ],
+    [
+     "Naturpark Schwarzwald Mitte/Nord, Tiersteckbrief Eintagsfliege",
+     "https://naturparkschwarzwald.de/archiv/tiersteckbrief-die-eintagsfliege-insekt-des-jahres-2021/"
     ]
    ]
   },

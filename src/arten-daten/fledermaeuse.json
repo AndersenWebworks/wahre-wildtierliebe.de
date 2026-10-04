@@ -58,14 +58,15 @@
     "beginnt schon in der frühen Dämmerung zu jagen"
    ],
    "verwechslung": "Wegen der Größe mit dem Großen Abendsegler zu verwechseln. Der Abendsegler fliegt schneller und höher.",
-   "lebensraum": "Offene und halboffene Landschaften mit Gehölzen: Weiden, Parklandschaften, Waldränder, auch Städte mit genug Grün. Gejagt wird über Grünland, entlang von Baumreihen und an Waldrändern, bis zu 12 Kilometer vom Quartier entfernt.",
+   "lebensraum": "Offene und halboffene Landschaften mit Gehölzen: Weiden, Parklandschaften, Waldränder, auch Städte mit genug Grün. Gejagt wird über Grünland, entlang von Baumreihen und an Waldrändern, bis zu 12 Kilometer vom Quartier entfernt. Sie jagt vor allem größere Käfer wie Mist- und Maikäfer. Die Weibchen bilden Wochenstuben von meist 10 bis 60 Tieren, die jedes Jahr dieselben Sommerquartiere an Gebäuden beziehen.",
    "zeit": "Jagd ab der frühen Dämmerung.",
    "spuren": null,
    "regional": null,
    "umgang": "Die Sommerquartiere liegen in Spalten an und in Gebäuden, etwa im Firstbereich von Dachböden, hinter Verkleidungen und Fensterläden. Diese Quartiere nicht verschließen und die Tiere nicht stören; die Art ist sehr ortstreu. Bei Funden im Haus oder verletzten Tieren eine Fledermaus-Fachstelle fragen.",
    "schutz": "Streng geschützt (Anhang IV der FFH-Richtlinie, § 7 BNatSchG). Rote Liste Deutschland 2020: gefährdet (3).",
    "naturdeck_ids": [
-    "f8c033c7"
+    "f8c033c7",
+    "dc0ce31d"
    ],
    "korrekturen": [
     "Die Rote-Liste-Einstufung (gefährdet) und die Bindung an Gebäudequartiere fehlen im Naturdeck.",
@@ -174,13 +175,14 @@
    "verwechslung": "Mit Zwerg- und Mückenfledermaus. Sicheres Merkmal ist der längere fünfte Finger.",
    "lebensraum": "Abwechslungs-, tümpel- und gewässerreiche Wälder im Tiefland, etwa in der norddeutschen Moränenlandschaft. Gejagt wird im freien Luftraum in 3 bis 20 Metern Höhe an Stillgewässern, Waldrändern, Feuchtwiesen und in Parks.",
    "zeit": "Zugzeit im Spätsommer und Herbst; Balzrufe der Männchen im Herbst.",
-   "spuren": "Balzrufe der Männchen aus Baumhöhlen und Spalten.",
+   "spuren": "Balzrufe der Männchen aus Baumhöhlen und Spalten. Im Fledermausdetektor, der Ultraschall hörbar macht, liegt der gleichmäßig klingende Teil ihrer Ortungsrufe bei etwa 34 bis 38 Kilohertz. Bei der Zwergfledermaus liegt er bei etwa 42 bis 46 Kilohertz, und deren Rufe folgen schneller aufeinander.",
    "regional": null,
    "umgang": "Quartiere liegen in Baumhöhlen, Stammrissen, hinter loser Borke, in Fledermauskästen und gelegentlich an Gebäuden; überwinternde Tiere finden sich auch in Holzstapeln. Brennholzstapel im Winter nur vorsichtig abbauen, Alt- und Totholz stehen lassen. Bei Funden eine Fledermaus-Fachstelle fragen.",
    "schutz": "Streng geschützt (Anhang IV der FFH-Richtlinie, § 7 BNatSchG). Rote Liste Deutschland 2020: ungefährdet (*).",
    "naturdeck_ids": [
     "6818976c",
-    "753ca16e"
+    "753ca16e",
+    "9f9b3f5d"
    ],
    "korrekturen": [
     "Rufe tiefer als bei der Zwergfledermaus (9f9b3f5d) und rauer Sozialruf (8a5738cf) wurden in den Quellen nicht belegt.",
@@ -194,6 +196,10 @@
     [
      "NABU Schleswig-Holstein Rauhautfledermaus",
      "https://schleswig-holstein.nabu.de/tiere-und-pflanzen/saeugetiere/fledermaeuse/arten-und-biologie/02949.html"
+    ],
+    [
+     "Koordinationsstelle für Fledermausschutz Südbayern (E. Kriner): Kleine Übersicht über die Rufe unserer Fledermäuse",
+     "https://www.fledermaus-bayern.de/downloads.html?file=files%2Fupload%2FDownloads%2Fbestimmungshilfen%2Frufe_einheimischer_flederm_use.pdf"
     ]
    ]
   },
@@ -272,7 +278,8 @@
    "erkennen": [
     "etwa 4 Zentimeter Körperlänge",
     "krauses, nuss- bis graubraunes Rückenfell, helles bis dunkelgraues Bauchfell",
-    "Schnauze, Ohren und Flughäute schwarzbraun"
+    "Schnauze, Ohren und Flughäute schwarzbraun",
+    "Im Fledermausdetektor verteilt sich die Lautenergie ihrer Rufe ziemlich gleichmäßig über den Bereich von etwa 45 bis 50 Kilohertz. Der Rhythmus ist langsam und sehr regelmäßig, wie ein Zug, und klingt wie ein trockenes Rattern. Sie fliegt sehr gleichmäßig und geradlinig an der Vegetation entlang."
    ],
    "verwechslung": "Leicht mit der Großen Bartfledermaus, der Zwergfledermaus und der Nymphenfledermaus zu verwechseln. Akustisch ist sie von der Großen Bartfledermaus kaum zu unterscheiden.",
    "lebensraum": "Kleinräumig gegliederte Kulturlandschaft, Wälder und Siedlungen. Gejagt wird an Waldrändern, Gewässerufern, Hecken, in Gärten und auf Streuobstwiesen.",
@@ -283,7 +290,8 @@
    "schutz": "Streng geschützt (Anhang IV der FFH-Richtlinie, § 7 BNatSchG). Rote Liste Deutschland 2020: ungefährdet.",
    "naturdeck_ids": [
     "6c058a1f",
-    "f4e26dd5"
+    "f4e26dd5",
+    "35029656"
    ],
    "korrekturen": [
     "Aussage zu steiler fallenden Rufreihen im Vergleich zur Zwergfledermaus (35029656) wurde nicht belegt."
@@ -292,6 +300,10 @@
     [
      "BfN Artenporträt Kleine Bartfledermaus",
      "https://www.bfn.de/artenportraits/myotis-mystacinus"
+    ],
+    [
+     "Koordinationsstelle für Fledermausschutz Südbayern (E. Kriner): Kleine Übersicht über die Rufe unserer Fledermäuse",
+     "https://www.fledermaus-bayern.de/downloads.html?file=files%2Fupload%2FDownloads%2Fbestimmungshilfen%2Frufe_einheimischer_flederm_use.pdf"
     ]
    ]
   },

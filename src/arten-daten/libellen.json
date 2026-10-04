@@ -191,12 +191,14 @@
    "erkennen": [
     "Männchen dunkel metallgrün, reife Männchen mit bläulichem Reif an einzelnen Segmenten",
     "Weibchen kupferfarben",
-    "Körperlänge 35 bis 39 mm, Spannweite etwa 4 bis 4,5 cm"
+    "Körperlänge 35 bis 39 mm, Spannweite etwa 4 bis 4,5 cm",
+    "In Ruhe hält sie die Flügel halb geöffnet, schräg vom Körper abgespreizt. Das unterscheidet sie von den meisten anderen Kleinlibellen, die ihre Flügel in Ruhe nach hinten anlegen."
    ],
    "lebensraum": "Fischfreie, verkrautete, besonnte Tümpel, Teiche, Gräben und Moore. Austrocknen der Gewässer wird vertragen.",
    "umgang": "Kleine, fischfreie und besonnte Gewässer mit Binsen und Seggen erhalten, nicht entwässern und keine Fische einsetzen.",
    "naturdeck_ids": [
-    "26a96739"
+    "26a96739",
+    "8d7cade6"
    ],
    "quellen": [
     [
@@ -206,6 +208,14 @@
     [
      "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
      "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ],
+    [
+     "NABU: Libelle des Jahres 2016, die Gemeine Binsenjungfer",
+     "https://www.nabu.de/news/2015/12/19993.html"
+    ],
+    [
+     "Natur in NRW: Gemeine Binsenjungfer (Lestes sponsa)",
+     "https://www.natur-in-nrw.de/HTML/Tiere/Insekten/Libellen/TL-40.html"
     ]
    ]
   },

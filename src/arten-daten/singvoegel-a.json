@@ -95,13 +95,15 @@
    "verwechslung": "Mit der Klapper- und der Gartengrasmücke. Die rostbraunen Flügel unterscheiden sie von der Klappergrasmücke, deren Oberseite einfarbig graubraun ist.",
    "lebensraum": "Offene und halboffene Flächen mit einzelnen Büschen und Stauden. Sie fliegt gern sonnige Dornensträucher an und baut ihr Nest niedrig aus Grashalmen und Pflanzenstängeln.",
    "zeit": "Langstreckenzieher, von Mitte April bis September in Deutschland.",
-   "spuren": null,
+   "spuren": "Der Ruf der Dorngrasmücke klingt rau und nasal, etwa wie „wähd“ oder „tscherr“.",
    "regional": null,
    "umgang": "Dornige Hecken und Stauden an Feldrändern und im Garten bieten ihr Nistplätze. Insektenfreundliche Landwirtschaft und der Verzicht auf Pflanzenschutzmittel kommen ihr zugute.",
    "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, Bestand stabil. Dürren im afrikanischen Winterquartier gefährden den Bestand.",
    "naturdeck_ids": [
     "aa0af226",
-    "b2fff662"
+    "b2fff662",
+    "9eb8fc72",
+    "c84b12f7"
    ],
    "korrekturen": [
     "9eb8fc72: Die weißen Außenfedern im Flug sind durch die genutzte Quelle nicht belegt.",
@@ -443,14 +445,15 @@
    "verwechslung": null,
    "lebensraum": "Laub- und Laubmischwälder mit schwach ausgeprägter Strauch- und Krautschicht, vor allem Eichen-Hainbuchen- und Rotbuchenwälder mit geschlossenem Kronendach. Das Nest liegt in einer kleinen Vertiefung am Boden.",
    "zeit": "Langstreckenzieher, von April bis September in Deutschland. Die Männchen singen ab etwa Mitte April.",
-   "spuren": null,
+   "spuren": "Der Gesang beginnt mit wiederholten „sib“-Lauten, die schneller werden und in einen Schwirrtriller („sirrr“) münden. Er erinnert an einen Tischtennisball, der in immer rascherer Folge aufspringt, und wird oft in einem kurzen Singflug vom Stammbereich zur Baumkrone vorgetragen.",
    "regional": null,
    "umgang": "Alte, geschlossene Laubwälder sind sein Lebensraum. Der Wald sollte in der Brutzeit am Boden nicht durchstreift werden, weil das Nest auf dem Boden liegt.",
    "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, aber vom Lebensraumverlust durch intensive Forstwirtschaft betroffen.",
    "naturdeck_ids": [
     "55075b91",
     "6d572d72",
-    "e0581071"
+    "e0581071",
+    "00e4a324"
    ],
    "korrekturen": [
     "00e4a324, 37a9a030, 55075b91, 6d572d72, e0581071: Die Beschreibung des Gesangs (Triller, der schneller wird, Schwirren, Münze) ist in der genutzten Quelle nicht belegt und wurde nicht übernommen. Übernommen ist nur der Lebensraum Laubmischwald.",
@@ -464,6 +467,10 @@
     [
      "BNatSchG § 7",
      "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ],
+    [
+     "LBV, Artenporträt Waldlaubsänger",
+     "https://www.lbv.de/ratgeber/naturwissen/artenportraits/detail/waldlaubsaenger/"
     ]
    ]
   },
@@ -555,7 +562,7 @@
     "Grauer Kopf und graue Brust",
     "Männchen und Weibchen sehen sehr ähnlich aus"
    ],
-   "verwechslung": null,
+   "verwechslung": "Mit dem Haussperling-Weibchen, dem sie im Rückengefieder ähnelt. Die Heckenbraunelle hat einen schmalen, spitzen Schnabel, einen überwiegend grauen Kopf und eine schlankere Gestalt. Am Boden bewegt sie sich ruckartig und geduckt, sodass man sie leicht für eine Maus hält.",
    "lebensraum": "Dickicht wie Waldunterwuchs, Hecken und Gebüsche in Gärten, auf Friedhöfen und in Parks. Das Nest liegt meist bodennah in dichtem Gebüsch oder niedrig in Nadelbäumen.",
    "zeit": "Teilzieher. Brutvögel sind ganzjährig zu sehen, nordische Vögel überwintern bei uns.",
    "spuren": null,
@@ -563,7 +570,9 @@
    "umgang": "Unterwuchs und Gestrüpp stehen lassen und Totholzhecken anlegen. Harte Winter mit hoher Schneedecke sind ein natürliches Risiko.",
    "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet.",
    "naturdeck_ids": [
-    "b4750c58"
+    "b4750c58",
+    "1b1e899d",
+    "34e1eba3"
    ],
    "korrekturen": [
     "1b1e899d: Der Unterschied \"dünner Schnabel gegenüber dem Sperling\" ist in der genutzten Quelle nicht belegt.",
@@ -577,6 +586,14 @@
     [
      "BNatSchG § 7",
      "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ],
+    [
+     "NABU Niedersachsen: Leicht zu verwechseln, Gartenvögel im Vergleich",
+     "https://niedersachsen.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/stunde-der-gartenvoegel/26367.html"
+    ],
+    [
+     "NABU Bremen: Die Heckenbraunelle an der Futterstelle",
+     "https://bremen.nabu.de/tiere-und-pflanzen/voegel/Vogelkunde/27963.html"
     ]
    ]
   },

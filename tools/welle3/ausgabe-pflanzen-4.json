@@ -1,0 +1,1011 @@
+{
+ "paket": "pflanzen-4",
+ "neu": [
+  {
+   "slug": "sparriges-kranzmoos",
+   "name": "Sparriges Kranzmoos",
+   "latein": "Rhytidiadelphus squarrosus",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Das Sparrige Kranzmoos ist ein mittelgroßes, hell- bis gelblichgrünes Moos, das weiche, oft weit ausgedehnte Rasen bildet. In Hessen gehört es zu den häufigsten Moosen.",
+   "erkennen": [
+    "hell- bis gelblichgrüne, mittelgroße Pflanzen",
+    "weiche, oft weit ausgedehnte Rasen",
+    "bildet in gemähten, feuchten Wiesen und an feuchten Wegrändern oft sehr große Bestände"
+   ],
+   "verwechslung": "Das Gefiederte Kranzmoos (Rhytidiadelphus subpinnatus) hat orange bis rötlichbraune, meist fast regelmäßig gefiederte Stämmchen und wächst vor allem an naturnahen, schattigen, frischen bis feuchten Stellen, während das Sparrige Kranzmoos auch auf gestörten, vom Menschen geprägten Standorten vorkommt. Früher wurde das Gefiederte Kranzmoos als Varietät des Sparrigen angesehen.",
+   "lebensraum": "Es wächst an mäßig sauren, feuchten, halbschattigen Stellen, etwa in Mähwiesen und Zierrasen, an Weg- und Waldrändern und auf Böschungen, auch in Steinbrüchen, Kiesgruben und an Gewässerrändern. Nur in sehr trockenen Gebieten ist es selten.",
+   "zeit": null,
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": null,
+   "schutz": null,
+   "naturdeck_ids": [
+    "1d51a545"
+   ],
+   "korrekturen": [
+    "Geprüft: Hessen-Moosflora (Artseite) und Wikipedia (Gefiedertes Kranzmoos) abgerufen.",
+    "Eingangsfakt nannte „sternförmig“ und „kalkarmen“ Boden: in den Quellen nicht belegt, weggelassen. Belegt ist mäßig saurer, feuchter Boden.",
+    "Eingangsfakt nannte Waldweg als Standort; belegt sind Wald- und Wegränder, aber auch Wiesen und Rasen.",
+    "Gestrichen, weil nicht belegt: Deutung des Artnamens „sparrig“, Aussage „häufig in ganz Deutschland“ (belegt nur für Hessen), Jahreszeit „ganzjährig sichtbar“, Hinweise zum Umgang mit Moos im Rasen.",
+    "Verwechslung war nur durch einen Suchtreffer ohne Artinhalt gestützt; jetzt durch Wikipedia (Gefiedertes Kranzmoos) belegt, allerdings nur eine Quelle für den Unterschied."
+   ],
+   "quellen": [
+    [
+     "Moose Deutschlands (Hessen): Rhytidiadelphus squarrosus",
+     "https://hessen.moose-deutschland.de/organismen/rhytidiadelphus-squarrosus-hedw-warnst"
+    ],
+    [
+     "Wikipedia: Gefiedertes Kranzmoos",
+     "https://de.wikipedia.org/wiki/Gefiedertes_Kranzmoos"
+    ]
+   ]
+  },
+  {
+   "slug": "gewoehnlicher-wasserdost",
+   "name": "Gewöhnlicher Wasserdost",
+   "latein": "Eupatorium cannabinum",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Wasserdost ist eine hochwüchsige Staude mit rosa Blütenschirmen, die an feuchten Gräben und Ufern bis in den Herbst blüht. Er ist eine wichtige späte Nektarquelle für Falter.",
+   "erkennen": [
+    "50 bis 175 cm hohe, meist aufrechte Stängel, oft rötlich überlaufen",
+    "gegenständige, handförmig gefiederte Blätter mit drei bis sieben gezähnten Teilblättern",
+    "dichte, leicht gewölbte, schirmrispige Blütenstände aus rosa, selten weißen Röhrenblüten"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst auf feuchten Wiesen und Feuchtwiesenbrachen sowie an Gräben und Bachufern.",
+   "zeit": "Die Blüte beginnt meist Anfang Juli und dauert bis in den September, mitunter bis in den Oktober.",
+   "spuren": null,
+   "tiere": "Weil er spät blüht, ist er nach dem NABU eine ausgesprochen wichtige Nektarquelle für Insekten. Als Besucher nennt der NABU Admiral, C-Falter, Distelfalter, Landkärtchen und Großes Ochsenauge; FloraWeb führt außerdem unter anderem Kaisermantel, Gemeinen Bläuling und die Spanische Fahne als Nektargäste. Für Tagfalter ist er keine Raupenfutterpflanze; einige Nachtfalter wie der Gelbe Fleckleibbär, der Wermut-Blütenspanner und die Wasserdost-Goldeule fressen als Raupen an ihm (FloraWeb).",
+   "regional": null,
+   "umgang": "Wegen der späten Blüte ist er für Insekten wertvoll. Es wird keine Verzehr- oder Heilempfehlung gegeben.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "dbfa7810",
+    "38d023b5",
+    "d93ed013"
+   ],
+   "korrekturen": [
+    "Geprüft: NABU-NRW-Pflanzenporträt und FloraWeb-Schmetterlingsseite abgerufen; Höhe, Blätter, Blüte, Blütezeit, Standort, Besucher und Raupenfutter stimmen mit den Quellen überein.",
+    "Eingangsfakt dbfa7810 nannte „purpurne“ Köpfe; die Quellen beschreiben die Blüten als rosa, selten weiß.",
+    "Eingangsfakt 38d023b5 und d93ed013: „Hochsommer“ ist belegt (Juli bis September); „Falter dicht gedrängt“ ist eine Beobachtung und wurde nicht übernommen.",
+    "Gestrichen, weil nicht belegt: Waldränder als Standort, Tagpfauenauge, Kleiner Feuerfalter und „verschiedene Bläulinge“ als NABU-Besucher, Pflegehinweis zum Mähzeitpunkt."
+   ],
+   "quellen": [
+    [
+     "NABU NRW: Pflanzenporträt Gewöhnlicher Wasserdost",
+     "https://nrw.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/zeit-der-schmetterlinge/wissen/schmetterlingspflanzen/22548.html"
+    ],
+    [
+     "FloraWeb (BfN): Schmetterlingsfutterpflanze Wasserdost",
+     "https://floraweb.de/php/schmetterlinge.php?suchnr=2248&amp=&sipnr=2248"
+    ]
+   ]
+  },
+  {
+   "slug": "gewoehnliche-stinkmorchel",
+   "name": "Gewöhnliche Stinkmorchel",
+   "latein": "Phallus impudicus",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Die Stinkmorchel wächst aus einem kugeligen „Hexenei“ zu einem weißen Stiel mit schleimiger, olivgrüner Spitze heran. Ihr Aasgeruch lockt Fliegen an, die den Schleim fressen und die Sporen verbreiten.",
+   "erkennen": [
+    "zuerst ein kugeliges Hexenei von etwa 5 bis 6 cm Höhe",
+    "weißer Stiel von etwa 20 cm Länge und 2 bis 3 cm Breite, oben mit wabig strukturierter Kappe",
+    "olivgrüne bis schwarzgrüne, schleimig-flüssige Sporenmasse an der Spitze",
+    "intensiver Aasgeruch"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Sie wächst auf humusreichen Böden und in der Nähe von zersetztem Holz, in verschiedenen Waldtypen und in Parks.",
+   "zeit": "Die Fruchtkörper erscheinen vom Frühsommer bis in den Herbst.",
+   "spuren": null,
+   "tiere": "Fliegen werden vom Geruch angelockt und fressen die zuckerhaltige Sporenmasse an der Spitze; auch Dungkäfer werden genannt. Die Sporen scheiden die Tiere mit dem Kot wieder aus und verbreiten so den Pilz.",
+   "regional": null,
+   "umgang": "Nach der DGfM gilt das junge, noch geruchlose Hexenei als essbar, der reife Fruchtkörper wird wegen des Geruchs nicht gegessen. Es wird keine Verzehrempfehlung gegeben; Pilze sollte nur essen, wer sie sicher bestimmt hat oder von einer Pilzberatung prüfen ließ.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "e7e27c64",
+    "ef8224b1"
+   ],
+   "korrekturen": [
+    "Geprüft: DGfM-Seite (Pilz des Jahres 2020) und Wikipedia abgerufen; Hexenei, Stiel, Schleim, Geruch, Fliegen, Standort und Zeit stimmen.",
+    "Eingangsfakt e7e27c64: Fliegen „tragen die Sporenmasse fort“: belegt ist, dass sie die Sporen mit dem Kot ausscheiden.",
+    "Eingangsfakt „Mischwald“: belegt sind verschiedene Waldtypen und Parks.",
+    "Gestrichen, weil nicht belegt: Wachstum „in ein bis zwei Tagen“ (DGfM nennt Millimeter pro Minute), „hohler“ Stiel, Spur „Schleim nach wenigen Stunden abgefressen“, Aussage „harmlos“, Höhenangabe 10 bis 30 cm.",
+    "Verwechslung bleibt null: keine abgerufene Quelle trägt sie.",
+    "Wikipedia ist nur Zweitquelle; Kernaussagen stehen auch bei der DGfM."
+   ],
+   "quellen": [
+    [
+     "DGfM: Pilz des Jahres 2020, Gewöhnliche Stinkmorchel",
+     "https://www.dgfm-ev.de/pilz-des-jahres/2020-gewoehnliche-stinkmorchel"
+    ],
+    [
+     "Wikipedia: Gemeine Stinkmorchel",
+     "https://de.wikipedia.org/wiki/Gemeine_Stinkmorchel"
+    ]
+   ]
+  },
+  {
+   "slug": "sumpf-schwertlilie",
+   "name": "Sumpf-Schwertlilie",
+   "latein": "Iris pseudacorus",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Die Sumpf-Schwertlilie, bei FloraWeb Wasser-Schwertlilie genannt, ist die häufigste heimische Schwertlilie. Sie trägt gelbe Blüten und schwertförmige Blätter und steht an Ufern und Gräben.",
+   "erkennen": [
+    "50 bis 100 cm hohe Staude mit kriechendem, dickem Wurzelstock",
+    "schwertförmige, zweizeilig stehende Blätter mit kräftiger Mittelrippe",
+    "gelbe Blüten mit drei hängenden und drei aufrechten Blütenblättern",
+    "nach der Blüte mehrkammerige, zylindrische Kapseln von 4 bis 8 cm Länge mit vielen Samen"
+   ],
+   "verwechslung": "Sie wird wegen der Blattform mit dem Kalmus verwechselt, der oft am selben Standort wächst (daher der Name pseudacorus, „falscher Kalmus“).",
+   "lebensraum": "Sie wächst an Rändern und in Verlandungszonen stehender und fließender Gewässer, in Niedermooren und Bruchwäldern, bevorzugt nass bis feucht auf schweren Böden.",
+   "zeit": "Blüte von Mai bis Juni, nach anderen Angaben bis Juli. Die Blätter und später die Kapseln sieht man noch lange.",
+   "spuren": null,
+   "tiere": "Der Schwertlilien-Rüsselkäfer (Mononychus punctumalbum), ein auffällig weiß gefleckter Käfer, besucht die Blüten, seine Larven entwickeln sich in den Fruchtkapseln.",
+   "regional": null,
+   "umgang": "Alle Pflanzenteile sind giftig, am stärksten der Wurzelstock; das Gift bleibt auch beim Trocknen erhalten, und der Pflanzensaft kann bei empfindlichen Menschen die Haut reizen. Bei Arbeiten an der Pflanze Handschuhe tragen. Es wird keine Verzehr- oder Heilempfehlung gegeben.",
+   "schutz": "Nach Bundesnaturschutzgesetz besonders geschützt (FloraWeb, BfN); in Deutschland nicht gefährdet.",
+   "naturdeck_ids": [
+    "67e0164b",
+    "7360890e",
+    "72c94832",
+    "989f41fa"
+   ],
+   "korrekturen": [
+    "Eingangsfakt 72c94832: „dreikantige Samenkapseln“ nur eingeschränkt belegt; die Quellen nennen dreikammerige, zylindrische Kapseln.",
+    "Eingangsfakt 67e0164b: Die Samen schwimmen und verbreiten sich mit dem Wasser: in dieser Fassung nur durch ein Bestimmungsportal (pflanzen-deutschland.de) belegt, deshalb nicht als eigene Aussage in den Steckbrief übernommen.",
+    "Eingangsfakt 989f41fa: „aufrechte grüne Kapseln“: Info Flora nennt eine hängende Kapsel, die Aussage wurde nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Iris pseudacorus",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=3096"
+    ],
+    [
+     "Wikipedia: Gelbe Schwertlilie (Zweitquelle)",
+     "https://de.wikipedia.org/wiki/Gelbe_Schwertlilie"
+    ],
+    [
+     "Vetpharm Universität Zürich: Giftpflanzen Iris pseudacorus",
+     "https://www.vetpharm.uzh.ch/GIFTDB/PFLANZEN/0082_bot.htm"
+    ],
+    [
+     "Pflanzen in Deutschland: Iris pseudacorus",
+     "https://www.pflanzen-deutschland.de/Iris_pseudacorus.html"
+    ]
+   ]
+  },
+  {
+   "slug": "sumpfporst",
+   "name": "Sumpfporst",
+   "latein": "Rhododendron tomentosum",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Sumpfporst ist ein immergrüner Strauch der Moore mit stark aromatischem Duft und schmalen Blättern, deren Ränder nach unten eingerollt sind. Er ist giftig.",
+   "erkennen": [
+    "0,5 bis 1,5 m hoher, immergrüner Strauch",
+    "schmale, linealische bis lanzettliche Blätter, 2 bis 3,5 cm lang, Ränder stark nach unten eingerollt",
+    "Blattunterseite rostfarben behaart",
+    "weiße bis zartrosa Blüten in dichten Büscheln an den Zweigspitzen",
+    "stark aromatischer Duft durch ätherische Öle"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst auf feuchten, sauren, nährstoffarmen, sandig-moorigen bis stark torfhaltigen Böden, natürlich in Hochmooren und Moorwäldern, auch in feuchten Kiefernwäldern, und meidet Kalk.",
+   "zeit": "Blüte von Mai bis Juli; die Kapselfrüchte reifen im Sommer (Juli bis August).",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Giftig: Die Blätter enthalten bis zu rund 2,6 Prozent ätherisches Öl, vor allem Ledol und Palustrol. Nach Wikipedia kann die Pflanze Erbrechen, Magen-Darm-Entzündungen und Benommenheit auslösen, schon der längere Aufenthalt in Porstbeständen kann Schwindel und rauschartige Zustände hervorrufen. Es wird keine Verzehr-, Tee- oder Heilempfehlung gegeben. Durch Entwässerung, Aufforstung und Abbau der Moore ist die Art zurückgegangen (FloraWeb).",
+   "schutz": "Nach dem Bundesnaturschutzgesetz besonders geschützt. In der Roten Liste der Gefäßpflanzen Deutschlands (Bezugsraum Deutschland, Stand 2018) in Kategorie 3 (gefährdet) geführt (FloraWeb, BfN).",
+   "naturdeck_ids": [
+    "09cb9cb7",
+    "836911c0"
+   ],
+   "korrekturen": [
+    "Geprüft: FloraWeb (Artseite und Gefährdung und Recht), Wikipedia und Baumkunde abgerufen. Rote Liste jetzt mit Jahr 2018 und Bezugsraum Deutschland belegt (FloraWeb, Gefährdungsseite).",
+    "Eingangsfakt „Moorwald“ und „Moorgehölz“: belegt sind Moorgebüsche, Moorwälder und Hochmoore.",
+    "Gestrichen, weil nicht belegt: „rostbraun filzige Zweige“, „harzig-kampferartig“, „Moore nicht betreten“.",
+    "Ölgehalt: Wikipedia nennt bis 2,6 Prozent (zuvor 2,5); Giftwirkung nur aus Wikipedia und Baumkunde, FloraWeb nennt sie nicht."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Rhododendron tomentosum",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=28144"
+    ],
+    [
+     "FloraWeb (BfN): Gefährdung und Recht, Rhododendron tomentosum",
+     "https://www.floraweb.de/php/gefaerdung.php?taxon-id=3328"
+    ],
+    [
+     "Wikipedia: Sumpfporst",
+     "https://de.wikipedia.org/wiki/Sumpfporst"
+    ],
+    [
+     "Baumkunde: Sumpf-Porst",
+     "https://www.baumkunde.de/Rhododendron_tomentosum/"
+    ]
+   ]
+  },
+  {
+   "slug": "torfmoose",
+   "name": "Torfmoose",
+   "latein": "Sphagnum",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Torfmoose sind Moose nasser, saurer, nährstoffarmer Lebensräume. Sie speichern in toten Zellen sehr viel Wasser und bilden durch unvollständigen Abbau unter Sauerstoffmangel Torf.",
+   "erkennen": [
+    "Blättchen aus lebenden, grünen Zellen (Chlorocyten) und leeren, toten Wasserspeicherzellen (Hyalocyten)",
+    "die toten Zellen nehmen mehr als das 30-Fache der Trockenmasse an Wasser auf",
+    "in Hochmooren liegen höhere Hügel (Bulte) neben ständig wassergefüllten Senken (Schlenken)"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Torfmoose wachsen in nassen, sauren, nährstoffarmen Lebensräumen, vor allem in Mooren. In Deutschland kommen rund 35 Arten vor. In Hochmooren sind Schlenken ständig wassergefüllte Senken, zwischen denen die Bulte über den Wasserspiegel ragen.",
+   "zeit": null,
+   "spuren": null,
+   "tiere": "Torfmoos-Moore sind Lebensraum spezialisierter Tiere: Das Bundesamt für Naturschutz nennt für Hochmoore Hochmoor-Mosaikjungfer, Alpen-Smaragdlibelle, Kleine Moosjungfer, Arktische Smaragdlibelle, Randring-Perlmutterfalter, Hochmoor-Gelbling und Hochmoor-Bläuling. Das Bayerische Landesamt für Umwelt nennt für degradierte Hochmoore außerdem Birkhuhn, Kreuzotter und Moorfrosch; die Larven der Hochmoor-Mosaikjungfer entwickeln sich typischerweise in Schlenken. Der Moorfrosch besiedelt in Hochmooren nur die Randbereiche und besonders Torfstiche (BfN).",
+   "regional": null,
+   "umgang": "Viele Torfmoos-Arten sind durch die Zerstörung der Moore gefährdet. Als Alternative zu Weißtorf in Gartensubstraten gilt nach Moorwissen die Kultivierung von Torfmoosen auf entwässerten Hochmooren.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "42dc5732",
+    "59732953",
+    "a51b39b7",
+    "6e3f7918",
+    "9289fdfd",
+    "7f688a77"
+   ],
+   "korrekturen": [
+    "Geprüft: Moorwissen, Wikipedia, BfN-Seite zu Moortypen, Bayerisches Landesamt für Umwelt (PDF, lokal ausgelesen) und BfN-Artenporträt Moorfrosch abgerufen.",
+    "Die sechs Eingangsfakten zu Torfmoosen sind Dubletten und wurden zu einem Steckbrief (Gattung) zusammengeführt.",
+    "Gestrichen, weil nicht belegt: „helle, bleiche Köpfchen“, „dichte, nasse Polster“, „Hochmoor wächst etwa 1 mm pro Jahr“, Bulte oder Schlenken „je nach Art“, „Moorboden federt zurück“, „Intakte Moore nicht betreten“, „Gartenerde ohne Torf schützt die Moore“.",
+    "Das BfN-Dokument nennt Birkhuhn und Kreuzotter nicht; diese stehen im LfU-Dokument.",
+    "Alpen-Smaragdlibelle und Randring-Perlmutterfalter aus der BfN-Liste ergänzt; es sind Tiere des Lebensraums, keine direkte Nutzung der Moose.",
+    "Schutzstatus (BArtSchV, FFH-Anhang V) nur aus Wikipedia, deshalb nicht übernommen; schutz = null."
+   ],
+   "quellen": [
+    [
+     "Moorwissen: Torfmoose",
+     "https://www.moorwissen.de/torfmoose.html"
+    ],
+    [
+     "Wikipedia: Torfmoose",
+     "https://de.wikipedia.org/wiki/Torfmoose"
+    ],
+    [
+     "Bundesamt für Naturschutz: Moortypen und gefährdete Arten",
+     "https://www.bfn.de/moortypen-und-gefaehrdete-arten"
+    ],
+    [
+     "Bayerisches Landesamt für Umwelt: Hoch-, Übergangs- und Niedermoore (Natura 2000)",
+     "https://www.lfu.bayern.de/natur/natura_2000/ffh/natuerliche_lebensraeume/doc/lrt_7xxx_hoch_uebergangs_niedermoore.pdf"
+    ],
+    [
+     "Bundesamt für Naturschutz: Artenporträt Moorfrosch",
+     "https://www.bfn.de/artenportraits/rana-arvalis"
+    ]
+   ]
+  },
+  {
+   "slug": "hallimasch",
+   "name": "Hallimasch",
+   "latein": "Armillaria",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Hallimasch ist eine Gattung holzbewohnender Pilze, die Wurzeln und Stämme besiedelt. Typisch sind schwarze, wurzelähnliche Stränge unter der Rinde und weiße Pilzgeflechte.",
+   "erkennen": [
+    "schwarzbraune, schnurartige Stränge (Rhizomorphen), die wie Wurzeln aussehen",
+    "weiße, fächerartige Pilzmatten zwischen Rinde und Holz",
+    "im Herbst büschelige Fruchtkörper, bei der Honiggelben Art mit häutigem Ring am Stiel"
+   ],
+   "verwechslung": "Ähnliche, giftige Büschelpilze sind zum Beispiel der Grünblättrige Schwefelkopf und der Nadelholzhäubling. Die sichere Artbestimmung ist bei Hallimaschen oft nur im Labor möglich.",
+   "lebensraum": "Hallimasch lebt an Laub- und Nadelholz als Schwächeparasit und Holzzersetzer. Er breitet sich über Wurzelkontakte und Stränge im Boden aus und befällt besonders geschwächte Bäume.",
+   "zeit": "Die Fruchtkörper erscheinen im Herbst, oft auf Baumstümpfen und am Stammfuß.",
+   "spuren": "Unter der Rinde befallener Bäume liegen weiße Pilzmatten und schwarze Stränge; das Holz wird weißfaul.",
+   "tiere": null,
+   "regional": null,
+   "umgang": "Es wird keine Verzehrempfehlung gegeben: Hallimasch ist roh ungenießbar und kann auch schlecht zubereitet Beschwerden auslösen, zudem gibt es giftige Doppelgänger. Im Zweifel eine Pilzberatung (PSV) fragen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "efc996c4"
+   ],
+   "korrekturen": [
+    "Eingangsfakt: Die weißen Pilzgeflechte in Fächerform werden nur am lebenden Baum in der parasitischen Phase gebildet und bleiben danach lange erhalten; „im morschen Baumstumpf“ ist daher nur eingeschränkt richtig.",
+    "Art nicht genannt: Die Beschreibung gilt für die Gattung (in Europa sieben Arten)."
+   ],
+   "quellen": [
+    [
+     "WSL Waldschutz Schweiz: Hallimasch-Wurzelfäule",
+     "https://waldschutz.wsl.ch/fileadmin/user_upload/WSL/Microsite/Waldschutz-Schweiz/Diagnose_online/de/HallimaschWurzelfaeule_61.pdf"
+    ],
+    [
+     "waldwissen.net: Hallimasch",
+     "https://www.waldwissen.net/de/lebensraum-wald/pilze-und-flechten/die-hallimasch-arten"
+    ],
+    [
+     "Bundesinstitut für Risikobewertung: Risiko Pilze",
+     "https://www.bfr.bund.de/cm/350/risiko_pilze.pdf"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeiner-wacholder",
+   "name": "Gemeiner Wacholder",
+   "latein": "Juniperus communis",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Gemeine Wacholder ist ein immergrüner Nadelstrauch mit stechenden, graugrünen Nadeln. Seine dunkelblauen, wachsartig bereiften Beerenzapfen reifen erst im zweiten oder dritten Jahr.",
+   "erkennen": [
+    "stechende, graugrüne Nadeln von 1 bis 2 cm Länge, sternförmig angeordnet",
+    "kugelige Beerenzapfen, die zuletzt dunkelblau mit wachsartigem Überzug sind",
+    "wächst aufrecht oder niederliegend als Strauch"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst auf Halbtrocken- und Magerrasen, in Felsgebüschen und in mäßig trockenen, lichten Wäldern. Nach dem NABU liebt er sonnige Standorte mit gut durchlässigem, sandigem oder steinigem Boden und kann sich gegen kräftigen Bewuchs nicht durchsetzen.",
+   "zeit": "Blüte im April und Mai, die Bestäubung erfolgt durch den Wind. Die Beerenzapfen reifen im zweiten oder erst im dritten Jahr.",
+   "spuren": null,
+   "tiere": "Nach einer Auswertung auf waldwissen.net bevorzugen 18 Säugetier-, über 40 Vogel- und 20 Insektenarten seine Umgebung. Die Wacholderdrossel ist nach ihm benannt und trägt zur Verbreitung der Samen bei. Raupen des Kiefernspanners fressen nach dem NABU an den Nadeln.",
+   "regional": null,
+   "umgang": "Der Wacholder verträgt Trockenheit, braucht aber Licht und wird von kräftigem Bewuchs verdrängt. Es wird keine Verzehrempfehlung gegeben.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (Bezugsraum Deutschland, Stand 2018): Vorwarnliste, langfristig starker Rückgang. Nach dem Bundesnaturschutzgesetz nicht besonders geschützt (FloraWeb).",
+   "naturdeck_ids": [
+    "d27169e7",
+    "0e2a68e9"
+   ],
+   "korrekturen": [
+    "Geprüft: waldwissen.net, FloraWeb (Artseite und Gefährdungsseite) und NABU Berlin abgerufen. Rote-Liste-Jahr 2018 (Metzing et al.) und Bezugsraum Deutschland sind belegt.",
+    "Eingangsfakt 0e2a68e9: „magerer Sandboden“ nur sinngemäß (NABU: sandiger oder steiniger Boden); belegt sind Magerrasen, Felsgebüsche und mäßig trockene lichte Wälder.",
+    "Eingangsfakt: „bis ins zweite Jahr“: belegt ist Reife im zweiten oder erst im dritten Jahr.",
+    "Gestrichen, weil nicht belegt: Nadeln „zu dritt im Quirl“ und „weißer Streifen“, „Wacholderheiden brauchen Beweidung“."
+   ],
+   "quellen": [
+    [
+     "waldwissen.net: Der Gemeine Wacholder",
+     "https://www.waldwissen.net/de/lebensraum-wald/baeume-und-waldpflanzen/nadelbaeume/der-wacholder-juniperus-communis"
+    ],
+    [
+     "FloraWeb (BfN): Juniperus communis subsp. communis",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=3170"
+    ],
+    [
+     "FloraWeb (BfN): Gefährdung und Recht, Juniperus communis",
+     "https://www.floraweb.de/php/gefaerdung.php?taxon-id=3170"
+    ],
+    [
+     "NABU Berlin: Der Gemeine Wacholder",
+     "https://berlin.nabu.de/tiere-und-pflanzen/pflanzen/arten/32460.html"
+    ]
+   ]
+  },
+  {
+   "slug": "wald-geissblatt",
+   "name": "Wald-Geißblatt",
+   "latein": "Lonicera periclymenum",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Das Wald-Geißblatt, bei FloraWeb Deutsches Geißblatt genannt, ist eine windende Kletterpflanze, deren Blüten vor allem abends duften. Nachtfalter nutzen sie als Nektarquelle.",
+   "erkennen": [
+    "windender Strauch von 1 bis 6 m Höhe",
+    "kopfig gehäufte, gelblich-weiße Blüten mit Purpur",
+    "rote Früchte"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Sie wächst in mäßig frischen bis feuchten Schlägen, Gebüschen sowie Laub- und Nadelholzforsten und meidet Kalk.",
+   "zeit": "Blüte von Juni bis August, der Duft ist abends am stärksten.",
+   "spuren": null,
+   "tiere": "Die Blüten duften erst in der Dämmerung und locken Nachtfalter an, etwa Schwärmer mit langem Rüssel. Die Nachtfalter dienen wiederum Fledermäusen als Nahrung. Vögel finden im dichten Gewirr Brutplätze und Nahrung durch Beeren, Samen und Spinnen. Raupen des Kleinen Eisvogels fressen in Westniedersachsen vor allem an Geißblatt.",
+   "regional": null,
+   "umgang": "Eignet sich zur Fassadenbegrünung für Nachtinsekten. Es wird keine Verzehrempfehlung gegeben.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "5524667b",
+    "45fe5638"
+   ],
+   "korrekturen": [
+    "Eingangsfakten: „Heckenränder“ und „lichte Kiefern“: belegt sind Gebüsche, Schläge und Laub- und Nadelholzforste.",
+    "Der Zusammenhang Duft und Nachtfalter ist für Geißblatt allgemein durch NABU-Texte belegt, die Quelle nennt Ligusterschwärmer als Beispiel."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Lonicera periclymenum",
+     "https://floraweb.de/php/artenhome.php?suchnr=3499"
+    ],
+    [
+     "NABU NRW: Der Ligusterschwärmer",
+     "https://nrw.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/zeit-der-schmetterlinge/wissen/schmetterlingsarten/nachtfalter/33623.html"
+    ],
+    [
+     "NABU Hamburg: Ein Garten für Fledermäuse",
+     "https://hamburg.nabu.de/tiere-und-pflanzen/garten/gartentipps/05217.html"
+    ],
+    [
+     "LfU Bayern: Nachtleben im Garten",
+     "https://www.lfu.bayern.de/natur/bayaz/gartenvielfalt/arten_im_garten/nachtleben/index.htm"
+    ],
+    [
+     "NABU Niedersachsen: Kleiner Eisvogel",
+     "https://niedersachsen.nabu.de/tiere-und-pflanzen/insekten/schmetterlinge/kleiner-eisvogel/index.html"
+    ]
+   ]
+  },
+  {
+   "slug": "wald-sauerklee",
+   "name": "Wald-Sauerklee",
+   "latein": "Oxalis acetosella",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Wald-Sauerklee ist eine nur 5 bis 15 cm hohe Waldpflanze mit kleeartigen, dreizähligen Blättern und weißen, violett geaderten Blüten. Er wächst in frischen bis feuchten Laub- und Nadelwäldern.",
+   "erkennen": [
+    "5 bis 15 cm hoch, mit kriechendem Wurzelstock mit Speicherschuppen",
+    "dreizählige Blätter, die Teilblättchen verkehrt herzförmig",
+    "weiße bis schwach rosa Blüten mit purpurroten Adern"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst in frischen bis feuchten Laub- und Nadelwäldern vom Flachland bis ins Bergland, bevorzugt auf sauren Böden und meidet Kalk. Unter Nadelbäumen zeigt er saure Standorte an.",
+   "zeit": "Blüte im April und Mai.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": null,
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (Bezugsraum Deutschland, Stand 2018): ungefährdet. Nach dem Bundesnaturschutzgesetz nicht besonders geschützt (FloraWeb).",
+   "naturdeck_ids": [
+    "f6004f5a",
+    "68da2052",
+    "bc08677c"
+   ],
+   "korrekturen": [
+    "Geprüft: FloraWeb (Artseite) und waldwissen.net abgerufen; Spektrum-Lexikon (HTTP 403) nicht abrufbar und entfernt.",
+    "Eingangsfakten: Zusammenklappen der Blätter bei Schatten oder Regen ist für Oxalis acetosella nicht belegt, nicht übernommen.",
+    "„Saurer Waldboden“ ist für Nadelwälder als Säurezeiger belegt (waldwissen.net, Schweizer Buchenmischwälder), nicht für alle Standorte.",
+    "Gestrichen, weil nicht belegt: „meist nährstoffreich“, „an schattigen Stellen“, Selbstbestäubung bei geschlossenen Blüten, Oxalsäure-Hinweis, Pflegehinweis; umgang daher null.",
+    "Rote Liste 2018 (FloraWeb, Metzing et al.) mit Jahr und Bezugsraum ergänzt.",
+    "Eine Bedeutung für Tiere konnte nicht belegt werden; tiere = null."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Oxalis acetosella",
+     "https://floraweb.de/php/artenhome.php?suchnr=4062"
+    ],
+    [
+     "waldwissen.net: Beziehungen zwischen Baum- und Krautschicht in Buchen-Mischwäldern",
+     "https://www.waldwissen.net/de/lebensraum-wald/baeume-und-waldpflanzen/krautschicht-in-buchenmischwaeldern"
+    ]
+   ]
+  },
+  {
+   "slug": "waldkiefer",
+   "name": "Waldkiefer",
+   "latein": "Pinus sylvestris",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Die Waldkiefer ist ein zweinadeliger Nadelbaum mit rötlich-brauner „Spiegelrinde“ im oberen Stammbereich, der auch auf nährstoffarmen, sehr trockenen und moorigen Standorten wächst. Sie wird vom Wind bestäubt.",
+   "erkennen": [
+    "Nadeln paarweise, 2,5 bis 7 cm lang",
+    "oben am Stamm und an starken Ästen hellrote bis fuchsrote, dünnschuppig abblätternde Rinde (Spiegelrinde), unten dicke, graue bis rotbraune, tief gefurchte Borke",
+    "männliche Blüten gelb, weibliche dunkelrot bis rötlich und unscheinbar, beide am selben Baum"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Sie kommt mit nährstoffarmen, sehr trockenen oder moorigen Standorten zurecht, besonders gut wächst sie auf lehmigen Sanden oder sandigen Lehmen. Sie ist eine lichtbedürftige Pionierbaumart und wächst im Norden und Osten Deutschlands vor allem auf armen Sandböden.",
+   "zeit": "Blüte im Mai bis Anfang Juni. Die Samen reifen in den Zapfen im Herbst des Folgejahres nach der Blüte; die Zapfen öffnen sich meist erst bei den ersten warmen Frühlingstagen.",
+   "spuren": null,
+   "tiere": "Unter allen heimischen Nadelbäumen hat die Waldkiefer die meisten baumartenspezifischen Insektenarten (waldwissen.net). Als Nadelfresser an Kiefern nennt waldwissen.net unter anderem Kiefernspinner, Kiefernspanner, Nonne und Forleule. Der Buntspecht frisst nach dem NABU auch Fichten- und Kiefernsamen und klemmt Zapfen in seine Spechtschmiede; an einzelnen Schmieden fanden sich Tausende Kiefern- und Fichtenzapfen.",
+   "regional": "Die Waldkiefer hat in Deutschland Schwerpunkte unter anderem in Brandenburg, Mecklenburg-Vorpommern und im bayerischen Alpenvorland (waldwissen.net).",
+   "umgang": "Reine Kiefernbestände haben in der Vergangenheit zu Schädlingsvermehrung und Bodenversauerung geführt; ein Unterbau mit Eiche oder Buche macht die Bestände stabiler (wald.de).",
+   "schutz": null,
+   "naturdeck_ids": [
+    "9b5aea63"
+   ],
+   "korrekturen": [
+    "Geprüft: waldwissen.net (Waldkiefer und Forstinsekten), wald.de, NABU Buntspecht und LWF-Wissen 57 (PDF, lokal ausgelesen) abgerufen.",
+    "Eingangsfakt: Pollen schwimmt auf Pfützen: Beobachtung, nicht belegt. Belegt ist Windbestäubung mit gelben männlichen Blüten.",
+    "Gestrichen, weil nicht belegt: „schwefelgelbe, pollenreiche“ Kätzchen und „große Mengen Pollen“, „über 100 Arten“ Insekten, „Kiefernschwärmer häufigste Schwärmerart, Raupe frisst Nadeln“ (waldwissen.net nennt nur häufige Puppenfunde ohne Schäden), „Totholz und lichte Bestände fördern Vielfalt“, Samenflug „März oder April des dritten Jahres“.",
+    "Reifezeit der Zapfen uneinheitlich: waldwissen.net September/Oktober des Folgejahres, LWF Oktober/November; im Text allgemein „Herbst“.",
+    "Eichhörnchen und Kreuzschnabel als Samenfresser nicht belegt."
+   ],
+   "quellen": [
+    [
+     "waldwissen.net: Baumartenporträt Die Waldkiefer",
+     "https://www.waldwissen.net/de/lebensraum-wald/baeume-und-waldpflanzen/nadelbaeume/die-waldkiefer"
+    ],
+    [
+     "wald.de: Die Waldkiefer",
+     "https://wald.de/die-waldkiefer-pinus-sylvestris-l"
+    ],
+    [
+     "waldwissen.net: Forstinsekten in bayerischen Kiefernwäldern",
+     "https://www.waldwissen.net/de/waldwirtschaft/schadensmanagement/insekten/forstinsekten-an-kiefer"
+    ],
+    [
+     "NABU: Vogelporträt Buntspecht",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/Buntspecht/"
+    ],
+    [
+     "LWF Bayern: Systematik, Verbreitung und Morphologie der Waldkiefer",
+     "https://lwf.bayern.de/mam/cms04/boden-klima/dateien/lwf-wissen_57-01.pdf"
+    ]
+   ]
+  },
+  {
+   "slug": "waldmeister",
+   "name": "Waldmeister",
+   "latein": "Galium odoratum",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Waldmeister ist ein niedriges Labkraut, das in frischen Laubwäldern dichte Teppiche bildet. Beim Welken entwickelt er durch den Duftstoff Cumarin einen heuartigen Geruch.",
+   "erkennen": [
+    "5 bis 25 cm hoch, mit vierkantigem, unverzweigtem Stängel",
+    "Blätter zu sechst bis acht im Quirl mit rauem Rand",
+    "weiße, trichterige Blüten",
+    "borstige Klettfrüchte"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst in frischen Laubwäldern, meist Buchenwäldern, und gibt dem Waldmeister-Buchenwald seinen Namen. Er braucht Schatten und einen nährstoffreichen Boden.",
+   "zeit": "Blüte im Mai und Juni.",
+   "spuren": null,
+   "tiere": "Bestäubt wird er vor allem von Honigbienen, Wildbienen und Fliegen.",
+   "regional": null,
+   "umgang": "Cumarin kann in höherer Dosis Übelkeit, Kopfschmerzen und Leberschäden verursachen. Es wird keine Verzehrempfehlung gegeben.",
+   "schutz": "In Deutschland ungefährdet und nicht besonders geschützt (FloraWeb).",
+   "naturdeck_ids": [
+    "7612b0e5"
+   ],
+   "korrekturen": [
+    "Eingangsfakt: „Vor der Blüte duften welke Blätter nach Heu“: belegt ist Cumarin als Hauptduftstoff, Heuduft und eine geringere Cumarinmenge vor der Blüte; der Duft des Welkens ist allgemein bekannt, aber nicht wörtlich in den gelesenen Quellen."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Galium odoratum",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=2560"
+    ],
+    [
+     "BZfE: Frühlingsbote Waldmeister",
+     "https://www.bzfe.de/presse/pressemeldungen-archiv/fruehlingsbote-waldmeister"
+    ]
+   ]
+  },
+  {
+   "slug": "wasserminze",
+   "name": "Wasserminze",
+   "latein": "Mentha aquatica",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Die Wasserminze ist ein Lippenblütler feuchter Ufer, dessen zerriebene Blätter nach Pfefferminz riechen. Ihre hellvioletten Blüten sitzen in kopfig gehäuften Quirlen am Triebende.",
+   "erkennen": [
+    "meist 20 bis 50 cm hoch (10 bis 100 cm), vierkantiger Stängel, gegenständige Blätter",
+    "lang gestielte, eiförmig-elliptische, oft glänzende Blätter",
+    "beim Zerreiben Pfefferminzgeruch",
+    "hellviolette bis fleischrosa, auch weiße Blüten in dichten, kopfig gehäuften Quirlen am Triebende"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Sie wächst auf nassen Wiesen, in Röhrichten und Großseggenrieden sowie an Bach- und Seeufern und braucht nährstoffreiche Böden. Im Gartenteich gedeiht sie nach dem NABU vom Gewässerrand bis in etwa 10 cm Wassertiefe.",
+   "zeit": "Blüte von Juli bis Oktober (FloraWeb); der NABU nennt Blühbeginn im Juni.",
+   "spuren": null,
+   "tiere": "Wie andere blühende Teichpflanzen bietet die Wasserminze nach dem NABU Insekten Pollen und Nektar; der NABU empfiehlt sie für naturnahe Gartenteiche.",
+   "regional": null,
+   "umgang": "Es wird keine Verzehr- oder Heilempfehlung gegeben. Im Gartenteich lässt sie sich im Flachwasser pflanzen.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (Bezugsraum Deutschland, Stand 2018): ungefährdet. Nach dem Bundesnaturschutzgesetz nicht besonders geschützt (FloraWeb).",
+   "naturdeck_ids": [
+    "1a23318b",
+    "d9e86dff",
+    "1152590a"
+   ],
+   "korrekturen": [
+    "Geprüft: FloraWeb, beide NABU-Seiten und Wikipedia (Wuchsform, Blütenstand) abgerufen.",
+    "Eingangsfakt d9e86dff: Unterschied zu jungen Taubnesseln nicht belegt; verwechslung = null.",
+    "Eingangsfakten: „violette Blüten“: FloraWeb nennt hellviolett bis fleischrosa bis weiß; „behaarte Stängel“ nicht belegt.",
+    "Gestrichen, weil nicht belegt: Weidengebüsche und Bruchwälder als Standort, „Ein Blattkäfer lebt an ihr“, „Uferpflanzen nicht abmähen“; die NABU-Insektenaussage gilt allgemein für blühende Teichpflanzen, nicht artspezifisch.",
+    "Rote Liste 2018 (FloraWeb) mit Jahr und Bezugsraum ergänzt."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Mentha aquatica",
+     "https://floraweb.de/php/artenhome.php?suchnr=3666"
+    ],
+    [
+     "NABU: Miniteich für Insekten",
+     "https://www.nabu.de/umwelt-und-ressourcen/oekologisch-leben/balkon-und-garten/grundlagen/elemente/22650.html"
+    ],
+    [
+     "NABU: Pflanzen für den naturnahen Gartenteich",
+     "https://www.nabu.de/umwelt-und-ressourcen/oekologisch-leben/balkon-und-garten/pflanzen/zierpflanzen/02926.html"
+    ],
+    [
+     "Wikipedia: Wasserminze",
+     "https://de.wikipedia.org/wiki/Wasserminze"
+    ]
+   ]
+  },
+  {
+   "slug": "weissdorn",
+   "name": "Weißdorn",
+   "latein": "Crataegus (u. a. Eingriffeliger Weißdorn, Crataegus monogyna)",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Weißdorn ist ein dorniger Großstrauch der Hecken und Waldränder mit tief eingeschnittenen Blättern und roten Früchten. Er gehört zu den wertvollsten heimischen Heckenpflanzen für Vögel und Insekten.",
+   "erkennen": [
+    "drei bis fünf Meter hoher, dorniger Großstrauch",
+    "kleine, tief eingeschnittene Blätter",
+    "glänzend rote Früchte im Herbst und Winter"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst in Hecken, an Gebüsch- und Waldrändern und bevorzugt sonnige Plätze.",
+   "zeit": "Die roten Früchte sind im Herbst und Winter eine verlässliche Nahrung; Blüte im Frühjahr.",
+   "spuren": null,
+   "tiere": "Die Früchte des Eingriffeligen Weißdorns fressen bis zu 32 Vogelarten, auch Gartenschläfer nehmen sie an. Im Winter sind sie eine verlässliche Nahrungsquelle. Die dichten, dornigen Sträucher schützen Nester und dienen als Brutplatz. Die nektarreichen Blüten ziehen zahlreiche Insekten an, wie Wildbienen. Die Blätter ernähren viele Schmetterlingsraupen, etwa die des Baum-Weißlings, der seine Eier besonders gern am Eingriffeligen Weißdorn ablegt.",
+   "regional": null,
+   "umgang": "Dichte Hecken als Brutplatz erhalten. Gefüllt blühende Zuchtformen wie der Rotdorn sind für Insekten weniger nützlich. Es wird keine Heil- oder Verzehrempfehlung gegeben.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "f2d9fdb8"
+   ],
+   "korrekturen": [
+    "Eingangsfakt: „An Dornen und gelappten Blättern unterscheidet man ihn von der Schlehe“: Die Schlehe hat ebenfalls Dornen, die Unterscheidung allein durch Dornen ist nicht tragfähig und in den Quellen nicht belegt; verwechslung = null.",
+    "Der Eingangsfakt nannte nur „Weißdorn“, ohne Art. Die belegten Aussagen beziehen sich auf den Eingriffeligen Weißdorn und auf Weißdorn allgemein.",
+    "Angabe zur Schnittzeit (BNatSchG) ist nicht aus den gelesenen Quellen und wurde aus dem Text entfernt, bis sie geprüft ist."
+   ],
+   "quellen": [
+    [
+     "NABU Bremen: Weißdorn",
+     "https://bremen.nabu.de/tiere-und-pflanzen/pflanzen/Unsere20Heckenpflanzen/25943.html"
+    ],
+    [
+     "NABU Mecklenburg-Vorpommern: Der Weißdorn",
+     "https://mecklenburg-vorpommern.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/umweltbildung/naturapotheke/heilpflanzenportraets/30891.html"
+    ],
+    [
+     "NABU NRW: Der Baum-Weißling",
+     "https://nrw.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/tagfaltermonitoring/tagfalter-nrw/24965.html"
+    ]
+   ]
+  },
+  {
+   "slug": "kletten-labkraut",
+   "name": "Kletten-Labkraut",
+   "latein": "Galium aparine",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Das Kletten-Labkraut ist ein einjähriges, kletterndes Kraut mit vierkantigen, durch Hakenborsten rauen Stängeln. Seine hakigen Früchte bleiben an Kleidung und Tierfell hängen.",
+   "erkennen": [
+    "50 bis 150 cm lange, raue, vierkantige Stängel mit Hakenborsten",
+    "borstig raue, 3 bis 8 mm breite Blätter",
+    "kleine weiße Blüten, einzeln oder zu wenigen",
+    "4 bis 7 mm lange, hakenborstige Früchte"
+   ],
+   "verwechslung": "Das Kleinfrüchtige Kletten-Labkraut (Galium spurium) hat nur 1,5 bis 3 mm lange, feinkörnig glatte Früchte.",
+   "lebensraum": "Es wächst in Gebüschen, Hecken- und Waldsäumen, Auwäldern, an Ufern, auf Brachen und Äckern, besonders auf stickstoffreichen Böden.",
+   "zeit": "Blüte von Juni bis Oktober.",
+   "spuren": "Reife Früchte bleiben mit ihren Haken an Fell, Federn und Kleidung haften.",
+   "tiere": "Tiere verbreiten es: Die hakigen Früchte bleiben im Fell oder Federkleid haften und werden so weitergetragen (Epizoochorie).",
+   "regional": null,
+   "umgang": "Beim Streifen durch Hecken bleiben Früchte an Hosen und Fell haften; Haustiere nach Spaziergängen absuchen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "83d934a9"
+   ],
+   "korrekturen": [
+    "Eingangsfakt: „Hakenzähne“ – die Quellen sprechen von Hakenborsten.",
+    "Eine Nutzung als Raupenfutterpflanze konnte in den gelesenen Quellen nicht belegt werden."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Galium aparine",
+     "https://www.floraweb.de/php/artenhome.php?name-use-id=2533"
+    ],
+    [
+     "Info Flora: Galium aparine",
+     "https://www.infoflora.ch/en/flora/galium-aparine.html"
+    ],
+    [
+     "FloraWeb: Anwendung biologischer Merkmale (Klettenausbreitung)",
+     "https://www.floraweb.de/biologmerk/anwendung-der-biologischen-merkmale.html"
+    ]
+   ]
+  },
+  {
+   "slug": "sumpf-segge",
+   "name": "Sumpf-Segge",
+   "latein": "Carex acutiformis",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Die Sumpf-Segge ist ein ausläuferbildendes Sauergras nasser Ufer und Röhrichte, das man am scharf dreikantigen Halm erkennt. Sie bildet oft große Bestände.",
+   "erkennen": [
+    "30 bis 120 cm hoch, mit langen Ausläufern",
+    "scharf dreikantiger, rauer Halm",
+    "5 bis 10 mm breite, blaugrüne, flache, steife Blätter",
+    "Blütenstand mit zwei bis sechs aufrechten weiblichen und zwei bis sechs dunkelbraunen männlichen Ähren"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Sie wächst in stau- oder quellnassen, zeitweise überfluteten Großseggenrieden, Röhrichten, Wiesen, an Ufern, Gräben, in Bruch- und Auwäldern und braucht nährstoffreiche Böden.",
+   "zeit": "Blüte von Juni bis Juli.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Kleine Gewässer und Verlandungszonen sind durch Verfüllung und Entwässerung bedroht; Gräben nicht ohne Not vollständig räumen.",
+   "schutz": "In Deutschland ungefährdet und nicht besonders geschützt (FloraWeb).",
+   "naturdeck_ids": [
+    "b423b286"
+   ],
+   "korrekturen": [
+    "Eingangsfakt: „scharfe Blatträndern, an denen man sich schneidet“: in den gelesenen Quellen nicht ausdrücklich belegt (Flora Helvetica nennt den Halm scharf dreikantig und rau); die Schnittgefahr wurde nicht übernommen.",
+    "Ein Hinweis auf die Bauchige Windelschnecke an Sumpf-Segge stammt nur aus einer Bildunterschrift des LUNG M-V; als Tierangabe nicht ausreichend belegt, daher tiere = null."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Carex acutiformis",
+     "https://www.floraweb.de/xsql/artenhome.xsql?suchnr=1155"
+    ],
+    [
+     "Info Flora: Carex acutiformis",
+     "https://www.infoflora.ch/en/flora/carex-acutiformis.html"
+    ]
+   ]
+  },
+  {
+   "slug": "wiesen-flockenblume",
+   "name": "Wiesen-Flockenblume",
+   "latein": "Centaurea jacea",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Die Wiesen-Flockenblume ist eine ausdauernde Wiesenpflanze mit purpurvioletten Blütenköpfen, deren Hüllblätter fransige braune Anhängsel tragen. Sie ist bis in den Herbst eine wichtige Nektarquelle.",
+   "erkennen": [
+    "30 bis 70 cm hoch, aufrecht",
+    "Blütenkörbe von 2 bis 4 cm Durchmesser mit 60 bis 100 violetten Röhrenblüten",
+    "Hüllblätter mit rundlichen, zerschlitzten, braunen Anhängseln"
+   ],
+   "verwechslung": "Die Skabiosen-Flockenblume (Centaurea scabiosa) wird oft mit ihr verwechselt.",
+   "lebensraum": "Sie wächst vor allem auf Halbtrockenrasen, Wiesen und Weiden und an Wegrändern, meist auf lehmigen, basenreichen Böden.",
+   "zeit": "Blüte von Juni bis Oktober.",
+   "spuren": null,
+   "tiere": "Bienen, Hummeln, Schwebfliegen und einige Schmetterlinge besuchen die Blüten. Vom Frühsommer bis in den Herbst bietet sie Nektar. Nach der BfN-Datenbank LEPIDAT (über FloraWeb) ist sie Futterpflanze für Schmetterlinge, etwa den Flockenblumen-Kleinspanner.",
+   "regional": null,
+   "umgang": "Wiesen erst spät mähen oder Randstreifen stehen lassen, damit die Blüten bis zum Spätsommer Nahrung liefern.",
+   "schutz": "In Deutschland ungefährdet und nach Bundesnaturschutzgesetz nicht besonders geschützt (NABU NRW, Suchtreffer).",
+   "naturdeck_ids": [
+    "e771c510"
+   ],
+   "korrekturen": [
+    "Eingangsfakt: „mageren Feldrand“: belegt sind Halbtrockenrasen und Magerrasen, auch Wiesen und Wegränder.",
+    "Quellen beschreiben die Art als Artengruppe (Centaurea jacea agg.); Merkmale gelten für die Artengruppe."
+   ],
+   "quellen": [
+    [
+     "NABU NRW: Pflanzenporträt Wiesen-Flockenblume",
+     "https://nrw.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/zeit-der-schmetterlinge/wissen/schmetterlingspflanzen/22550.html"
+    ],
+    [
+     "FloraWeb (BfN): Centaurea jacea agg.",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=1347"
+    ],
+    [
+     "FloraWeb (BfN): Schmetterlingsfutterpflanze Wiesen-Flockenblume",
+     "https://www.floraweb.de/xsql/schmetterlinge.xsql?suchnr=24981&sipnr=1347"
+    ]
+   ]
+  },
+  {
+   "slug": "besenheide",
+   "name": "Besenheide",
+   "latein": "Calluna vulgaris",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Die Besenheide ist ein immergrüner Zwergstrauch der Heiden mit winzigen, schuppenförmigen Blättern und rosa bis violettroten Blüten. Sie wächst auf sauren, mageren Böden und ist Blume des Jahres 2019.",
+   "erkennen": [
+    "10 bis 50 cm hoher, verholzender, bogig aufsteigender Zwergstrauch",
+    "1 bis 3 mm lange, schuppenförmige, dachziegelig überdeckte Blätter",
+    "dichte, einseitswendige Blütentrauben mit rosa bis violettroten Blüten"
+   ],
+   "verwechslung": "Von Erica-Arten unterscheidet sie sich durch die schuppenförmig anliegenden Blätter.",
+   "lebensraum": "Sie wächst an offenen, sauren, sandigen Standorten, auf Heiden, Magerrasen, in Mooren und an Waldrändern, und meidet Kalk. Heiden entstanden durch Beweidung und Plaggenhieb und brauchen Pflege.",
+   "zeit": "Blüte von August bis Oktober.",
+   "spuren": null,
+   "tiere": "Honig- und Wildbienen nutzen die nektar- und pollenreichen Blüten. Der Moorheidenspanner und der Komma-Dickkopffalter leben von der Besenheide, Heidespinner, Heidebürstenbinder und Kleines Nachtpfauenauge sind als Raupen auf sie angewiesen. Die Raupen des Kleinen Nachtpfauenauges fressen in Norddeutschland vorzugsweise an Besenheide. Heiden sind Lebensraum von Heidelerche, Brachpieper, Kreuzotter und Zauneidechse; Heidelibellen leben an den Gewässern der Heide, nicht an der Pflanze selbst.",
+   "regional": null,
+   "umgang": "Gartenheide aus dem Handel („Knospenheide“) ist kein Ersatz: Ihre Blüten öffnen sich nicht und bieten Insekten keine Nahrung. Heiden brauchen traditionelle Pflege, etwa Beweidung.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "88b49e25"
+   ],
+   "korrekturen": [
+    "Eingangsfakt: „winzige Schuppenblätter“ bestätigt; „rosa Blütenähren“: Quellen nennen Trauben, rosa bis violettrot.",
+    "Eingangsfakt: „sandiger Kiefernboden“: belegt sind offene, saure, sandige Standorte, auch Waldränder und Moore."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Calluna vulgaris",
+     "https://www.floraweb.de/php/artenhome.php?name-use-id=1007"
+    ],
+    [
+     "Info Flora: Calluna vulgaris",
+     "https://www.infoflora.ch/en/flora/calluna-vulgaris.html"
+    ],
+    [
+     "Loki Schmidt Stiftung: Blume des Jahres 2019 Besenheide",
+     "https://loki-schmidt-stiftung.de/blume-des-jahres/2019"
+    ],
+    [
+     "NABU Schleswig-Holstein: Löwenstedter Sandberge",
+     "https://schleswig-holstein.nabu.de/natur-und-landschaft/nabu-schutzgebiete/loewenstedter-sandberge/03163.html"
+    ],
+    [
+     "NABU Niedersachsen: Kleines Nachtpfauenauge",
+     "https://niedersachsen.nabu.de/tiere-und-pflanzen/insekten/schmetterlinge/kleines-nachtpfauenauge/"
+    ]
+   ]
+  },
+  {
+   "slug": "draht-schmiele",
+   "name": "Draht-Schmiele",
+   "latein": "Deschampsia flexuosa",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Die Draht-Schmiele ist ein lockerrasiges Gras saurer, nährstoffarmer Wälder und Heiden mit fein eingerollten, fadenförmigen Blättern. Sie zeigt saure Böden an.",
+   "erkennen": [
+    "30 bis 70 cm hohes, lockerrasiges Gras",
+    "fein borstliche, eingerollte, schlaffe, glatt wirkende Blätter",
+    "sehr lockere Rispe mit meist purpurroten, geschlängelten Ästen",
+    "gekniete Granne an den Ährchen"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Sie wächst in mäßig trockenen bis frischen Laub- und Nadelwäldern und Forsten, auf Waldschlägen, Silikatmagerrasen und Heiden, und meidet Kalk. Sie ist ein Säurezeiger.",
+   "zeit": "Blüte von Juni bis August.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "In Heiden wird sie bei starkem Auftreten als „Vergrasung“ gewertet, weil sie die Besenheide verdrängen kann.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "fd2f38ae"
+   ],
+   "korrekturen": [
+    "Eingangsfakt: „sehen lichte Kiefernwälder struppig aus“ und „borstig, aber nicht scharf“: Eindruck, nicht belegt. Belegt sind fein borstliche, eingerollte Blätter und Vorkommen in Nadelwäldern auf sauren Böden.",
+    "Eine Bedeutung für Tiere konnte nicht belegt werden."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Avenella flexuosa",
+     "http://www.floraweb.de/pflanzenarten/druck.xsql?suchnr=20725&sipnr=20725"
+    ],
+    [
+     "Info Flora: Avenella flexuosa",
+     "https://www.infoflora.ch/en/flora/avenella-flexuosa.html"
+    ]
+   ]
+  },
+  {
+   "slug": "knoblauchsrauke",
+   "name": "Knoblauchsrauke",
+   "latein": "Alliaria petiolata",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Die Knoblauchsrauke ist ein Kreuzblütler der Hecken- und Waldsäume, dessen zerriebene Blätter nach Knoblauch riechen. Sie ist eine wichtige Raupenfutterpflanze für den Aurorafalter.",
+   "erkennen": [
+    "zerriebene Blätter mit Knoblauchgeruch",
+    "nieren- bis herzförmige, gekerbte, lang gestielte Blätter",
+    "kleine weiße Blüten, 5 bis 8 mm groß",
+    "aufrecht abstehende, 3 bis 6 cm lange Schoten"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Sie wächst an Wald- und Gebüschsäumen, in Hecken und an halbschattigen Wegrändern auf nährstoffreichen Böden.",
+   "zeit": "Blüte von April bis Juli, danach stehen die Schoten.",
+   "spuren": null,
+   "tiere": "Für den Aurorafalter ist sie eine wichtige Raupenfutterpflanze, die Raupen fressen lieber Blüten und frische Fruchtschoten als Blätter. Auch der Grünader-Weißling und die Achateule fressen an den Blättern. Der NABU rät, abgestorbene Stängel bis ins späte Frühjahr stehen zu lassen, um die Puppen zu schützen.",
+   "regional": null,
+   "umgang": "Stängel im Frühjahr nicht zu früh abschneiden, weil Puppen des Aurorafalters daran hängen. Es wird keine Verzehrempfehlung gegeben.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "d70691a8"
+   ],
+   "korrekturen": [
+    "Eingangsfakt: „Im Juni stehen die Schoten“: Blütezeit April bis Juli, Schoten ab Frühsommer; nur ungefähr bestätigt."
+   ],
+   "quellen": [
+    [
+     "NABU NRW: Pflanzenporträt Knoblauchsrauke",
+     "https://nrw.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/zeit-der-schmetterlinge/wissen/schmetterlingspflanzen/22786.html"
+    ],
+    [
+     "FloraWeb (BfN): Alliaria petiolata",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=280"
+    ],
+    [
+     "NABU Mecklenburg-Vorpommern: Aurorafalter",
+     "https://mecklenburg-vorpommern.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/tagfalter/artensteckbriefe/15832.html"
+    ]
+   ]
+  },
+  {
+   "slug": "zitterpappel",
+   "name": "Zitterpappel (Espe, Aspe)",
+   "latein": "Populus tremula",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Die Zitterpappel ist ein Pionierbaum mit raschem Jugendwachstum, dessen Blätter schon bei leichtem Wind zittern. Sie ist Baum des Jahres 2026 und für viele Insekten wichtig.",
+   "erkennen": [
+    "rundliche, teils herzförmige Blätter an 4 bis 6 cm langen, seitlich abgeflachten Stielen",
+    "Blätter bewegen sich schon bei sehr geringem Wind",
+    "meist 20 m, selten bis 35 m hoher Baum",
+    "zweihäusig: männliche und weibliche Kätzchen wachsen auf verschiedenen Bäumen"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Sie besiedelt als Pionier Kahlschläge, Lichtungen und gestörte Flächen, auch Waldränder. Sie ist eine Lichtbaumart und wächst auf frischen bis feuchten, nährstoffreichen Sand- oder Lehmböden bis etwa 1.000 m Höhe.",
+   "zeit": null,
+   "spuren": null,
+   "tiere": "Nach waldwissen.net leben von der Gattung Pappel über 470 Insekten- und Milbenarten, 151 davon sind auf Pappeln spezialisiert. Raupen von Kleinem Schillerfalter und Großem Eisvogel fressen bevorzugt an Aspenblättern; beide Falter sind im Bestand gefährdet. Außerdem leben verschiedene Borkenkäfer und der Espen-Blattkäfer an dem Baum.",
+   "regional": null,
+   "umgang": "Aspen verschiedener Altersstufen am Waldrand und in feuchten Bereichen zu erhalten, hilft Großem Eisvogel und Kleinem Schillerfalter (waldwissen.net).",
+   "schutz": null,
+   "naturdeck_ids": [
+    "38e1867a",
+    "7b45938d",
+    "ae184fe6",
+    "4da54b43"
+   ],
+   "korrekturen": [
+    "Geprüft: waldwissen.net (Baum des Jahres, Eisvogel und Schillerfalter), wald.de und Wikipedia abgerufen.",
+    "Die vier Eingangsfakten sind Dubletten (zitternde Blätter durch abgeflachte Stiele).",
+    "Gestrichen, weil nicht belegt: „65 Großschmetterlingsarten“ (nicht in den abgerufenen Seiten gefunden; Wikipedia nennt etwa 40 Falterarten), „nach den Eichen am wichtigsten“, „in allen Naturräumen wichtigste Grundlage“, goldgelbe Herbstfärbung, Blüte „März und April“, Spechthöhlen und Totholzaussagen, Höhe „15 bis 25 m“.",
+    "Nicht übernommen: NaturaDB-Angabe 135 Raupenarten (Portal ohne Fachredaktion).",
+    "Die Zahlen 470 und 151 stehen in beiden waldwissen-Seiten; die Zuordnung (Gattung Pappel oder Aspe) ist dort uneinheitlich formuliert, deshalb allgemein „Pappeln“."
+   ],
+   "quellen": [
+    [
+     "waldwissen.net: Zitterpappel ist Baum des Jahres 2026",
+     "https://www.waldwissen.net/de/lebensraum-wald/baeume-und-waldpflanzen/laubbaeume/zitterpappel"
+    ],
+    [
+     "waldwissen.net: Großer Eisvogel und Kleiner Schillerfalter, zwei Liebhaber der Aspe",
+     "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/insekten-wirbellose/grosser-eisvogel-und-kleiner-schillerfalter-zwei-liebhaber-der-aspe"
+    ],
+    [
+     "wald.de: Die Zitterpappel",
+     "https://www.wald.de/waldwissen/laubbaum-nadelbaum/laubbaumarten/die-zitterpappel-populus-tremula-l/"
+    ],
+    [
+     "Wikipedia: Zitterpappel",
+     "https://de.wikipedia.org/wiki/Zitterpappel"
+    ]
+   ]
+  },
+  {
+   "slug": "echter-zunderschwamm",
+   "name": "Echter Zunderschwamm",
+   "latein": "Fomes fomentarius",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Echte Zunderschwamm ist ein mehrjähriger, huf- bis konsolenförmiger Baumpilz, der vor allem an Buchen wächst. Er hat eine steinharte, graue Kruste und auf der Unterseite feine Poren statt Lamellen.",
+   "erkennen": [
+    "huf- bis konsolenförmiger, ungestielter Fruchtkörper, meist bis etwa 30 cm breit, an alten Buchen auch deutlich größer",
+    "steinharte, graue bis graubraune Kruste mit konzentrischen Furchen und Zonen",
+    "Unterseite mit feinen, rundlichen Poren (2 bis 4 pro Millimeter), keine Lamellen",
+    "mehrjährig, die Röhrenschichten werden Jahr für Jahr aufgebaut"
+   ],
+   "verwechslung": "Ähnlich sind der Rotrandige Baumschwamm, der Flache Lackporling und der Graue Feuerschwamm; sie unterscheiden sich nach Natur in NRW in Färbung, Geruch und Sporenfarbe. Der Rotrandige Baumschwamm wächst bevorzugt an Fichte und verursacht Braunfäule, der Zunderschwamm vor allem an Buche und verursacht Weißfäule.",
+   "lebensraum": "Er wächst als Schwächeparasit an alten, geschädigten Laubbäumen, vor allem Rotbuchen, dann Birken, Erlen und anderen Laubbäumen, und verursacht Weißfäule.",
+   "zeit": "Der Pilz ist mehrjährig (nach waldwissen.net vier bis sieben Jahre, selten länger) und deshalb ganzjährig zu sehen.",
+   "spuren": "Weißfäule im Holz und mehrere Zonen am Fruchtkörper.",
+   "tiere": "Im lebenden Fruchtkörper lebt der Kurzflügler Gyrophaena boleti, im Sommer mit bis zu 400 Tieren an der Unterseite eines Fruchtkörpers; in toten Fruchtkörpern entwickelt sich der Schwarzkäfer Diaperis boleti (waldwissen.net).",
+   "regional": null,
+   "umgang": "Der Pilz gilt als ungenießbar, es wird keine Verzehrempfehlung gegeben. Fruchtkörper und Totholz am Baum zu belassen, erhält Lebensraum für Pilze und Insekten (waldwissen.net).",
+   "schutz": "Pilz des Jahres 1995 (DGfM). Nach der DGfM nicht offiziell gefährdet, die Bestände sind aber durch intensive Forstwirtschaft stark zurückgegangen.",
+   "naturdeck_ids": [
+    "35699b76",
+    "b893c463",
+    "0896f2b7"
+   ],
+   "korrekturen": [
+    "Geprüft: DGfM (Pilz des Jahres 1995), waldwissen.net, Wikipedia und Natur in NRW abgerufen.",
+    "Eingangsfakt 0896f2b7: „Ritzt man die Kruste an, dunkelt sie rasch nach“ nicht belegt; nicht übernommen.",
+    "Eingangsfakt 35699b76: Zuwachszonen entsprechen den belegten konzentrischen Zonen.",
+    "Gestrichen, weil nicht belegt: Poren dunkeln auf Druck, „häufigster Großporling Europas“, Feuerzeugprobe und säuerlicher Geruch beim Rotrandigen Baumschwamm, Käferzahlen 35 bis 43 aus Norwegen, Gelbbindiger Schwarzkäfer, Sporen als Frühjahrsnahrung, Bruchgefahr befallener Buchen, „im Norden häufig an Birken“ (DGfM nennt Birke, Ahorn, Erle, Eiche).",
+    "Maße: DGfM bis 30 cm, Wikipedia bis 40 cm, Natur in NRW bis 60 cm an Altbuchen; im Text „meist bis etwa 30 cm“.",
+    "Wikipedia nur Zweitquelle."
+   ],
+   "quellen": [
+    [
+     "DGfM: Pilz des Jahres 1995, Zunderschwamm",
+     "https://www.dgfm-ev.de/pilz-des-jahres/1995-zunderschwamm"
+    ],
+    [
+     "waldwissen.net: Baumschwämme als Lebensraum (Klein aber fein)",
+     "https://www.waldwissen.net/de/lebensraum-wald/pilze-und-flechten/baumschwaemme-als-lebensraum"
+    ],
+    [
+     "Wikipedia: Zunderschwamm",
+     "https://de.wikipedia.org/wiki/Zunderschwamm"
+    ],
+    [
+     "Natur in NRW: Echter Zunderschwamm",
+     "https://www.natur-in-nrw.de/HTML/Pilze/Aphyllophorales/PN-45.html"
+    ]
+   ]
+  }
+ ],
+ "ergaenzungen": [],
+ "nicht_uebernommen": [
+  {
+   "id": "e0005863",
+   "grund": "Kein Einzelart-Thema: „Weidenröschen“ ist eine Gattung (Epilobium) mit vielen Arten, die Art ist nicht genannt. Die vierlappige Narbe gilt nur für einen Teil der Arten (andere haben keulige oder kopfige Narben); ein Standort „nasse Waldgräben“ ist durch keine Fachquelle für die Gattung belegt."
+  }
+ ]
+}

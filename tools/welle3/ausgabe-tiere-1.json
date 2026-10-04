@@ -1,0 +1,510 @@
+{
+ "paket": "tiere-1",
+ "neu": [
+  {
+   "slug": "gartenrotschwanz",
+   "name": "Gartenrotschwanz",
+   "latein": "Phoenicurus phoenicurus",
+   "gruppe": "Singvögel",
+   "kurz": "Der Gartenrotschwanz ist ein Singvogel mit rostrotem Schwanz, den er auf seiner Warte immer wieder zittern lässt. Das Männchen erkennt man an der schwarzen Kehle, der orangen Brust und der weißen Stirn.",
+   "erkennen": [
+    "Das Männchen ist aschgrau, mit schwarzer Kehle, oranger Brust und weißer Stirn.",
+    "Das Weibchen wirkt unauffälliger graubraun und hat eine helle Unterseite.",
+    "Bei beiden Geschlechtern ist der Schwanz rostrot.",
+    "Er sitzt aufrecht auf einer Warte und zittert mit dem Schwanz, bevor er einem Insekt nachfliegt."
+   ],
+   "verwechslung": "Mit dem ähnlichen und häufigeren Hausrotschwanz. Der Hausrotschwanz ist ein typischer Kulturfolger, der an Gebäuden brütet, etwa unter Dachkanten oder in Mauernischen. Der Gartenrotschwanz bevorzugt dagegen lichte Wälder, Parks und Obstwiesen mit alten Bäumen. Die Weibchen beider Arten sehen sich sehr ähnlich, deshalb hilft der Blick auf Brutplatz und Umgebung.",
+   "lebensraum": "Lichte Laub- und Mischwälder, vor allem Kiefernwälder, außerdem zunehmend Parks und naturnahe Gärten. Er brütet in Baumhöhlen, Halbhöhlen und Nistkästen und ist deshalb auf alte Bäume angewiesen. Seine Nahrung sind Insekten, deren Larven und Raupen, Spinnen und Beeren.",
+   "zeit": "Langstreckenzieher, der südlich der Sahara in der afrikanischen Savanne überwintert. Bei uns ist er von Ende April bis September zu beobachten.",
+   "spuren": "Das Männchen singt vor allem am Morgen, weich und wehmütig. Der Gesang beginnt mit einem „hüit“, auf das ein tieferes „tick-tick-tick“ folgt, und klingt insgesamt schwatzend und abwechslungsreich.",
+   "tiere": null,
+   "regional": null,
+   "umgang": "Alte Einzelbäume mit Höhlen, Obstwiesen und lichte Waldstücke erhalten. Heimische Gehölze, freie Flächen und Nistkästen helfen ihm.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "44959066",
+    "1cc59619",
+    "b5f72823",
+    "ed3d7b3a",
+    "a15bba6f"
+   ],
+   "korrekturen": [
+    "Das Knicksen wird in den abgerufenen Quellen nicht genannt, belegt ist das Zittern des rostroten Schwanzes.",
+    "Der NABU führt die Art auf der Vorwarnliste, die Quelle nennt kein Jahr; eine Landesliste (Bayern, LfU) führt sie als gefährdet. Die bundesweite Einstufung blieb unklar, deshalb ist schutz null.",
+    "Der Hinweis auf Höhlen mit freiem Anflug ist durch die abgerufenen Quellen nur allgemein gedeckt (Höhlen- und Halbhöhlenbrüter, Nistkästen)."
+   ],
+   "quellen": [
+    [
+     "NABU, Vogelporträt Gartenrotschwanz",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/gartenrotschwanz/"
+    ],
+    [
+     "NABU Oldenburg, Gartenrotschwanz Steckbrief",
+     "https://www.nabu-oldenburg.de/projekte/gartenrotschwanz-steckbrief.php"
+    ],
+    [
+     "Bayerisches Landesamt für Umwelt, Gartenrotschwanz",
+     "https://www.lfu.bayern.de/natur/sap/arteninformationen/steckbrief/zeige?stbname=Phoenicurus+phoenicurus"
+    ]
+   ]
+  },
+  {
+   "slug": "brauner-waldvogel",
+   "name": "Brauner Waldvogel",
+   "latein": "Aphantopus hyperantus",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Der Braune Waldvogel, auch Schornsteinfeger genannt, ist ein mittelgroßer brauner Tagfalter mit kleinen, gelb umrandeten Augenflecken. Er fliegt im Sommer an grasigen Säumen und Waldrändern.",
+   "erkennen": [
+    "Flügelspannweite von 35 bis 42 Millimetern.",
+    "Die Flügel sind einfarbig braun mit kleinen, gelblich umrandeten Augenflecken.",
+    "Auf der Unterseite sind die Augenflecken auffälliger und innen schwarzblau, meist fünf auf den Hinterflügeln und zwei bis drei auf den Vorderflügeln.",
+    "Auf der Oberseite sind die Augenflecken kleiner und weniger auffällig; ihre Zahl und Größe schwanken."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Grasige und staudenreiche Säume an Waldrändern, Lichtungen, Hecken und Böschungen, an feuchten ebenso wie an trockenen Stellen, mit leichter Vorliebe für Feuchtes. Gern sitzt er an Wald- und Gebüschrändern mit Brombeerhecken.",
+   "zeit": "Eine Generation im Jahr. Die Falter fliegen von Mitte Juni bis Ende August.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Die Raupen fressen verschiedene Gräser, die Falter besuchen Disteln, Dost, Brombeerblüten und andere Wildblumen. Grasige Säume mit Brombeerhecken und Blütenpflanzen bieten ihnen Nahrung.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "8f69ee9c",
+    "4f8b99e2"
+   ],
+   "korrekturen": [
+    "Geprüft anhand BUND und natur-in-nrw.de (beide abgerufen). Belegt: Spannweite, Augenflecken, Lebensraum, Flugzeit, eine Generation, Raupen- und Nektarpflanzen. Verwechslung: BUND sieht keine ernsthafte Verwechslungsgefahr, daher null.",
+    "Gestrichen: „an Waldwegen mit Kiefern“ und die Aufforderung, Säume nicht abzumähen (nicht belegt). Gefährdungseinstufung in den Quellen nicht genannt, schutz null."
+   ],
+   "quellen": [
+    [
+     "BUND: Steckbrief Brauner Waldvogel",
+     "https://www.bund.net/themen/tiere-pflanzen/schmetterlinge/steckbriefe/tagfalter/brauner-waldvogel/"
+    ],
+    [
+     "natur-in-nrw.de: Schornsteinfeger (Aphantopus hyperantus)",
+     "https://www.natur-in-nrw.de/HTML/Tiere/Insekten/Schmetterlinge/Nymphalidae/TSNE-4.html"
+    ]
+   ]
+  },
+  {
+   "slug": "spitzenfleck",
+   "name": "Spitzenfleck",
+   "latein": "Libellula fulva",
+   "gruppe": "Libellen",
+   "kurz": "Der Spitzenfleck ist eine mittelgroße Segellibelle, bei der die Flügelspitzen dunkel getönt sind. Am Ansatz der Hinterflügel sitzt ein größerer dunkler Fleck.",
+   "erkennen": [
+    "Körperlänge etwa 4,2 bis 4,5 Zentimeter.",
+    "Das Männchen hat einen blau bereiften Hinterleib, der zum Ende hin dunkel wird.",
+    "Die Flügelspitzen sind rauchig getönt, bei den Weibchen stärker ausgeprägt.",
+    "Am Ansatz der Hinterflügel sitzt ein größerer dunkler Basalfleck, also ein Fleck an der Flügelbasis."
+   ],
+   "verwechslung": "Besonders die Männchen können mit dem Plattbauch und dem Großen Blaupfeil verwechselt werden. Der dunkle Basalfleck an den Hinterflügeln und die getönten Flügelspitzen helfen bei der Unterscheidung.",
+   "lebensraum": "Saubere, stehende bis langsam fließende, stark besonnte Gewässer mit größeren offenen Wasserflächen, die von lichtem Röhricht gesäumt sind, etwa in Flussauen.",
+   "zeit": "Die Libellen schlüpfen zwischen Ende April und Anfang Juni und fliegen von Mitte Mai bis Mitte Juli.",
+   "spuren": "Die Männchen besetzen Reviere an Gewässern mit Röhricht. Die Weibchen legen ihre Eier ohne Begleitung ab: Sie werfen sie im schwirrenden Flug mit schwingendem Hinterleib ins Wasser.",
+   "tiere": null,
+   "regional": null,
+   "umgang": "Röhricht an den Ufern erhalten, denn seine Zerstörung durch Freizeitnutzung und ungeeignete Fischereipraxis gefährdet die Art. Auch Besatz mit bodenwühlenden Fischen und Nährstoffeinträge, die das Wasser zuwachsen lassen, schaden ihr.",
+   "schutz": "Rote Liste der Libellen Deutschlands (2021): ungefährdet, zuvor galt die Art als stark gefährdet.",
+   "naturdeck_ids": [
+    "60158388"
+   ],
+   "korrekturen": [
+    "Geprüft anhand Bund Naturschutz in Bayern, LibellenWissen und Rote-Liste-Zentrum (alle abgerufen). Belegt: Länge, Färbung des Männchens, getönte Spitzen, Basalfleck, Lebensraum, Schlupf- und Flugzeit, Eiablage, Gefährdungsursachen, Rote Liste 2021.",
+    "Gestrichen: Färbung des Weibchens, getönte Spitzen bei Männchen „manchmal“, Ausweichen vor nacktem Boden, Seen, Teiche, Altwasser und Gräben als Lebensraum, Seggenbestände, Warten im Röhricht, „Libellen nicht fangen“ (nicht belegt). Bayern führt die Art auf der Vorwarnliste (nicht übernommen). Regional bleibt null."
+   ],
+   "quellen": [
+    [
+     "Bund Naturschutz in Bayern: Steckbrief Spitzenfleck",
+     "https://www.bund-naturschutz.de/tiere-in-bayern/libellen/steckbriefe/spitzenfleck"
+    ],
+    [
+     "LibellenWissen: Spitzenfleck",
+     "https://libellenwissen.de/libellenarten/grosslibellen/segellibellen-libellulidae/spitzenfleck/"
+    ],
+    [
+     "Rote-Liste-Zentrum: Spitzenfleck",
+     "https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=67f53946-fcb6-4b78-8d7e-93ccb198000f"
+    ]
+   ]
+  }
+ ],
+ "ergaenzungen": [
+  {
+   "slug": "waldlaubsaenger",
+   "feld": "spuren",
+   "wert": "Der Gesang beginnt mit wiederholten „sib“-Lauten, die schneller werden und in einen Schwirrtriller („sirrr“) münden. Er erinnert an einen Tischtennisball, der in immer rascherer Folge aufspringt, und wird oft in einem kurzen Singflug vom Stammbereich zur Baumkrone vorgetragen.",
+   "quellen_neu": [
+    [
+     "NABU, Vogelporträt Waldlaubsänger",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/waldlaubsaenger/"
+    ],
+    [
+     "LBV, Artenporträt Waldlaubsänger",
+     "https://www.lbv.de/ratgeber/naturwissen/artenportraits/detail/waldlaubsaenger/"
+    ]
+   ],
+   "naturdeck_ids": [
+    "00e4a324"
+   ]
+  },
+  {
+   "slug": "feldhase",
+   "feld": "spuren",
+   "wert": "Beim Hoppeln setzt der Feldhase die längeren Hinterfüße vor die hintereinander aufgesetzten Vorderfüße, auf der Flucht drückt sich nur der vordere Teil der Hinterfüße ab. Die Losung besteht aus kleinen, rundlichen bis leicht abgeplatteten Kügelchen von etwa einem Zentimeter Durchmesser, gelblich-braun bis olivbraun und mit sichtbaren Pflanzenfasern. Frisch wirken sie kompakt und feucht, später trocknen sie aus und bleichen.",
+   "quellen_neu": [
+    [
+     "tierspuren.at, Feldhase Spuren",
+     "https://www.tierspuren.at/spuren-f%C3%A4hrten-trittsiegel/feldhase/"
+    ],
+    [
+     "tierspuren.at, Feldhase Losung",
+     "https://www.tierspuren.at/losungen/feldhase/"
+    ],
+    [
+     "waldwissen.net, Wildtierkot erkennen",
+     "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/wildtierkot-erkennen"
+    ]
+   ],
+   "naturdeck_ids": [
+    "a6b4fc66",
+    "c94f6d25",
+    "5b524bf6"
+   ]
+  },
+  {
+   "slug": "baummarder",
+   "feld": "spuren",
+   "wert": "Die Losung ist 6 bis 12 Zentimeter lang, 0,7 bis 1,2 Zentimeter dick, spindelförmig, oft leicht gebogen oder verdreht und an den Enden meist spitz. Neben Beerenresten und Samen enthält sie Haare und Federn.",
+   "quellen_neu": [
+    [
+     "waldwissen.net, Wildtierkot erkennen",
+     "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/wildtierkot-erkennen"
+    ]
+   ],
+   "naturdeck_ids": [
+    "42cd734c",
+    "ac4f8196"
+   ]
+  },
+  {
+   "slug": "dorngrasmuecke",
+   "feld": "spuren",
+   "wert": "Der Ruf der Dorngrasmücke klingt rau und nasal, etwa wie „wähd“ oder „tscherr“.",
+   "quellen_neu": [
+    [
+     "NABU, Vogelporträt Dorngrasmücke",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/dorngrasmuecke/"
+    ]
+   ],
+   "naturdeck_ids": [
+    "9eb8fc72",
+    "c84b12f7"
+   ]
+  },
+  {
+   "slug": "kuckuck",
+   "feld": "lebensraum",
+   "wert": "Als Wirtsvögel bevorzugt der Kuckuck Grasmücken und Rohrsänger. Die Wirtseltern füttern den viel größeren Jungvogel trotzdem weiter.",
+   "quellen_neu": [
+    [
+     "NABU, Vogelporträt Kuckuck",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kuckuck/"
+    ]
+   ],
+   "naturdeck_ids": [
+    "663647b9"
+   ]
+  },
+  {
+   "slug": "eintagsfliegen",
+   "feld": "spuren",
+   "wert": "Beim Schlupf platzt die Larvenhaut längs einer Naht auf, und innerhalb weniger Sekunden erscheint die flugfähige, aber noch nicht geschlechtsreife Subimago. Sie ruht zunächst am Ufer, bevor sie sich ein letztes Mal häutet.",
+   "quellen_neu": [
+    [
+     "Naturpark Schwarzwald Mitte/Nord, Tiersteckbrief Eintagsfliege",
+     "https://naturparkschwarzwald.de/archiv/tiersteckbrief-die-eintagsfliege-insekt-des-jahres-2021/"
+    ]
+   ],
+   "naturdeck_ids": [
+    "4558eb87",
+    "e3239a30"
+   ]
+  }
+ ],
+ "nicht_uebernommen": [
+  {
+   "id": "eb40ed98",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "226761ba",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "ca52a0a2",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "6495795f",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "152585b6",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "cda9814a",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "b75ae5f1",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "2e07f76e",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "1dd6cfb2",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "726cc8c3",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "6fbd953f",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "cb6a139f",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "5c426c30",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "f1d8efaf",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "8835d487",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "d21e6541",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "ec665e59",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "b6eda20a",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "54cb9d83",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "c55d326d",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "23dcb30a",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "adc9952c",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "f5b55d6f",
+   "grund": "keine Fachquelle abgerufen, die das Detail trägt"
+  },
+  {
+   "id": "d0d2bb0d",
+   "grund": "Aussage nicht belegt: Rütteln und Fangtechnik stehen im abgerufenen NABU-Porträt nicht, dort ist nur das Stoßtauchen beschrieben"
+  },
+  {
+   "id": "ff25e779",
+   "grund": "Aussage nicht belegt: Rütteln und Fangtechnik stehen im abgerufenen NABU-Porträt nicht, dort ist nur das Stoßtauchen beschrieben"
+  },
+  {
+   "id": "65f887ee",
+   "grund": "Aussage nicht belegt: Rütteln und Fangtechnik stehen im abgerufenen NABU-Porträt nicht, dort ist nur das Stoßtauchen beschrieben"
+  },
+  {
+   "id": "ddc4c660",
+   "grund": "Aussage widerspricht den gefundenen Quellen (Trittsiegel des Damwilds gilt als schmaler und vorn spitzer) und dem vorhandenen Steckbrief"
+  },
+  {
+   "id": "d8e6b98c",
+   "grund": "Aussage widerspricht den gefundenen Quellen (Trittsiegel des Damwilds gilt als schmaler und vorn spitzer) und dem vorhandenen Steckbrief"
+  },
+  {
+   "id": "190c6971",
+   "grund": "Aussage widerspricht den gefundenen Quellen (Trittsiegel des Damwilds gilt als schmaler und vorn spitzer) und dem vorhandenen Steckbrief"
+  },
+  {
+   "id": "dd207639",
+   "grund": "Aussage falsch: Der Bisam hat nach Suchtreffern Schwimmborsten statt Schwimmhäute, dazu keine abgerufene Fachquelle"
+  },
+  {
+   "id": "8faf0bdb",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "c0b62857",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "c3d1c054",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "d5d0f7fb",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "ecdf4c3b",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "a0d47d99",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "01d791f8",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "c478488f",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "90f47bfb",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "68a4c477",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "4eeefaf1",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "8fa5d7c9",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "310186d7",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "607ae365",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "e360772c",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "efd12c07",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "cf08d44f",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "2c566694",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "5ac6f405",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "b747127e",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "b49f8f83",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "e8a0d6cd",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "c4dd79a7",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "8c86bd5e",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "93aad496",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "a68d9b89",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "ac7c112e",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "eded6006",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "e94e71a0",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "b8500fae",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "5dc4c239",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "4816badd",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "bccdb9ff",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "2859cfd6",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "92e9470f",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "5a38cf6a",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "9250a43b",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  },
+  {
+   "id": "753d5705",
+   "grund": "Doppelung: steht bereits im vorhandenen Steckbrief"
+  }
+ ]
+}

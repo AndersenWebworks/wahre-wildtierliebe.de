@@ -1,0 +1,287 @@
+[
+ {
+  "id": "e9bc81e4",
+  "bezug": "umwelt",
+  "text": "In Eichenstubben mit braunem, zerfallendem Holz bleibt es warm und feucht. Käferlarven sollen dort langsamer heranwachsen als in einem morschen Ast."
+ },
+ {
+  "id": "dd5a2632",
+  "bezug": "umwelt",
+  "text": "Kiefern-Braunporlinge sind Pilze auf alten Baumstümpfen. Frische Ränder sind gelblich und weich, ältere Stellen werden dunkel."
+ },
+ {
+  "id": "47abceb0",
+  "bezug": "umwelt",
+  "text": "Kiefern-Braunporlinge wachsen an alten Baumstümpfen und dunkeln mit der Zeit nach. Frisch ist der Rand noch weich und wird erst später korkig hart."
+ },
+ {
+  "id": "998f5fee",
+  "bezug": "umwelt",
+  "text": "Kiefernzapfen öffnen sich bei trockener Luft und lassen die Samen los. Wird es feucht, machen sie die Schuppen wieder zu."
+ },
+ {
+  "id": "87e3db5c",
+  "bezug": "umwelt",
+  "text": "Kleiberhörnlinge wachsen orange auf morschem Holz. Die zähen, hornförmigen Pilze zeigen sich oft nach feuchten Nächten."
+ },
+ {
+  "id": "5643a170",
+  "bezug": "umwelt",
+  "text": "Königsfarn schiebt rostbraune Sporentriebe über die grünen Wedel hinaus. Darin reifen die Sporen, mit denen er sich vermehrt, und er mag vor allem saure Moorwälder."
+ },
+ {
+  "id": "e6257959",
+  "bezug": "umwelt",
+  "text": "Königsfarn wächst an quelligen Waldrändern. Die rostbraunen Sporenrispen oben an der Pflanze sehen aus wie eigene Wedel."
+ },
+ {
+  "id": "09e9719d",
+  "bezug": "umwelt",
+  "text": "Königsfarn wächst gern in nassen Moorwäldern. An den Spitzen seiner grünen Wedel sitzen braune Büschel, in denen die Sporen reifen."
+ },
+ {
+  "id": "385e6dcd",
+  "bezug": "umwelt",
+  "text": "Krause Glucken wachsen am Fuß alter Kiefern. Der Pilz sitzt am Wurzelholz, hat blasse Lappen und duftet würzig."
+ },
+ {
+  "id": "20f8691d",
+  "bezug": "umwelt",
+  "text": "Krause Glucken wachsen am Fuß alter Kiefern. Ihre lappigen Falten riechen frisch und würzig, nicht dumpf."
+ },
+ {
+  "id": "12ad8e3f",
+  "bezug": "umwelt",
+  "text": "Krebsscheren treiben im Graben als steife, grüne Blattsterne. Im Herbst sinken sie tiefer ins klare Wasser."
+ },
+ {
+  "id": "d474dbd9",
+  "bezug": "umwelt",
+  "text": "Kuckucks-Lichtnelken blühen rosa in feuchten Wiesen. Die Kronblätter sind tief geschlitzt und sehen fast zerfasert aus."
+ },
+ {
+  "id": "9ef816cd",
+  "bezug": "umwelt",
+  "text": "Kuckucks-Lichtnelken mögen feuchte Wiesen. Ihre rosa Blütenblätter sind tief und fein zerschlitzt."
+ },
+ {
+  "id": "7084ecb6",
+  "bezug": "umwelt",
+  "text": "Kuckucks-Lichtnelken wachsen auf feuchten Wiesen. Ihre rosa Blüten sind tief zerschlitzt, so unterscheidet man sie vom Leimkraut."
+ },
+ {
+  "id": "31e6a7af",
+  "bezug": "umwelt",
+  "text": "Lebermoose liegen flach auf feuchtem Totholz und bilden glatte, glänzende Lappen. Laubmoose wirken dagegen eher borstig."
+ },
+ {
+  "id": "808542df",
+  "bezug": "umwelt",
+  "text": "Mädesüß blüht schaumig weiß am Graben. Die Blüten duften süß, fast wie Mandeln."
+ },
+ {
+  "id": "f88d8b1f",
+  "bezug": "umwelt",
+  "text": "Mädesüß verströmt an feuchten Gräben einen süßen Duft. Seine gefiederten Blätter haben ein großes Endblättchen."
+ },
+ {
+  "id": "6196f130",
+  "bezug": "umwelt",
+  "text": "Maronenröhrlinge laufen im Schnitt blau an. Unter dem braunen Hut haben sie gelbe Röhren und wachsen gern im Kiefernmischwald."
+ },
+ {
+  "id": "cafd28d1",
+  "bezug": "umwelt",
+  "text": "Maronenröhrlinge wachsen gern bei Kiefern. Drückt man die gelben Röhren unter dem Hut, werden sie schnell blaugrün und nicht rot."
+ },
+ {
+  "id": "eba2e19c",
+  "bezug": "umwelt",
+  "text": "Moor-Birken haben kleine Blätter und wachsen sogar am Rand saurer Moore. Dort stehen die Stämme oft schief, und die Bäume wirken licht."
+ },
+ {
+  "id": "f8a62710",
+  "bezug": "umwelt",
+  "text": "Moor-Birken stehen an nassen Kanten. Kleine dreieckige Blätter und weißgraue Rinde passen zu kaltem, nassem Boden."
+ },
+ {
+  "id": "6ce20ad7",
+  "bezug": "umwelt",
+  "text": "Moorbirken wachsen mit weißen Stämmen in nassen Senken. Ihre dunklen Rindenrisse sind feiner als bei Sandbirken."
+ },
+ {
+  "id": "3c6808d3",
+  "bezug": "umwelt",
+  "text": "Moorlilien blühen gelb im sauren Moor. Später stehen orange Kapseln über den Polstern aus Torfmoos."
+ },
+ {
+  "id": "99e8eca4",
+  "bezug": "umwelt",
+  "text": "Moosbeeren kriechen über Torfmoos. Ihre roten Beeren liegen im Spätsommer tief zwischen den Polstern."
+ },
+ {
+  "id": "9f289756",
+  "bezug": "umwelt",
+  "text": "Moosige Totholzstämme halten Regenwasser länger. Springschwänze und Pilzfäden bleiben dort auch nach trockenen Tagen aktiv."
+ },
+ {
+  "id": "a0dbcd0b",
+  "bezug": "umwelt",
+  "text": "Nach der Blüte wachsen an Sumpf-Schwertlilien dreikantige Kapseln, die aufrecht am nassen Grabenrand stehen."
+ },
+ {
+  "id": "f94d0bf3",
+  "bezug": "umwelt",
+  "text": "Nach Regen quellen Judasohren am Holunder auf. Trocken schrumpfen die weichen Lappen zu dunklen Krusten."
+ },
+ {
+  "id": "d4d3b294",
+  "bezug": "umwelt",
+  "text": "Natternkopf leuchtet blau auf trockenem Sand. Aus der Nähe erkennt man ihn an den roten Knospen und den steifen Borsten am Stängel."
+ },
+ {
+  "id": "f4eb0e00",
+  "bezug": "umwelt",
+  "text": "Parasolpilze wachsen an mageren Wiesenrändern. Den Ring am Stiel kann man verschieben, und das unterscheidet sie von vielen anderen Schirmlingen."
+ },
+ {
+  "id": "6ace3cbb",
+  "bezug": "umwelt",
+  "text": "Pfeifengras bildet im Moor harte, dichte Büschel. Die alten Halme bleichen strohgelb aus und knicken erst spät um."
+ },
+ {
+  "id": "0defe035",
+  "bezug": "umwelt",
+  "text": "Pfeifengras färbt Lichtungen im Moor rostgelb. Es wächst in dichten Büscheln dort, wo der Boden nass, sauer und nährstoffarm ist."
+ },
+ {
+  "id": "d27fe044",
+  "bezug": "umwelt",
+  "text": "Pfeifengras wächst am Moorwald in harten, dichten Büscheln. Seine alten Halme stehen noch bleich da, wenn Seggen längst weich umgeknickt sind."
+ },
+ {
+  "id": "ba699e4a",
+  "bezug": "umwelt",
+  "text": "Pfeifengras wächst in dichten Büscheln im Moorwald. Die langen Halme vergilben spät im Jahr, und es zeigt sauren Boden an, der abwechselnd nass und trocken ist."
+ },
+ {
+  "id": "6d3cd47c",
+  "bezug": "umwelt",
+  "text": "Pfennigkraut kriecht am feuchten Wegrand entlang. Seine runden Blätter stehen sich gegenüber, und im Sommer erscheinen einzelne gelbe Blüten."
+ },
+ {
+  "id": "b37c0a8a",
+  "bezug": "umwelt",
+  "text": "Pfifferlinge duften im Mischwald nach Aprikosen. Unter dem Hut haben sie keine echten Lamellen, sondern Leisten, die am Stiel herablaufen und nicht brechen."
+ },
+ {
+  "id": "2fbcf00a",
+  "bezug": "umwelt",
+  "text": "Rainfarn blüht gelb am Wegrand. Seine Blütenköpfe sehen aus wie kleine Knöpfe und haben keine Blütenblätter am Rand wie die Margerite."
+ },
+ {
+  "id": "2aba4e44",
+  "bezug": "umwelt",
+  "text": "Rotbuchen behalten ihr trockenes Laub bis in den Winter hinein. Besonders junge Hecken rauschen dann noch, wenn andere Zweige längst kahl sind."
+ },
+ {
+  "id": "548b47a1",
+  "bezug": "umwelt",
+  "text": "Rotrandige Baumschwämme sind harte Pilze an Fichtenholz. Wo der Pilz gerade wächst, ist der Rand hell und fühlt sich frisch wachsartig an."
+ },
+ {
+  "id": "3667dbfa",
+  "bezug": "umwelt",
+  "text": "Rotrandige Baumschwämme wachsen als Pilze an Kiefern. Am rötlichen, lackartig glänzenden Rand sieht man, wo der Pilz am Totholz gerade weiterwächst."
+ },
+ {
+  "id": "d14dc6ad",
+  "bezug": "umwelt",
+  "text": "Rotrandige Baumschwämme wachsen als Pilze an toten Kiefern. Am hellen, weichen Rand wächst der Pilz gerade weiter, darunter liegen dunkle Poren."
+ },
+ {
+  "id": "572afc66",
+  "bezug": "umwelt",
+  "text": "Rotrandige Baumschwämme wachsen an Fichtenstubben. Am gelben Rand mit der braunen Kruste dahinter sieht man, dass der Pilz frisch wächst."
+ },
+ {
+  "id": "ce231cbd",
+  "bezug": "umwelt",
+  "text": "Rundblättriger Sonnentau glänzt im Torfmoos. Seine roten, klebrigen Fangfäden halten kleine Mücken am Moorrand fest."
+ },
+ {
+  "id": "3fdc4928",
+  "bezug": "umwelt",
+  "text": "Salweiden stehen am Graben und haben graue Blattunterseiten. Mit ihren frühen, weichen Kätzchen versorgen sie Hummelköniginnen nach dem Winter."
+ },
+ {
+  "id": "15365b47",
+  "bezug": "umwelt",
+  "text": "Samtfußrüblinge zeigen sich sogar an Frosttagen. Die dunklen, samtigen Stiele wachsen büschelig aus Stümpfen von Laubbäumen."
+ },
+ {
+  "id": "6c6fca85",
+  "bezug": "umwelt",
+  "text": "Scharbockskraut blüht im Frühjahr gelb und ist schon im Frühsommer wieder eingezogen. Danach sucht man es an den feuchten Rändern fast vergeblich."
+ },
+ {
+  "id": "6fa059d4",
+  "bezug": "umwelt",
+  "text": "Scheiden-Wollgras trägt weiße Wollköpfe, die weit über das Moor leuchten. Die Halme wachsen aus nassen, sauren Grasbulten."
+ },
+ {
+  "id": "6cbdd4da",
+  "bezug": "umwelt",
+  "text": "Schlangenknöterich blüht in feuchten Wiesen. Rosa Ähren ragen über die pfeilförmigen Blätter am Fuß der Pflanze."
+ },
+ {
+  "id": "ef91d455",
+  "bezug": "umwelt",
+  "text": "Schmetterlingstrameten wachsen als Pilze in Fächern an Totholz. Ihre samtigen Zonen sind am Rand heller, denn dort wächst der Pilz gerade weiter."
+ },
+ {
+  "id": "4d3c16ee",
+  "bezug": "umwelt",
+  "text": "Schwanenblumen stehen im flachen Wasser von Gräben. An den rosa Blüten kann man sie leicht vom Schilf unterscheiden."
+ },
+ {
+  "id": "f862e8d7",
+  "bezug": "umwelt",
+  "text": "Schwarz-Erlen stehen mit den Wurzeln im nassen Boden am Graben. Ihre kleinen schwarzen Zapfen hängen bis weit in den Winter am Baum."
+ },
+ {
+  "id": "89db6e82",
+  "bezug": "umwelt",
+  "text": "Schwarzerlen stehen an Gräben oft auf freiliegenden Wurzeln. In kleinen Knöllchen daran holen Bakterien Stickstoff aus der Luft."
+ },
+ {
+  "id": "1d6cfe54",
+  "bezug": "umwelt",
+  "text": "Schwarzerlen tragen kleine Fruchtstände, die wie Zapfen aussehen. Am nassen Graben stehen sie auf Wurzeln, die wie Stelzen aus dem Boden ragen."
+ },
+ {
+  "id": "57b9f220",
+  "bezug": "umwelt",
+  "text": "Schwarzerlen tragen noch die kleinen Zapfen vom Vorjahr. Im nassen Bruchwald halten ihre Wurzeln die Grabenränder fest."
+ },
+ {
+  "id": "8128e56b",
+  "bezug": "umwelt",
+  "text": "Schwefelporlinge leuchten gelb an alten Eichen und stehen wie Konsolen vom Stamm ab. Jung sind sie weich, später kreidig und brüchig."
+ },
+ {
+  "id": "47c4bcf7",
+  "bezug": "umwelt",
+  "text": "Schwefelporlinge leuchten schwefelgelb an alten Weiden. An den Rändern sind sie jung weich, später wird der Pilz trocken und bricht kreidig."
+ },
+ {
+  "id": "05090655",
+  "bezug": "umwelt",
+  "text": "Silbergras wächst büschelig auf Kiefernsand. Die eingerollten Blätter sparen Wasser, und so zeigt es magere, heiße Standorte an."
+ },
+ {
+  "id": "fc39c601",
+  "bezug": "umwelt",
+  "text": "Silberweiden schimmern, weil ihre Blattunterseite mit feinem, silbrigem Haarfilz überzogen ist. Abgerissene Zweige treiben im feuchten Ufersaum leicht wieder aus."
+ }
+]

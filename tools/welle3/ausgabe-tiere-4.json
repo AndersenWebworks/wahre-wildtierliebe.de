@@ -1,0 +1,397 @@
+{
+  "paket": "tiere-4",
+  "neu": [
+    {
+      "slug": "sperlingskauz",
+      "name": "Sperlingskauz",
+      "latein": "Glaucidium passerinum",
+      "gruppe": "Greifvögel und Eulen",
+      "kurz": "Der Sperlingskauz ist mit 15 bis 19 Zentimetern die kleinste Eule Europas, ungefähr so groß wie ein Star. Man erkennt ihn am runden Kopf, an den weißen Überaugenstreifen und am weich pfeifenden Gesang.",
+      "erkennen": [
+        "Körperlänge 15 bis 19 Zentimeter, starengroß, mit rundem Kopf",
+        "Oberseite braun und weiß gesprenkelt, Unterseite hell",
+        "Weiße Überaugenstreifen und kleine, eng beieinanderliegende gelbe Augen geben ihm einen strengen Gesichtsausdruck",
+        "Der Gesang ist ein weiches Pfeifen, das in zehn Sekunden sechs- bis siebenmal wiederholt wird"
+      ],
+      "verwechslung": null,
+      "lebensraum": "Nadel- und Mischwälder mit Altholz. Er brütet in Baumhöhlen, oft in alten Buntspechthöhlen, und bleibt das ganze Jahr in seinem Revier.",
+      "zeit": "Er ist vor allem in der Dämmerung aktiv. Der hell pfeifende Revierruf ist im Frühjahr und im Herbst zu hören und trägt bis zu einem Kilometer weit. Im Herbst folgt oft die „Leiter“, eine Reihe aufsteigender Pfeiftöne. Im Winter legt er in Baumhöhlen Nahrungsvorräte an.",
+      "spuren": "Entdecken Kleinvögel einen ruhenden Sperlingskauz am Tag, warnen sie lautstark. Solche Warnrufe lockern andere Waldvögel an, die den Kauz dann gemeinsam verscheuchen. Der Gesang ist die beste Spur, denn die Art ist sehr heimlich.",
+      "tiere": null,
+      "regional": null,
+      "umgang": "Brutwälder mit alten Bäumen und Spechthöhlen erhalten. Brutplätze und Rufreviere in der Dämmerung nicht mit Lockrufen oder Abspielen stören.",
+      "schutz": "Nach dem NABU-Vogelporträt in Deutschland nicht gefährdet, mit 4.000 bis 7.000 Brutpaaren und zunehmendem Bestand.",
+      "naturdeck_ids": [
+        "0fe7eb69"
+      ],
+      "korrekturen": [
+        "0fe7eb69: Die Aussage stimmt im Kern. Die Quellen beschreiben den Gesang als weiches Pfeifen (LBV) beziehungsweise als hell pfeifenden Revierruf (Nationalpark Schwarzwald); das Schimpfen der Kleinvögel gilt laut Nationalpark Schwarzwald für Tiere, die den Kauz tagsüber am Ruheplatz entdecken. Das Abspielen von Lockrufen ist in keiner Quelle genannt und wurde im Umgang als eigene vorsichtige Empfehlung formuliert; vor Veröffentlichung gegenprüfen oder streichen."
+      ],
+      "quellen": [
+        [
+          "NABU: Vogelporträt Sperlingskauz",
+          "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/sperlingskauz/"
+        ],
+        [
+          "LBV: Artenporträt Sperlingskauz",
+          "https://www.lbv.de/ratgeber/naturwissen/artenportraits/detail/sperlingskauz/"
+        ],
+        [
+          "Nationalpark Schwarzwald: Sperlingskauz",
+          "https://www.nationalpark-schwarzwald.de/nationalpark/blog/2025/sperlingskauz"
+        ]
+      ]
+    },
+    {
+      "slug": "springfrosch",
+      "name": "Springfrosch",
+      "latein": "Rana dalmatina",
+      "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+      "kurz": "Der Springfrosch ist ein schlanker Braunfrosch mit auffallend langen Hinterbeinen. Er ist kleiner als der Grasfrosch und lebt in lichten, warmen Wäldern.",
+      "erkennen": [
+        "Weibchen bis etwa 80 Millimeter, Männchen höchstens etwa 65 Millimeter lang",
+        "Sehr lange Hinterbeine: Legt man sie seitlich an den Rumpf an, reicht das Fersengelenk oft deutlich über die Schnauzenspitze hinaus",
+        "Das Trommelfell, die runde Hautscheibe hinter dem Auge, ist fast so groß wie das Auge und liegt dicht dahinter",
+        "Die Färbung ist einheitlich in Brauntönen, bunte Tiere gibt es kaum"
+      ],
+      "verwechslung": "Mit dem Grasfrosch. Beim Springfrosch ragt das Fersengelenk über die Schnauzenspitze hinaus und das Trommelfell ist größer. Dieser Fersentest gilt als das sicherste Merkmal.",
+      "lebensraum": "Die wärmeliebende Art bevorzugt trockene, warme, lichte und krautreiche Misch- und Laubwälder und deren Ränder. Zum Laichen braucht sie besonnte, fischfreie Kleingewässer, die auch zeitweise austrocknen dürfen.",
+      "zeit": "Er ist meist die erste Froschart am Laichgewässer. Die Paarungszeit reicht von Februar bis April.",
+      "spuren": "Die Männchen rufen zur Paarungszeit ein rasches „og og og“ oder „ko ko ko“. Der Laichballen mit 400 bis 1.800 Eiern wird meist an Äste oder Pflanzenstängel in mittlerer Wassertiefe geheftet.",
+      "tiere": null,
+      "regional": null,
+      "umgang": "Besonnte Kleingewässer ohne Fischbesatz und lichte Laubwälder in der Umgebung erhalten. Laichgewässer und Laichballen nicht stören und keine Tiere entnehmen.",
+      "schutz": "Rote Liste Deutschland (2009): ungefährdet.",
+      "naturdeck_ids": [
+        "df7f2422"
+      ],
+      "korrekturen": [
+        "df7f2422: Der Fakt sagt, die Ferse reiche „fast“ bis zur Schnauze. Belegt ist, dass sie oft deutlich über die Schnauzenspitze hinausreicht (Grasfrosch dagegen meist nur bis zum Auge). Der Bezug „Waldgraben“ ist nicht belegt; die Quellen nennen lichte Wälder und besonnte Kleingewässer. Sprungweiten wurden nicht übernommen, weil keine abgerufene Fachquelle sie trug. Laut AG Feldherpetologie gilt der Springfrosch in Mecklenburg-Vorpommern als „vom Aussterben bedroht“, die Quelle nennt dafür kein Jahr; nicht übernommen, weil Rote-Liste-Angaben ein Jahr brauchen. Mit Rote Liste MV (Jahr) nachrecherchieren."
+      ],
+      "quellen": [
+        [
+          "AG Feldherpetologie und Artenschutz: Artensteckbrief Springfrosch",
+          "https://feldherpetologie.de/heimische-amphibien-artensteckbrief/artensteckbrief-springfrosch-rana-dalamtina/"
+        ]
+      ]
+    }
+  ],
+  "ergaenzungen": [
+    {
+      "slug": "breitfluegelfledermaus",
+      "feld": "lebensraum",
+      "wert": "Sie jagt vor allem größere Käfer wie Mist- und Maikäfer. Die Weibchen bilden Wochenstuben von meist 10 bis 60 Tieren, die jedes Jahr dieselben Sommerquartiere an Gebäuden beziehen.",
+      "quellen_neu": [
+        [
+          "BfN: Artenporträt Breitflügelfledermaus",
+          "https://www.bfn.de/artenportraits/eptesicus-serotinus"
+        ]
+      ],
+      "naturdeck_ids": [
+        "dc0ce31d"
+      ]
+    }
+  ],
+  "nicht_uebernommen": [
+    {
+      "id": "2b7c747a",
+      "grund": "bereits im Steckbrief „siebenpunkt-marienkaefer“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "216eaf15",
+      "grund": "bereits im Steckbrief „gemeine-skorpionsfliege“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "db76efa3",
+      "grund": "bereits im Steckbrief „gemeine-skorpionsfliege“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "b24f5318",
+      "grund": "bereits im Steckbrief „gemeine-smaragdlibelle“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "1dd46d6d",
+      "grund": "bereits im Steckbrief „sperber“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "9989179c",
+      "grund": "bereits im Steckbrief „sperber“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "ad77910f",
+      "grund": "keine Fachquelle gefunden; die Aussage vermischt Spinnenläufer (Scutigera) und Steinläufer, ein Art-Bezug ist nicht belegt"
+    },
+    {
+      "id": "9054839e",
+      "grund": "bereits im Steckbrief „sprosser“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "a6f83c8c",
+      "grund": "bereits im Steckbrief „star“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "7bf55e40",
+      "grund": "bereits im Steckbrief „sumpfdeckelschnecken“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "8ddb3e27",
+      "grund": "bereits im Steckbrief „sumpfgrashuepfer“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "bbd54087",
+      "grund": "bereits im Steckbrief „sumpfmeise“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "0a84ce83",
+      "grund": "bereits im Steckbrief „sumpfmeise“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "a704e203",
+      "grund": "bereits im Steckbrief „sumpfmeise“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "eb6b9f6f",
+      "grund": "bereits im Steckbrief „sumpfohreule“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "f68355fe",
+      "grund": "bereits im Steckbrief „sumpfrohrsaenger“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "14a49115",
+      "grund": "bereits im Steckbrief „tafelente“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "74f0faf3",
+      "grund": "bereits im Steckbrief „waldohreule“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "83b1a682",
+      "grund": "bereits im Steckbrief „tannenmeise“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "14536036",
+      "grund": "bereits im Steckbrief „teichlaeufer“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "31d39875",
+      "grund": "bereits im Steckbrief „teichlaeufer“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "986f83a8",
+      "grund": "bereits im Steckbrief „teichrohrsaenger“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "1662bd5e",
+      "grund": "bereits im Steckbrief „teichrohrsaenger“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "4b399518",
+      "grund": "bereits im Steckbrief „teichrohrsaenger“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "e9151532",
+      "grund": "Doppelung: Baumsäfte stehen schon im Steckbrief Trauermantel; der ausgefranste Flügelrand ist ohne Fachquelle"
+    },
+    {
+      "id": "d2556cbc",
+      "grund": "bereits im Steckbrief „trauerschnaepper“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "fc7cca8d",
+      "grund": "bereits im Steckbrief „uhu“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "d63e935c",
+      "grund": "Art nicht eindeutig zuordenbar und keine Fachquelle abgerufen"
+    },
+    {
+      "id": "395ed215",
+      "grund": "bereits im Steckbrief „waldkauz“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "b4d0c57b",
+      "grund": "bereits im Steckbrief „gemeine-eichengallwespe“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "0835879a",
+      "grund": "bereits im Steckbrief „zwergfledermaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "d9e0b27b",
+      "grund": "bereits im Steckbrief „gemeine-dornschrecke“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "4f18cb97",
+      "grund": "bereits im Steckbrief „waldkauz“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "303b64d0",
+      "grund": "keine Fachquelle abgerufen für verstärktes Rufen im Herbst und Mauserfedern am Schlafplatz (NABU-Porträt trägt das nicht)"
+    },
+    {
+      "id": "71a3b032",
+      "grund": "bereits im Steckbrief „waldkauz“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "37a9a030",
+      "grund": "bereits im Steckbrief „waldlaubsaenger“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "15bede98",
+      "grund": "bereits im Steckbrief „roetelmaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "4feb8c5a",
+      "grund": "bereits im Steckbrief „roetelmaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "2080bab9",
+      "grund": "bereits im Steckbrief „waldmaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "4be3f37e",
+      "grund": "bereits im Steckbrief „waldschnepfe“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "00f1e986",
+      "grund": "bereits im Steckbrief „waldspitzmaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "1c7f2fd7",
+      "grund": "bereits im Steckbrief „waldspitzmaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "2317150e",
+      "grund": "bereits im Steckbrief „waldspitzmaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "9279266a",
+      "grund": "bereits im Steckbrief „waldspitzmaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "6ae4fc48",
+      "grund": "bereits im Steckbrief „wanderfalke“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "7ff70818",
+      "grund": "bereits im Steckbrief „wanderratte“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "29f75362",
+      "grund": "bereits im Steckbrief „wanderratte“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "cfc461f7",
+      "grund": "bereits im Steckbrief „wanderratte“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "b1248361",
+      "grund": "bereits im Steckbrief „wanderratte“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "f37b726f",
+      "grund": "bereits im Steckbrief „waschbaer“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "4fe07e83",
+      "grund": "bereits im Steckbrief „wasserfledermaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "d37821f5",
+      "grund": "bereits im Steckbrief „wasserfledermaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "a2a4d7a6",
+      "grund": "bereits im Steckbrief „wasserfledermaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "3f2d3f84",
+      "grund": "bereits im Steckbrief „wasserskorpion“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "04198605",
+      "grund": "bereits im Steckbrief „wasserspitzmaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "3384db70",
+      "grund": "bereits im Steckbrief „wasserspitzmaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "ee18ca5d",
+      "grund": "bereits im Steckbrief „gaensesaeger“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "86be08de",
+      "grund": "bereits im Steckbrief „weinbergschnecke“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "9cef0652",
+      "grund": "Doppelung: Bänderung als Rindentarnung steht schon im Steckbrief Wendehals; Ruf „nasal“ nicht belegt"
+    },
+    {
+      "id": "92eb4895",
+      "grund": "Doppelung: Ameisen als Nahrung und Lebensraum stehen schon im Steckbrief Wendehals"
+    },
+    {
+      "id": "7074dd5d",
+      "grund": "bereits im Steckbrief „wespenbussard“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "135e1b5e",
+      "grund": "bereits im Steckbrief „wespenbussard“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "b035528e",
+      "grund": "bereits im Steckbrief „wespenbussard“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "ad20de7c",
+      "grund": "Doppelung: Graben nach Wespennestern steht schon im Steckbrief Wespenbussard"
+    },
+    {
+      "id": "49ee2a7d",
+      "grund": "bereits im Steckbrief „wildkaninchen“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "2e1f8270",
+      "grund": "bereits im Steckbrief „gemeine-winterlibelle“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "b3953a37",
+      "grund": "bereits im Steckbrief „schwarzer-moderkaefer“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "48481486",
+      "grund": "bereits im Steckbrief „graugans“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "0b3072ea",
+      "grund": "bereits im Steckbrief „nutria“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "b37f475a",
+      "grund": "bereits im Steckbrief „mauer-zebraspringspinne“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "533dbe7a",
+      "grund": "bereits im Steckbrief „zilpzalp“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "8340bd1f",
+      "grund": "bereits im Steckbrief „zwergfledermaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "f9dc7510",
+      "grund": "bereits im Steckbrief „zwergfledermaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "9974eb3a",
+      "grund": "bereits im Steckbrief „zwergmaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    },
+    {
+      "id": "67f601fb",
+      "grund": "bereits im Steckbrief „zwergspitzmaus“ geprüft (siehe dortige korrekturen); keine weitere belegte Ergänzung über den vorhandenen Text hinaus"
+    }
+  ]
+}

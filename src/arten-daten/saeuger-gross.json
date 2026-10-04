@@ -63,7 +63,7 @@
    "verwechslung": "Mit Damwild: Damwild ist kleiner, hat im Sommer weiße Flecken und ein Schaufelgeweih, sein Tritt ist schmaler und vorn spitzer.",
    "lebensraum": "Wälder mit angrenzenden Offenlandflächen. Ursprünglich lebte die Art im Offenland und wurde erst vom Menschen in den Wald gedrängt.",
    "zeit": "Die Brunft mit dem Röhren liegt im September und Oktober.",
-   "spuren": "Breite Schalenabdrücke, die Afterklauen drücken sich nur bei Flucht oder weichem Boden ab. Losung 2 bis 3 cm groß und walzenförmig. Rotwild frisst auch Rinde und Triebe, daraus entstehen Schälschäden. Suhlen und Malbäume gehören zu den typischen Zeichen, vor allem während der Brunft.",
+   "spuren": "Breite Schalenabdrücke, die Afterklauen drücken sich nur bei Flucht oder weichem Boden ab. Losung 2 bis 3 cm groß und walzenförmig. Rotwild frisst auch Rinde und Triebe, daraus entstehen Schälschäden. Suhlen und Malbäume gehören zu den typischen Zeichen, vor allem während der Brunft. Bei der Winterschäle bleiben auf der fest sitzenden Rinde Schürfspuren der unteren Schneidezähne zurück; im Sommer zieht Rotwild die Rinde dagegen in langen Bahnen ab. Das Fegen des Geweihs erkennt man an Rindenfetzen, die am Stamm hängen, und an der Zeit gegen Ende Juli bis Mitte August.",
    "regional": null,
    "umgang": "Auf den Wegen bleiben, Hunde anleinen und in der Brunftzeit besonders viel Abstand zu Rudeln und röhrenden Hirschen halten. Wildunfälle der Polizei melden.",
    "schutz": "Jagdbare Art, nicht gefährdet. Die Deutsche Wildtier Stiftung fordert den Austausch zwischen Teilbeständen durch Wanderkorridore und Grünbrücken.",
@@ -71,7 +71,9 @@
     "4c5f3e8b",
     "c0ccc038",
     "75150223",
-    "c79187c9"
+    "c79187c9",
+    "40daf2a7",
+    "fa371940"
    ],
    "korrekturen": [
     "40daf2a7 und fa371940: Schälen ist belegt, die Angaben zu Jahreszeit ('im Sommer', 'im Winter') und zu senkrechten Zahnzügen wurden nicht belegt und nicht übernommen."
@@ -84,6 +86,14 @@
     [
      "waldwissen.net: Wildtierkot erkennen",
      "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/wildtierkot-erkennen"
+    ],
+    [
+     "BFW, Schälschäden",
+     "https://bfw.ac.at/rz/bfwcms.web?dok=5486"
+    ],
+    [
+     "WSL, Verbiss durch Schalenwild",
+     "https://www.wsl.ch/de/wald/bewirtschaftung-und-waldfunktionen/waldbau-wachstum-und-ertrag/waldverjuengung/verbiss-durch-schalenwild/"
     ]
    ]
   },
@@ -228,7 +238,7 @@
    "verwechslung": "Mit Fuchs und Hund durch die Fährte unterscheidbar: Dachs fünf Zehen, Fuchs und Hund vier. Verwechselbar mit dem Waschbären, der aber gespreizte, handartige Zehen hat.",
    "lebensraum": "Hanglagen in Laubwäldern, von dort aus Wiesen, Felder und Siedlungsränder an Bächen und Gärten.",
    "zeit": "Nachtaktiv, ganzjährig im Gebiet.",
-   "spuren": "Flache Kotgruben (Latrinen) mit fuchsähnlicher, meist nicht spitz endender Losung von etwa 2 cm Durchmesser. Festgetretene Wechsel durchs Gras, Bauanlage mit mehreren Röhren, Kratzspuren an Bäumen.",
+   "spuren": "Flache Kotgruben (Latrinen) mit fuchsähnlicher, meist nicht spitz endender Losung von etwa 2 cm Durchmesser. Festgetretene Wechsel durchs Gras, Bauanlage mit mehreren Röhren, Kratzspuren an Bäumen. Dachshaare findet man oft an Durchschlupflöchern in Zäunen und vor dem Bau. Sie fühlen sich drahtig an und sind abwechselnd schwarz und weiß, die Spitze ist weiß.",
    "regional": null,
    "umgang": "Bauten und Wechsel nicht stören und nicht betreten. Latrinen und Wühlstellen im Garten sind Zeichen eines Nahrungsreviers, keine Schädigung, die ein Eingreifen rechtfertigt. Bei einem Bau am Haus die Untere Naturschutzbehörde fragen.",
    "schutz": "Nicht gefährdet, jagdbare Art (Stadtwildtiere).",
@@ -237,7 +247,8 @@
     "2e54414a",
     "9fe26910",
     "c6026b83",
-    "cbc30692"
+    "cbc30692",
+    "6a03d39c"
    ],
    "korrekturen": [
     "6a03d39c (graue Haare mit heller Spitze am Stacheldraht) und adc9952c (Erde fächerförmig vor dem Bau, tiefere Krallenrillen als bei Fuchsgruben) nicht belegt, nicht übernommen."
@@ -254,6 +265,10 @@
     [
      "waldwissen.net: Wildtierkot erkennen",
      "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/wildtierkot-erkennen"
+    ],
+    [
+     "WWF Junior: Tierhaare entdecken",
+     "https://www.wwf.de/junior/natur-erleben/tierhaare-entdecken"
     ]
    ]
   },
@@ -272,7 +287,7 @@
    "verwechslung": "Mit dem Baummarder: Dieser hat einen rundlichen gelblichen bis orangefarbenen Kehlfleck und eine dunkelbraune Nase. Auf Dachböden und in Hofgebäuden handelt es sich fast immer um den Steinmarder, weil er Nähe zum Menschen sucht.",
    "lebensraum": "Ursprünglich Felsbewohner, heute Wälder und vor allem Siedlungen, Scheunen, Dachböden und Hofanlagen.",
    "zeit": "Nachtaktiv, ganzjährig. Die Jungen kommen meist im April oder Mai zur Welt.",
-   "spuren": "Wurstförmige, 8 bis 10 cm lange Losung mit gedrehter Spitze, oft auf erhöhten Stellen wie Balken, Mauern oder Holzstapeln. Im Sommer enthält sie oft Kirschkerne und Beerenreste. Trittsiegel mit fünf Zehen und Krallen.",
+   "spuren": "Wurstförmige, 8 bis 10 cm lange Losung mit gedrehter Spitze, oft auf erhöhten Stellen wie Balken, Mauern oder Holzstapeln. Im Sommer enthält sie oft Kirschkerne und Beerenreste. Trittsiegel mit fünf Zehen und Krallen. Im Schnee laufen Marder meist im Paarsprung: Die Abdrücke liegen paarweise nebeneinander, sodass eine regelmäßige Spur aus Zweiergruppen entsteht. Die Trittsiegel von Stein- und Baummarder sind mit 3 bis 7 Zentimetern die längsten unter den Marderartigen.",
    "regional": null,
    "umgang": "Wenn Jungtiere im Gebäude sind, nicht vertreiben, sondern abwarten, bis sie ausgezogen sind. Einstiegslöcher danach verschließen, wenn sicher niemand mehr drin ist. Dabei die Untere Jagd- oder Naturschutzbehörde fragen.",
    "schutz": "Nicht gefährdet, jagdbare Art mit Schonzeit (Jagdzeit nach Bundesjagdzeitenverordnung 16. Oktober bis 28. Februar).",
@@ -282,7 +297,8 @@
     "6992311f",
     "cad88db4",
     "f39de1d7",
-    "fe7b0526"
+    "fe7b0526",
+    "2aa54e76"
    ],
    "korrekturen": [
     "fe7b0526: fünf Zehen belegt, der Vergleich 'Ballen dichter als beim Waschbären' nicht belegt.",
@@ -301,6 +317,14 @@
     [
      "Berlin.de: Der Steinmarder",
      "https://www.berlin.de/sen/uvk/natur-und-gruen/jagd-und-wildtiere/wildtiere-im-stadtgebiet/steinmarder/"
+    ],
+    [
+     "Stadtwildtiere Österreich, Spuren im Schnee",
+     "https://www.stadtwildtiere.at/info/spuren-im-schnee-feldhase-co-0"
+    ],
+    [
+     "BUND Niedersachsen, Spuren im Schnee",
+     "https://www.bund-niedersachsen.de/natur-erleben/tipps-zur-naturbeobachtung/januar/koenig-der-nacht-1/"
     ]
    ]
   },
@@ -319,14 +343,16 @@
    "verwechslung": "Mit dem Steinmarder, der einen weißen, oft gegabelten Kehlfleck, eine rosa Nase und ein graueres Fell hat. Der Kehlfleck gilt als zuverlässigstes Merkmal.",
    "lebensraum": "Wälder, auch fragmentierte Wälder und waldnahe Gärten. Reviere können bis zu 30 Quadratkilometer groß sein.",
    "zeit": "Überwiegend nachtaktiv, gelegentlich auch tagsüber aktiv.",
-   "spuren": "Gedrehte, wurstförmige Losung, im Sommer mit Beerenresten. Die Losung des Baummarders riecht nach Moschus, die des Steinmarders unangenehm.",
+   "spuren": "Gedrehte, wurstförmige Losung, im Sommer mit Beerenresten. Die Losung des Baummarders riecht nach Moschus, die des Steinmarders unangenehm. Die Losung ist 6 bis 12 Zentimeter lang, 0,7 bis 1,2 Zentimeter dick, spindelförmig, oft leicht gebogen oder verdreht und an den Enden meist spitz. Neben Beerenresten und Samen enthält sie Haare und Federn.",
    "regional": null,
    "umgang": "Im Wald und an Waldrändern Abstand halten und Wege nicht verlassen. Der Baummarder braucht vernetzte Wälder, deshalb helfen Hecken und Waldkorridore. Straßenverkehr ist eine Hauptursache für Verluste.",
    "schutz": "Nicht gefährdet, jagdbare Art; in einigen Bundesländern strenger geschützt (Regelung des Bundeslandes prüfen).",
    "naturdeck_ids": [
     "10d2f04e",
     "5252a4ad",
-    "b64d21bb"
+    "b64d21bb",
+    "42cd734c",
+    "ac4f8196"
    ],
    "korrekturen": [
     "ac4f8196 und 42cd734c: Kirschkerne (Steinmarder-Merkmal) und Losung 'auf Stubben' nicht belegt für den Baummarder, nicht übernommen.",
@@ -341,6 +367,10 @@
     [
      "waldwissen.net: Baummarder oder Steinmarder",
      "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/saeugetiere/baummarder-oder-steinmarder"
+    ],
+    [
+     "waldwissen.net, Wildtierkot erkennen",
+     "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/wildtierkot-erkennen"
     ]
    ]
   },
@@ -359,13 +389,16 @@
    "verwechslung": "Mit Stein- und Baummarder: der Iltis ist zierlicher, hat einen kürzeren, weniger buschigen Schwanz und die helle Maske.",
    "lebensraum": "Bewachsene Bach- und Flussufer, Sumpfgebiete, Rohrgürtel, grabenreiche Wiesen und Feldgehölze, auch Siedlungsränder.",
    "zeit": "Dämmerungs- und nachtaktiv.",
-   "spuren": "Häufig Paarsprünge, die rund ein Drittel kürzer sind als bei Verwandten. Die Krallen sind im fünfzehigen Abdruck deutlich zu sehen. Das Analdrüsensekret riecht übel und dient zur Revierkennzeichnung und Verteidigung.",
+   "spuren": "Häufig Paarsprünge, die rund ein Drittel kürzer sind als bei Verwandten. Die Krallen sind im fünfzehigen Abdruck deutlich zu sehen. Das Analdrüsensekret riecht übel und dient zur Revierkennzeichnung und Verteidigung. Die Losung ist ein gedrehtes, braunschwarzes Röllchen von 6 bis 8 Zentimeter Länge und 8 bis 10 Millimeter Dicke. Sie riecht scharf, liegt bevorzugt an erhöhten Stellen und enthält Haare, Federn, Knochen und Beerenreste. Da der Iltis auch Amphibien wie Frösche und Kröten frisst, können sich in der Losung entsprechende Reste finden.",
    "regional": null,
    "umgang": "Feuchte, strukturreiche Gräben und Ufersäume nicht ausräumen, das hilft der Art. Bei Funden im Haus oder Verletzten die Untere Naturschutzbehörde fragen.",
    "schutz": "Rote Liste Deutschland 3 (gefährdet), FFH-Richtlinie Anhang V; jagdbar, in vielen Bundesländern ruht die Jagd.",
    "naturdeck_ids": [
     "4c2c3f21",
-    "9539c6af"
+    "9539c6af",
+    "950b7e1e",
+    "d9abde52",
+    "2a9f0c54"
    ],
    "korrekturen": [
     "ba5a547c: 'Lauf wirkt breiter und weicher als bei Mardern' widerspricht der Quelle, laut der der Iltistritt kleiner und zarter als beim Marder ist.",
@@ -383,6 +416,10 @@
     [
      "Wikipedia: Europäischer Iltis (ergänzend)",
      "https://de.wikipedia.org/wiki/Europ%C3%A4ischer_Iltis"
+    ],
+    [
+     "Wildhüter St. Hubertus: Iltis",
+     "https://www.wildhueter-st-hubertus.de/iltis-2"
     ]
    ]
   },
@@ -401,14 +438,16 @@
    "verwechslung": "Mit dem Mauswiesel: Dieses hat keine schwarze Schwanzspitze, einen gezackten Verlauf der Fellgrenze und bleibt im Winter braun.",
    "lebensraum": "Offene und halboffene Landschaft mit Mäusevorkommen, Gräben, Hecken, Ufer und Wiesen.",
    "zeit": "Vorwiegend nachtaktiv, legt pro Nacht mehrere Kilometer zurück.",
-   "spuren": "Trittsiegel sind schwer von denen großer Mauswiesel zu trennen, weil sich die Größen überlappen. Beobachtungen im Schnee: Spurbreite etwa 7,5 cm beim Hermelin gegenüber knapp 4 cm beim Mauswiesel (nur Einzelbeispiele, keine festen Grenzwerte).",
+   "spuren": "Trittsiegel sind schwer von denen großer Mauswiesel zu trennen, weil sich die Größen überlappen. Beobachtungen im Schnee: Spurbreite etwa 7,5 cm beim Hermelin gegenüber knapp 4 cm beim Mauswiesel (nur Einzelbeispiele, keine festen Grenzwerte). Die Losung ist ein gedrehtes, fast schwarzes Röllchen von nur etwa 4 bis 6 Millimeter Dicke. Sie enthält Haare, Federn und Knochenreste der Beute und liegt oft auf erhöhten Stellen oder wiederholt am selben Platz nahe dem Bau. Mäuse verfolgt das Hermelin bis in deren Gänge.",
    "regional": null,
    "umgang": "Aus der Ferne beobachten und nicht verfolgen. Hecken und Altgrasstreifen am Feldrand erhalten. Verletzte oder offensichtlich hilflose Tiere nicht anfassen, sondern eine Wildtierstation fragen.",
    "schutz": "Rote Liste Deutschland: Kategorie D (Daten unzureichend).",
    "naturdeck_ids": [
     "02d82358",
     "7b665d90",
-    "8aba3191"
+    "8aba3191",
+    "00c7233d",
+    "835fb426"
    ],
    "korrekturen": [
     "00c7233d und 835fb426 (Kotwürstchen auf Steinen, Federreste): nicht belegt. Sicher belegt ist die Jagd auf Wühlmäuse und kleine Säuger, Vögel kommen ebenfalls vor.",
@@ -427,6 +466,14 @@
     [
      "Wildbrücke: Unterschied Mauswiesel und Hermelin",
      "https://wildbruecke.de/mauswiesel-und-hermelin/"
+    ],
+    [
+     "Wildhüter St. Hubertus: Hermelin",
+     "https://www.wildhueter-st-hubertus.de/hermelin-2"
+    ],
+    [
+     "Natur in NRW: Hermelin (Mustela erminea)",
+     "https://www.natur-in-nrw.de/HTML/Tiere/Saeugetiere/TM-29.html"
     ]
    ]
   },
@@ -445,11 +492,13 @@
    "verwechslung": "Mit dem Hermelin, das etwa doppelt so groß ist, eine ganzjährig schwarze Schwanzspitze hat und im Winter weiß wird.",
    "lebensraum": "Waldränder, Wiesen, Äcker und Hecken. Gern in Strukturen mit Wühlmausvorkommen.",
    "zeit": "Ganzjährig aktiv, überwiegend dämmerungs- und tagaktiv.",
-   "spuren": "Nur schwer zu entdecken. Die Trittsiegel überschneiden sich in der Größe mit denen kleiner Hermeline, im Schnee hilft die Spurbreite (Einzelbeispiel knapp 4 cm).",
+   "spuren": "Nur schwer zu entdecken. Die Trittsiegel überschneiden sich in der Größe mit denen kleiner Hermeline, im Schnee hilft die Spurbreite (Einzelbeispiel knapp 4 cm). Wie andere Marderartige bewegt sich das Mauswiesel im Schnee im Paarsprung, sodass die Abdrücke paarweise nebeneinander liegen. Ein einzelner Tritt ist mit 1 bis 2 Zentimetern Länge kleiner als beim Hermelin, der 2 bis 3 Zentimeter misst.",
    "regional": null,
    "umgang": "Mit Geduld an extensiv genutzten Flächen beobachten und nicht stören. Altgrasstreifen und Hecken erhalten. Verletzte Tiere nicht anfassen, sondern eine Wildtierstation fragen.",
    "schutz": "Rote-Liste-Einstufung für Deutschland nicht eindeutig zu belegen (Quellen widersprechen sich, die Fassung 2009 führt D, eine weitere Seite V). Deshalb keine Einstufung angegeben.",
-   "naturdeck_ids": [],
+   "naturdeck_ids": [
+    "45919aee"
+   ],
    "korrekturen": [
     "09fae717, 234229b5, 45919aee, 69a086d8, 8c016515, 97c63bb1: Die Quellen belegen die Jagd auf Wühlmäuse und kleine Nager, nicht aber Sprungpaare, Losungsform oder die Nutzung von Feldmausgängen im Einzelnen. Daher keine Fakt-ID als bestätigt übernommen."
    ],
@@ -461,6 +510,10 @@
     [
      "Schweizerischer Nationalpark: Hermelin und Mauswiesel",
      "https://nationalpark.ch/flora-und-fauna/hermelin-und-mauswiesel/"
+    ],
+    [
+     "BUND Niedersachsen, Spuren im Schnee",
+     "https://www.bund-niedersachsen.de/natur-erleben/tipps-zur-naturbeobachtung/januar/koenig-der-nacht-1/"
     ]
    ]
   },
@@ -796,14 +849,15 @@
    "verwechslung": "Mit Biber und Bisam: Der Biber ist größer und hat eine flache Kelle, der Bisam ist kleiner und hat einen seitlich abgeflachten Schwanz.",
    "lebensraum": "Bäche und Flüsse mit viel Ufervegetation, nährstoffreiche Seen und Teiche.",
    "zeit": "Ganzjährig dämmerungs- und nachtaktiv.",
-   "spuren": "Trittsiegel mit fünf Zehen, der Hinterfuß ist größer als der Vorderfuß und hat Schwimmhäute zwischen den meisten Zehen. Der Schwanz zeichnet sich oft als dünne Linie ab.",
+   "spuren": "Trittsiegel mit fünf Zehen, der Hinterfuß ist größer als der Vorderfuß und hat Schwimmhäute zwischen den meisten Zehen. Der Schwanz zeichnet sich oft als dünne Linie ab. Zum Fressen und Rasten legen Nutrias Plattformen aus Schilf und anderen Pflanzen an. Ihre röhrenförmigen Baue graben sie in Uferböschungen, die Eingänge liegen oberhalb der Wasserlinie.",
    "regional": null,
    "umgang": "Nicht füttern, auch wenn die Tiere zutraulich werden. Bei Schäden an Ufern oder Deichen die zuständige Wasser- oder Jagdbehörde fragen. Nutria nicht mit dem streng geschützten Biber verwechseln.",
    "schutz": "Gebietsfremde Art, auf der EU-Unionsliste invasiver Arten. Keine Rote-Liste-Einstufung. Jagdrecht ist Ländersache.",
    "naturdeck_ids": [
     "af7c6ed3",
     "34786a8b",
-    "ca404448"
+    "ca404448",
+    "32d6c8b8"
    ],
    "korrekturen": [
     "0b3072ea, 32d6c8b8: 'schräg abgeschnittenes Schilf', 'stumpfe Stängelenden' und 'breite Wechsel' nicht belegt.",
@@ -821,6 +875,10 @@
     [
      "Land Brandenburg: Umgang mit Bisam und Nutria",
      "https://mleuv.brandenburg.de/mleuv/de/umwelt/wasser/gewaesser-und-anlagenunterhaltung/umgang-mit-bisam-und-nutria/"
+    ],
+    [
+     "Wildtierportal Bayern, Nutria",
+     "https://www.wildtierportal.bayern.de/wildtiere_bayern/218365/index.php"
     ]
    ]
   },
@@ -839,7 +897,7 @@
    "verwechslung": "Mit dem Wildkaninchen: Dieses hat kürzere Ohren (6 bis 8 cm) und kürzere Hinterläufe und ist kleiner.",
    "lebensraum": "Offene Feldflur, Wiesen, Hecken und Brachen, auch lichte Wälder und Randbereiche.",
    "zeit": "Vor allem dämmerungs- und nachtaktiv; in der Fortpflanzungszeit zwischen Januar und März auch tagsüber.",
-   "spuren": "Die Sasse ist eine flache Mulde im Gras, oft durch Hecken oder hohes Gras geschützt. Die Hinterfüße zeigen vier Zehen, die Vorderfüße fünf, wegen der Behaarung zeichnen sich oft nur Umrisse und Krallen ab.",
+   "spuren": "Die Sasse ist eine flache Mulde im Gras, oft durch Hecken oder hohes Gras geschützt. Die Hinterfüße zeigen vier Zehen, die Vorderfüße fünf, wegen der Behaarung zeichnen sich oft nur Umrisse und Krallen ab. Beim Hoppeln setzt der Feldhase die längeren Hinterfüße vor die hintereinander aufgesetzten Vorderfüße, auf der Flucht drückt sich nur der vordere Teil der Hinterfüße ab. Die Losung besteht aus kleinen, rundlichen bis leicht abgeplatteten Kügelchen von etwa einem Zentimeter Durchmesser, gelblich-braun bis olivbraun und mit sichtbaren Pflanzenfasern. Frisch wirken sie kompakt und feucht, später trocknen sie aus und bleichen.",
    "regional": null,
    "umgang": "Junghasen, die allein in der Sasse sitzen, sind nicht verlassen: Die Mutter kommt meist nur nachts zum Säugen. Nicht anfassen und nicht mitnehmen. Während der Zeit der Jungtiere (März bis September) Hunde anleinen und auf den Wegen bleiben.",
    "schutz": "Rote Liste Deutschland: gefährdet, nach der Liste der Säugetiere 2020. Ursache vor allem intensive Landwirtschaft, Verkehr und Verlust von Feldrainen.",
@@ -847,7 +905,10 @@
     "4785f05d",
     "83e2ddd2",
     "8decdf1e",
-    "9637f779"
+    "9637f779",
+    "a6b4fc66",
+    "c94f6d25",
+    "5b524bf6"
    ],
    "korrekturen": [
     "5b524bf6, c94f6d25, 83e2ddd2: Form und Farbe der Hasenlosung (rund, faserig, grünlich bis strohgelb) nicht belegt.",
@@ -866,6 +927,18 @@
     [
      "NABU Odenwaldkreis: Feldhase",
      "https://www.nabu-odenwaldkreis.de/wildtierhilfe/erste-hilfe-ma%C3%9Fnahmen/feldhase/"
+    ],
+    [
+     "tierspuren.at, Feldhase Spuren",
+     "https://www.tierspuren.at/spuren-f%C3%A4hrten-trittsiegel/feldhase/"
+    ],
+    [
+     "tierspuren.at, Feldhase Losung",
+     "https://www.tierspuren.at/losungen/feldhase/"
+    ],
+    [
+     "waldwissen.net, Wildtierkot erkennen",
+     "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/wildtierkot-erkennen"
     ]
    ]
   },
@@ -1006,7 +1079,7 @@
     "Große Vorderfüße mit flachen Krallen.",
     "Lebt fast ausschließlich unterirdisch."
    ],
-   "verwechslung": "Mit der Schermaus (Wühlmaus): Maulwurfshügel sind hoch und rund und liegen regelmäßig, Schermaushügel sind flach und länglich.",
+   "verwechslung": "Mit der Schermaus (Wühlmaus): Maulwurfshügel sind hoch und rund und liegen regelmäßig, Schermaushügel sind flach und länglich. Bei Wühlmäusen liegt die ovale Gangöffnung seitlich neben dem Erdhaufen, der Aushub ist gröber und mit Pflanzenresten durchsetzt. Beim Maulwurf sitzt die Öffnung mittig im Hügel und ist von der aufgeschobenen Erde meist verdeckt.",
    "lebensraum": "Wiesen, Weiden, Gärten und Wälder mit lockerem Boden. Das Gangsystem liegt dicht unter der Oberfläche bis etwa 50 cm Tiefe und ist etwa 200 Meter lang.",
    "zeit": "Ganzjährig aktiv, kein Winterschlaf. Er patrouilliert alle drei bis vier Stunden durch das Revier.",
    "spuren": "Erdhügel entstehen aus überschüssigem Aushub der Gänge. Ein Maulwurf kann in 20 Minuten etwa sechs Kilogramm Erde bewegen. Er frisst Regenwürmer und Insektenlarven.",
@@ -1016,7 +1089,10 @@
    "naturdeck_ids": [
     "45cabf3b",
     "a0ecf1a3",
-    "d8013747"
+    "d8013747",
+    "979f4c64",
+    "112bc177",
+    "f4f8eb08"
    ],
    "korrekturen": [
     "112bc177, 979f4c64: 'krümelige Erde', 'trockene Haufen heller' und 'grobe Würste' nicht belegt.",
@@ -1031,6 +1107,10 @@
     [
      "Stadtwildtiere: Maulwurf",
      "https://www.stadtwildtiere.de/artportraet/maulwurf"
+    ],
+    [
+     "Natur im Garten, Wühlmaus oder Maulwurf",
+     "https://www.naturimgarten.wien/aktuelles/wuehlmaus-oder-maulwurf"
     ]
    ]
   }

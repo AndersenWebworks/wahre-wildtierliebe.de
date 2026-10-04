@@ -1006,12 +1006,16 @@
    "verwechslung": "Die Kahlrückige Waldameise (Formica polyctena) sieht sehr ähnlich aus; sie ist nur an Borsten zu unterscheiden. Beide stehen unter Schutz.",
    "lebensraum": "Windgeschützte, sonnige Waldränder und Lichtungen, Laub- und Nadelwald.",
    "zeit": null,
-   "spuren": "Ameisenstraßen und Haufen aus Nadeln. Waldameisen tragen auch Nadelharz ins Nest.",
+   "spuren": "Ameisenstraßen und Haufen aus Nadeln. Waldameisen tragen auch Nadelharz ins Nest. Wo Harz verfügbar ist, bauen die Ameisen Harzteilchen in den Nesthügel ein; sie festigen das Nest und wirken zugleich leicht antibakteriell. Untersuchungen an der nahe verwandten Bergwaldameise (Formica paralugubris) zeigten, dass Harz Bakterien und Pilze im Nest vermindert.",
    "regional": null,
    "umgang": "Haufen nicht betreten, aufgraben oder verändern und Ameisen nicht fangen; bei Bauarbeiten oder Holzarbeiten die Ameisenschutzwarte oder die Naturschutzbehörde fragen. Eine Umsiedlung ist nur mit Genehmigung zulässig. Beim Menschen entstehen durch die Ameisensäure Pusteln oder Quaddeln, also Abstand halten.",
    "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1, Spalte 2 „besonders geschützt“). Dort stehen auch die Kahlrückige Waldameise (Formica polyctena) und weitere Waldameisen der Gattung Formica. Verboten sind Entnahme, Tötung und Zerstörung von Nest und Brut ohne Genehmigung (NABU).",
    "naturdeck_ids": [
-    "fdd7ac2e"
+    "fdd7ac2e",
+    "d3d06a04",
+    "2d628635",
+    "515a02a5",
+    "be84c3f8"
    ],
    "korrekturen": [
     "2d628635, 515a02a5, be84c3f8, d3d06a04: Harz im Nest ist für Waldameisen belegt (Studien an Formica paralugubris; Harz wirkt antimikrobiell und festigt den Bau). Dass der Duft Pilze hemme oder das Nest trocken halte, ist so nicht belegt; ebenso der Harzgeruch am Hügel. Nicht übernommen.",
@@ -1037,6 +1041,14 @@
     [
      "Wikipedia: Rote Waldameise",
      "https://de.wikipedia.org/wiki/Rote_Waldameise"
+    ],
+    [
+     "waldwissen.net, Die Roten Waldameisen in der Schweiz",
+     "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/insekten-wirbellose/waldameisen-in-der-schweiz"
+    ],
+    [
+     "scinexx, Ameisen nutzen Harz als Antibiotikum",
+     "https://www.scinexx.de/news/biowissen/ameisen-nutzen-harz-als-antibiotikum/"
     ]
    ]
   },

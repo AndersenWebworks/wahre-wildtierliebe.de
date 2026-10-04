@@ -43,6 +43,10 @@ const groupInfo = {
     slug: 'kaefer-ameisen-hummeln-und-wespen',
     intro: 'Käfer, Ameisen, Hummeln und Wespen haben Aufgaben im Boden, im Totholz und auf Blüten. Viele sind geschützt, fast alle sind friedlicher, als ihr Ruf es vermuten lässt.',
   },
+  'Pflanzen, Pilze und Moose': {
+    slug: 'pflanzen-pilze-und-moose',
+    intro: 'Pflanzen, Pilze und Moose bilden den Lebensraum, in dem Wildtiere fressen, nisten und sich verstecken. Wer sie kennt, liest an einem Ufer, Waldrand oder Gartenrand ab, welche Tiere dort Platz finden.',
+  },
   'Spinnen, Schnecken, Krebstiere und Amphibien': {
     slug: 'spinnen-schnecken-krebstiere-und-amphibien',
     intro: 'Spinnen, Schnecken, Asseln, Krebstiere und Amphibien arbeiten im Verborgenen: im Laub, im Totholz, am Ufer und im Wasser.',
@@ -77,6 +81,7 @@ function speciesPage(art, group) {
   if (present(art.verwechslung)) sections.push(section('Verwechslung', [art.verwechslung]));
   if (place.length) sections.push(section('Lebensraum und Zeit', place));
   if (present(art.spuren)) sections.push(section('Spuren, Rufe und Hinweise', [art.spuren]));
+  if (present(art.tiere)) sections.push(section('Bedeutung für Tiere', [art.tiere]));
   if (present(art.regional)) sections.push(section('In der Region', [art.regional]));
   if (present(art.umgang)) sections.push(section('Rücksicht und Hilfe', [art.umgang]));
   if (present(art.schutz)) sections.push(section('Schutzstatus', [art.schutz]));
@@ -107,8 +112,8 @@ export function buildSpeciesPages() {
   pages.push({
     slug: 'arten', kind: 'hub', kicker: 'Arten', heading: 'Arten der Region',
     title: 'Arten der Region – Steckbriefe – Wa(h)re Wildtier(liebe)',
-    description: 'Steckbriefe zu Vögeln, Säugetieren, Fledermäusen, Libellen, Insekten und weiteren Tieren in Mecklenburg-Vorpommern.',
-    intro: `${species.length} Arten aus Garten, Dorf, Wald, Feld und Ufer in Mecklenburg-Vorpommern, jeweils mit Erkennungsmerkmalen, Lebensraum, Schutzstatus und dem Umgang mit dem Tier.`,
+    description: 'Steckbriefe zu Vögeln, Säugetieren, Fledermäusen, Libellen, Insekten und weiteren Tieren sowie zu Pflanzen, Pilzen und Moosen ihres Lebensraums in Mecklenburg-Vorpommern.',
+    intro: `${species.length} Arten aus Garten, Dorf, Wald, Feld und Ufer in Mecklenburg-Vorpommern, jeweils mit Erkennungsmerkmalen, Lebensraum und dem Umgang mit der Art. Dazu gehören auch Pflanzen, Pilze und Moose, weil sie Tieren Nahrung, Deckung und Nistplätze geben.`,
     cards: groups.map((group) => link(`arten/${group.slug}`, group.name, `${byGroup.get(group.name).length} Arten.`)),
     sections: [section('So lesen sich die Steckbriefe', ['Jeder Steckbrief nennt Merkmale zum Erkennen, die häufigste Verwechslung, den Lebensraum und was dem Tier hilft. Der Schutzstatus ist nur angegeben, wenn eine Quelle ihn trägt.'])],
     next: [link('tier-erkennen', 'Tier erkennen', 'Beobachtungen aus Ort, Tageszeit, Verhalten und Stimme eingrenzen.'), link('tierfinder', 'Tier-, Spur- und Stimmenfinder', 'Mit vorhandenen Merkmalen weiterkommen.', 'Werkzeug')],

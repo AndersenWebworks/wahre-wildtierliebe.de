@@ -1,0 +1,454 @@
+{
+ "paket": "ergaenzung-tiere",
+ "arten": [
+  {
+   "slug": "brauner-waldvogel",
+   "name": "Brauner Waldvogel",
+   "latein": "Aphantopus hyperantus",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Der Braune Waldvogel, auch Schornsteinfeger genannt, ist ein mittelgroßer brauner Tagfalter mit kleinen, gelb umrandeten Augenflecken. Er fliegt im Sommer an grasigen Säumen und Waldrändern.",
+   "erkennen": [
+    "Flügelspannweite von 35 bis 42 Millimetern.",
+    "Die Flügel sind einfarbig braun mit kleinen, gelblich umrandeten Augenflecken.",
+    "Auf der Unterseite sind die Augenflecken auffälliger und innen schwarzblau, meist fünf auf den Hinterflügeln und zwei bis drei auf den Vorderflügeln.",
+    "Auf der Oberseite sind die Augenflecken kleiner und weniger auffällig; ihre Zahl und Größe schwanken."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Grasige und staudenreiche Säume an Waldrändern, Lichtungen, Hecken und Böschungen, an feuchten ebenso wie an trockenen Stellen, mit leichter Vorliebe für Feuchtes. Gern sitzt er an Wald- und Gebüschrändern mit Brombeerhecken.",
+   "zeit": "Eine Generation im Jahr. Die Falter fliegen von Mitte Juni bis Ende August.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Die Raupen fressen verschiedene Gräser, die Falter besuchen Disteln, Dost, Brombeerblüten und andere Wildblumen. Grasige Säume mit Brombeerhecken und Blütenpflanzen bieten ihnen Nahrung.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "8f69ee9c",
+    "4f8b99e2"
+   ],
+   "korrekturen": [
+    "Geprüft anhand BUND und natur-in-nrw.de (beide abgerufen). Belegt: Spannweite, Augenflecken, Lebensraum, Flugzeit, eine Generation, Raupen- und Nektarpflanzen. Verwechslung: BUND sieht keine ernsthafte Verwechslungsgefahr, daher null.",
+    "Gestrichen: „an Waldwegen mit Kiefern“ und die Aufforderung, Säume nicht abzumähen (nicht belegt). Gefährdungseinstufung in den Quellen nicht genannt, schutz null."
+   ],
+   "quellen": [
+    [
+     "BUND: Steckbrief Brauner Waldvogel",
+     "https://www.bund.net/themen/tiere-pflanzen/schmetterlinge/steckbriefe/tagfalter/brauner-waldvogel/"
+    ],
+    [
+     "natur-in-nrw.de: Schornsteinfeger (Aphantopus hyperantus)",
+     "https://www.natur-in-nrw.de/HTML/Tiere/Insekten/Schmetterlinge/Nymphalidae/TSNE-4.html"
+    ]
+   ]
+  },
+  {
+   "slug": "fichtenkreuzschnabel",
+   "name": "Fichtenkreuzschnabel",
+   "latein": "Loxia curvirostra",
+   "gruppe": "Singvögel",
+   "kurz": "Der Fichtenkreuzschnabel ist ein 15 bis 17 Zentimeter großer Finkenvogel, dessen Schnabelspitzen sich überkreuzen. Damit hebt er Zapfenschuppen an und holt die Samen heraus.",
+   "erkennen": [
+    "15 bis 17 Zentimeter lang, kräftiger runder Kopf, dicker gebogener Schnabel mit gekreuzten Spitzen",
+    "kurzer, tief gegabelter Schwanz",
+    "Männchen meist ziegelrot mit rotem Bürzel, dem Rücken über dem Schwanzansatz",
+    "Weibchen olivgrün mit gelbem Bürzel",
+    "Jungvögel grau mit gestrichelten Flanken"
+   ],
+   "verwechslung": "Mit dem selteneren Kiefernkreuzschnabel: Er hat einen größeren Kopf und einen dickeren Schnabel, seine Lockrufe klingen lauter und tiefer. Beim Fichtenkreuzschnabel hört man ein hartes, metallisches „gip gip“ oder „glip glip“.",
+   "lebensraum": "Nadelwälder, vor allem mit Fichten und Tannen, bis hinauf zur Baumgrenze. Er braucht Bäume mit reichem Zapfenbehang.",
+   "zeit": "Ganzjährig zu beobachten. Die Brutzeit richtet sich nach dem Samenangebot und kann schon im Winter beginnen; in Mitteleuropa reicht sie von Dezember bis Mai. Der Gesang ist vor allem von Januar bis März zu hören. In Jahren mit schlechter Zapfenernte kommt es zu Wanderungen größerer Trupps.",
+   "spuren": "Gefressene Fichtenzapfen sind ein gutes Erkennungszeichen: Der Kreuzschnabel spaltet die Zapfenschuppen mit dem Schnabel der Länge nach auf und lässt sie am Zapfen. Das Eichhörnchen reißt die Schuppen nacheinander ab, die Waldmaus nagt sie ab, der Buntspecht hackt auf dem Zapfen herum. Der Flugruf „gip gip“ ist unverkennbar.",
+   "tiere": null,
+   "regional": null,
+   "umgang": "Zapfenreiche Nadelwälder erhalten. Weil die Art das ganze Jahr über brüten kann, ist Rücksicht in Nadelwäldern nicht nur im Frühjahr nötig.",
+   "schutz": "Nach NABU-Angaben nicht gefährdet, in Deutschland etwa 13.000 bis 34.000 Brutpaare.",
+   "naturdeck_ids": [
+    "245e4dd9"
+   ],
+   "korrekturen": [
+    "Fakt nennt Kiefernzapfen und Kreuzschnäbel allgemein: die abgerufene Fachquelle (Nationalpark Bayerischer Wald) beschreibt das Fraßbild an Fichtenzapfen. Der Fichtenkreuzschnabel frisst vor allem Fichtensamen, nutzt aber auch andere Nadelbäume. Aussage zu Mäusen präzisiert (Waldmaus nagt die Schuppen ab). Der Kiefernkreuzschnabel wurde nicht als eigener Steckbrief angelegt."
+   ],
+   "quellen": [
+    [
+     "NABU, Vogelporträt Fichtenkreuzschnabel",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/fichtenkreuzschnabel/"
+    ],
+    [
+     "Nationalpark Bayerischer Wald, Fraßspuren an Fichtenzapfen",
+     "https://www.nationalpark-bayerischer-wald.bayern.de/aktuelles/blog/detailansicht.htm?ID=A+s3RgSTi2TSmnc50IQ7Xw%3D%3D"
+    ],
+    [
+     "LBV Starnberg, Fichtenkreuzschnabel",
+     "https://starnberg.lbv.de/ornithologie/vogelportraits/fichtenkreuzschnabel/"
+    ],
+    [
+     "Wikipedia, Fichtenkreuzschnabel",
+     "https://de.wikipedia.org/wiki/Fichtenkreuzschnabel"
+    ]
+   ]
+  },
+  {
+   "slug": "gartenrotschwanz",
+   "name": "Gartenrotschwanz",
+   "latein": "Phoenicurus phoenicurus",
+   "gruppe": "Singvögel",
+   "kurz": "Der Gartenrotschwanz ist ein Singvogel mit rostrotem Schwanz, den er auf seiner Warte immer wieder zittern lässt. Das Männchen erkennt man an der schwarzen Kehle, der orangen Brust und der weißen Stirn.",
+   "erkennen": [
+    "Das Männchen ist aschgrau, mit schwarzer Kehle, oranger Brust und weißer Stirn.",
+    "Das Weibchen wirkt unauffälliger graubraun und hat eine helle Unterseite.",
+    "Bei beiden Geschlechtern ist der Schwanz rostrot.",
+    "Er sitzt aufrecht auf einer Warte und zittert mit dem Schwanz, bevor er einem Insekt nachfliegt."
+   ],
+   "verwechslung": "Mit dem ähnlichen und häufigeren Hausrotschwanz. Der Hausrotschwanz ist ein typischer Kulturfolger, der an Gebäuden brütet, etwa unter Dachkanten oder in Mauernischen. Der Gartenrotschwanz bevorzugt dagegen lichte Wälder, Parks und Obstwiesen mit alten Bäumen. Die Weibchen beider Arten sehen sich sehr ähnlich, deshalb hilft der Blick auf Brutplatz und Umgebung.",
+   "lebensraum": "Lichte Laub- und Mischwälder, vor allem Kiefernwälder, außerdem zunehmend Parks und naturnahe Gärten. Er brütet in Baumhöhlen, Halbhöhlen und Nistkästen und ist deshalb auf alte Bäume angewiesen. Seine Nahrung sind Insekten, deren Larven und Raupen, Spinnen und Beeren.",
+   "zeit": "Langstreckenzieher, der südlich der Sahara in der afrikanischen Savanne überwintert. Bei uns ist er von Ende April bis September zu beobachten.",
+   "spuren": "Das Männchen singt vor allem am Morgen, weich und wehmütig. Der Gesang beginnt mit einem „hüit“, auf das ein tieferes „tick-tick-tick“ folgt, und klingt insgesamt schwatzend und abwechslungsreich.",
+   "tiere": null,
+   "regional": null,
+   "umgang": "Alte Einzelbäume mit Höhlen, Obstwiesen und lichte Waldstücke erhalten. Heimische Gehölze, freie Flächen und Nistkästen helfen ihm.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "44959066",
+    "1cc59619",
+    "b5f72823",
+    "ed3d7b3a",
+    "a15bba6f"
+   ],
+   "korrekturen": [
+    "Das Knicksen wird in den abgerufenen Quellen nicht genannt, belegt ist das Zittern des rostroten Schwanzes.",
+    "Der NABU führt die Art auf der Vorwarnliste, die Quelle nennt kein Jahr; eine Landesliste (Bayern, LfU) führt sie als gefährdet. Die bundesweite Einstufung blieb unklar, deshalb ist schutz null.",
+    "Der Hinweis auf Höhlen mit freiem Anflug ist durch die abgerufenen Quellen nur allgemein gedeckt (Höhlen- und Halbhöhlenbrüter, Nistkästen)."
+   ],
+   "quellen": [
+    [
+     "NABU, Vogelporträt Gartenrotschwanz",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/gartenrotschwanz/"
+    ],
+    [
+     "NABU Oldenburg, Gartenrotschwanz Steckbrief",
+     "https://www.nabu-oldenburg.de/projekte/gartenrotschwanz-steckbrief.php"
+    ],
+    [
+     "Bayerisches Landesamt für Umwelt, Gartenrotschwanz",
+     "https://www.lfu.bayern.de/natur/sap/arteninformationen/steckbrief/zeige?stbname=Phoenicurus+phoenicurus"
+    ]
+   ]
+  },
+  {
+   "slug": "gefleckter-schmalbock",
+   "name": "Gefleckter Schmalbock",
+   "latein": "Rutpela maculata",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Der Gefleckte Schmalbock ist ein 14 bis 20 Millimeter langer Bockkäfer mit gelb-schwarz gezeichneten Flügeldecken. Im Sommer sitzt er tagsüber auf Blüten, vor allem auf Doldenblütlern.",
+   "erkennen": [
+    "Körper überwiegend schwarz, die Flügeldecken sind gelb mit schwarzen Flecken und Querbinden",
+    "Fühler und Beine sind abwechselnd gelb und schwarz geringelt",
+    "Der Halsschild hat nach hinten spitz ausgezogene Ecken",
+    "Die Zeichnung ist von Tier zu Tier sehr verschieden"
+   ],
+   "verwechslung": "Wegen der gelb-schwarzen Zeichnung halten Fressfeinde den Käfer für eine Wespe, was abschreckend wirkt. Er ist aber ein Käfer mit langen, geringelten Fühlern.",
+   "lebensraum": "Mischwälder mit Lichtungen, Waldränder, waldnahe Wiesen und Trockenrasen. Die Larven entwickeln sich in morschem Holz, vor allem von Laubbäumen, selten auch von Nadelbäumen.",
+   "zeit": "Die erwachsenen Käfer fliegen von Juni bis August und sind tagaktiv.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Totholz, Baumstubben und morsche Stämme am Waldrand stehen lassen, denn darin wachsen die Larven heran. Die Käfer auf den Blüten nicht stören.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "b4124358"
+   ],
+   "korrekturen": [
+    "Der Fakt nennt nur Blütenbesuch an Dolden und gelbe Flecken. Belegt ist darüber hinaus die Entwicklung der Larven im morschen Holz und die Wespentracht als Schutz."
+   ],
+   "quellen": [
+    [
+     "Natur in NRW: Gefleckter Schmalbock (Rutpela maculata)",
+     "https://www.natur-in-nrw.de/HTML/Tiere/Insekten/Kaefer/Cerambycidae/TK-2596.html"
+    ],
+    [
+     "Nationalpark Schwarzwald: Schmalbock",
+     "https://www.nationalpark-schwarzwald.de/nationalpark/blog/2022/schmalbock"
+    ],
+    [
+     "Wikipedia: Gefleckter Schmalbock",
+     "https://de.wikipedia.org/wiki/Gefleckter_Schmalbock"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeiner-furchenschwimmer",
+   "name": "Gemeiner Furchenschwimmer",
+   "latein": "Acilius sulcatus",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Der Gemeine Furchenschwimmer ist ein 15 bis 18 Millimeter langer, flacher Schwimmkäfer, der in stehenden Gewässern räuberisch jagt. Zum Atmen kommt er regelmäßig an die Wasseroberfläche.",
+   "erkennen": [
+    "Körper oval und abgeflacht, 15 bis 18 Millimeter lang",
+    "Flügeldecken gelbbraun bis ockerfarben mit einem schwarzen Netz- oder Punktmuster",
+    "Bei den Weibchen sind die Flügeldecken deutlich der Länge nach gefurcht, daher der Name",
+    "Die Männchen haben an den Vorderbeinen Haftscheiben, mit denen sie sich bei der Paarung am Weibchen festhalten"
+   ],
+   "verwechslung": "Er kann mit dem Gerandeten Furchenschwimmer (Acilius canaliculatus) verwechselt werden.",
+   "lebensraum": "Stehende Gewässer wie Teiche, Weiher, Tümpel, Altarme und pflanzenreiche Seen, auch kleine Gewässer. Die Käfer können fliegen und wechseln deshalb zwischen Gewässern.",
+   "zeit": "Die erwachsenen Käfer sind vor allem von April bis Oktober aktiv.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Nicht aus dem Wasser nehmen. Besonnte, pflanzenreiche Teiche und Tümpel erhalten.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "69e1a65a"
+   ],
+   "korrekturen": [
+    "Der Fakt nennt Käfer, die ruckartig tauchen und mit breiten dunklen Hinterbeinen rudern. Das Rudern mit den Hinterbeinen ist für Schwimmkäfer allgemein bekannt, wurde aber in den abgerufenen Quellen nicht ausdrücklich für diese Art belegt und deshalb nicht übernommen. Die Art ist im Fakt nicht eindeutig benannt, die Zuordnung zu Acilius sulcatus folgt dem deutschen Namen laut Wikipedia."
+   ],
+   "quellen": [
+    [
+     "digital-nature: Gemeiner Furchenschwimmer (Acilius sulcatus)",
+     "https://www.digital-nature.de/tierwelt/insekten/dytiscidae/sulcatus/detail/detail.html"
+    ],
+    [
+     "Wikipedia: Gemeiner Furchenschwimmer",
+     "https://de.wikipedia.org/wiki/Gemeiner_Furchenschwimmer"
+    ]
+   ]
+  },
+  {
+   "slug": "gruene-zikade",
+   "name": "Grüne Zikade (Binsenschmuckzikade)",
+   "latein": "Cicadella viridis",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Die Grüne Zikade, auch Binsenschmuckzikade genannt, ist eine 6 bis 9 Millimeter lange Zikade mit blaugrünen Flügeln. Sie lebt an feuchten Stellen und saugt Pflanzensaft.",
+   "erkennen": [
+    "Männchen etwa 5,7 bis 7 Millimeter, Weibchen etwa 7,5 bis 9 Millimeter lang",
+    "Kopf breit und gelblich mit zwei schwarzen Flecken zwischen den Augen",
+    "Vordere Hälfte von Halsschild und Schildchen gelblich bis grün",
+    "Flügel der Weibchen einfarbig blaugrün, die der Männchen überwiegend heidelbeerblau bis fast schwarz"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Feuchte Wiesen, Sümpfe, Zwischenmoore, Hochmoorränder und Waldsäume, zuweilen auch trockenere Flächen. Sie saugt Pflanzensaft aus den Leitungsbahnen vor allem von Binsen, Seggen und Gräsern.",
+   "zeit": "Erwachsene Tiere sind etwa von Juni bis Oktober zu finden. Die Art überwintert als Ei, die Larven erscheinen im Frühjahr.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Nasse Wiesen und Säume mit Binsen und Seggen erhalten und nicht entwässern.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "4e8bcc9d"
+   ],
+   "korrekturen": [
+    "Der Fakt nennt Weidenlaub und glasklare Flügel. Belegt sind dagegen Binsen, Seggen und Gräser als Saugpflanzen und blaugrüne bis heidelbeerblaue Flügel. Beide Angaben wurden nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "Natur in NRW: Binsenschmuckzikade (Cicadella viridis)",
+     "https://www.natur-in-nrw.de/HTML/Tiere/Insekten/Zikaden/TZ-77.html"
+    ],
+    [
+     "Wikipedia: Binsenschmuckzikade",
+     "https://de.wikipedia.org/wiki/Binsenschmuckzikade"
+    ]
+   ]
+  },
+  {
+   "slug": "hausspitzmaus",
+   "name": "Hausspitzmaus",
+   "latein": "Crocidura russula",
+   "gruppe": "Säugetiere",
+   "kurz": "Die Hausspitzmaus ist eine kleine Spitzmaus mit langer, spitzer Schnauze. Sie ist keine Maus und kein Nagetier, sondern gehört zu den Insektenfressern.",
+   "erkennen": [
+    "Kopf-Rumpf-Länge etwa 5 bis 8,5 Zentimeter, Gewicht etwa 7 bis 15 Gramm",
+    "Lange, rüsselartige, spitze Schnauze",
+    "Rücken graubraun, mit zunehmendem Alter rotbraun, Bauch hellgrau",
+    "Die Ohren ragen deutlich aus dem Fell"
+   ],
+   "verwechslung": "Von Mäusen unterscheidet sie die lange, spitze Schnauze. Die Feldspitzmaus hat eine deutlich abgesetzte, weißliche Unterseite, die Gartenspitzmaus ist auffallend kleiner und hat verhältnismäßig größere Ohren.",
+   "lebensraum": "Waldränder, Brachland, Felder, Wiesen und Hecken, oft in Siedlungsnähe. Im Winter sucht sie Schutz in Gebäuden. Sie liebt trockene, warme Standorte.",
+   "zeit": "Sie ist tag- und nachtaktiv. Bei Kälte oder Nahrungsmangel kann sie in einen Starrezustand fallen, um Energie zu sparen.",
+   "spuren": "In Gebäuden verrät sie sich durch einen unangenehmen Geruch, der von Kot, Urin und den Duftdrüsen an den Flanken stammt. Die Drüsen sondern ein Sekret ab, das nach Moschus riecht.",
+   "tiere": null,
+   "regional": null,
+   "umgang": "Sie frisst keine Vorräte, sondern Asseln, Weberknechte, Spinnen, Insekten, Schnecken und Regenwürmer. Wer sie im Haus nicht möchte, dichtet im Winter Mauerritzen und Spalten an Fenstern und Türen ab. Ihr Stoffwechsel ist so schnell, dass sie täglich mehr als ihr Körpergewicht an Nahrung braucht.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "7254408f",
+    "7fba3554"
+   ],
+   "korrekturen": [
+    "Der Fakt nennt winzigen, dunklen Kot im Schuppen. Eine Größenangabe zum Kot ließ sich in den abgerufenen Quellen nicht belegen, nur der Geruch durch Kot, Urin und Drüsen.",
+    "Fünf Zehen pro Fuß gelten auch für Mäuse und sind deshalb kein Unterscheidungsmerkmal. Übernommen wurde die spitze Schnauze.",
+    "Das Verbreitungsgebiet in Deutschland liegt nach Wikipedia im Westen und der Mitte (Nordostgrenze etwa von Wilhelmshaven über Bremen und Celle bis Dresden). Ein Vorkommen in Mecklenburg-Vorpommern ist nicht belegt, deshalb regional = null."
+   ],
+   "quellen": [
+    [
+     "kleinsaeuger.at: Hausspitzmaus (Crocidura russula)",
+     "https://kleinsaeuger.at/crocidura-russula/"
+    ],
+    [
+     "Verminscout: Hausspitzmaus (Crocidura russula)",
+     "https://verminscout.de/insektenfresser/spitzmaeuse/hausspitzmaus/"
+    ],
+    [
+     "Wikipedia: Hausspitzmaus",
+     "https://de.wikipedia.org/wiki/Hausspitzmaus"
+    ]
+   ]
+  },
+  {
+   "slug": "raufusskauz",
+   "name": "Raufußkauz",
+   "latein": "Aegolius funereus",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Der Raufußkauz ist eine kleine, streng nachtaktive Eule mit großem, rundem Kopf, hellem Gesichtsschleier und gelben Augen, die ihm einen erstaunten Ausdruck geben. Seinen Namen hat er von den bis zu den Krallen dicht befiederten Füßen.",
+   "erkennen": [
+    "etwa 24 bis 26 Zentimeter lang, ungefähr so groß wie ein Steinkauz",
+    "großer, runder Kopf mit hellem Gesichtsschleier, der dunkelbraun eingefasst ist",
+    "gelbe Augen, die oft weit geöffnet wirken",
+    "Füße bis zu den Krallen pelzartig dicht befiedert",
+    "frisch ausgeflogene Jungvögel sind überwiegend schokoladenbraun und gut zu erkennen"
+   ],
+   "verwechslung": "Am ehesten mit dem Sperlingskauz, der im selben Wald vorkommt: Er ist nur starengroß, hat einen im Verhältnis kleineren Kopf und kürzere Flügel und sitzt gern auf Baumspitzen, während der Raufußkauz im Inneren der Krone bleibt. Der Steinkauz lebt dagegen in der halboffenen Kulturlandschaft und nicht im Inneren größerer Wälder.",
+   "lebensraum": "Nadel- und Mischwälder, vor allem in Berggegenden. Er braucht Altholzbestände mit Schwarzspechthöhlen, Freiflächen mit Waldrändern zur Jagd und dichte Schonungen als Tageseinstand. In den letzten Jahrzehnten hat er sich auch im Tiefland ausgebreitet, besonders in Ostdeutschland.",
+   "zeit": "Die Balz beginnt in milden Wintern schon Mitte Januar, sonst Ende Februar, und erreicht im März ihren Höhepunkt. In Bayern reicht die Brutzeit von Anfang Februar bis Mitte Juli; das Gelege umfasst drei bis sechs Eier, und die Jungen verlassen die Höhle nach etwa 33 Tagen.",
+   "spuren": "Am besten ist die Art an ihrem Gesang zu bemerken: vier bis zehn zögernd einsetzende, immer lauter werdende Pfeiftöne, die bis zu drei Kilometer weit zu hören sind. Tagsüber sitzt der Vogel dicht am Stamm in einer Baumkrone und ist kaum zu sehen.",
+   "tiere": null,
+   "regional": null,
+   "umgang": "Höhlenbäume mit Schwarzspechthöhlen und alte Buchen stehen lassen und rufende Eulen nicht nachts mit Lampen oder Tonaufnahmen stören. Nistkästen werden angenommen, müssen aber marderfest sein, weil die Brut dort leichter geplündert wird.",
+   "schutz": "Die Art steht im Anhang I der EU-Vogelschutzrichtlinie. Der NABU schätzt den Bestand in Deutschland auf 2.800 bis 5.000 Brutpaare.",
+   "naturdeck_ids": [
+    "549c4566"
+   ],
+   "korrekturen": [
+    "Fakt sagt, die Eule pfeife gleichmäßig im Vorfrühling: Quelle beschreibt zögernd beginnende, lauter werdende Pfeiftöne; Balz meist ab Ende Februar. Nutzung von Schwarzspechthöhlen bestätigt. Regionalbezug MV nicht übernommen, weil nur eine veraltete LUNG-Tabelle gefunden wurde, die nicht gelesen wurde."
+   ],
+   "quellen": [
+    [
+     "NABU, Vogelporträt Raufußkauz",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/raufusskauz/"
+    ],
+    [
+     "LfU Bayern, Artensteckbrief Raufußkauz",
+     "https://www.lfu.bayern.de/natur/sap/arteninformationen/steckbrief/zeige?stbname=Aegolius+funereus"
+    ],
+    [
+     "Wikipedia, Raufußkauz",
+     "https://de.wikipedia.org/wiki/Raufu%C3%9Fkauz"
+    ]
+   ]
+  },
+  {
+   "slug": "sperlingskauz",
+   "name": "Sperlingskauz",
+   "latein": "Glaucidium passerinum",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Der Sperlingskauz ist mit 15 bis 19 Zentimetern die kleinste Eule Europas, ungefähr so groß wie ein Star. Man erkennt ihn am runden Kopf, an den weißen Überaugenstreifen und am weich pfeifenden Gesang.",
+   "erkennen": [
+    "Körperlänge 15 bis 19 Zentimeter, starengroß, mit rundem Kopf",
+    "Oberseite braun und weiß gesprenkelt, Unterseite hell",
+    "Weiße Überaugenstreifen und kleine, eng beieinanderliegende gelbe Augen geben ihm einen strengen Gesichtsausdruck",
+    "Der Gesang ist ein weiches Pfeifen, das in zehn Sekunden sechs- bis siebenmal wiederholt wird"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Nadel- und Mischwälder mit Altholz. Er brütet in Baumhöhlen, oft in alten Buntspechthöhlen, und bleibt das ganze Jahr in seinem Revier.",
+   "zeit": "Er ist vor allem in der Dämmerung aktiv. Der hell pfeifende Revierruf ist im Frühjahr und im Herbst zu hören und trägt bis zu einem Kilometer weit. Im Herbst folgt oft die „Leiter“, eine Reihe aufsteigender Pfeiftöne. Im Winter legt er in Baumhöhlen Nahrungsvorräte an.",
+   "spuren": "Entdecken Kleinvögel einen ruhenden Sperlingskauz am Tag, warnen sie lautstark. Solche Warnrufe lockern andere Waldvögel an, die den Kauz dann gemeinsam verscheuchen. Der Gesang ist die beste Spur, denn die Art ist sehr heimlich.",
+   "tiere": null,
+   "regional": null,
+   "umgang": "Brutwälder mit alten Bäumen und Spechthöhlen erhalten.",
+   "schutz": "Nach dem NABU-Vogelporträt in Deutschland nicht gefährdet, mit 4.000 bis 7.000 Brutpaaren und zunehmendem Bestand.",
+   "naturdeck_ids": [
+    "0fe7eb69"
+   ],
+   "korrekturen": [
+    "0fe7eb69: Die Aussage stimmt im Kern. Die Quellen beschreiben den Gesang als weiches Pfeifen (LBV) beziehungsweise als hell pfeifenden Revierruf (Nationalpark Schwarzwald); das Schimpfen der Kleinvögel gilt laut Nationalpark Schwarzwald für Tiere, die den Kauz tagsüber am Ruheplatz entdecken. Das Abspielen von Lockrufen ist in keiner Quelle genannt und wurde im Umgang als eigene vorsichtige Empfehlung formuliert; vor Veröffentlichung gegenprüfen oder streichen."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Sperlingskauz",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/sperlingskauz/"
+    ],
+    [
+     "LBV: Artenporträt Sperlingskauz",
+     "https://www.lbv.de/ratgeber/naturwissen/artenportraits/detail/sperlingskauz/"
+    ],
+    [
+     "Nationalpark Schwarzwald: Sperlingskauz",
+     "https://www.nationalpark-schwarzwald.de/nationalpark/blog/2025/sperlingskauz"
+    ]
+   ]
+  },
+  {
+   "slug": "spitzenfleck",
+   "name": "Spitzenfleck",
+   "latein": "Libellula fulva",
+   "gruppe": "Libellen",
+   "kurz": "Der Spitzenfleck ist eine mittelgroße Segellibelle, bei der die Flügelspitzen dunkel getönt sind. Am Ansatz der Hinterflügel sitzt ein größerer dunkler Fleck.",
+   "erkennen": [
+    "Körperlänge etwa 4,2 bis 4,5 Zentimeter.",
+    "Das Männchen hat einen blau bereiften Hinterleib, der zum Ende hin dunkel wird.",
+    "Die Flügelspitzen sind rauchig getönt, bei den Weibchen stärker ausgeprägt.",
+    "Am Ansatz der Hinterflügel sitzt ein größerer dunkler Basalfleck, also ein Fleck an der Flügelbasis."
+   ],
+   "verwechslung": "Besonders die Männchen können mit dem Plattbauch und dem Großen Blaupfeil verwechselt werden. Der dunkle Basalfleck an den Hinterflügeln und die getönten Flügelspitzen helfen bei der Unterscheidung.",
+   "lebensraum": "Saubere, stehende bis langsam fließende, stark besonnte Gewässer mit größeren offenen Wasserflächen, die von lichtem Röhricht gesäumt sind, etwa in Flussauen.",
+   "zeit": "Die Libellen schlüpfen zwischen Ende April und Anfang Juni und fliegen von Mitte Mai bis Mitte Juli.",
+   "spuren": "Die Männchen besetzen Reviere an Gewässern mit Röhricht. Die Weibchen legen ihre Eier ohne Begleitung ab: Sie werfen sie im schwirrenden Flug mit schwingendem Hinterleib ins Wasser.",
+   "tiere": null,
+   "regional": null,
+   "umgang": "Röhricht an den Ufern erhalten, denn seine Zerstörung durch Freizeitnutzung und ungeeignete Fischereipraxis gefährdet die Art. Auch Besatz mit bodenwühlenden Fischen und Nährstoffeinträge, die das Wasser zuwachsen lassen, schaden ihr.",
+   "schutz": "Rote Liste der Libellen Deutschlands (2021): ungefährdet, zuvor galt die Art als stark gefährdet.",
+   "naturdeck_ids": [
+    "60158388"
+   ],
+   "korrekturen": [
+    "Geprüft anhand Bund Naturschutz in Bayern, LibellenWissen und Rote-Liste-Zentrum (alle abgerufen). Belegt: Länge, Färbung des Männchens, getönte Spitzen, Basalfleck, Lebensraum, Schlupf- und Flugzeit, Eiablage, Gefährdungsursachen, Rote Liste 2021.",
+    "Gestrichen: Färbung des Weibchens, getönte Spitzen bei Männchen „manchmal“, Ausweichen vor nacktem Boden, Seen, Teiche, Altwasser und Gräben als Lebensraum, Seggenbestände, Warten im Röhricht, „Libellen nicht fangen“ (nicht belegt). Bayern führt die Art auf der Vorwarnliste (nicht übernommen). Regional bleibt null."
+   ],
+   "quellen": [
+    [
+     "Bund Naturschutz in Bayern: Steckbrief Spitzenfleck",
+     "https://www.bund-naturschutz.de/tiere-in-bayern/libellen/steckbriefe/spitzenfleck"
+    ],
+    [
+     "LibellenWissen: Spitzenfleck",
+     "https://libellenwissen.de/libellenarten/grosslibellen/segellibellen-libellulidae/spitzenfleck/"
+    ],
+    [
+     "Rote-Liste-Zentrum: Spitzenfleck",
+     "https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=67f53946-fcb6-4b78-8d7e-93ccb198000f"
+    ]
+   ]
+  },
+  {
+   "slug": "springfrosch",
+   "name": "Springfrosch",
+   "latein": "Rana dalmatina",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Der Springfrosch ist ein schlanker Braunfrosch mit auffallend langen Hinterbeinen. Er ist kleiner als der Grasfrosch und lebt in lichten, warmen Wäldern.",
+   "erkennen": [
+    "Weibchen bis etwa 80 Millimeter, Männchen höchstens etwa 65 Millimeter lang",
+    "Sehr lange Hinterbeine: Legt man sie seitlich an den Rumpf an, reicht das Fersengelenk oft deutlich über die Schnauzenspitze hinaus",
+    "Das Trommelfell, die runde Hautscheibe hinter dem Auge, ist fast so groß wie das Auge und liegt dicht dahinter",
+    "Die Färbung ist einheitlich in Brauntönen, bunte Tiere gibt es kaum"
+   ],
+   "verwechslung": "Mit dem Grasfrosch. Beim Springfrosch ragt das Fersengelenk über die Schnauzenspitze hinaus und das Trommelfell ist größer. Dieser Fersentest gilt als das sicherste Merkmal.",
+   "lebensraum": "Die wärmeliebende Art bevorzugt trockene, warme, lichte und krautreiche Misch- und Laubwälder und deren Ränder. Zum Laichen braucht sie besonnte, fischfreie Kleingewässer, die auch zeitweise austrocknen dürfen.",
+   "zeit": "Er ist meist die erste Froschart am Laichgewässer. Die Paarungszeit reicht von Februar bis April.",
+   "spuren": "Die Männchen rufen zur Paarungszeit ein rasches „og og og“ oder „ko ko ko“. Der Laichballen mit 400 bis 1.800 Eiern wird meist an Äste oder Pflanzenstängel in mittlerer Wassertiefe geheftet.",
+   "tiere": null,
+   "regional": null,
+   "umgang": "Besonnte Kleingewässer ohne Fischbesatz und lichte Laubwälder in der Umgebung erhalten. Laichgewässer und Laichballen nicht stören und keine Tiere entnehmen.",
+   "schutz": "Rote Liste Deutschland (2009): ungefährdet.",
+   "naturdeck_ids": [
+    "df7f2422"
+   ],
+   "korrekturen": [
+    "df7f2422: Der Fakt sagt, die Ferse reiche „fast“ bis zur Schnauze. Belegt ist, dass sie oft deutlich über die Schnauzenspitze hinausreicht (Grasfrosch dagegen meist nur bis zum Auge). Der Bezug „Waldgraben“ ist nicht belegt; die Quellen nennen lichte Wälder und besonnte Kleingewässer. Sprungweiten wurden nicht übernommen, weil keine abgerufene Fachquelle sie trug. Laut AG Feldherpetologie gilt der Springfrosch in Mecklenburg-Vorpommern als „vom Aussterben bedroht“, die Quelle nennt dafür kein Jahr; nicht übernommen, weil Rote-Liste-Angaben ein Jahr brauchen. Mit Rote Liste MV (Jahr) nachrecherchieren."
+   ],
+   "quellen": [
+    [
+     "AG Feldherpetologie und Artenschutz: Artensteckbrief Springfrosch",
+     "https://feldherpetologie.de/heimische-amphibien-artensteckbrief/artensteckbrief-springfrosch-rana-dalamtina/"
+    ]
+   ]
+  }
+ ]
+}

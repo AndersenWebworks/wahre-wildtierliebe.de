@@ -16,14 +16,15 @@
    "verwechslung": null,
    "lebensraum": "Vor allem Nadelwälder, besonders alte Fichten- und Kiefernbestände. Bei genug Nadelholz kommt sie auch in Parks und Gärten vor.",
    "zeit": "Ganzjährig im Revier, denn die Art ist sehr standorttreu.",
-   "spuren": "Recht scheu, man hört sie häufiger, als man sie sieht.",
+   "spuren": "Recht scheu, man hört sie häufiger, als man sie sieht. Am sichersten verrät sie sich durch ihren rollenden Ruf „gürr“, dem bei Erregung oft ein hohes „zi-zi“ vorangestellt ist. Wintervorräte aus Samen versteckt sie und deckt das Versteck mit Rindenstückchen ab.",
    "regional": null,
    "umgang": "Alte Nadelbäume und stehendes Totholz erhalten, denn die Art baut ihre Nesthöhle in morschen Bäumen. Zum Brüten Abstand halten.",
    "schutz": "Nicht gefährdet (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
    "naturdeck_ids": [
     "1c039f64",
     "2746d967",
-    "4a74d105"
+    "4a74d105",
+    "9e39078d"
    ],
    "korrekturen": [
     "9e39078d: Das Klemmen von Kiefernsamen in Borke ist in den Quellen nicht belegt (genannt ist nur Nadelbaumsamen als Winternahrung).",
@@ -33,6 +34,14 @@
     [
      "NABU: Vogelporträt Haubenmeise",
      "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/haubenmeise/"
+    ],
+    [
+     "NABU Mönchengladbach: Die Haubenmeise",
+     "https://www.nabu-mg.de/vogelwelt/haubenmeise/"
+    ],
+    [
+     "LBV Starnberg: Haubenmeise",
+     "https://starnberg.lbv.de/ornithologie/vogelportraits/haubenmeise/"
     ]
    ]
   },
@@ -528,14 +537,15 @@
    "verwechslung": null,
    "lebensraum": "Schilf- und Seggengebiete an Gewässern und Feuchtwiesen, zunehmend auch Agrarflächen und große Gärten.",
    "zeit": "Teilzieher, überwiegend von März bis Oktober anzutreffen.",
-   "spuren": "Das Männchen singt kurze, einfache Strophen mit Triller. Das Weibchen baut das Nest tief im Schilf, dicht über Boden oder Wasser.",
+   "spuren": "Das Männchen singt kurze, einfache Strophen mit Triller. Das Weibchen baut das Nest tief im Schilf, dicht über Boden oder Wasser. Der Ruf ist ein langgezogenes, sanft abfallendes „psüüü“, dazu kommen kurze, scharfe „zi zi“-Laute.",
    "regional": null,
    "umgang": "Schilf- und Seggenzonen ungestört lassen, denn die Gelege liegen bodennah. Vom Ufer aus beobachten.",
    "schutz": "Nicht gefährdet, aber mit abnehmendem Bestandstrend (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
    "naturdeck_ids": [
     "3db0574b",
     "530a391a",
-    "a32b2051"
+    "a32b2051",
+    "f6e32b66"
    ],
    "korrekturen": [
     "bce012c9, f6e32b66: Das Schilfsamen-„Knipsen“ im Herbstkleid und der Vergleich mit jungen Sperlingen sind nicht belegt.",

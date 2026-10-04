@@ -1,0 +1,1286 @@
+{
+ "paket": "pflanzen-1",
+ "neu": [
+  {
+   "slug": "waldgeissblatt",
+   "name": "Wald-Geißblatt",
+   "latein": "Lonicera periclymenum",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Das Wald-Geißblatt, auch Deutsches Geißblatt genannt, ist eine Kletterpflanze, die sich spiralig um Stützen windet. Seine gelblich weißen Blüten duften vor allem abends.",
+   "erkennen": [
+    "windender Stängel, der sich um Äste und Stützen schlingt und bis zu etwa sechs Meter hoch klettert",
+    "gegenständige, eiförmige bis schmal elliptische Blätter, die unterseits blaugrün sind",
+    "gelblich weiße, purpurn überlaufene Blüten, die kopfig gehäuft stehen",
+    "rote, rundliche Beeren von etwa acht Millimetern Größe"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Das Wald-Geißblatt wächst in Wäldern, Gebüschen und auf mäßig frischen bis feuchten Waldschlägen, also frisch gerodeten oder abgeholzten Flächen. Kalkhaltige Böden meidet es.",
+   "zeit": "Die Blütezeit reicht von Juni bis August. Die Blüten öffnen sich erst am Abend, die Beeren reifen von August bis September.",
+   "spuren": null,
+   "tiere": "Das Wald-Geißblatt ist eine typische Nachtfalterblume: Die Blüten öffnen sich am Abend mit starkem Duft und werden vor allem von Eulenfaltern und langrüsseligen Schwärmern besucht, die den Nektar im tiefen Blütengrund erreichen. Als Beispiele nennt eine Pflanzendatenbank den Kiefernschwärmer und den Nachtkerzenschwärmer. Tagsüber kommen nach dieser Quelle zusätzlich Hummeln. Für 41 Raupenarten gilt die Pflanze als Futterpflanze. Die roten Beeren fressen Singdrossel, Gimpel, Grasmücken und Krähenvögel, die dabei die Samen verbreiten.",
+   "regional": null,
+   "umgang": "Die roten Beeren sind giftig und können Erbrechen und Durchfall auslösen. Es wird keine Verzehrempfehlung gegeben. Wer das Wald-Geißblatt an Zaun oder Hecke wachsen lässt, schafft Nahrung für Nachtfalter und Vögel.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands nach FloraWeb (Stand 2013): ungefährdet. Nach Bundesnaturschutzgesetz nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "0f22bc75",
+    "cd4257dd"
+   ],
+   "korrekturen": [
+    "Geprüft anhand der abgerufenen Seiten von FloraWeb, NaturaDB und Wikipedia: Wuchs, Blätter, Blüten, Blütezeit, Lebensraum, Beerengröße, Giftigkeit, Nachtfalter, Hummeln, 41 Raupenarten und beerenfressende Vögel sind belegt (Hummeln in NaturaDB und Wikipedia, Raupenzahl und Vogelarten nur in NaturaDB).",
+    "Rote-Liste-Jahr 2018 war nicht belegt. FloraWeb nennt auf der Artseite „ungefährdet (Stand 2013)“, das ist jetzt übernommen."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Lonicera periclymenum",
+     "http://www.floraweb.de/pflanzenarten/artenhome.xsql?suchnr=3499"
+    ],
+    [
+     "NaturaDB: Deutsches Geißblatt",
+     "https://www.naturadb.de/pflanzen/lonicera-periclymenum/"
+    ],
+    [
+     "Wikipedia: Wald-Geißblatt",
+     "https://de.wikipedia.org/wiki/Wald-Geißblatt"
+    ]
+   ]
+  },
+  {
+   "slug": "adlerfarn",
+   "name": "Adlerfarn",
+   "latein": "Pteridium aquilinum",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Adlerfarn ist ein großer, dreifach gefiederter Farn, der mit einem kriechenden Wurzelstock ganze Bestände bildet. Seine jungen Wedel, so heißen die Farnblätter, sind an der Spitze schneckenförmig eingerollt.",
+   "erkennen": [
+    "Wedel bis etwa zwei Meter hoch, im Umriss dreieckig und dreifach gefiedert",
+    "junge Wedel sind an der Spitze eingerollt, bevor sie sich entfalten",
+    "Wedel entspringen einzeln dem unterirdischen Wurzelstock, dem Rhizom",
+    "bildet dichte, herdenartige Bestände"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Der Adlerfarn wächst auf mäßig trockenen bis wechselfrischen, sandigen bis lehmigen Böden in Laubmischwäldern, Kiefernwäldern, auf Waldschlägen, an Waldsäumen und auf extensiv genutzten Weiden. Er bevorzugt bodensaure Standorte und meidet Kalk. Nach Kahlschlägen oder Waldbränden breitet er sich stark aus.",
+   "zeit": "Die Wedel treiben im Frühjahr aus und sind im Sommer voll entfaltet. Sporenreife nach FloraWeb: Juli bis September.",
+   "spuren": null,
+   "tiere": "Viele Insekten meiden die Pflanze, doch 15 Schmetterlingsarten haben Adlerfarn als Raupenfutterpflanze, unter anderem die Adlerfarneule, der Purpurbär, die Smaragdeule und der Adlerfarn-Palpenfalter. Dichte Bestände können dagegen anderen Pflanzen Licht nehmen und so die Vielfalt vor Ort verringern.",
+   "regional": null,
+   "umgang": "Alle Teile des Adlerfarns sind giftig, auch getrocknet. Sie enthalten unter anderem Blausäureglykoside, Thiaminase und Ptaquilosid, die bei Weidetieren Vergiftungen auslösen. Es wird keine Verzehrempfehlung gegeben, und Sporen sollte man nicht einatmen. Auf Weiden mit wenig Nutzung breitet sich der Farn aus.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): ungefährdet. Nach Bundesnaturschutzgesetz nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "49acee15",
+    "b64a2ca9",
+    "01aa56a6"
+   ],
+   "korrekturen": [
+    "Die Fakten sprechen von saurem, lichtem Waldboden bei dichtem Wuchs. Belegt ist nur: bodensaure, kalkmeidende Standorte und starke Ausbreitung nach Kahlschlag. Die Aussage, dass dichter Adlerfarn den Boden anzeigt, wurde so nicht übernommen.",
+    "Das Bild von Hirtenstäben oder Fäusten wurde durch den belegten Begriff eingerollte Wedelspitze ersetzt.",
+    "Jahr 2018 der Roten Liste aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet.",
+    "Eine Merkblatt-Quelle (alpwirtschaft.de) war nicht abrufbar (404) und wird nicht zitiert."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Pteridium aquilinum",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=4606"
+    ],
+    [
+     "Wir flattern auf: Adlerfarn als Raupenfutterpflanze",
+     "https://www.wirflatternauf.com/nahrungspflanzen/np-raupen-a/adlerfarn-pteridium-aquilinum"
+    ],
+    [
+     "Wikipedia: Adlerfarn",
+     "https://de.wikipedia.org/wiki/Adlerfarn"
+    ]
+   ]
+  },
+  {
+   "slug": "rainfarn",
+   "name": "Rainfarn",
+   "latein": "Tanacetum vulgare",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Rainfarn ist eine aromatisch riechende Staude mit gefiederten Blättern und gelben, knopfartigen Blütenköpfchen. Er wächst an Wegrändern, Dämmen und Brachen.",
+   "erkennen": [
+    "30 bis 160 Zentimeter hoch, im oberen Teil verzweigt",
+    "Blätter im Umriss eilanzettlich und fiederteilig, also tief eingeschnitten",
+    "zahlreiche gelbe Köpfchen von 8 bis 11 Millimetern Durchmesser in dichten Doldenrispen",
+    "Zungenblüten, also die Randblüten mit zungenförmigem Blatt, fehlen meist"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Der Rainfarn wächst auf frischen, nährstoffreichen Ruderalstellen wie Straßenrändern, Dämmen, Brachen und Ufern. Er liebt volle Sonne.",
+   "zeit": "Er blüht von Juli bis September, selten bis in den November.",
+   "spuren": null,
+   "tiere": "Über 20 Wildbienenarten sammeln an den Blütenkörbchen Pollen. Als Spezialisten gelten die Rainfarn-Maskenbiene und der Rainfarn-Blattkäfer. Auch Falter, Fliegen, Käfer und Wanzen profitieren, ebenso Minierfliegen und Gallmücken. Die späte Blüte liefert Nahrung, wenn viele andere Pflanzen schon verblüht sind.",
+   "regional": null,
+   "umgang": "Der Rainfarn enthält ein ätherisches Öl, das in größeren Mengen giftig ist, und kann bei Berührung Kontaktallergien auslösen. Es wird keine Verzehrempfehlung gegeben. Wer ihn stehen lässt, hilft Wildbienen, besonders im Spätsommer.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): ungefährdet. Nach Bundesnaturschutzgesetz nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "20f8aedd"
+   ],
+   "korrekturen": [
+    "Die Fakten sagen, die Blütenknöpfe hätten keine Strahlen. FloraWeb schreibt: Zungenblüten fehlen meist. Deshalb eingeschränkt formuliert.",
+    "Der herbe Geruch der Blätter ist belegt als aromatisch.",
+    "Jahr 2018 der Roten Liste aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Tanacetum vulgare",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=5846"
+    ],
+    [
+     "oekolandbau.de (BLE): Pflanze des Monats August 2023, Rainfarn",
+     "https://www.oekolandbau.de/umwelt-und-gesellschaft/biodiversitaet/vielfalt-der-wildtiere-und-pflanzen/wir-stellen-vor-die-wildpflanze-des-monats/pflanze-des-monats-august-2023-rainfarn-tanacetum-vulgare/"
+    ],
+    [
+     "Wikipedia: Rainfarn",
+     "https://de.wikipedia.org/wiki/Rainfarn"
+    ]
+   ]
+  },
+  {
+   "slug": "sumpf-vergissmeinnicht",
+   "name": "Sumpf-Vergissmeinnicht",
+   "latein": "Myosotis scorpioides",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Das Sumpf-Vergissmeinnicht ist eine Staude feuchter Ufer mit himmelblauen Blüten und gelbem Schlund. Die Blüten stehen in Blütenständen, die sich von der Spitze her aufrollen.",
+   "erkennen": [
+    "himmelblaue Blüten von 4 bis 12 Millimetern Durchmesser mit gelben Schlundschuppen",
+    "Blütenstand ein gegabelter Wickel, das ist ein Blütenstand, der anfangs eingerollt ist und sich nach und nach streckt",
+    "Stängel abgerundet bis schwach kantig, meist anliegend behaart",
+    "oberirdische Ausläufer von über 10 Zentimetern Länge"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Das Sumpf-Vergissmeinnicht wächst an nassen bis feuchten Wiesen, in Röhrichten, an Grabenrändern und in Bruchwäldern. Es braucht nährstoffreiche Standorte.",
+   "zeit": "Die Blütezeit reicht von Mai bis September.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Die Art sollte an Gräben und Ufern nicht ausgemäht oder ausgebaggert werden, wo sie gedeiht. Ihre Früchte bleiben an Tieren und Kleidung hängen oder werden von Ameisen verbreitet.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): ungefährdet. Nach Bundesnaturschutzgesetz nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "ada85ba2",
+    "78547477"
+   ],
+   "korrekturen": [
+    "Wurzelbildung an feuchten Knoten ist in den abgerufenen Quellen nicht belegt und wurde weggelassen.",
+    "Die Angabe, Bienen, Falter und langrüsselige Fliegen besuchten die Blüten (auch der Blauschillernde Feuerfalter), steht nur bei Wikipedia. Eine zweite abgerufene Fachquelle fehlt, deshalb ist tiere leer.",
+    "Der Hinweis zu Klett- oder Ameisenausbreitung stammt aus Wikipedia, ist aber vorsichtig als Umgangshinweis formuliert; bei Bedarf streichen."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Myosotis scorpioides",
+     "https://www.floraweb.de/php/artenhome.php?name-use-id=3791"
+    ],
+    [
+     "Wikipedia: Sumpf-Vergissmeinnicht",
+     "https://de.wikipedia.org/wiki/Sumpf-Vergissmeinnicht"
+    ]
+   ]
+  },
+  {
+   "slug": "bittersuesser-nachtschatten",
+   "name": "Bittersüßer Nachtschatten",
+   "latein": "Solanum dulcamara",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Bittersüße Nachtschatten ist ein kletternder Halbstrauch mit violetten Blüten, aus denen leuchtend rote Beeren werden. Die gelben Staubbeutel bilden einen Kegel in der Blütenmitte.",
+   "erkennen": [
+    "niederliegender bis kletternder Stängel, bis etwa zwei Meter, im unteren Teil verholzt",
+    "violette Blüten, am Grund grünlich gefleckt, mit goldgelben, zu einem Kegel verwachsenen Staubbeuteln",
+    "10 bis 25 Blüten pro Blütenstand",
+    "eiförmige, leuchtend rote Beeren von bis zu einem Zentimeter Länge"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst in Moor-, Bruch- und Sumpfwäldern, an Gräben, in Röhrichten und in Ufergebüschen, auch in mäßig trockenen Gebüschen. Er braucht nährstoffreiche Böden.",
+   "zeit": "Die Blütezeit reicht von Juni bis August, die roten Beeren hängen bis in den Herbst.",
+   "spuren": null,
+   "tiere": "Die Samen werden von Vögeln verbreitet, die die Beeren fressen. Bestäubt werden die Blüten nach Wikipedia vor allem von Hautflüglern (Bienen und Verwandten) und Zweiflüglern (Fliegen und Mücken).",
+   "regional": null,
+   "umgang": "Alle Pflanzenteile enthalten giftige Steroidalkaloide und Saponine, besonders die Triebspitzen und die unreifen Früchte. Für Kinder können wenige unreife Beeren gefährlich sein. Es wird keine Verzehrempfehlung gegeben, auch die roten Beeren sollte man nicht essen.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): ungefährdet. Nach Bundesartenschutzverordnung nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "b4ba48b0",
+    "8f7b6d52",
+    "a39d592f"
+   ],
+   "korrekturen": [
+    "Zurückgebogene Blütenblätter und das Wort Schilf wurden nicht übernommen: belegt sind violette Blüten und Standorte in Röhrichten und Gebüschen.",
+    "Jahr 2018 der Roten Liste aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Solanum dulcamara",
+     "https://www.floraweb.de/xsql/artenhome.xsql?suchnr=5661"
+    ],
+    [
+     "Nationalpark Donau-Auen: Bittersüßer Nachtschatten",
+     "https://www.donauauen.at/wissen/natur-wissenschaft/flora/bittersuesser-nachtschatten-solanum-dulcamara"
+    ],
+    [
+     "Wikipedia: Bittersüßer Nachtschatten",
+     "https://de.wikipedia.org/wiki/Bittersüßer_Nachtschatten"
+    ]
+   ]
+  },
+  {
+   "slug": "schwarzer-holunder",
+   "name": "Schwarzer Holunder",
+   "latein": "Sambucus nigra",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Schwarze Holunder ist ein stark verzweigter Strauch mit gefiederten Blättern, weißen Blütenschirmen und glänzend schwarzen Früchten. Seine Zweige enthalten weißes, weiches Mark.",
+   "erkennen": [
+    "Strauch von 2 bis 7 Metern Höhe, stark verzweigt",
+    "gegenständige, unpaarig gefiederte Blätter",
+    "weiße Blüten in flachen, schirmförmigen Blütenständen, mit fünf Staubblättern und gelben Staubbeuteln",
+    "Früchte, die sich vom Grün über Rot zu glänzendem Schwarz färben, an rötlichen Stielen",
+    "weißes Mark im Zweig"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst in frischen bis feuchten Wäldern, auf Waldlichtungen, in Hecken und Gebüschen, an Wegrändern und auf Schutt. Er braucht nährstoffreiche, oft stickstoffreiche Böden.",
+   "zeit": "Blüte im Juni und Juli, Fruchtreife von August bis September.",
+   "spuren": null,
+   "tiere": "Über 60 Vogelarten und einige Dutzend Insektenarten fressen den Holunder gern. Im Spätsommer stellen Insektenfresser wie die Mönchsgrasmücke auf die kalorienreichen Früchte um. Amseln, Drosseln und Stare verbreiten die Samen. Die Blüten besuchen Honigbienen, kurzrüsselige Wildbienen, Schwebfliegen, Käfer und Fliegen. Nach FloraWeb keimen die Samen nach dem Durchgang durch den Vogeldarm besser.",
+   "regional": null,
+   "umgang": "Rohe Beeren, Blätter und Rinde sind giftig und können Übelkeit und Erbrechen auslösen. Erst Erhitzen baut die Giftstoffe ab. Es wird keine Verzehrempfehlung gegeben. Als Vogelschutzgehölz eignet sich der Holunder für Hecken und Gärten.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): ungefährdet. Nach Bundesnaturschutzgesetz nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "9c41e178",
+    "18297460",
+    "22d0c15d",
+    "98df155c",
+    "4a5d1cf4"
+   ],
+   "korrekturen": [
+    "Die Aussage, Beeren reiften nicht auf einmal, wurde nur als Farbfolge grün, rot, schwarz belegt. Dass Nachzügler neben reifen Beeren hängen, ist nicht ausdrücklich belegt.",
+    "Der herbe Blattgeruch ist in keiner abgerufenen Quelle belegt und fehlt.",
+    "Die Aussage, im Juli seien die Beeren noch grün, ist mit Reife August bis September vereinbar, wurde aber nicht wörtlich übernommen.",
+    "Rötliche Fruchtstiele stammen vom NABU Bochum.",
+    "Quellen widersprechen sich bei Nektar der Blüten, deshalb nicht erwähnt.",
+    "Jahr 2018 der Roten Liste aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Sambucus nigra",
+     "http://www.floraweb.de/pflanzenarten/artenhome.xsql?suchnr=5227"
+    ],
+    [
+     "NABU Bremen: Holunder",
+     "https://bremen.nabu.de/tiere-und-pflanzen/pflanzen/Unsere20Heckenpflanzen/22603.html"
+    ],
+    [
+     "NABU Bochum: Schwarzer Holunder",
+     "https://nabu-bochum.de/2018/06/01/schwarzer-holunder-sambucus-nigra/"
+    ],
+    [
+     "Wikipedia: Schwarzer Holunder",
+     "https://de.wikipedia.org/wiki/Schwarzer_Holunder"
+    ]
+   ]
+  },
+  {
+   "slug": "faulbaum",
+   "name": "Faulbaum",
+   "latein": "Frangula alnus",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Faulbaum ist ein dornenloser Strauch feuchter Wälder und Moore. Seine Früchte sind erst grün, dann rot und reif schwarz, und oft hängen mehrere Farben gleichzeitig am Zweig.",
+   "erkennen": [
+    "Strauch von 2 bis 4 Metern Höhe, Äste ohne Dornen",
+    "ganzrandige, elliptische, wechselständige Blätter von 5 bis 7 Zentimetern Länge",
+    "unscheinbare weiße, fünfzählige Blüten",
+    "Früchte erst grün, dann rot, reif schwarz, oft in allen Farben gleichzeitig am selben Zweig"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Der Faulbaum wächst in tiefgründig feuchten bis nassen Gebüschen, in Erlenbrüchen, Kiefern- und Birkenmooren und in Laubmischwäldern. Kalk meidet er, nasse Böden und zeitweise Überflutung verträgt er.",
+   "zeit": "Er blüht von Ende Mai bis in den Spätsommer, deshalb reifen den ganzen Sommer über neue Früchte.",
+   "spuren": null,
+   "tiere": "Der Faulbaum ist die Hauptnahrungspflanze der Raupen des Zitronenfalters, die Weibchen legen ihre Eier einzeln an Blättern, Triebspitzen und Zweigen ab. Nach FloraWeb fressen rund 30 Schmetterlingsarten an ihm, zum Beispiel der Faulbaum-Bläuling, das Kleine Nachtpfauenauge und der Faulbaum-Glasflügler. Die Blüten besuchen Bienen, Fliegen, Wespen und Käfer. Vögel fressen die Früchte, für sie sind sie nicht giftig.",
+   "regional": null,
+   "umgang": "Früchte, Blätter und frische Rinde sind für Menschen giftig und können Übelkeit, Erbrechen und Durchfall auslösen. Es wird keine Verzehrempfehlung gegeben. Schon ein einzelner Faulbaum im Garten schafft Eiablageplätze für den Zitronenfalter.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): ungefährdet. Nach Bundesnaturschutzgesetz nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "57057ecd",
+    "44c429e2",
+    "83d43445"
+   ],
+   "korrekturen": [
+    "Helle Rinde und quer liegende Korkporen sind in den abgerufenen Quellen nicht belegt und fehlen.",
+    "Die Zahl der Schmetterlingsarten schwankt je Quelle (29 bis über 50), deshalb rund 30.",
+    "Jahr 2018 der Roten Liste aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Frangula alnus",
+     "http://www.floraweb.de/pflanzenarten/artenhome.xsql?suchnr=2472"
+    ],
+    [
+     "FloraWeb (BfN): Schmetterlingsraupen am Faulbaum",
+     "https://www.floraweb.de/php/schmetterlinge.php?suchnr=2472&sipnr=2472"
+    ],
+    [
+     "NABU: Zitronenfalter",
+     "https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/schmetterlinge/tagfalter/04431.html"
+    ],
+    [
+     "NABU Bremen: Faulbaum",
+     "https://bremen.nabu.de/tiere-und-pflanzen/pflanzen/Unsere20Heckenpflanzen/25882.html"
+    ],
+    [
+     "Wikipedia: Faulbaum",
+     "https://de.wikipedia.org/wiki/Faulbaum"
+    ]
+   ]
+  },
+  {
+   "slug": "teufelsabbiss",
+   "name": "Gewöhnlicher Teufelsabbiss",
+   "latein": "Succisa pratensis",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Gewöhnliche Teufelsabbiss ist eine Pflanze magerer, feuchter Wiesen mit blauen, kugeligen Blütenköpfen. Sein Wurzelstock wirkt wie abgebissen.",
+   "erkennen": [
+    "15 bis 30 Zentimeter, selten bis 80 Zentimeter hoch, ohne Ausläufer",
+    "länglich-lanzettliche Blätter",
+    "dunkelblaue Blütenköpfe mit 50 bis 80 vierspaltigen Einzelblüten",
+    "Wurzelstock wie abgebissen, unten absterbend"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst auf wechselfeuchten bis frischen Magerrasen, extensiv genutzten Wiesen und Flachmooren. Er braucht gut wasserversorgte, nährstoffarme Böden und gilt als Zeiger für magere Standorte.",
+   "zeit": "Er blüht von Juli bis September.",
+   "spuren": null,
+   "tiere": "Bienen, Hummeln, Schmetterlinge und Schwebfliegen nutzen den Nektar. Auf feuchtem Grünland ist der Teufelsabbiss die wichtigste Raupenfutterpflanze des Goldenen Scheckenfalters, der nach der Roten-Liste-Zentrum-Seite als Abbiss-Scheckenfalter auftritt. Auch der Blauäugige Waldportier legt Eier an der Pflanze ab. Seltene Falter wie der Lungenenzian-Ameisenbläuling schätzen den Nektar.",
+   "regional": null,
+   "umgang": "Der Erhalt magerer Feuchtwiesen, die nicht gedüngt oder entwässert werden, ist entscheidend. Eine späte Mahd lässt die Pflanzen blühen und Samen bilden.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): Vorwarnliste. In einzelnen Bundesländern gefährdet. Nach Bundesnaturschutzgesetz nicht besonders geschützt. Blume des Jahres 2015.",
+   "naturdeck_ids": [
+    "36f1e84a"
+   ],
+   "korrekturen": [
+    "Einzeln auf drahtig dünnen Stielen ist nicht belegt und fehlt.",
+    "Gleichsetzung Goldener Scheckenfalter und Abbiss-Scheckenfalter: Wikipedia nennt den Goldenen Scheckenfalter, die Rote-Liste-Zentrum-Seite den Abbiss-Scheckenfalter. Im Text als zusammengehörig dargestellt, bei Bedarf prüfen.",
+    "Spät mähen als Pflegehinweis ist nicht quellengestützt und kann gestrichen werden."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Succisa pratensis",
+     "https://www.floraweb.de/php/artenhome.php?name-use-id=5813"
+    ],
+    [
+     "Rote Liste Zentrum: Alte Heilpflanze mit teuflischer Vergangenheit",
+     "https://www.rote-liste-zentrum.de/themenwelt/artenportraits/alte-heilpflanze-mit-teuflischer-vergangenheit/"
+    ],
+    [
+     "Wikipedia: Gewöhnlicher Teufelsabbiss",
+     "https://de.wikipedia.org/wiki/Gewöhnlicher_Teufelsabbiss"
+    ]
+   ]
+  },
+  {
+   "slug": "besenheide",
+   "name": "Besenheide",
+   "latein": "Calluna vulgaris",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Die Besenheide, in FloraWeb Heidekraut genannt, ist ein immergrüner Zwergstrauch mit winzigen, ziegelartig überlappenden Schuppenblättern. Sie blüht spät im Jahr in Rosaviolett.",
+   "erkennen": [
+    "20 bis 50 Zentimeter hoher, reich verzweigter Zwergstrauch",
+    "gegenständige, schuppenförmige Blätter von 2 bis 4 Millimetern Länge, dachziegelartig angeordnet",
+    "traubige Blütenstände mit violettrosa Kelch",
+    "Frucht eine Kapsel"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Die Besenheide wächst auf mäßig trockenen bis feuchten Heiden, Magerrasen, Mooren sowie in Kiefern- und Eichenwäldern, vor allem auf kalkfreien, sauren und nährstoffarmen Sandböden. Sie braucht Licht.",
+   "zeit": "Sie blüht von August bis Oktober.",
+   "spuren": null,
+   "tiere": "Die Besenheide gilt als wichtige Bienenweide. Eine Pflanzendatenbank zählt 17 Wildbienenarten, die sie nutzen. Nach FloraWeb leben die Raupen von über 80 Schmetterlingsarten an ihr, unter anderem Purpurbär, Brauner Heidekrautspanner, Heidekraut-Fleckenspanner und Heidekrauteulchen. Darunter sind auch gefährdete Arten. Die späte Blüte liefert Nektar, wenn viele andere Pflanzen schon verblüht sind.",
+   "regional": null,
+   "umgang": "Heideflächen bleiben nur offen, wenn sie gepflegt werden. Ohne Pflege verholzen die Pflanzen und vergreisen mit der Zeit, sodass sie schlechter blühen.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): ungefährdet. Nach Bundesnaturschutzgesetz nicht besonders geschützt. Blume des Jahres 2019.",
+   "naturdeck_ids": [
+    "e6748d59",
+    "aae89f48",
+    "1cdbe91b",
+    "615deb0a"
+   ],
+   "korrekturen": [
+    "Braune, lange stehen bleibende Kapseln sind nicht belegt; nur Frucht eine Kapsel.",
+    "Dass Schuppenblätter trockenen Boden anzeigen, ist nicht belegt. FloraWeb nennt mäßig trockene bis feuchte Standorte und einen Zeigerwert für sauren Boden.",
+    "Die Aussage, Pflege durch Beweidung oder Schnitt verhindere Verholzung, stammt aus NABU-Euskirchen- und Wikipedia-Angaben über die Lebensphasen; im Text deshalb nur als allgemeiner Pflegehinweis.",
+    "Schmetterlingszahl schwankt (84 bis 86), deshalb über 80.",
+    "Jahr 2018 der Roten Liste aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Calluna vulgaris",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=1007"
+    ],
+    [
+     "FloraWeb (BfN): Schmetterlingsraupen am Heidekraut",
+     "https://www.floraweb.de/php/schmetterlinge.php?suchnr=1007&sipnr=1007"
+    ],
+    [
+     "NaturaDB: Besenheide",
+     "https://www.naturadb.de/pflanzen/calluna-vulgaris/"
+    ],
+    [
+     "Wikipedia: Besenheide",
+     "https://de.wikipedia.org/wiki/Besenheide"
+    ]
+   ]
+  },
+  {
+   "slug": "breitblaettriger-rohrkolben",
+   "name": "Breitblättriger Rohrkolben",
+   "latein": "Typha latifolia",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Breitblättrige Rohrkolben ist eine Röhrichtpflanze mit walzenförmigen, braunen Kolben. Der weibliche Kolben sitzt unten, darüber der dünnere männliche Teil.",
+   "erkennen": [
+    "1 bis 2 Meter, selten bis 3 Meter hoch",
+    "blaugrüne Blätter von 1 bis 2 Zentimetern Breite",
+    "weiblicher Kolben unten, 25 bis 30 Zentimeter lang, darüber der dünnere männliche Teil"
+   ],
+   "verwechslung": "Beim Schmalblättrigen Rohrkolben sind die Blätter mit meist 5 bis 8 Millimetern deutlich schmaler, und männlicher und weiblicher Kolben sind durch einen blütenlosen Abschnitt von etwa 2,5 bis 3,5 Zentimetern getrennt.",
+   "lebensraum": "Er wächst im Röhricht an Ufern nährstoffreicher, stehender oder langsam fließender Gewässer wie Teichen, Seen und Gräben und bildet dort dichte, artenarme Bestände.",
+   "zeit": "Er blüht im Juli und August.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": null,
+   "schutz": "Nach Bundesnaturschutzgesetz nicht besonders geschützt (FloraWeb). Eine Rote-Liste-Angabe mit Jahr liegt nicht vor.",
+   "naturdeck_ids": [
+    "7ac9aefa",
+    "76efc8c2"
+   ],
+   "korrekturen": [
+    "Geprüft anhand FloraWeb, Wikipedia (Breitblättriger Rohrkolben, Rohrkolben, Schmalblättriger Rohrkolben). Belegt: Höhe, Blattbreite, Kolbenlänge, Lebensraum, Blütezeit Juli bis August (FloraWeb), BNatSchG-Status.",
+    "Der Abstand zwischen den Kolben ist widersprüchlich (FloraWeb: kein Abstand, Wikipedia: bis 8 Zentimeter), deshalb aus Kurztext und Merkmalen gestrichen; Unterscheidung nur über Blattbreite und den belegten Abstand beim Schmalblättrigen.",
+    "Wassertiefe bis einen Meter nicht belegt (Wikipedia: optimal etwa 50 Zentimeter), gestrichen. Rote Liste ohne Jahr gestrichen. Umgang (nicht mähen) war nicht belegt, daher null. Tiere: keine Quelle, null."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Typha latifolia",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=6127"
+    ],
+    [
+     "Wikipedia: Breitblättriger Rohrkolben",
+     "https://de.wikipedia.org/wiki/Breitbl%C3%A4ttriger_Rohrkolben"
+    ],
+    [
+     "Wikipedia: Rohrkolben",
+     "https://de.wikipedia.org/wiki/Rohrkolben"
+    ],
+    [
+     "Wikipedia: Schmalblättriger Rohrkolben",
+     "https://de.wikipedia.org/wiki/Schmalbl%C3%A4ttriger_Rohrkolben"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeiner-rotfussroehrling",
+   "name": "Gemeiner Rotfußröhrling",
+   "latein": "Xerocomellus chrysenteron",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Gemeine Rotfußröhrling ist ein Röhrenpilz mit braunem, filzigem Hut, dessen Oberfläche mit der Zeit in kleine Felder aufreißt. Seine gelben Röhren laufen bei Druck langsam blaugrün an.",
+   "erkennen": [
+    "matter, filziger Hut von 3 bis 8 Zentimetern, hell- bis dunkelbraun mit olivgrünem Ton, oft felderig aufgerissen, in den Rissen rötliches Fleisch",
+    "Röhren erst gelb, später olivgelb, bei Druck langsam blaugrün",
+    "Stiel gelb mit roten Fasern oder Flecken, besonders an der Basis",
+    "Fleisch blaut im Anschnitt kaum"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst in Laub- und Nadelwäldern, auch in Parks und Gärten, und lebt als Mykorrhizapilz, das heißt in enger Gemeinschaft mit den Wurzeln von Bäumen.",
+   "zeit": "Die Fruchtkörper erscheinen von Juli bis November.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Der Pilz gilt als essbar, ältere Fruchtkörper sind oft madig. Es wird keine Verzehrempfehlung gegeben. Pilze nur essen, wenn sie von einer Pilzsachverständigen oder einem Pilzsachverständigen sicher bestimmt wurden.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "ac0e68a5"
+   ],
+   "korrekturen": [
+    "Das Blauanlaufen der Röhren ist in den Quellen eher blaugrün und langsam. Im Text so übernommen.",
+    "Wikipedia und Fungiversum beschreiben rote Flecken beziehungsweise rötlichen Überzug am Stiel. Rote Fasern wurde deshalb als Fasern oder Flecken gefasst."
+   ],
+   "quellen": [
+    [
+     "Fungiversum: Gemeiner Rotfußröhrling",
+     "https://fungiversum.de/xerocomellus-chrysenteron/"
+    ],
+    [
+     "Wikipedia: Gemeiner Rotfußröhrling",
+     "https://de.wikipedia.org/wiki/Rotfußröhrling"
+    ]
+   ]
+  },
+  {
+   "slug": "besenginster",
+   "name": "Besenginster",
+   "latein": "Cytisus scoparius",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Besenginster ist ein Strauch mit dicht stehenden, kantigen, grünen Ruten und goldgelben Schmetterlingsblüten. Seine grünen Zweige betreiben die Photosynthese, also die Umwandlung von Licht in Nährstoffe.",
+   "erkennen": [
+    "1 bis 2 Meter hoher Strauch mit besenförmig dicht stehenden, fünfkantigen, grünen Zweigen",
+    "kleine, dreizählige Blätter",
+    "goldgelbe Schmetterlingsblüten bis 2,5 Zentimeter",
+    "schwarze, abgeflachte Hülsenfrüchte"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst auf mäßig trockenen bis frischen Extensivweiden, an Waldsäumen, auf Waldschlägen und Brandflächen, auf sandigen Brachen und Böschungen und in lichten Eichenwäldern. Er braucht nährstoffarme, kalkfreie Böden und volle Sonne.",
+   "zeit": "Er blüht von Mai bis Juni.",
+   "spuren": null,
+   "tiere": "Der Strauch ist eine wichtige Pollenquelle für Hummeln und Wildbienen: Schwere Insekten wie Hummeln lösen den Schleudermechanismus der Blüte aus, bei dem die Staubblätter hervorschnellen und Pollen verteilen. Eine Pflanzendatenbank nennt 41 Wildbienenarten und 62 Raupenarten, die den Besenginster nutzen.",
+   "regional": null,
+   "umgang": "Alle Teile sind giftig, sie enthalten Alkaloide wie Spartein, die in hohen Dosen gefährlich sind. Es wird keine Verzehrempfehlung gegeben.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): ungefährdet. Nach Bundesnaturschutzgesetz nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "dfb0170c"
+   ],
+   "korrekturen": [
+    "Wikipedia beschreibt den Strauch als winter- und sommerkahl, die grünen Ruten übernehmen die Photosynthese. Die Formulierung bleibt im Winter grün wurde deshalb zu grüne Ruten geändert.",
+    "Jahr 2018 der Roten Liste aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Cytisus scoparius",
+     "http://www.floraweb.de/pflanzenarten/artenhome.xsql?suchnr=1837"
+    ],
+    [
+     "NaturaDB: Besenginster",
+     "https://www.naturadb.de/pflanzen/cytisus-scoparius/"
+    ],
+    [
+     "Wikipedia: Besenginster",
+     "https://de.wikipedia.org/wiki/Besenginster"
+    ]
+   ]
+  },
+  {
+   "slug": "birkenporling",
+   "name": "Birkenporling",
+   "latein": "Fomitopsis betulina",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Birkenporling ist ein einjähriger Baumpilz, der wie eine helle Konsole am Stamm geschwächter oder toter Birken sitzt. Auf der Unterseite hat er sehr feine Poren, das sind die Mündungen der Röhren.",
+   "erkennen": [
+    "nieren- bis polsterförmige Konsole, bis etwa 30 Zentimeter breit, wächst meist einzeln an Birke",
+    "Hut jung weißlich bis cremefarben und glatt, später ockerbraun und hart",
+    "Unterseite flach, mit sehr feinen weißen, später gräulichen Poren",
+    "Fruchtkörper zeigt oft eine stielartige Verjüngung an der Ansatzstelle"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Der Birkenporling wächst ausschließlich an Birken, vor allem an geschwächten oder abgestorbenen Stämmen. Er dringt meist über Wunden wie Astabbrüche ein.",
+   "zeit": "Die Fruchtkörper erscheinen von Juli bis November.",
+   "spuren": "Das befallene Holz wird brüchig und dunkelbraun, zerfällt würfelförmig und wird morsch. Der Pilz verursacht eine Braunfäule, bei der er die Zellulose abbaut.",
+   "tiere": null,
+   "regional": null,
+   "umgang": "Der Pilz ist nicht giftig, wird mit dem Alter aber bitter und gilt als ungenießbar. Es wird keine Verzehrempfehlung gegeben. Birken mit Birkenporlingen können leicht brechen und sind an Wegen gefährlich.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "796be7fb",
+    "cd661f72",
+    "fb707d3e",
+    "45594890",
+    "3600f632"
+   ],
+   "korrekturen": [
+    "Die Aussage, die Unterseite sei glatt und ohne Röhrenmuster, ist falsch. Der Birkenporling hat Poren (etwa 2 bis 4 pro Millimeter). Die Poren-Fakten sind belegt.",
+    "Die Fakten nennen den Pilz weiß und jung hellbraun. Belegt ist: jung weißlich bis cremefarben, später ockerbraun.",
+    "An toten Birken: belegt als geschwächte oder tote Birken.",
+    "Zu Tieren am Birkenporling fand sich keine Fachquelle. Die Waldwissen-Seite nennt Käfer nur für Zunderschwamm und Rotrandigen Baumschwamm.",
+    "Hinweis zur Bruchgefahr von Bäumen ist eine abgeleitete Aussage aus Braunfäule und Bruchverlust und kann gestrichen werden."
+   ],
+   "quellen": [
+    [
+     "Naturschutzstation Hahneberg: Birkenporling Kurzportrait",
+     "https://naturschutzstation-hahneberg.de/2020/11/04/birkenporling-fomitopsis-betulina-kurzportrait/"
+    ],
+    [
+     "Wikipedia: Birkenporling",
+     "https://de.wikipedia.org/wiki/Birkenporling"
+    ]
+   ]
+  },
+  {
+   "slug": "blutweiderich",
+   "name": "Gewöhnlicher Blutweiderich",
+   "latein": "Lythrum salicaria",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Gewöhnliche Blutweiderich ist eine hohe Staude, die im Sommer Gräben und Ufer mit purpurroten Blütenähren färbt. Sein Stängel ist kantig.",
+   "erkennen": [
+    "30 bis 200 Zentimeter hoch, straff aufrecht",
+    "Stängel vier- oder mehrkantig, behaart",
+    "Blätter gegenständig oder in dreizähligen Quirlen, im oberen Teil auch wechselständig",
+    "sechs purpurrote Kronblätter, über einen Zentimeter lang, in langen Blütenähren"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst in feuchten bis nassen, zeitweise überfluteten Staudenfluren an Gräben und Teichufern, in Seggenrieden, Röhrichten und Niedermoorwiesen. Er braucht nährstoffreiche Standorte.",
+   "zeit": "Er blüht von Juli bis September.",
+   "spuren": null,
+   "tiere": "Eine Pflanzendatenbank nennt 12 Wildbienenarten, darunter zwei Spezialisten, die auf den Pollen des Blutweiderichs angewiesen sind: die Blutweiderich-Sägehornbiene und die Blutweiden-Langhornbiene. Nach FloraWeb fressen Raupen von Faltern wie dem Weiderich-Blütenspanner, dem Weidenröschen-Blattspanner und dem Mittleren Weinschwärmer an der Pflanze. Schwebfliegen gehören zu den wichtigen Bestäubern.",
+   "regional": null,
+   "umgang": "Wo Blutweiderich an Gräben wächst, sollte beim Mähen ein Streifen stehen bleiben, damit die spezialisierten Wildbienen Nahrung finden.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): ungefährdet. Nach Bundesnaturschutzgesetz nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "8a84c6cf",
+    "fad78076",
+    "06147026",
+    "dd972884"
+   ],
+   "korrekturen": [
+    "Die Abgrenzung zum Weidenröschen steht nur in den Fakten, die Gegenseite ist in keiner abgerufenen Quelle belegt. verwechslung ist deshalb null.",
+    "Hummeln bis August: nicht belegt. Belegt sind Wildbienen und Blüte bis September.",
+    "Blätter ohne Stiel direkt am Stängel: nicht belegt, nicht übernommen.",
+    "Mähen mit Streifen ist ein abgeleiteter Pflegehinweis ohne eigene Quelle und kann gestrichen werden.",
+    "Jahr 2018 der Roten Liste aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Lythrum salicaria",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=3572"
+    ],
+    [
+     "FloraWeb (BfN): Schmetterlinge am Blutweiderich",
+     "https://www.floraweb.de/php/schmetterlinge.php?suchnr=3572&sipnr=3572"
+    ],
+    [
+     "NaturaDB: Blutweiderich",
+     "https://www.naturadb.de/pflanzen/lythrum-salicaria/"
+    ],
+    [
+     "Wikipedia: Gewöhnlicher Blutweiderich",
+     "https://de.wikipedia.org/wiki/Blutweiderich"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeines-weissmoos",
+   "name": "Gemeines Weißmoos",
+   "latein": "Leucobryum glaucum",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Das Gemeine Weißmoos bildet helle, kissenartige Polster auf sauren Böden in Wäldern. Trocken sehen die Kissen weißlich grün aus.",
+   "erkennen": [
+    "kompakte, kissenförmige, weißlich grüne Polster",
+    "Blätter, die aus toten und grünen Zellen aufgebaut sind",
+    "wächst an schattigen bis halbschattigen Plätzen auf sauren Böden"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Es wächst auf sauren Böden an schattigen bis halbschattigen Plätzen, in Nadel- und Laubwäldern, auf Totholz und an Felsen.",
+   "zeit": null,
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Das Weißmoos sollte im Wald bleiben und nicht für Dekoration gesammelt werden.",
+   "schutz": "Nach Bundesartenschutzverordnung besonders geschützt, in der FFH-Richtlinie in Anhang V aufgeführt.",
+   "naturdeck_ids": [
+    "4f645405",
+    "6d62a01b"
+   ],
+   "korrekturen": [
+    "Geprüft anhand Artensteckbrief.de (Lebensraum, BArtSchV, FFH Anhang V) und Wikipedia (Gattung Weißmoos: Polsterform, weißlich grün, saure Böden, Schutz). Die Beschreibung stützt sich nur auf Wikipedia, eine zweite Fachquelle war nicht abrufbar.",
+    "Gestrichen: Rote Liste Sachsen (für Mecklenburg-Vorpommern nicht relevant), Aussage zum selteneren Wacholder-Weißmoos, ganzjährige Sichtbarkeit, Ausbleichen bei Trockenheit, Blattrippen und Wasserspeicherung (nicht belegt). Verwechslung und zeit deshalb null."
+   ],
+   "quellen": [
+    [
+     "Artensteckbrief.de: Leucobryum glaucum",
+     "https://artensteckbrief.de/21216/leucobryum-glaucum-gewoehnliches-weissmoos/sachsen"
+    ],
+    [
+     "Wikipedia: Weißmoos",
+     "https://de.wikipedia.org/wiki/Weißmoos"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeines-widertonmoos",
+   "name": "Gemeines Widertonmoos",
+   "latein": "Polytrichum commune",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Das Gemeine Widertonmoos, auch Goldenes Frauenhaar genannt, ist ein Riese unter den heimischen Moosen. Es wächst an feuchten bis nassen, sauren Standorten in Wäldern und Mooren und war Moos des Jahres 2010.",
+   "erkennen": [
+    "meist 10 bis 40 Zentimeter hoch, laut NABU bis zu einem halben Meter",
+    "aufrechte, meist unverzweigte Stämmchen, dicht mit schmalen, spiralig angeordneten Blättchen besetzt",
+    "vierkantige, gelb- bis rotbraune Sporenkapsel, von einer filzig behaarten Haube bedeckt, auf einem rötlichen Stiel",
+    "dunkelgrüne bis blaugrüne Polster"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Das Widertonmoos wächst an feuchten bis nassen, sauren Standorten in Wäldern, vor allem an nassen Stellen in Nadelwäldern, außerdem in Waldmooren, Mooren und auf Wiesen.",
+   "zeit": null,
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Die Bestände sind durch Entwässerung von Feuchtgebieten und Feuchtwiesen und durch Moorkultivierung zurückgegangen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "026a1e3b",
+    "604ef208"
+   ],
+   "korrekturen": [
+    "Geprüft anhand NABU und Wikipedia: Höhe, Polsterfarbe, Blätter, Kapsel, Haube, Stiel, Lebensraum, Rückgang durch Entwässerung und Moos des Jahres 2010 sind belegt.",
+    "Gestrichen, weil nicht belegt: immergrün, Sporenreife März bis Juli, Kalkmeidung, Vorkommen mit Torfmoosen, feuchte Heiden. Zeit deshalb null. Zur Bedeutung für Tiere keine Quelle, tiere null. Rote-Liste-Angabe liegt nicht vor."
+   ],
+   "quellen": [
+    [
+     "NABU: Goldenes Frauenhaar (Widertonmoos)",
+     "https://www.nabu.de/tiere-und-pflanzen/pflanzen/pflanzenportraets/wildpflanzen/11818.html"
+    ],
+    [
+     "Wikipedia: Gemeines Widertonmoos",
+     "https://de.wikipedia.org/wiki/Gemeines_Widertonmoos"
+    ]
+   ]
+  },
+  {
+   "slug": "scheiden-wollgras",
+   "name": "Scheiden-Wollgras",
+   "latein": "Eriophorum vaginatum",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Das Scheiden-Wollgras ist ein Moorgras, das dichte, feste Horste bildet und weiße, wollige Fruchtstände trägt. Es wächst auf den Bulten, den kleinen Erhöhungen, der Torfmoose.",
+   "erkennen": [
+    "30 bis 80 Zentimeter hoch, ohne Ausläufer, in dichten, festen Horsten",
+    "borstenförmige, graugrüne Blätter",
+    "aufgeblasene Blattscheiden der Stängelblätter, die dem Gras den Namen geben",
+    "ein einziges endständiges Ährchen von 2 bis 4 Zentimetern, später mit langen, wolligen Haaren"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Es wächst auf torfmoosreichen Bulten in Hoch- und Zwischenmooren, in nassen Moorheiden und in Kiefern- und Birkenmooren, vor allem in Abbau- und Regenerationsstadien. Kalk meidet es.",
+   "zeit": "Es blüht im März und April.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Moore sind empfindlich gegen Entwässerung und Torfabbau. Wer im Moor unterwegs ist, bleibt auf den Wegen.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): Vorwarnliste. Nach Bundesnaturschutzgesetz nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "8865fd69"
+   ],
+   "korrekturen": [
+    "Wollbüschel an den Halmen: Belegt sind die wolligen Haare am Fruchtstand. Dass das Wollgras trockener als Torfmoos steht, ist als Bult-Wuchs belegt.",
+    "Wikipedia nennt als Tierbezug unter anderem das Stromtal-Wiesenvögelchen und eine Moorzikade; diese Angabe hat keine zweite Quelle und wurde nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Eriophorum vaginatum",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=2194"
+    ],
+    [
+     "Wikipedia: Scheiden-Wollgras",
+     "https://de.wikipedia.org/wiki/Scheiden-Wollgras"
+    ]
+   ]
+  },
+  {
+   "slug": "sumpf-blutauge",
+   "name": "Sumpf-Blutauge",
+   "latein": "Comarum palustre",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Das Sumpf-Blutauge, auch Blutauge genannt, ist eine Staude nasser Moore und Ufer mit dunkelpurpurnen, sternförmigen Blüten und gefiederten Blättern.",
+   "erkennen": [
+    "20 bis 60 Zentimeter hoch, mit bis zu einem Meter langem, kriechendem, verholztem Wurzelstock",
+    "Stängelblätter mit 5 bis 7 scharf gesägten, blaugrünen, oft rötlich überlaufenen Teilblättern",
+    "dunkelpurpurne Blüten mit dunkel rotbraunen Kelchblättern und etwa 20 schwarzpurpurnen Staubblättern"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Es wächst in nassen, zeitweise überfluteten Niedermooren und Zwischenmooren, an Seeufern, in Gräben und auf Sumpfwiesen. Kalk meidet es. Typisch ist es für nährstoffarme Moore und Bruchwälder.",
+   "zeit": "Es blüht im Juni und Juli.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Das Blutauge braucht nasse Moorstandorte. Entwässerung bedroht die Art.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): ungefährdet. Nach Bundesnaturschutzgesetz nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "878ec082",
+    "6a17f236"
+   ],
+   "korrekturen": [
+    "Die Bestäuber (Fliegen, Bienen, Hummeln) und die Verbreitung durch Wasservögel stehen nur bei Wikipedia. Es gab keine zweite Quelle, tiere ist deshalb leer.",
+    "Wie Finger geteilt: FloraWeb nennt gefiedert mit 5 bis 7 Teilblättern, Wikipedia fingerartig angeordnet. Hier als Teilblätter formuliert.",
+    "Das Kriechen durch Torfmoos ist nicht ausdrücklich belegt, nur kriechender Wurzelstock und Torf- und Moorstandorte.",
+    "Jahr 2018 der Roten Liste aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet.",
+    "FloraWeb führt die Art als Comarum palustre, Potentilla palustris ist ein Synonym."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Comarum palustre",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=4528"
+    ],
+    [
+     "Wikipedia: Sumpf-Blutauge",
+     "https://de.wikipedia.org/wiki/Sumpf-Blutauge"
+    ]
+   ]
+  },
+  {
+   "slug": "gewoehnlicher-froschloeffel",
+   "name": "Gewöhnlicher Froschlöffel",
+   "latein": "Alisma plantago-aquatica",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Gewöhnliche Froschlöffel ist eine Uferpflanze mit eiförmig-lanzettlichen Grundblättern und fast weißen Blüten in einem ausladenden Blütenstand.",
+   "erkennen": [
+    "20 bis 90 Zentimeter hoch, Stängel unbeblättert",
+    "Grundblätter eiförmig-lanzettlich",
+    "Blüten mit drei grünen Kelchblättern und drei fast weißen Kronblättern in einem rispigen, ausladenden Blütenstand"
+   ],
+   "verwechslung": "In derselben Artengruppe stehen der Grasblättrige und der Lanzett-Froschlöffel.",
+   "lebensraum": "Er wächst in Röhrichten und Großseggenrieden an nassen bis flach überfluteten Ufern nährstoffreicher stehender oder langsam fließender Gewässer wie Seen, Altwasser und Gräben.",
+   "zeit": "Er blüht von Juli bis August.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Ufer und Gräben sollten nicht vollständig ausgeräumt werden, damit solche Pflanzen bleiben.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): ungefährdet. Nach Bundesnaturschutzgesetz nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "e6427619"
+   ],
+   "korrekturen": [
+    "Löffelförmige Blätter, die aus dem Wasser ragen: nicht belegt, FloraWeb beschreibt Grundblätter eiförmig-lanzettlich.",
+    "Blasse Blüten: belegt als fast weiß.",
+    "Tiere: keine abgerufene Quelle, deshalb leer.",
+    "Jahr 2018 der Roten Liste aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Alisma plantago-aquatica",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=278"
+    ]
+   ]
+  },
+  {
+   "slug": "gewoehnlicher-gilbweiderich",
+   "name": "Gewöhnlicher Gilbweiderich",
+   "latein": "Lysimachia vulgaris",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Gewöhnliche Gilbweiderich ist eine hohe, gelb blühende Staude feuchter Standorte. Seine Blüten bieten keinen Nektar, sondern Öl.",
+   "erkennen": [
+    "40 bis 150 Zentimeter hoch, aufrechter, oben verzweigter, behaarter Stängel",
+    "eiförmig-lanzettliche Blätter bis 12 Zentimeter Länge, gegenständig oder zu dritt oder viert im Quirl",
+    "gelbe, fünfzählige Blüten, bis fast zum Grund geteilt"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst in Erlenbrüchen, Auenwäldern, Sumpfgebüschen, in feuchten bis nassen, zeitweise überfluteten Staudenfluren, in Röhrichten und an Grabenrändern.",
+   "zeit": "Er blüht von Juni bis August.",
+   "spuren": null,
+   "tiere": "Die Blüten haben keinen Nektar, sondern Öl, das Schenkelbienen, eine Gruppe spezialisierter Wildbienen, sammeln. Die Bienen mischen es mit Pollen und tragen es an den Hinterbeinen. Wikipedia nennt für diese Beziehung die Art Macropis europaea, deren Verbreitung an die Pflanze gebunden ist. Raupen von mindestens 14 bis 17 Schmetterlingsarten fressen an der Pflanze, darunter seltene Nachtfalter wie die Heidemoor-Rindeneule und der Moorwiesen-Striemenspanner.",
+   "regional": null,
+   "umgang": "Wo Gilbweiderich wächst, finden spezialisierte Wildbienen Nahrung. Die Standorte sollten nicht entwässert werden.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): ungefährdet. Nach Bundesnaturschutzgesetz nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "f82671ee",
+    "39de9500"
+   ],
+   "korrekturen": [
+    "Gelber Gilbweiderich wurde als Gewöhnlicher Gilbweiderich geführt. Beide Fakten betreffen diese Art.",
+    "Drüsenpunkte am Blattrand (Fakt a644bcb2) sind falsch bzw. widersprüchlich: FloraWeb nennt die Blätter nicht punktiert. Deshalb nicht übernommen.",
+    "Der Vergleich mit dem am Boden liegenden Pfennig-Gilbweiderich ist in den abgerufenen Quellen nicht belegt und fehlt.",
+    "Die Raupenzahl schwankt: 17 Arten (NaturaDB), 14 Arten in der FloraWeb-Liste.",
+    "Jahr 2018 der Roten Liste aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Lysimachia vulgaris",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=3570"
+    ],
+    [
+     "FloraWeb (BfN): Schmetterlingsraupen am Gewöhnlichen Gilbweiderich",
+     "https://www.floraweb.de/php/schmetterlinge.php?suchnr=3570&sipnr=3570"
+    ],
+    [
+     "NaturaDB: Gewöhnlicher Gilbweiderich",
+     "https://www.naturadb.de/pflanzen/lysimachia-vulgaris/"
+    ],
+    [
+     "Wikipedia: Gewöhnlicher Gilbweiderich",
+     "https://de.wikipedia.org/wiki/Gewöhnlicher_Gilbweiderich"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeiner-tuepfelfarn",
+   "name": "Gewöhnlicher Tüpfelfarn",
+   "latein": "Polypodium vulgare",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Gewöhnliche Tüpfelfarn ist ein kleiner, immergrüner Farn, der auf Felsen, Mauern und in lichten Wäldern wächst. Auf der Unterseite der Wedel sitzen runde Sporenhäufchen.",
+   "erkennen": [
+    "Wedel fiederspaltig bis einfach gefiedert, im Umriss lanzettlich",
+    "runde Sporenhäufchen, die Sori, ohne Schleier, zwischen Mittelrippe und Blattrand",
+    "ähnlich ist der Gesägte Tüpfelfarn mit stärker gegabelten Seitenadern"
+   ],
+   "verwechslung": "Der Gesägte Tüpfelfarn (Polypodium interjectum) sieht ähnlich aus. Bei ihm sind die Seitenadern drei- bis viermal gegabelt, und die Sporen sind im Mittel größer als 74 Mikrometer.",
+   "lebensraum": "Er wächst auf mäßig trockenen, schattigen Felsen und Mauern, in lichten Eichenwäldern und Dünenkiefernwäldern. Kalk meidet er.",
+   "zeit": "Die Sporen reifen von August bis September.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Er sollte nicht von Mauern und Felsen abgekratzt werden.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): ungefährdet. Nach Bundesnaturschutzgesetz nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "138677d1"
+   ],
+   "korrekturen": [
+    "Wachsen auf alten Baumstümpfen: nicht belegt. FloraWeb nennt Felsen, Mauern, lichte Eichenwälder und Dünenkiefernwälder.",
+    "Tiere: keine abgerufene Quelle.",
+    "Immergrün: nicht in den abgerufenen Quellen genannt, deshalb als Wuchsangabe nur über Chamaephyt (Zwergstrauch-ähnliche Lebensform) gestützt; bei Bedarf streichen.",
+    "Jahr 2018 der Roten Liste aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Polypodium vulgare",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=4441"
+    ]
+   ]
+  },
+  {
+   "slug": "kiefern-braunporling",
+   "name": "Kiefern-Braunporling",
+   "latein": "Phaeolus schweinitzii",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Kiefern-Braunporling ist ein Baumpilz, der an Kiefern und anderen Nadelbäumen wächst. Seine Poren färben sich bei Druck braun.",
+   "erkennen": [
+    "Hut filzig bis samtig, mit braunem Zentrum und lebhaft gelbem oder orangem Rand",
+    "relativ schwammige Konsistenz",
+    "Poren rundlich bis länglich, mit feinen Härchen, bei Druck braun werdend",
+    "frische Fruchtkörper scheiden braune Tropfen ab"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Der Pilz wächst an Nadelhölzern, nach Mycopedia vor allem an Kiefer und Fichte, und baut deren Holz ab.",
+   "zeit": null,
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Es wird keine Verzehrempfehlung gegeben.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "290d9d57"
+   ],
+   "korrekturen": [
+    "Geprüft: Volltext liegt nur von Mycopedia vor (Hut, Rand, schwammige Konsistenz, Poren bräunen bei Druck, braune Tropfen, Nadelholzwirte, Holzabbau). Die Wikipedia-Seite wurde ebenfalls abgerufen, ist aber nicht mehr als Quelle eingetragen, weil sie als Einzelbeleg nicht ausreicht und abweicht (Hutgröße, Braunfäule statt Weißfäule).",
+    "Gestrichen: Erscheinungszeit Juni bis Oktober, Wuchs von der Wurzel in den Stamm, Holzverfärbung und Zerfall, Bruchgefahr, Ungenießbarkeit (jeweils nur in Wikipedia oder gar nicht belegt). Der Fäuletyp ist widersprüchlich und wird nicht genannt. Eine zweite Fachquelle war nicht abrufbar."
+   ],
+   "quellen": [
+    [
+     "Mycopedia: Phaeolus schweinitzii",
+     "https://www.mycopedia.ch/pilze/7410.htm"
+    ]
+   ]
+  },
+  {
+   "slug": "koenigsfarn",
+   "name": "Königsfarn",
+   "latein": "Osmunda regalis",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Königsfarn, nach FloraWeb Königs-Rispenfarn, ist der stattlichste Farn Deutschlands. Seine Sporen sitzen in braunen Rispen an der Wedelspitze.",
+   "erkennen": [
+    "Wedel 60 bis 160 Zentimeter, selten bis 200 Zentimeter lang",
+    "sterile Wedelteile doppelt gefiedert und ausgebreitet",
+    "der fruchtbare Wedelteil ist vom sterilen getrennt, aufrecht und trägt braune Sporenträger",
+    "Triebe im Frühjahr schneckenförmig eingerollt, jung gelblich grün, später olivgrün"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst in lichten Bruch- und Moorwäldern, in Moorgebüschen, an Waldsäumen und an Grabenrändern, vor allem in Erlenbruchwäldern. Kalk meidet er. In Deutschland kommt er hauptsächlich nördlich der Mittelgebirge vor.",
+   "zeit": "Sporenreife im Juni und Juli. Im Herbst sterben die oberirdischen Teile ab.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Der Königsfarn ist selten und wertvoll. Er sollte nicht ausgegraben werden, und sein Standort darf nicht entwässert werden.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): gefährdet (Kategorie 3). Nach Bundesnaturschutzgesetz besonders geschützt.",
+   "naturdeck_ids": [
+    "2c768fa9"
+   ],
+   "korrekturen": [
+    "Nasse Waldmulden: belegt als lichte Bruch- und Moorwälder.",
+    "Zu Tieren am Königsfarn fand sich keine Fachquelle, deshalb ist tiere leer.",
+    "Rote-Liste-Jahr (2018) aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet. Eine weitere Seite nennt stark gefährdet, FloraWeb gefährdet (3). Hier gilt FloraWeb."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Osmunda regalis",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=4058"
+    ],
+    [
+     "Ökologische Schutzstation Steinhuder Meer: Königsfarn",
+     "https://www.oessm.org/angebote/natur-am-meer/pflanzenportraets/koenigsfarn/"
+    ]
+   ]
+  },
+  {
+   "slug": "nickender-zweizahn",
+   "name": "Nickender Zweizahn",
+   "latein": "Bidens cernua",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Nickende Zweizahn ist ein einjähriger Korbblütler feuchter Ufer, dessen Früchte mit Grannen und Widerhaken an Tieren und Kleidung haften bleiben.",
+   "erkennen": [
+    "5 bis 150 Zentimeter hoch, Stängel rundlich",
+    "gegenständige, lanzettliche, hellgrüne Blätter, sitzend und halb stängelumfassend",
+    "Früchte mit meist vier Grannen von 2 bis 3 Millimetern Länge, deren Kanten rückwärts gerichtete Borsten tragen"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst in Zweizahn-Pionierfluren, also auf frischen Rohböden an Ufern, die nährstoffreich sind.",
+   "zeit": "Er blüht von August bis Oktober.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Die klettenden Früchte können Tiere im Fell und Menschen an Hosen weitertragen.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): ungefährdet. Nach Bundesartenschutzverordnung nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "4af4872c"
+   ],
+   "korrekturen": [
+    "Gelbe, nach unten hängende Blütenkörbchen: nicht in den abgerufenen Quellen belegt (nur der Name Nickender Zweizahn). Deshalb nicht in den Merkmalen.",
+    "Am Graben: belegt ist Ufer und feuchte Rohböden, Gräben nicht ausdrücklich.",
+    "Tiere: keine abgerufene Quelle.",
+    "Jahr 2018 der Roten Liste aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Bidens cernua",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=832"
+    ]
+   ]
+  },
+  {
+   "slug": "rotrandiger-baumschwamm",
+   "name": "Rotrandiger Baumschwamm",
+   "latein": "Fomitopsis pinicola",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Rotrandige Baumschwamm ist ein mehrjähriger Konsolenpilz an Totholz und geschwächten Bäumen. Seine Zuwachszone am Rand ist hell bis orangerot.",
+   "erkennen": [
+    "mehrjährige, konsolenförmige Fruchtkörper von 10 bis 30 Zentimetern",
+    "Zuwachszone am Rand weißlich, später goldgelb bis kräftig orangerot",
+    "harte Kruste mit konzentrischen Vertiefungen",
+    "Röhren weißlich bis cremefarben, Sporenpulver weiß"
+   ],
+   "verwechslung": "Er wird gelegentlich mit dem Zunderschwamm oder mit Lackporlingen verwechselt. Lackporlinge haben braunes Fleisch und braune Sporen.",
+   "lebensraum": "Er bevorzugt Fichten, kommt aber auch an Kiefer, Tanne, Erle, Buche, Birke, Esche und Apfelbaum vor. Er ist sehr häufig in Wäldern, Parks und Gärten.",
+   "zeit": "Die Fruchtkörper sind mehrjährig und das ganze Jahr zu sehen.",
+   "spuren": "Er verursacht Braunfäule, bei der das Holz würfelig zerfällt.",
+   "tiere": "Baumschwämme bieten lebend und tot Lebensraum für Insekten. An den Fruchtkörpern des Rotrandigen Baumschwamms leben der Kurzflügler Gyrophaena boleti und der Gelbbindige Schwarzkäfer, ein Käfer von 6 bis 8 Millimetern Länge.",
+   "regional": null,
+   "umgang": "Der Pilz zeigt an, dass das Holz morsch wird. Totholz mit Baumschwämmen ist wertvoll für Insekten und sollte, wo möglich, stehen bleiben.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "9993b458"
+   ],
+   "korrekturen": [
+    "Der Fakt nennt helle Streifen am Rand. Belegt ist eine weißliche bis orangerote Zuwachszone.",
+    "Die Aussage, Totholz solle stehen bleiben, ist abgeleitet aus dem Lebensraumwert und kann gestrichen werden.",
+    "Das Berliner Pflanzenschutzamt-PDF war nicht lesbar und wird nicht zitiert."
+   ],
+   "quellen": [
+    [
+     "Waldwissen.net: Baumschwämme als Lebensraum",
+     "https://www.waldwissen.net/de/lebensraum-wald/pilze-und-flechten/baumschwaemme-als-lebensraum"
+    ],
+    [
+     "Fungiversum: Rotrandiger Baumschwamm",
+     "https://fungiversum.de/fomitopsis-pinicola/"
+    ]
+   ]
+  },
+  {
+   "slug": "rundblaettriger-sonnentau",
+   "name": "Rundblättriger Sonnentau",
+   "latein": "Drosera rotundifolia",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Rundblättrige Sonnentau ist eine kleine Moorpflanze, die mit klebrigem Sekret Insekten fängt. Die Tropfen sehen aus wie Tau.",
+   "erkennen": [
+    "7 bis 20 Zentimeter hoch, Blattrosette am Boden",
+    "rundliche Blätter von bis zu 15 Millimetern Breite mit behaartem Stiel",
+    "Drüsenhaare mit klebrigem Sekret an der Spitze",
+    "Blütenstand mit 4 bis 12 weißen Blüten, deutlich länger als die Blätter"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst auf Bulten (kleinen Erhebungen) von Hoch- und Zwischenmooren, in Feuchtheiden, auf zeitweise nassen Torf- und Sandböden, in Torfstichen und an feuchten Wegen. Er braucht helle, sehr nasse, saure und stickstoffarme Standorte und meidet kalkhaltigen Boden. Nach der Deutschen Wildtier Stiftung kommt er in nährstoffarmen, von Torfmoosen geprägten Mooren vor.",
+   "zeit": "Er blüht von Juli bis August.",
+   "spuren": null,
+   "tiere": "Der Sonnentau fängt Insekten mit seinen Klebtropfen. Verdauungsenzyme lösen die Beute auf, und die Pflanze gewinnt so Stickstoff, den der nährstoffarme Moorboden nicht liefert.",
+   "regional": null,
+   "umgang": "Der Sonnentau ist besonders geschützt. Moore sind durch Zerstörung und Entwässerung gefährdet; Wiedervernässung schafft wieder geeignete Standorte.",
+   "schutz": "Nach Bundesnaturschutzgesetz besonders geschützt (FloraWeb).",
+   "naturdeck_ids": [
+    "7a571715",
+    "0c95686e",
+    "6f21192f"
+   ],
+   "korrekturen": [
+    "Geprüft anhand FloraWeb, Deutscher Wildtier Stiftung und Wikipedia. Belegt: Maße, Blütenzahl, Blütezeit, Lebensraum, Klebsekret, Verdauung und Stickstoff, BNatSchG-Schutz.",
+    "Gestrichen: Rote-Liste-Jahr 2018 (nicht belegt; die Einstufung „gefährdet“ nennen FloraWeb und Wildtier Stiftung ohne Jahr, daher gestrichen), rötliche Haare, Zahl der Haare, Mücken und Fliegen als Hauptbeute (nur Wikipedia), Schmetterlinge und Libellen als Beute, Winterruhe, Verhaltensanweisung zum Betreten von Mooren."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Drosera rotundifolia",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=2028"
+    ],
+    [
+     "Deutsche Wildtier Stiftung: Klebrige Schönheit im Moor",
+     "https://www.deutschewildtierstiftung.de/aktuelles/artikel/instektenfressender-sonnentau-schwingt-im-moor"
+    ],
+    [
+     "Wikipedia: Rundblättriger Sonnentau",
+     "https://de.wikipedia.org/wiki/Rundbl%C3%A4ttriger_Sonnentau"
+    ]
+   ]
+  },
+  {
+   "slug": "sumpf-ziest",
+   "name": "Sumpf-Ziest",
+   "latein": "Stachys palustris",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Sumpf-Ziest ist eine Staude feuchter Wiesen und Ufer mit rotvioletten Lippenblüten, die in Etagen um den Stängel stehen.",
+   "erkennen": [
+    "30 bis 100 Zentimeter hoch, mit unterirdischen Ausläufern",
+    "Blüten etwa 1,5 Zentimeter lang, trüb rotviolett mit hellerer Schlängelzeichnung",
+    "6 bis 20 Blüten bilden Scheinquirle, das sind Blütenkränze, die in Etagen übereinander um den Stängel stehen"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst auf feuchten bis nassen, lehmigen Äckern, wechselnassen Wiesen und in Uferstaudenfluren. Er braucht nährstoffreiche Standorte.",
+   "zeit": "Er blüht von Juni bis September.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Der Sumpf-Ziest breitet sich über Ausläufer aus. Nasse Wiesen und Uferstreifen sollten nicht drainiert werden.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): ungefährdet. Nach Bundesartenschutzverordnung nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "f1968216"
+   ],
+   "korrekturen": [
+    "Kantiger Stängel: nicht in den abgerufenen Quellen belegt und weggelassen.",
+    "Tiere: keine abgerufene Quelle.",
+    "Jahr 2018 der Roten Liste aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Stachys palustris",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=5760"
+    ]
+   ]
+  },
+  {
+   "slug": "sumpfporst",
+   "name": "Sumpfporst",
+   "latein": "Rhododendron tomentosum",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Sumpfporst ist ein immergrüner Strauch der Moore mit ledrigen, durchdringend harzig riechenden Blättern und weißen Blütendolden.",
+   "erkennen": [
+    "60 bis 150 Zentimeter hoch",
+    "linealisch-lanzettliche, ledrige Blätter bis 3,5 Zentimeter mit eingerollten Rändern, unterseits rostrot filzig",
+    "aromatisch duftende, weiße Blüten in doldigen Ständen am Zweigende",
+    "auffälliger, harziger bis kampferartiger Geruch durch ätherisches Öl"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst in Moorgebüschen, Moorwäldern und feuchten Kiefernwäldern auf sauren, nährstoffarmen Torfböden. Kalk meidet er.",
+   "zeit": "Er blüht von Mai bis Juli.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Die Pflanze ist giftig. Ihr ätherisches Öl enthält unter anderem Ledol und Palustrol und kann Übelkeit, Erbrechen, Durchfall, Benommenheit und Lähmungserscheinungen auslösen. Es wird keine Verzehrempfehlung gegeben. Der Sumpfporst ist selten geworden und geschützt, sein Standort darf nicht entwässert werden.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): gefährdet (Kategorie 3). Nach Bundesnaturschutzgesetz besonders geschützt.",
+   "naturdeck_ids": [
+    "47f7d192",
+    "7d10de49"
+   ],
+   "korrekturen": [
+    "Rote-Liste-Jahr (2018) aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet.",
+    "Tiere: keine Fachquelle für Bestäuber oder Nutzer. Eine Gartenplattform nennt ihn bienenfreundlich, das ist keine Fachquelle.",
+    "Eingerollte Blattränder: belegt durch AWL (Heilpflanzenportal der Schweiz) und die FloraWeb-Beschreibung (ledrig, unterseits filzig)."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Rhododendron tomentosum",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=3328"
+    ],
+    [
+     "AWL: Sumpfporst",
+     "https://www.awl.ch/heilpflanzen/rhododendron-tomentosum/sumpfporst.htm"
+    ]
+   ]
+  },
+  {
+   "slug": "gewoehnlicher-wassernabel",
+   "name": "Gewöhnlicher Wassernabel",
+   "latein": "Hydrocotyle vulgaris",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Gewöhnliche Wassernabel ist eine kriechende Pflanze nasser Moor- und Grabenränder mit runden, schildförmigen Blättern, deren Stiel in der Blattmitte ansetzt.",
+   "erkennen": [
+    "Stängel kriechend, 10 bis 100 Zentimeter lang",
+    "rundliche, schildförmige Blätter bis 4 Zentimeter, am Rand gekerbt, lang gestielt, unterseits behaart",
+    "weiße oder rötliche Kronblätter"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Er wächst an feuchten bis nassen Rändern von Flach- und Zwischenmooren, Teichen und Gräben, auf moorigen Wiesen, in Feuchtheiden, Birkenbrüchen und Weidengebüschen. Kalk meidet er.",
+   "zeit": "Er blüht von Juli bis August.",
+   "spuren": null,
+   "tiere": null,
+   "regional": null,
+   "umgang": "Er braucht nasse, nährstoffarme Böden. Entwässerung nimmt ihm den Standort.",
+   "schutz": "Rote Liste der Gefäßpflanzen Deutschlands (2018): ungefährdet. Nach Bundesnaturschutzgesetz nicht besonders geschützt.",
+   "naturdeck_ids": [
+    "325e20ce"
+   ],
+   "korrekturen": [
+    "Tiere: keine abgerufene Quelle.",
+    "Jahr 2018 der Roten Liste aus FloraWeb-Angabe beim Scheidigen Wollgras abgeleitet."
+   ],
+   "quellen": [
+    [
+     "FloraWeb (BfN): Hydrocotyle vulgaris",
+     "https://www.floraweb.de/php/artenhome.php?suchnr=3007"
+    ]
+   ]
+  },
+  {
+   "slug": "zunderschwamm",
+   "name": "Echter Zunderschwamm",
+   "latein": "Fomes fomentarius",
+   "gruppe": "Pflanzen, Pilze und Moose",
+   "kurz": "Der Echte Zunderschwamm ist ein hufförmiger, mehrjähriger Baumpilz an Laubbäumen, vor allem an Buchen. Jedes Jahr kommt eine neue Röhrenschicht dazu.",
+   "erkennen": [
+    "konsolen- bis hufförmiger, ungestielter Fruchtkörper",
+    "harte, graubraune Kruste mit Zuwachsringen",
+    "Poren cremefarben bis bräunlich, etwa 2 bis 4 pro Millimeter",
+    "die Kruste färbt sich mit Kalilauge rot"
+   ],
+   "verwechslung": "Vom Grauen Feuerschwamm (Phellinus igniarius) unterscheidet er sich durch die Kalilauge-Probe: Beim Zunderschwamm färbt sich die Kruste rot, beim Feuerschwamm nicht. Der Feuerschwamm wirkt außerdem flacher.",
+   "lebensraum": "Er wächst an Laubholz, vor allem an der Rotbuche, außerdem an Birken. An Fichte kommt er nur selten vor.",
+   "zeit": "Die Fruchtkörper sind mehrjährig. Waldwissen.net nennt meist 4 bis 7 Jahre, manche werden über 30 Jahre alt, der Pilzverein Stuttgart nennt 10 bis 30 Jahre.",
+   "spuren": "Er verursacht Weißfäule und schwächt dadurch befallene Bäume von innen.",
+   "tiere": "Baumschwämme bieten Insekten Lebensraum. Bei Untersuchungen in Norwegen wurden an Zunderschwamm 35 bis 43 Käferarten gefunden. Die Sporen im Frühjahr sind dabei nach dem Winter eine wichtige Nahrung für Insekten.",
+   "regional": null,
+   "umgang": "Der Pilz wurde früher zur Herstellung von Zunder zum Feuermachen genutzt. Befallene Bäume sind geschwächt, in belebten Bereichen kann Astbruch drohen. Es wird keine Verzehrempfehlung gegeben.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "3760fe44"
+   ],
+   "korrekturen": [
+    "Geprüft anhand Waldwissen.net und Pilzfreunde Stuttgart. Belegt: Form, Kruste, Röhrenschicht pro Jahr, Kalilauge, Feuerschwamm, Wirte, Weißfäule, Käferzahl, Zunderverwendung, Bruchgefahr.",
+    "Gestrichen oder korrigiert: Maße, Zuwachsrand, Neuausrichtung der Röhren, Eiche, Hainbuche, Erle, Schwächeparasit, Bewohner Gyrophaena boleti und Gelbbindiger Schwarzkäfer (nicht in den abgerufenen Texten nachgewiesen), Holz hell und faserig. Altersangaben der Quellen weichen ab und stehen beide im Text."
+   ],
+   "quellen": [
+    [
+     "Waldwissen.net: Baumschwämme als Lebensraum",
+     "https://www.waldwissen.net/de/lebensraum-wald/pilze-und-flechten/baumschwaemme-als-lebensraum"
+    ],
+    [
+     "Verein der Pilzfreunde Stuttgart: Zunderschwamm",
+     "https://www.pilzfreun.de/2025/01/zunderschwamm-januar-2025/"
+    ]
+   ]
+  }
+ ],
+ "ergaenzungen": [],
+ "nicht_uebernommen": [
+  {
+   "id": "e894896d",
+   "grund": "Art nicht eindeutig: Besenmoos ist kein fester Name (nächstliegend Besen-Gabelzahnmoos, Dicranum scoparium), dessen Kapsel aber gekrümmt und nicht aufrecht ist. Deshalb keine belastbare Zuordnung, keine Fachquelle für die Aussage."
+  },
+  {
+   "id": "a6bd7a6b",
+   "grund": "Nur Wikipedia als abgerufene Quelle (Brunnenlebermoos). Keine Fachquelle abrufbar, Suchbudget erschöpft. Bei Bedarf in einer weiteren Welle nachrecherchieren."
+  },
+  {
+   "id": "6afd747d",
+   "grund": "Doppelung zu a6bd7a6b (Brunnenlebermoos); nur Wikipedia abgerufen, keine Fachquelle."
+  },
+  {
+   "id": "a977feb0",
+   "grund": "Name Kiefern-Sparrige ist kein etablierter deutscher Moosname, die Art lässt sich nicht eindeutig zuordnen. Keine Fachquelle gefunden."
+  },
+  {
+   "id": "a644bcb2",
+   "grund": "Aussage falsch bzw. nicht belegt: FloraWeb beschreibt die Blätter des Gewöhnlichen Gilbweiderichs als nicht punktiert, dunkle Drüsenpunkte am Blattrand sind nicht belegt."
+  },
+  {
+   "id": "7f4256bb",
+   "grund": "Name Kiefern-Reizker ist mehrdeutig (Edel-Reizker Lactarius deliciosus oder Kiefern-Blutreizker L. semisanguifluus, dessen Milch sich weinrot färbt). Die Fakten passen zum Edel-Reizker, aber es wurde keine Fachquelle im Volltext abgerufen."
+  }
+ ]
+}

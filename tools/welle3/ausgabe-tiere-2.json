@@ -1,0 +1,338 @@
+{
+  "paket": "tiere-2",
+  "neu": [
+    {
+      "slug": "gefleckter-schmalbock",
+      "name": "Gefleckter Schmalbock",
+      "latein": "Rutpela maculata",
+      "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+      "kurz": "Der Gefleckte Schmalbock ist ein 14 bis 20 Millimeter langer Bockkäfer mit gelb-schwarz gezeichneten Flügeldecken. Im Sommer sitzt er tagsüber auf Blüten, vor allem auf Doldenblütlern.",
+      "erkennen": [
+        "Körper überwiegend schwarz, die Flügeldecken sind gelb mit schwarzen Flecken und Querbinden",
+        "Fühler und Beine sind abwechselnd gelb und schwarz geringelt",
+        "Der Halsschild hat nach hinten spitz ausgezogene Ecken",
+        "Die Zeichnung ist von Tier zu Tier sehr verschieden"
+      ],
+      "verwechslung": "Wegen der gelb-schwarzen Zeichnung halten Fressfeinde den Käfer für eine Wespe, was abschreckend wirkt. Er ist aber ein Käfer mit langen, geringelten Fühlern.",
+      "lebensraum": "Mischwälder mit Lichtungen, Waldränder, waldnahe Wiesen und Trockenrasen. Die Larven entwickeln sich in morschem Holz, vor allem von Laubbäumen, selten auch von Nadelbäumen.",
+      "zeit": "Die erwachsenen Käfer fliegen von Juni bis August und sind tagaktiv.",
+      "spuren": null,
+      "tiere": null,
+      "regional": null,
+      "umgang": "Totholz, Baumstubben und morsche Stämme am Waldrand stehen lassen, denn darin wachsen die Larven heran. Die Käfer auf den Blüten nicht stören.",
+      "schutz": null,
+      "naturdeck_ids": ["b4124358"],
+      "korrekturen": [
+        "Der Fakt nennt nur Blütenbesuch an Dolden und gelbe Flecken. Belegt ist darüber hinaus die Entwicklung der Larven im morschen Holz und die Wespentracht als Schutz."
+      ],
+      "quellen": [
+        ["Natur in NRW: Gefleckter Schmalbock (Rutpela maculata)", "https://www.natur-in-nrw.de/HTML/Tiere/Insekten/Kaefer/Cerambycidae/TK-2596.html"],
+        ["Nationalpark Schwarzwald: Schmalbock", "https://www.nationalpark-schwarzwald.de/nationalpark/blog/2022/schmalbock"],
+        ["Wikipedia: Gefleckter Schmalbock (Zweitquelle)", "https://de.wikipedia.org/wiki/Gefleckter_Schmalbock"]
+      ]
+    },
+    {
+      "slug": "gemeiner-furchenschwimmer",
+      "name": "Gemeiner Furchenschwimmer",
+      "latein": "Acilius sulcatus",
+      "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+      "kurz": "Der Gemeine Furchenschwimmer ist ein 15 bis 18 Millimeter langer, flacher Schwimmkäfer, der in stehenden Gewässern räuberisch jagt. Zum Atmen kommt er regelmäßig an die Wasseroberfläche.",
+      "erkennen": [
+        "Körper oval und abgeflacht, 15 bis 18 Millimeter lang",
+        "Flügeldecken gelbbraun bis ockerfarben mit einem schwarzen Netz- oder Punktmuster",
+        "Bei den Weibchen sind die Flügeldecken deutlich der Länge nach gefurcht, daher der Name",
+        "Die Männchen haben an den Vorderbeinen Haftscheiben, mit denen sie sich bei der Paarung am Weibchen festhalten"
+      ],
+      "verwechslung": "Er kann mit dem Gerandeten Furchenschwimmer (Acilius canaliculatus) verwechselt werden.",
+      "lebensraum": "Stehende Gewässer wie Teiche, Weiher, Tümpel, Altarme und pflanzenreiche Seen, auch kleine Gewässer. Die Käfer können fliegen und wechseln deshalb zwischen Gewässern.",
+      "zeit": "Die erwachsenen Käfer sind vor allem von April bis Oktober aktiv.",
+      "spuren": null,
+      "tiere": null,
+      "regional": null,
+      "umgang": "Nicht aus dem Wasser nehmen. Besonnte, pflanzenreiche Teiche und Tümpel erhalten.",
+      "schutz": null,
+      "naturdeck_ids": ["69e1a65a"],
+      "korrekturen": [
+        "Der Fakt nennt Käfer, die ruckartig tauchen und mit breiten dunklen Hinterbeinen rudern. Das Rudern mit den Hinterbeinen ist für Schwimmkäfer allgemein bekannt, wurde aber in den abgerufenen Quellen nicht ausdrücklich für diese Art belegt und deshalb nicht übernommen. Die Art ist im Fakt nicht eindeutig benannt, die Zuordnung zu Acilius sulcatus folgt dem deutschen Namen laut Wikipedia."
+      ],
+      "quellen": [
+        ["digital-nature: Gemeiner Furchenschwimmer (Acilius sulcatus)", "https://www.digital-nature.de/tierwelt/insekten/dytiscidae/sulcatus/detail/detail.html"],
+        ["Wikipedia: Gemeiner Furchenschwimmer (Zweitquelle)", "https://de.wikipedia.org/wiki/Gemeiner_Furchenschwimmer"]
+      ]
+    },
+    {
+      "slug": "gruene-zikade",
+      "name": "Grüne Zikade (Binsenschmuckzikade)",
+      "latein": "Cicadella viridis",
+      "gruppe": "Heuschrecken, Wanzen und Zikaden",
+      "kurz": "Die Grüne Zikade, auch Binsenschmuckzikade genannt, ist eine 6 bis 9 Millimeter lange Zikade mit blaugrünen Flügeln. Sie lebt an feuchten Stellen und saugt Pflanzensaft.",
+      "erkennen": [
+        "Männchen etwa 5,7 bis 7 Millimeter, Weibchen etwa 7,5 bis 9 Millimeter lang",
+        "Kopf breit und gelblich mit zwei schwarzen Flecken zwischen den Augen",
+        "Vordere Hälfte von Halsschild und Schildchen gelblich bis grün",
+        "Flügel der Weibchen einfarbig blaugrün, die der Männchen überwiegend heidelbeerblau bis fast schwarz"
+      ],
+      "verwechslung": null,
+      "lebensraum": "Feuchte Wiesen, Sümpfe, Zwischenmoore, Hochmoorränder und Waldsäume, zuweilen auch trockenere Flächen. Sie saugt Pflanzensaft aus den Leitungsbahnen vor allem von Binsen, Seggen und Gräsern.",
+      "zeit": "Erwachsene Tiere sind etwa von Juni bis Oktober zu finden. Die Art überwintert als Ei, die Larven erscheinen im Frühjahr.",
+      "spuren": null,
+      "tiere": null,
+      "regional": null,
+      "umgang": "Nasse Wiesen und Säume mit Binsen und Seggen erhalten und nicht entwässern.",
+      "schutz": null,
+      "naturdeck_ids": ["4e8bcc9d"],
+      "korrekturen": [
+        "Der Fakt nennt Weidenlaub und glasklare Flügel. Belegt sind dagegen Binsen, Seggen und Gräser als Saugpflanzen und blaugrüne bis heidelbeerblaue Flügel. Beide Angaben wurden nicht übernommen."
+      ],
+      "quellen": [
+        ["Natur in NRW: Binsenschmuckzikade (Cicadella viridis)", "https://www.natur-in-nrw.de/HTML/Tiere/Insekten/Zikaden/TZ-77.html"],
+        ["Wikipedia: Binsenschmuckzikade (Zweitquelle)", "https://de.wikipedia.org/wiki/Binsenschmuckzikade"]
+      ]
+    },
+    {
+      "slug": "hausspitzmaus",
+      "name": "Hausspitzmaus",
+      "latein": "Crocidura russula",
+      "gruppe": "Säugetiere",
+      "kurz": "Die Hausspitzmaus ist eine kleine Spitzmaus mit langer, spitzer Schnauze. Sie ist keine Maus und kein Nagetier, sondern gehört zu den Insektenfressern.",
+      "erkennen": [
+        "Kopf-Rumpf-Länge etwa 5 bis 8,5 Zentimeter, Gewicht etwa 7 bis 15 Gramm",
+        "Lange, rüsselartige, spitze Schnauze",
+        "Rücken graubraun, mit zunehmendem Alter rotbraun, Bauch hellgrau",
+        "Die Ohren ragen deutlich aus dem Fell"
+      ],
+      "verwechslung": "Von Mäusen unterscheidet sie die lange, spitze Schnauze. Die Feldspitzmaus hat eine deutlich abgesetzte, weißliche Unterseite, die Gartenspitzmaus ist auffallend kleiner und hat verhältnismäßig größere Ohren.",
+      "lebensraum": "Waldränder, Brachland, Felder, Wiesen und Hecken, oft in Siedlungsnähe. Im Winter sucht sie Schutz in Gebäuden. Sie liebt trockene, warme Standorte.",
+      "zeit": "Sie ist tag- und nachtaktiv. Bei Kälte oder Nahrungsmangel kann sie in einen Starrezustand fallen, um Energie zu sparen.",
+      "spuren": "In Gebäuden verrät sie sich durch einen unangenehmen Geruch, der von Kot, Urin und den Duftdrüsen an den Flanken stammt. Die Drüsen sondern ein Sekret ab, das nach Moschus riecht.",
+      "tiere": null,
+      "regional": null,
+      "umgang": "Sie frisst keine Vorräte, sondern Asseln, Weberknechte, Spinnen, Insekten, Schnecken und Regenwürmer. Wer sie im Haus nicht möchte, dichtet im Winter Mauerritzen und Spalten an Fenstern und Türen ab. Ihr Stoffwechsel ist so schnell, dass sie täglich mehr als ihr Körpergewicht an Nahrung braucht.",
+      "schutz": null,
+      "naturdeck_ids": ["7254408f", "7fba3554"],
+      "korrekturen": [
+        "Der Fakt nennt winzigen, dunklen Kot im Schuppen. Eine Größenangabe zum Kot ließ sich in den abgerufenen Quellen nicht belegen, nur der Geruch durch Kot, Urin und Drüsen.",
+        "Fünf Zehen pro Fuß gelten auch für Mäuse und sind deshalb kein Unterscheidungsmerkmal. Übernommen wurde die spitze Schnauze.",
+        "Das Verbreitungsgebiet in Deutschland liegt nach Wikipedia im Westen und der Mitte (Nordostgrenze etwa von Wilhelmshaven über Bremen und Celle bis Dresden). Ein Vorkommen in Mecklenburg-Vorpommern ist nicht belegt, deshalb regional = null."
+      ],
+      "quellen": [
+        ["kleinsaeuger.at: Hausspitzmaus (Crocidura russula)", "https://kleinsaeuger.at/crocidura-russula/"],
+        ["Verminscout: Hausspitzmaus (Crocidura russula)", "https://verminscout.de/insektenfresser/spitzmaeuse/hausspitzmaus/"],
+        ["Wikipedia: Hausspitzmaus (Zweitquelle)", "https://de.wikipedia.org/wiki/Hausspitzmaus"]
+      ]
+    }
+  ],
+  "ergaenzungen": [
+    {
+      "slug": "gemeine-binsenjungfer",
+      "feld": "erkennen",
+      "wert": "In Ruhe hält sie die Flügel halb geöffnet, schräg vom Körper abgespreizt. Das unterscheidet sie von den meisten anderen Kleinlibellen, die ihre Flügel in Ruhe nach hinten anlegen.",
+      "quellen_neu": [
+        ["NABU: Libelle des Jahres 2016, die Gemeine Binsenjungfer", "https://www.nabu.de/news/2015/12/19993.html"],
+        ["Natur in NRW: Gemeine Binsenjungfer (Lestes sponsa)", "https://www.natur-in-nrw.de/HTML/Tiere/Insekten/Libellen/TL-40.html"]
+      ],
+      "naturdeck_ids": ["8d7cade6"]
+    },
+    {
+      "slug": "graugans",
+      "feld": "zeit",
+      "wert": "Die Mauser, bei der die Schwungfedern gewechselt werden, liegt vor allem in den Monaten Mai und Juni. Dann sind die Vögel etwa dreieinhalb bis vier Wochen flugunfähig und sollten in Ruhe gelassen werden.",
+      "quellen_neu": [
+        ["Wildtierportal Bayern: Graugans", "https://www.wildtierportal.bayern.de/wildtiere_bayern/085417/index.php"]
+      ],
+      "naturdeck_ids": ["a0c9a29e"]
+    },
+    {
+      "slug": "grosse-teichmuschel",
+      "feld": "spuren",
+      "wert": "Häufen sich leere Muschelschalen vor einem Bau am Ufer, spricht das für den Bisam. Er bricht dabei meist nur eine Schalenhälfte auf.",
+      "quellen_neu": [
+        ["Bayerische Akademie für Naturschutz und Landschaftspflege: Gefährdung und Rückgang der Najaden-Muscheln (Patzner et al. 1996)", "https://www.anl.bayern.de/publikationen/berichte/doc/ber20027patzner_et_al_1996_gefaehrdung_najadenmuscheln.pdf"]
+      ],
+      "naturdeck_ids": ["227bbbf3"]
+    },
+    {
+      "slug": "dachs",
+      "feld": "spuren",
+      "wert": "Dachshaare findet man oft an Durchschlupflöchern in Zäunen und vor dem Bau. Sie fühlen sich drahtig an und sind abwechselnd schwarz und weiß, die Spitze ist weiß.",
+      "quellen_neu": [
+        ["WWF Junior: Tierhaare entdecken", "https://www.wwf.de/junior/natur-erleben/tierhaare-entdecken"]
+      ],
+      "naturdeck_ids": ["6a03d39c"]
+    },
+    {
+      "slug": "haubenmeise",
+      "feld": "spuren",
+      "wert": "Am sichersten verrät sie sich durch ihren rollenden Ruf „gürr“, dem bei Erregung oft ein hohes „zi-zi“ vorangestellt ist. Wintervorräte aus Samen versteckt sie und deckt das Versteck mit Rindenstückchen ab.",
+      "quellen_neu": [
+        ["NABU Mönchengladbach: Die Haubenmeise", "https://www.nabu-mg.de/vogelwelt/haubenmeise/"],
+        ["LBV Starnberg: Haubenmeise", "https://starnberg.lbv.de/ornithologie/vogelportraits/haubenmeise/"]
+      ],
+      "naturdeck_ids": ["9e39078d"]
+    },
+    {
+      "slug": "heckenbraunelle",
+      "feld": "verwechslung",
+      "wert": "Mit dem Haussperling-Weibchen, dem sie im Rückengefieder ähnelt. Die Heckenbraunelle hat einen schmalen, spitzen Schnabel, einen überwiegend grauen Kopf und eine schlankere Gestalt. Am Boden bewegt sie sich ruckartig und geduckt, sodass man sie leicht für eine Maus hält.",
+      "quellen_neu": [
+        ["NABU Niedersachsen: Leicht zu verwechseln, Gartenvögel im Vergleich", "https://niedersachsen.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/stunde-der-gartenvoegel/26367.html"],
+        ["NABU Bremen: Die Heckenbraunelle an der Futterstelle", "https://bremen.nabu.de/tiere-und-pflanzen/voegel/Vogelkunde/27963.html"]
+      ],
+      "naturdeck_ids": ["1b1e899d", "34e1eba3"]
+    },
+    {
+      "slug": "hermelin",
+      "feld": "spuren",
+      "wert": "Die Losung ist ein gedrehtes, fast schwarzes Röllchen von nur etwa 4 bis 6 Millimeter Dicke. Sie enthält Haare, Federn und Knochenreste der Beute und liegt oft auf erhöhten Stellen oder wiederholt am selben Platz nahe dem Bau. Mäuse verfolgt das Hermelin bis in deren Gänge.",
+      "quellen_neu": [
+        ["Wildhüter St. Hubertus: Hermelin", "https://www.wildhueter-st-hubertus.de/hermelin-2"],
+        ["Natur in NRW: Hermelin (Mustela erminea)", "https://www.natur-in-nrw.de/HTML/Tiere/Saeugetiere/TM-29.html"]
+      ],
+      "naturdeck_ids": ["00c7233d", "835fb426"]
+    },
+    {
+      "slug": "hohltaube",
+      "feld": "verwechslung",
+      "wert": "Von der größeren Ringeltaube unterscheidet sie, dass ihr der weiße Halsseitenfleck fehlt, ihr Halsfleck schillert grün. Anders als die Ringeltaube baut sie kein freies Nest im Geäst, sondern brütet in Baumhöhlen, besonders in Höhlen des Schwarzspechts.",
+      "quellen_neu": [
+        ["NABU: Vögel bestimmen, Tauben im Vergleich", "https://www.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/stunde-der-gartenvoegel/voegel-bestimmen/13777.html"],
+        ["waldwissen.net: Die Hohltaube (Columba oenas)", "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/voegel/die-hohltaube"]
+      ],
+      "naturdeck_ids": ["d6d8a12b", "5728651d"]
+    },
+    {
+      "slug": "iltis",
+      "feld": "spuren",
+      "wert": "Die Losung ist ein gedrehtes, braunschwarzes Röllchen von 6 bis 8 Zentimeter Länge und 8 bis 10 Millimeter Dicke. Sie riecht scharf, liegt bevorzugt an erhöhten Stellen und enthält Haare, Federn, Knochen und Beerenreste. Da der Iltis auch Amphibien wie Frösche und Kröten frisst, können sich in der Losung entsprechende Reste finden.",
+      "quellen_neu": [
+        ["Wildhüter St. Hubertus: Iltis", "https://www.wildhueter-st-hubertus.de/iltis-2"],
+        ["Deutsche Wildtier Stiftung: Waldiltis", "https://www.deutschewildtierstiftung.de/wildtiere/iltis"]
+      ],
+      "naturdeck_ids": ["950b7e1e", "d9abde52", "2a9f0c54"]
+    },
+    {
+      "slug": "waldohreule",
+      "feld": "spuren",
+      "wert": "Die flüggen Jungvögel betteln nach dem Ausflug von Mai bis Juli, oft bis in den August, mit einem hohen, gedehnten Fiepen („piiiüüüh“, dann einige Sekunden Pause), das bis zu 700 Meter weit zu hören ist. Es beginnt am späten Nachmittag und hält bis in die Nacht an.",
+      "quellen_neu": [
+        ["Landesverband Eulenschutz in Schleswig-Holstein: Waldohreule", "https://www.eulen.de/unsere-eulen/waldohreule"],
+        ["NABU Bremen: Eulennachwuchs in der Nachbarschaft", "https://bremen.nabu.de/tiere-und-pflanzen/voegel/Vogelkunde/21758.html"]
+      ],
+      "naturdeck_ids": ["36a68c09", "3c5fdd3d", "e8167340"]
+    },
+    {
+      "slug": "rauhautfledermaus",
+      "feld": "spuren",
+      "wert": "Im Fledermausdetektor, der Ultraschall hörbar macht, liegt der gleichmäßig klingende Teil ihrer Ortungsrufe bei etwa 34 bis 38 Kilohertz. Bei der Zwergfledermaus liegt er bei etwa 42 bis 46 Kilohertz, und deren Rufe folgen schneller aufeinander.",
+      "quellen_neu": [
+        ["Koordinationsstelle für Fledermausschutz Südbayern (E. Kriner): Kleine Übersicht über die Rufe unserer Fledermäuse", "https://www.fledermaus-bayern.de/downloads.html?file=files%2Fupload%2FDownloads%2Fbestimmungshilfen%2Frufe_einheimischer_flederm_use.pdf"]
+      ],
+      "naturdeck_ids": ["9f9b3f5d"]
+    },
+    {
+      "slug": "kleine-bartfledermaus",
+      "feld": "erkennen",
+      "wert": "Im Fledermausdetektor verteilt sich die Lautenergie ihrer Rufe ziemlich gleichmäßig über den Bereich von etwa 45 bis 50 Kilohertz. Der Rhythmus ist langsam und sehr regelmäßig, wie ein Zug, und klingt wie ein trockenes Rattern. Sie fliegt sehr gleichmäßig und geradlinig an der Vegetation entlang.",
+      "quellen_neu": [
+        ["Koordinationsstelle für Fledermausschutz Südbayern (E. Kriner): Kleine Übersicht über die Rufe unserer Fledermäuse", "https://www.fledermaus-bayern.de/downloads.html?file=files%2Fupload%2FDownloads%2Fbestimmungshilfen%2Frufe_einheimischer_flederm_use.pdf"]
+      ],
+      "naturdeck_ids": ["35029656"]
+    },
+    {
+      "slug": "raufussbussard",
+      "feld": "erkennen",
+      "wert": "Er jagt von einem Ansitz aus oder im Suchflug, der häufiges Rütteln einschließt, also das Stehen auf der Stelle mit schnellen Flügelschlägen, und zeigt dabei den hellen Schwanz mit der dunklen Endbinde.",
+      "quellen_neu": [
+        ["NABU: Vogelporträt Raufußbussard", "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/raufussbussard/"]
+      ],
+      "naturdeck_ids": ["e0229e95"]
+    },
+    {
+      "slug": "kleiner-feuerfalter",
+      "feld": "spuren",
+      "wert": "Die jungen Raupen schaben die Blätter des Sauerampfers zunächst bis auf die Haut ab, dieser Fensterfraß lässt die dünne Blattoberhaut stehen. Später fressen sie seitlich vom Blattrand her. Die Raupen leben einzeln und sitzen meist versteckt auf der Blattunterseite.",
+      "quellen_neu": [
+        ["BUND Rheinland-Pfalz (W. Düring): Tagfalter in Rheinland-Pfalz, Kleiner Feuerfalter", "https://www.bund-rlp.de/fileadmin/rlp/Tiere_und_Pflanzen/Schmetterling/Schmetterlinge_W_Duering/Artenportraets_20/Kleiner_Feuerfalter_2020.pdf"]
+      ],
+      "naturdeck_ids": ["3bd67f37"]
+    },
+    {
+      "slug": "kuckuck",
+      "feld": "zeit",
+      "wert": "Zu hören sind nur die Männchen, ihr Reviergesang erreicht im Mai und Juni den Höhepunkt und zieht sich mancherorts bis in den Juli. Danach wird es an den Waldrändern deutlich stiller.",
+      "quellen_neu": [
+        ["NABU: Kuckuck, Rufe und Gesang", "https://www.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/vogel-des-jahres/2008-kuckuck/07195.html"],
+        ["LBV: Schon gehört? Der Kuckuck ist zurück", "https://www.lbv.de/news/details/schon-gehoert-der-kuckuck-ist-zurueck/"]
+      ],
+      "naturdeck_ids": ["275fd1fb"]
+    },
+    {
+      "slug": "rohrammer",
+      "feld": "spuren",
+      "wert": "Der Ruf ist ein langgezogenes, sanft abfallendes „psüüü“, dazu kommen kurze, scharfe „zi zi“-Laute.",
+      "quellen_neu": [
+        ["NABU: Vogelporträt Rohrammer", "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/rohrammer/"]
+      ],
+      "naturdeck_ids": ["f6e32b66"]
+    }
+  ],
+  "nicht_uebernommen": [
+    {"id": "b2c49f59", "grund": "keine Fachquelle zur Spur der Gelbhalsmaus abgerufen"},
+    {"id": "a1cd0ecf", "grund": "keine Fachquelle zur Spur der Gelbhalsmaus abgerufen"},
+    {"id": "1514b550", "grund": "Vergleich mit der Nachtigall nicht belegt, Nachahmungen stehen schon im Steckbrief"},
+    {"id": "7a738c05", "grund": "keine Fachquelle zur Flügelhaltung der Männchen abgerufen"},
+    {"id": "ec9bc960", "grund": "Doppelung, der Legebohrer steht schon im Steckbrief"},
+    {"id": "d4b6e18b", "grund": "Doppelung, der Legebohrer steht schon im Steckbrief"},
+    {"id": "570017a2", "grund": "Art nicht eindeutig (Gemeine Sichelwanze wird für mehrere Arten verwendet), keine Quelle für Fangbeine und Brennnesseln"},
+    {"id": "d530c694", "grund": "Doppelung, kurze Flügel und Gesang stehen schon im Steckbrief"},
+    {"id": "46f8bdb6", "grund": "Doppelung, die Ruhehaltung steht schon im Steckbrief"},
+    {"id": "ae1be090", "grund": "keine Fachquelle abgerufen (Suchkontingent erschöpft)"},
+    {"id": "3e5b1cf4", "grund": "Doppelung, der Eikokon steht schon im Steckbrief"},
+    {"id": "93ed6753", "grund": "Doppelung, Gehäusefarbe und Glanz stehen schon im Steckbrief"},
+    {"id": "14c85d66", "grund": "keine Fachquelle für feuchte Waldwege und rote Schimmer; der Steckbrief nennt Felder und Waldränder"},
+    {"id": "7d9e7eec", "grund": "Nachtaktivität nicht belegt, der Steckbrief nennt tagaktive Käfer"},
+    {"id": "82a7d3f7", "grund": "Doppelung, die Eiablage steht schon im Steckbrief"},
+    {"id": "88749235", "grund": "keine Fachquelle zu den Jahresringen abgerufen"},
+    {"id": "6d73192e", "grund": "keine Fachquelle zu Einstichen an Himbeeren abgerufen, Beeren stehen schon im Steckbrief"},
+    {"id": "282130e0", "grund": "keine Fachquelle zu den hellen Flecken der Jungtiere abgerufen"},
+    {"id": "0007ba2e", "grund": "Doppelung, Flügel und Schwanz stehen schon im Steckbrief"},
+    {"id": "fea5f7b4", "grund": "Doppelung, Flügel und Schwanz stehen schon im Steckbrief"},
+    {"id": "cdc8c88a", "grund": "Doppelung, der Größenunterschied zum Sperber steht schon im Steckbrief"},
+    {"id": "313f6adb", "grund": "Doppelung, Bänderung steht schon im Steckbrief"},
+    {"id": "deba9842", "grund": "Doppelung, die Mündung als Merkmal steht schon im Steckbrief"},
+    {"id": "d220ebb0", "grund": "Doppelung, Jungvögel auf dem Rücken stehen schon im Steckbrief; Rufe nicht belegt"},
+    {"id": "42b594c9", "grund": "Doppelung, Jungvögel auf dem Rücken stehen schon im Steckbrief"},
+    {"id": "d2e42f8a", "grund": "keine Fachquelle zu Fraßspuren und Zahnabstand abgerufen"},
+    {"id": "e7ca9159", "grund": "Doppelung, Gesang und Flug stehen schon im Steckbrief"},
+    {"id": "8c5b1dd4", "grund": "Doppelung, die Zeichnung steht schon im Steckbrief"},
+    {"id": "70e18941", "grund": "Doppelung, Paarsprünge stehen schon im Steckbrief; Zehenzahl und Mäuselöcher nicht belegt"},
+    {"id": "c626a174", "grund": "Doppelung, Spechthöhlen und Altbuchen stehen schon im Steckbrief"},
+    {"id": "f309ec9f", "grund": "Doppelung, Schabespuren stehen schon im Steckbrief"},
+    {"id": "5085b5df", "grund": "Art nicht eindeutig (Hufeisenkäfer ist kein gebräuchlicher Name für Wasserkäfer), keine Quelle"},
+    {"id": "ba5a547c", "grund": "Doppelung, fünf Zehen stehen schon im Steckbrief; breiter und weicher als bei Mardern nicht belegt"},
+    {"id": "79237e97", "grund": "keine Fachquelle zu Spitzmausspuren abgerufen"},
+    {"id": "006ec3f6", "grund": "Doppelung, der Schnabel steht schon im Steckbrief"},
+    {"id": "76bf0257", "grund": "Häute am Schilf nicht für Eintagsfliegen belegt, die Quellen nennen Häute im Wasser; wahrscheinlich Libellenhäute"},
+    {"id": "17d7066e", "grund": "keine Fachquelle zum Schwarmvergleich mit Wacholderdrosseln abgerufen"},
+    {"id": "55f4fdf1", "grund": "keine Fachquelle zu Bettelrufen junger Mäusebussarde abgerufen"},
+    {"id": "69fe81ce", "grund": "Doppelung, rote Flügelzeichnung und Springen stehen schon im Steckbrief"},
+    {"id": "0260e169", "grund": "Doppelung, die Flügelzeichnung steht schon im Steckbrief"},
+    {"id": "a5b84cbe", "grund": "Aussage unbelegt, der Sägebock (Prionus coriarius) entwickelt sich im Holz von Laubbäumen und ist nachtaktiv; Art im Fakt nicht eindeutig"},
+    {"id": "09fae717", "grund": "keine Fachquelle zur Spur des Mauswiesels im Sand abgerufen"},
+    {"id": "ad241b7c", "grund": "Doppelung, leere Häuser im Ufersaum stehen schon im Steckbrief"},
+    {"id": "d1da1cd7", "grund": "keine Fachquelle zur Winterjagd abgerufen, Flug- und Augenmerkmale nicht belegt"},
+    {"id": "9395a5d8", "grund": "keine Fachquelle zur Winterspur abgerufen, Trittsiegel stehen schon im Steckbrief"},
+    {"id": "1882aa2f", "grund": "keine Fachquelle zur Flugform abgerufen, Rufe stehen schon im Steckbrief"},
+    {"id": "33e27951", "grund": "Doppelung, die grünsilberne Unterseite steht schon im Steckbrief"},
+    {"id": "c73b576d", "grund": "Doppelung, breite runde Flügel und Ruf stehen schon im Steckbrief"},
+    {"id": "5e6349aa", "grund": "Art nicht eindeutig (Kiefernprachtkäfer wird für mehrere Arten verwendet), keine Quelle"},
+    {"id": "6cd2f329", "grund": "Doppelung, Ruf und Trommeln stehen schon im Steckbrief"},
+    {"id": "8a882671", "grund": "Doppelung, Köcher stehen schon im Steckbrief; Sauerstoffreichtum nicht belegt"},
+    {"id": "99f9ff28", "grund": "Doppelung, Köcher stehen schon im Steckbrief"},
+    {"id": "ceb59e4f", "grund": "Doppelung, der Luftvorrat steht schon im Steckbrief"},
+    {"id": "e3a71d2e", "grund": "Doppelung, Schwanzform und Ruf stehen schon im Steckbrief"},
+    {"id": "c77e00cd", "grund": "Doppelung, der Ruf steht schon im Steckbrief; Landung mit hängenden Beinen nicht belegt"},
+    {"id": "d05a6ce5", "grund": "keine Fachquelle zum Trittsiegel des Kranichs abgerufen"},
+    {"id": "45202978", "grund": "keine Fachquelle zu Erlenwäldern und Eiangleichung abgerufen"}
+  ]
+}

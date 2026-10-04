@@ -982,12 +982,13 @@
    "verwechslung": "Die Gemeine Teichmuschel hat einen innen verdickten Unterrand der Schale, bei der Großen Teichmuschel ist die Schale überall gleich dick. Die Gemeine bleibt meist kleiner und glänzt innen weniger stark.",
    "lebensraum": "Saubere stehende Gewässer in Nord- und Mitteleuropa, in weichem oder sandigem Grund eingegraben.",
    "zeit": null,
-   "spuren": "Leere Schalen am Ufer.",
+   "spuren": "Leere Schalen am Ufer. Häufen sich leere Muschelschalen vor einem Bau am Ufer, spricht das für den Bisam. Er bricht dabei meist nur eine Schalenhälfte auf.",
    "regional": null,
    "umgang": "Muscheln nicht entnehmen. Als Filtrierer reinigt sie das Wasser, ihre Larven leben zeitweise parasitisch an Fischen. Gewässer vor Nährstoffeintrag schützen.",
    "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1). Rote Liste Deutschland (Jungbluth & von Knorre 2011): gefährdet (früher stark gefährdet). Rückgang durch Gewässerverschmutzung und Verschlechterung der Habitatqualität.",
    "naturdeck_ids": [
-    "e4ba253a"
+    "e4ba253a",
+    "227bbbf3"
    ],
    "korrekturen": [
     "227bbbf3, 88749235, e4ba253a: Fraß durch Krähe, Ratte oder Bisam, Jahresringe als matte Bögen und die Lage im Uferlehm sind in der Quelle nicht belegt, bestätigt ist nur die Perlmuttinnenseite."
@@ -1008,6 +1009,10 @@
     [
      "Merkblatt Große Teichmuschel (TU München, Muschelkoordination)",
      "https://www.lss.ls.tum.de/fileadmin/w00bds/aquasys/upload/Muschelkoordination/Artensteckbriefe/Merkblatt_Grosse_Teichmuschel.pdf"
+    ],
+    [
+     "Bayerische Akademie für Naturschutz und Landschaftspflege: Gefährdung und Rückgang der Najaden-Muscheln (Patzner et al. 1996)",
+     "https://www.anl.bayern.de/publikationen/berichte/doc/ber20027patzner_et_al_1996_gefaehrdung_najadenmuscheln.pdf"
     ]
    ]
   },

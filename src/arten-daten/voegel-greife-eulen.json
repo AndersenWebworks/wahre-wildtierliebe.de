@@ -145,7 +145,9 @@
     "49 bis 59 cm lang",
     "Beine bis zu den Füßen befiedert",
     "heller Schwanz mit markanter dunkler Endbinde",
-    "dunkler Bauchfleck"
+    "dunkler Bauchfleck",
+    "Er jagt von einem Ansitz aus oder im Suchflug, der häufiges Rütteln einschließt, also das Stehen auf der Stelle mit schnellen Flügelschlägen, und zeigt dabei den hellen Schwanz mit der dunklen Endbinde.",
+    "Er jagt häufig vom Ansitz aus oder im Suchflug mit häufigem Rütteln, also mit Flügelschlägen auf der Stelle über dem Feld."
    ],
    "verwechslung": "Mit hellen Mäusebussarden. Der dunkle Bauchfleck unterscheidet ihn.",
    "lebensraum": "Im Winter auf offenen, landwirtschaftlich genutzten Flächen. Die Brutgebiete liegen im Norden Europas, etwa in Lappland und Nordrussland.",
@@ -155,7 +157,10 @@
    "umgang": "Abstand halten und aus der Ferne beobachten. Auf den Nahrungsflächen nicht stören.",
    "schutz": "Streng geschützt (alle heimischen Greifvögel). Keine Einstufung in der Roten Liste der Brutvögel, da nur Wintergast (NABU).",
    "naturdeck_ids": [
-    "4cc66d73"
+    "4cc66d73",
+    "e0229e95",
+    "9b2c2eae",
+    "cfaa5a36"
    ],
    "korrekturen": [
     "9b2c2eae, cfaa5a36, e0229e95: Das Rütteln über Feldern im Winter war in den geprüften Quellen nicht belegt. Hell und dunkle Endbinde des Schwanzes sind bestätigt."
@@ -674,7 +679,8 @@
    "erkennen": [
     "28 bis 34 cm lang",
     "Männchen fast ausschließlich blaugrau, mit orangen Füßen",
-    "Weibchen mit rostgelbem Kopf und rostgelber Brust, graue, gebänderte Oberseite"
+    "Weibchen mit rostgelbem Kopf und rostgelber Brust, graue, gebänderte Oberseite",
+    "Beim Männchen sind die Beinfedern rostrot, sodass die Beine im Flug wie mit „Hosen“ wirken; auch Augenring und Wachshaut am Schnabelgrund sind rot."
    ],
    "verwechslung": "Das Männchen ist unverwechselbar, das Weibchen kann mit anderen Falken verwechselt werden.",
    "lebensraum": "Brütet in Steppen und offenen Landschaften Ost- bis Südosteuropas. In Deutschland nur auf dem Durchzug.",
@@ -683,7 +689,9 @@
    "regional": null,
    "umgang": "Aus der Ferne beobachten. Sichtungen kann man an Vogelwarten oder ornithologische Meldeportale weitergeben.",
    "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU nicht in der Roten Liste der Brutvögel, da kein Brutvogel in Deutschland.",
-   "naturdeck_ids": [],
+   "naturdeck_ids": [
+    "d1a3aad4"
+   ],
    "korrekturen": [
     "d1a3aad4: „Rostrote Hosen“ der grauen Männchen sind nicht belegt, die Quelle nennt orange Füße. Dass die Art schlanker als der Turmfalke wirke, ist nicht belegt."
    ],
@@ -691,6 +699,10 @@
     [
      "NABU Vogelporträt Rotfußfalke",
      "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/rotfussfalke/"
+    ],
+    [
+     "Wikipedia, Rotfußfalke",
+     "https://de.wikipedia.org/wiki/Rotfu%C3%9Ffalke"
     ]
    ]
   },
@@ -793,12 +805,15 @@
    "verwechslung": "Entfernt mit dem Uhu und der Sumpfohreule. Sie ist deutlich kleiner und schlanker als der Uhu.",
    "lebensraum": "Wälder in der Nähe offener Flächen und Feldgehölze. Dichte Waldinnenbereiche meidet sie wegen des Waldkauzes.",
    "zeit": "Ganzjährig zu beobachten. Im Winter schlafen oft viele Tiere gemeinsam, bis zu 100.",
-   "spuren": "Kot und Gewölle unter Schlafplätzen, oft in Nadelbäumen. Die Gewölle sind etwa 5 bis 6 cm lang. Das Männchen ruft zur Brutzeit dumpf „oh“ im Abstand von zwei bis drei Sekunden.",
+   "spuren": "Kot und Gewölle unter Schlafplätzen, oft in Nadelbäumen. Die Gewölle sind etwa 5 bis 6 cm lang. Das Männchen ruft zur Brutzeit dumpf „oh“ im Abstand von zwei bis drei Sekunden. Die flüggen Jungvögel betteln nach dem Ausflug von Mai bis Juli, oft bis in den August, mit einem hohen, gedehnten Fiepen („piiiüüüh“, dann einige Sekunden Pause), das bis zu 700 Meter weit zu hören ist. Es beginnt am späten Nachmittag und hält bis in die Nacht an.",
    "regional": null,
    "umgang": "Schlafbäume nicht aufsuchen und nicht stören, besonders im Winter, wenn viele Tiere zusammen ruhen. Jungvögel, die nach dem Ausflug in Bäumen sitzen, nicht mitnehmen.",
    "schutz": "Streng geschützt (alle Eulen). Laut NABU nicht gefährdet, 23.000 bis 38.000 Brutpaare, die zweithäufigste Eulenart.",
    "naturdeck_ids": [
-    "49fe754e"
+    "49fe754e",
+    "36a68c09",
+    "3c5fdd3d",
+    "e8167340"
    ],
    "korrekturen": [
     "36a68c09, 3c5fdd3d, 74f0faf3, e8167340: Betteln im Juni oder Juli, „dicht am Stamm“ sitzen sowie Wühlmausreste in Gewöllen sind nicht belegt. Bestätigt sind Kot und Gewölle als Hinweis auf den Schlafplatz."
@@ -811,6 +826,14 @@
     [
      "NABU Baden-Württemberg: Fakten zu den Eulen",
      "https://baden-wuerttemberg.nabu.de/tiere-und-pflanzen/voegel/arten/eulen/36760.html"
+    ],
+    [
+     "Landesverband Eulenschutz in Schleswig-Holstein: Waldohreule",
+     "https://www.eulen.de/unsere-eulen/waldohreule"
+    ],
+    [
+     "NABU Bremen: Eulennachwuchs in der Nachbarschaft",
+     "https://bremen.nabu.de/tiere-und-pflanzen/voegel/Vogelkunde/21758.html"
     ]
    ]
   },
@@ -829,7 +852,7 @@
    "verwechslung": null,
    "lebensraum": "Offene Kulturlandschaft mit extensiver Landwirtschaft. Gebrütet wird in Scheunen, Kirchtürmen und auf Dachböden, auch in Nistkästen.",
    "zeit": "Ganzjährig, überwiegend nachtaktiv.",
-   "spuren": "Gewölle sind frisch glänzend schwarz und werden nach einigen Tagen mattschwarz. Sie liegen meist 4 bis 8 cm lang unter den Ruheplätzen, etwa auf Balken. Darin liegen viele Knochen, vor allem von Mäusen und Spitzmäusen.",
+   "spuren": "Gewölle sind frisch glänzend schwarz und werden nach einigen Tagen mattschwarz. Sie liegen meist 4 bis 8 cm lang unter den Ruheplätzen, etwa auf Balken. Darin liegen viele Knochen, vor allem von Mäusen und Spitzmäusen. In den Gewöllen bleiben die unverdaulichen Reste wie Haare und Knochen erhalten. Vor allem Schädel und Kiefer der Kleinsäuger lassen sich herauslösen und bis zur Art bestimmen.",
    "regional": null,
    "umgang": "Einflugöffnungen in Scheunen und Kirchtürmen offen halten. Nistkästen können helfen, sie müssen jährlich gereinigt werden. Brutplätze nicht stören und bei Fragen den NABU vor Ort kontaktieren.",
    "schutz": "Streng geschützt (alle Eulen). Laut NABU nicht gefährdet, 14.500 bis 26.000 Brutpaare.",
@@ -838,7 +861,8 @@
     "3e79ead0",
     "67e45b47",
     "ce6e501a",
-    "f31c8cfc"
+    "f31c8cfc",
+    "c5b565b0"
    ],
    "korrekturen": [
     "c5b565b0: Schleiereulen-Gewölle sind schwarz, nicht grau. „Fast unzerbissen“ ist nicht belegt."
@@ -851,6 +875,10 @@
     [
      "NABU Baden-Württemberg: Fakten zu den Eulen",
      "https://baden-wuerttemberg.nabu.de/tiere-und-pflanzen/voegel/arten/eulen/36760.html"
+    ],
+    [
+     "LfU Bayern, Gewölleuntersuchungen",
+     "https://www.lfu.bayern.de/natur/kleinsaeuger/untersuchungen/gewoelleuntersuchungen/index.htm"
     ]
    ]
   },

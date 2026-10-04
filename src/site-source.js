@@ -1,4 +1,5 @@
 import { buildSpeciesPages } from './arten.js';
+import { buildSpurenAtlasPage } from './spuren-atlas.js';
 
 export const site = {
   name: 'Wa(h)re Wildtier(liebe)',
@@ -354,6 +355,7 @@ const pages = [
       link('arten', 'Artensteckbriefe', 'Vögel, Säugetiere, Fledermäuse, Libellen, Insekten und mehr mit Merkmalen, Lebensraum und Schutzstatus.'),
       link('vogel-erkennen', 'Vögel', 'Silhouette, Schnabel, Flug, Stimme und Lebensraum.'),
       link('spuren-und-kot', 'Spuren und Kot', 'Trittsiegel, Fraßbild, Losung und Laufweg zusammen lesen.'),
+      link('spuren-atlas', 'Spuren-Atlas', 'Reh, Fuchs, Marder, Maus oder Eule: Spuren, Kot, Fraßbilder und Gewölle im Vergleich.'),
       link('stimmen-und-rufe', 'Stimmen und Rufe', 'Rhythmus, Wiederholung, Ort und Tageszeit notieren.'),
       link('nester-und-bauten', 'Nester und Bauten', 'Form, Material, Eingang und Umgebung beobachten.'),
       link('insekten-erkennen', 'Insekten', 'Körperbau, Flügel, Blütenbesuch und Verhalten.'),
@@ -379,7 +381,7 @@ const pages = [
       section('Den Maßstab mitfotografieren', ['Lineal oder Münze neben die Spur legen, ohne sie zu berühren. Mehrere Abdrücke und die ganze Laufspur aufnehmen.']),
       section('Umgebung einbeziehen', ['Zaunloch, Ufer, Baumart, Fraßreste, Haare oder Federn können die Einordnung stützen. Ein einzelner Abdruck im weichen Boden verformt leicht.']),
       section('Hygiene', ['Kot, Gewölle und tote Tiere nicht mit bloßen Händen anfassen. Kinder und Haustiere fernhalten; bei auffälligen Funden zuständige Stellen fragen.']),
-    ], next: [link('arten/saeugetiere', 'Säugetiere nachschlagen', 'Steckbriefe mit Trittsiegeln, Losung und Fraßspuren.'), link('tierfinder', 'Spurenfinder', 'Form, Ort und Größe kombinieren.'), link('gartentagebuch', 'Fund dokumentieren', 'Ort und Datum festhalten.')],
+    ], next: [link('spuren-atlas', 'Spuren-Atlas', 'Trittsiegel, Kot, Fraßspuren und Gewölle unterscheiden.'), link('arten/saeugetiere', 'Säugetiere nachschlagen', 'Steckbriefe mit Trittsiegeln, Losung und Fraßspuren.'), link('tierfinder', 'Spurenfinder', 'Form, Ort und Größe kombinieren.'), link('gartentagebuch', 'Fund dokumentieren', 'Ort und Datum festhalten.')],
   },
   {
     slug: 'stimmen-und-rufe', kind: 'identify', kicker: 'Hören', heading: 'Stimmen haben Rhythmus, Ort und Tageszeit',
@@ -629,7 +631,7 @@ const toolPages = [
   },
 ];
 
-export const allPages = [...pages, ...toolPages, ...buildSpeciesPages()];
+export const allPages = [...pages, ...toolPages, ...buildSpurenAtlasPage(), ...buildSpeciesPages()];
 
 const genericTitle = (page) => page.title || `${page.heading} – ${site.name}`;
 export const publicPages = allPages.map((page) => ({ ...page, title: genericTitle(page) }));

@@ -1,0 +1,510 @@
+{
+ "paket": "tiere-3",
+ "neu": [
+  {
+   "slug": "raufusskauz",
+   "name": "Raufußkauz",
+   "latein": "Aegolius funereus",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Der Raufußkauz ist eine kleine, streng nachtaktive Eule mit großem, rundem Kopf, hellem Gesichtsschleier und gelben Augen, die ihm einen erstaunten Ausdruck geben. Seinen Namen hat er von den bis zu den Krallen dicht befiederten Füßen.",
+   "erkennen": [
+    "etwa 24 bis 26 Zentimeter lang, ungefähr so groß wie ein Steinkauz",
+    "großer, runder Kopf mit hellem Gesichtsschleier, der dunkelbraun eingefasst ist",
+    "gelbe Augen, die oft weit geöffnet wirken",
+    "Füße bis zu den Krallen pelzartig dicht befiedert",
+    "frisch ausgeflogene Jungvögel sind überwiegend schokoladenbraun und gut zu erkennen"
+   ],
+   "verwechslung": "Am ehesten mit dem Sperlingskauz, der im selben Wald vorkommt: Er ist nur starengroß, hat einen im Verhältnis kleineren Kopf und kürzere Flügel und sitzt gern auf Baumspitzen, während der Raufußkauz im Inneren der Krone bleibt. Der Steinkauz lebt dagegen in der halboffenen Kulturlandschaft und nicht im Inneren größerer Wälder.",
+   "lebensraum": "Nadel- und Mischwälder, vor allem in Berggegenden. Er braucht Altholzbestände mit Schwarzspechthöhlen, Freiflächen mit Waldrändern zur Jagd und dichte Schonungen als Tageseinstand. In den letzten Jahrzehnten hat er sich auch im Tiefland ausgebreitet, besonders in Ostdeutschland.",
+   "zeit": "Die Balz beginnt in milden Wintern schon Mitte Januar, sonst Ende Februar, und erreicht im März ihren Höhepunkt. In Bayern reicht die Brutzeit von Anfang Februar bis Mitte Juli; das Gelege umfasst drei bis sechs Eier, und die Jungen verlassen die Höhle nach etwa 33 Tagen.",
+   "spuren": "Am besten ist die Art an ihrem Gesang zu bemerken: vier bis zehn zögernd einsetzende, immer lauter werdende Pfeiftöne, die bis zu drei Kilometer weit zu hören sind. Tagsüber sitzt der Vogel dicht am Stamm in einer Baumkrone und ist kaum zu sehen.",
+   "tiere": null,
+   "regional": null,
+   "umgang": "Höhlenbäume mit Schwarzspechthöhlen und alte Buchen stehen lassen und rufende Eulen nicht nachts mit Lampen oder Tonaufnahmen stören. Nistkästen werden angenommen, müssen aber marderfest sein, weil die Brut dort leichter geplündert wird.",
+   "schutz": "Die Art steht im Anhang I der EU-Vogelschutzrichtlinie. Der NABU schätzt den Bestand in Deutschland auf 2.800 bis 5.000 Brutpaare.",
+   "naturdeck_ids": [
+    "549c4566"
+   ],
+   "korrekturen": [
+    "Fakt sagt, die Eule pfeife gleichmäßig im Vorfrühling: Quelle beschreibt zögernd beginnende, lauter werdende Pfeiftöne; Balz meist ab Ende Februar. Nutzung von Schwarzspechthöhlen bestätigt. Regionalbezug MV nicht übernommen, weil nur eine veraltete LUNG-Tabelle gefunden wurde, die nicht gelesen wurde."
+   ],
+   "quellen": [
+    [
+     "NABU, Vogelporträt Raufußkauz",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/raufusskauz/"
+    ],
+    [
+     "LfU Bayern, Artensteckbrief Raufußkauz",
+     "https://www.lfu.bayern.de/natur/sap/arteninformationen/steckbrief/zeige?stbname=Aegolius+funereus"
+    ],
+    [
+     "Wikipedia, Raufußkauz (Zweitquelle)",
+     "https://de.wikipedia.org/wiki/Raufu%C3%9Fkauz"
+    ]
+   ]
+  },
+  {
+   "slug": "fichtenkreuzschnabel",
+   "name": "Fichtenkreuzschnabel",
+   "latein": "Loxia curvirostra",
+   "gruppe": "Singvögel",
+   "kurz": "Der Fichtenkreuzschnabel ist ein 15 bis 17 Zentimeter großer Finkenvogel, dessen Schnabelspitzen sich überkreuzen. Damit hebt er Zapfenschuppen an und holt die Samen heraus.",
+   "erkennen": [
+    "15 bis 17 Zentimeter lang, kräftiger runder Kopf, dicker gebogener Schnabel mit gekreuzten Spitzen",
+    "kurzer, tief gegabelter Schwanz",
+    "Männchen meist ziegelrot mit rotem Bürzel, dem Rücken über dem Schwanzansatz",
+    "Weibchen olivgrün mit gelbem Bürzel",
+    "Jungvögel grau mit gestrichelten Flanken"
+   ],
+   "verwechslung": "Mit dem selteneren Kiefernkreuzschnabel: Er hat einen größeren Kopf und einen dickeren Schnabel, seine Lockrufe klingen lauter und tiefer. Beim Fichtenkreuzschnabel hört man ein hartes, metallisches „gip gip“ oder „glip glip“.",
+   "lebensraum": "Nadelwälder, vor allem mit Fichten und Tannen, bis hinauf zur Baumgrenze. Er braucht Bäume mit reichem Zapfenbehang.",
+   "zeit": "Ganzjährig zu beobachten. Die Brutzeit richtet sich nach dem Samenangebot und kann schon im Winter beginnen; in Mitteleuropa reicht sie von Dezember bis Mai. Der Gesang ist vor allem von Januar bis März zu hören. In Jahren mit schlechter Zapfenernte kommt es zu Wanderungen größerer Trupps.",
+   "spuren": "Gefressene Fichtenzapfen sind ein gutes Erkennungszeichen: Der Kreuzschnabel spaltet die Zapfenschuppen mit dem Schnabel der Länge nach auf und lässt sie am Zapfen. Das Eichhörnchen reißt die Schuppen nacheinander ab, die Waldmaus nagt sie ab, der Buntspecht hackt auf dem Zapfen herum. Der Flugruf „gip gip“ ist unverkennbar.",
+   "tiere": null,
+   "regional": null,
+   "umgang": "Zapfenreiche Nadelwälder erhalten. Weil die Art das ganze Jahr über brüten kann, ist Rücksicht in Nadelwäldern nicht nur im Frühjahr nötig.",
+   "schutz": "Nach NABU-Angaben nicht gefährdet, in Deutschland etwa 13.000 bis 34.000 Brutpaare.",
+   "naturdeck_ids": [
+    "245e4dd9"
+   ],
+   "korrekturen": [
+    "Fakt nennt Kiefernzapfen und Kreuzschnäbel allgemein: die abgerufene Fachquelle (Nationalpark Bayerischer Wald) beschreibt das Fraßbild an Fichtenzapfen. Der Fichtenkreuzschnabel frisst vor allem Fichtensamen, nutzt aber auch andere Nadelbäume. Aussage zu Mäusen präzisiert (Waldmaus nagt die Schuppen ab). Der Kiefernkreuzschnabel wurde nicht als eigener Steckbrief angelegt."
+   ],
+   "quellen": [
+    [
+     "NABU, Vogelporträt Fichtenkreuzschnabel",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/fichtenkreuzschnabel/"
+    ],
+    [
+     "Nationalpark Bayerischer Wald, Fraßspuren an Fichtenzapfen",
+     "https://www.nationalpark-bayerischer-wald.bayern.de/aktuelles/blog/detailansicht.htm?ID=A+s3RgSTi2TSmnc50IQ7Xw%3D%3D"
+    ],
+    [
+     "LBV Starnberg, Fichtenkreuzschnabel",
+     "https://starnberg.lbv.de/ornithologie/vogelportraits/fichtenkreuzschnabel/"
+    ],
+    [
+     "Wikipedia, Fichtenkreuzschnabel (Zweitquelle)",
+     "https://de.wikipedia.org/wiki/Fichtenkreuzschnabel"
+    ]
+   ]
+  }
+ ],
+ "ergaenzungen": [
+  {
+   "slug": "maulwurf",
+   "feld": "verwechslung",
+   "wert": "Bei Wühlmäusen liegt die ovale Gangöffnung seitlich neben dem Erdhaufen, der Aushub ist gröber und mit Pflanzenresten durchsetzt. Beim Maulwurf sitzt die Öffnung mittig im Hügel und ist von der aufgeschobenen Erde meist verdeckt.",
+   "quellen_neu": [
+    [
+     "Natur im Garten, Wühlmaus oder Maulwurf",
+     "https://www.naturimgarten.wien/aktuelles/wuehlmaus-oder-maulwurf"
+    ]
+   ],
+   "naturdeck_ids": [
+    "979f4c64",
+    "112bc177",
+    "f4f8eb08"
+   ]
+  },
+  {
+   "slug": "steinmarder",
+   "feld": "spuren",
+   "wert": "Im Schnee laufen Marder meist im Paarsprung: Die Abdrücke liegen paarweise nebeneinander, sodass eine regelmäßige Spur aus Zweiergruppen entsteht. Die Trittsiegel von Stein- und Baummarder sind mit 3 bis 7 Zentimetern die längsten unter den Marderartigen.",
+   "quellen_neu": [
+    [
+     "Stadtwildtiere Österreich, Spuren im Schnee",
+     "https://www.stadtwildtiere.at/info/spuren-im-schnee-feldhase-co-0"
+    ],
+    [
+     "BUND Niedersachsen, Spuren im Schnee",
+     "https://www.bund-niedersachsen.de/natur-erleben/tipps-zur-naturbeobachtung/januar/koenig-der-nacht-1/"
+    ]
+   ],
+   "naturdeck_ids": [
+    "2aa54e76"
+   ]
+  },
+  {
+   "slug": "mauswiesel",
+   "feld": "spuren",
+   "wert": "Wie andere Marderartige bewegt sich das Mauswiesel im Schnee im Paarsprung, sodass die Abdrücke paarweise nebeneinander liegen. Ein einzelner Tritt ist mit 1 bis 2 Zentimetern Länge kleiner als beim Hermelin, der 2 bis 3 Zentimeter misst.",
+   "quellen_neu": [
+    [
+     "BUND Niedersachsen, Spuren im Schnee",
+     "https://www.bund-niedersachsen.de/natur-erleben/tipps-zur-naturbeobachtung/januar/koenig-der-nacht-1/"
+    ]
+   ],
+   "naturdeck_ids": [
+    "45919aee"
+   ]
+  },
+  {
+   "slug": "raufussbussard",
+   "feld": "erkennen",
+   "wert": "Er jagt häufig vom Ansitz aus oder im Suchflug mit häufigem Rütteln, also mit Flügelschlägen auf der Stelle über dem Feld.",
+   "quellen_neu": [
+    [
+     "NABU, Vogelporträt Raufußbussard",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/raufussbussard/"
+    ]
+   ],
+   "naturdeck_ids": [
+    "9b2c2eae",
+    "cfaa5a36"
+   ]
+  },
+  {
+   "slug": "rothirsch",
+   "feld": "spuren",
+   "wert": "Bei der Winterschäle bleiben auf der fest sitzenden Rinde Schürfspuren der unteren Schneidezähne zurück; im Sommer zieht Rotwild die Rinde dagegen in langen Bahnen ab. Das Fegen des Geweihs erkennt man an Rindenfetzen, die am Stamm hängen, und an der Zeit gegen Ende Juli bis Mitte August.",
+   "quellen_neu": [
+    [
+     "BFW, Schälschäden",
+     "https://bfw.ac.at/rz/bfwcms.web?dok=5486"
+    ],
+    [
+     "WSL, Verbiss durch Schalenwild",
+     "https://www.wsl.ch/de/wald/bewirtschaftung-und-waldfunktionen/waldbau-wachstum-und-ertrag/waldverjuengung/verbiss-durch-schalenwild/"
+    ]
+   ],
+   "naturdeck_ids": [
+    "40daf2a7",
+    "fa371940"
+   ]
+  },
+  {
+   "slug": "schleiereule",
+   "feld": "spuren",
+   "wert": "In den Gewöllen bleiben die unverdaulichen Reste wie Haare und Knochen erhalten. Vor allem Schädel und Kiefer der Kleinsäuger lassen sich herauslösen und bis zur Art bestimmen.",
+   "quellen_neu": [
+    [
+     "LfU Bayern, Gewölleuntersuchungen",
+     "https://www.lfu.bayern.de/natur/kleinsaeuger/untersuchungen/gewoelleuntersuchungen/index.htm"
+    ]
+   ],
+   "naturdeck_ids": [
+    "c5b565b0"
+   ]
+  },
+  {
+   "slug": "rote-waldameise",
+   "feld": "spuren",
+   "wert": "Wo Harz verfügbar ist, bauen die Ameisen Harzteilchen in den Nesthügel ein; sie festigen das Nest und wirken zugleich leicht antibakteriell. Untersuchungen an der nahe verwandten Bergwaldameise (Formica paralugubris) zeigten, dass Harz Bakterien und Pilze im Nest vermindert.",
+   "quellen_neu": [
+    [
+     "waldwissen.net, Die Roten Waldameisen in der Schweiz",
+     "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/insekten-wirbellose/waldameisen-in-der-schweiz"
+    ],
+    [
+     "scinexx, Ameisen nutzen Harz als Antibiotikum",
+     "https://www.scinexx.de/news/biowissen/ameisen-nutzen-harz-als-antibiotikum/"
+    ]
+   ],
+   "naturdeck_ids": [
+    "d3d06a04",
+    "2d628635",
+    "515a02a5",
+    "be84c3f8"
+   ]
+  },
+  {
+   "slug": "nutria",
+   "feld": "spuren",
+   "wert": "Zum Fressen und Rasten legen Nutrias Plattformen aus Schilf und anderen Pflanzen an. Ihre röhrenförmigen Baue graben sie in Uferböschungen, die Eingänge liegen oberhalb der Wasserlinie.",
+   "quellen_neu": [
+    [
+     "Wildtierportal Bayern, Nutria",
+     "https://www.wildtierportal.bayern.de/wildtiere_bayern/218365/index.php"
+    ]
+   ],
+   "naturdeck_ids": [
+    "32d6c8b8"
+   ]
+  },
+  {
+   "slug": "rotfussfalke",
+   "feld": "erkennen",
+   "wert": "Beim Männchen sind die Beinfedern rostrot, sodass die Beine im Flug wie mit „Hosen“ wirken; auch Augenring und Wachshaut am Schnabelgrund sind rot.",
+   "quellen_neu": [
+    [
+     "NABU, Vogelporträt Rotfußfalke",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/rotfussfalke/"
+    ],
+    [
+     "Wikipedia, Rotfußfalke (Zweitquelle)",
+     "https://de.wikipedia.org/wiki/Rotfu%C3%9Ffalke"
+    ]
+   ],
+   "naturdeck_ids": [
+    "d1a3aad4"
+   ]
+  }
+ ],
+ "nicht_uebernommen": [
+  {
+   "id": "b265de89",
+   "grund": "Doppelung: Hinweis steht bereits im Steckbrief (Trittsiegel mit vier Zehen, breiter als lang)"
+  },
+  {
+   "id": "4107830c",
+   "grund": "Doppelung: Hinweis steht bereits im Steckbrief (Trittsiegel mit vier Zehen, breiter als lang)"
+  },
+  {
+   "id": "7475104c",
+   "grund": "Doppelung: Ruf und Gestalt stehen im Steckbrief; Milanvergleich nicht belegt"
+  },
+  {
+   "id": "cfe2365e",
+   "grund": "keine Fachquelle für Ansitz auf Zaunpfählen und Flugbild abgerufen"
+  },
+  {
+   "id": "10f53422",
+   "grund": "keine Fachquelle für Ansitz auf Zaunpfählen und Flugbild abgerufen"
+  },
+  {
+   "id": "b01ff163",
+   "grund": "Doppelung: gelbgrüner Hinterleib steht bereits im Steckbrief"
+  },
+  {
+   "id": "fdbdd4de",
+   "grund": "widerspricht dem vorhandenen Steckbrief (gebogener Legebohrer); keine Quelle für gerade Form"
+  },
+  {
+   "id": "685ad8ec",
+   "grund": "Art nicht bestimmt (Mäuse allgemein), daher keine belegbare Zuordnung zu einem Steckbrief"
+  },
+  {
+   "id": "adb891f4",
+   "grund": "Art nicht bestimmt (Mäuse allgemein), daher keine belegbare Zuordnung zu einem Steckbrief"
+  },
+  {
+   "id": "97c63bb1",
+   "grund": "keine Fachquelle zu Kot und Verhalten abgerufen (nur per Suche gesichtet, Losung nicht bestätigt)"
+  },
+  {
+   "id": "234229b5",
+   "grund": "keine Fachquelle zu Kot und Verhalten abgerufen (nur per Suche gesichtet, Losung nicht bestätigt)"
+  },
+  {
+   "id": "8c016515",
+   "grund": "keine Fachquelle zu Kot und Verhalten abgerufen (nur per Suche gesichtet, Losung nicht bestätigt)"
+  },
+  {
+   "id": "69a086d8",
+   "grund": "keine Fachquelle zu Kot und Verhalten abgerufen (nur per Suche gesichtet, Losung nicht bestätigt)"
+  },
+  {
+   "id": "660acc17",
+   "grund": "helle Unterflügel in der abgerufenen NABU-Quelle nicht bestätigt"
+  },
+  {
+   "id": "b8dcc2d4",
+   "grund": "helle Unterflügel in der abgerufenen NABU-Quelle nicht bestätigt"
+  },
+  {
+   "id": "55da4d12",
+   "grund": "Art unbestimmt (Mistkäfer allgemein); Brutgänge stehen im Steckbrief Waldmistkäfer"
+  },
+  {
+   "id": "e1705e77",
+   "grund": "Art unbestimmt (Mistkäfer allgemein); Brutgänge stehen im Steckbrief Waldmistkäfer"
+  },
+  {
+   "id": "b2fbe6de",
+   "grund": "Doppelung: 32 kHz stehen im Steckbrief; Beschreibung zweisilbig nicht belegt"
+  },
+  {
+   "id": "b49ab1f4",
+   "grund": "Doppelung: 32 kHz stehen im Steckbrief; Beschreibung zweisilbig nicht belegt"
+  },
+  {
+   "id": "1c98296e",
+   "grund": "Doppelung: Geruch steht bereits im Steckbrief"
+  },
+  {
+   "id": "3cf48308",
+   "grund": "Doppelung: Geruch steht bereits im Steckbrief"
+  },
+  {
+   "id": "7b831dbc",
+   "grund": "Doppelung: Geruch steht bereits im Steckbrief"
+  },
+  {
+   "id": "6e803dea",
+   "grund": "Doppelung: Jagd an Ufergehölzen steht im Steckbrief"
+  },
+  {
+   "id": "677f2d7f",
+   "grund": "Doppelung: Trommeln steht im Steckbrief"
+  },
+  {
+   "id": "7c5a51c6",
+   "grund": "Doppelung bzw. keine Fachquelle für Jungvögel und Schnabelform abgerufen"
+  },
+  {
+   "id": "ab84a981",
+   "grund": "Doppelung bzw. keine Fachquelle für Jungvögel und Schnabelform abgerufen"
+  },
+  {
+   "id": "3dc96a81",
+   "grund": "Quellenlage zum hellen Fleck über dem Schwanzansatz widersprüchlich (typisch für die Kornweihe), Merkmal nicht tragfähig"
+  },
+  {
+   "id": "72285f0e",
+   "grund": "Doppelung: Ernährung und Ungefährlichkeit stehen im Steckbrief"
+  },
+  {
+   "id": "539a92dc",
+   "grund": "keine zweite Fachquelle abgerufen (nur Wikipedia)"
+  },
+  {
+   "id": "d553cd73",
+   "grund": "keine zweite Fachquelle abgerufen (nur Wikipedia)"
+  },
+  {
+   "id": "27e940f9",
+   "grund": "keine zweite Fachquelle abgerufen (nur Wikipedia)"
+  },
+  {
+   "id": "725f398a",
+   "grund": "Doppelung: lange Flügel und Gestalt stehen im Steckbrief"
+  },
+  {
+   "id": "ca839148",
+   "grund": "Doppelung bzw. keine abgerufene Quelle für Uferzug und Spaltenruf"
+  },
+  {
+   "id": "8a5738cf",
+   "grund": "Doppelung bzw. keine abgerufene Quelle für Uferzug und Spaltenruf"
+  },
+  {
+   "id": "fc04e53b",
+   "grund": "Doppelung: Fegen, Tritt und Damwild-Vergleich stehen im Steckbrief"
+  },
+  {
+   "id": "359ea85e",
+   "grund": "Doppelung: Fegen, Tritt und Damwild-Vergleich stehen im Steckbrief"
+  },
+  {
+   "id": "5e791a5e",
+   "grund": "Doppelung: Fegen, Tritt und Damwild-Vergleich stehen im Steckbrief"
+  },
+  {
+   "id": "effb9876",
+   "grund": "Art nicht eindeutig bestimmt, kein Steckbrief, keine Fachquelle abgerufen"
+  },
+  {
+   "id": "bce012c9",
+   "grund": "keine abgerufene Fachquelle zum Herbstkleid"
+  },
+  {
+   "id": "b569e915",
+   "grund": "Doppelung: Ruf und Zeit stehen im Steckbrief"
+  },
+  {
+   "id": "6e7b1477",
+   "grund": "Doppelung: Gestalt und Flug stehen im Steckbrief"
+  },
+  {
+   "id": "3451acdf",
+   "grund": "Doppelung: Rüssel steht im Steckbrief"
+  },
+  {
+   "id": "7de5a255",
+   "grund": "Doppelung: Warnfärbung steht im Steckbrief; Aussage zur Warnwirkung nicht belegt"
+  },
+  {
+   "id": "53e31002",
+   "grund": "Doppelung: Wassermilben stehen im Steckbrief; Beinzahl nur aus Zweitquelle"
+  },
+  {
+   "id": "45de279d",
+   "grund": "Haselnuss-Fraßbild steht im Steckbrief; für Bucheckern und Eicheln keine Fachquelle abgerufen"
+  },
+  {
+   "id": "725e6a53",
+   "grund": "Haselnuss-Fraßbild steht im Steckbrief; für Bucheckern und Eicheln keine Fachquelle abgerufen"
+  },
+  {
+   "id": "3a519742",
+   "grund": "Haselnuss-Fraßbild steht im Steckbrief; für Bucheckern und Eicheln keine Fachquelle abgerufen"
+  },
+  {
+   "id": "0b5e20ff",
+   "grund": "Haselnuss-Fraßbild steht im Steckbrief; für Bucheckern und Eicheln keine Fachquelle abgerufen"
+  },
+  {
+   "id": "4e999a70",
+   "grund": "Doppelung: gerade geschnürte Fährte steht im Steckbrief"
+  },
+  {
+   "id": "1b635516",
+   "grund": "Doppelung: Schwanzgabel und Unterscheidung stehen im Steckbrief"
+  },
+  {
+   "id": "008095c5",
+   "grund": "keine Fachquelle abgerufen; Steckbrief nennt Laubholz, Aussage zu Kiefern nicht geprüft"
+  },
+  {
+   "id": "fffeee0f",
+   "grund": "Doppelung: Flügelgeräusch und Kopfzeichnung stehen im Steckbrief"
+  },
+  {
+   "id": "5eba1b56",
+   "grund": "kein Steckbrief möglich: Art nicht benannt, Gruppe passt nicht, Aussage zu Larven nicht belegt"
+  },
+  {
+   "id": "cd78c2b7",
+   "grund": "Doppelung bzw. Fensterfraß nicht belegt"
+  },
+  {
+   "id": "0711e1fd",
+   "grund": "Doppelung bzw. Fensterfraß nicht belegt"
+  },
+  {
+   "id": "e92f21e8",
+   "grund": "keine Fachquelle zur Netzhöhe abgerufen"
+  },
+  {
+   "id": "a7557590",
+   "grund": "Doppelung: Schließmund steht im Steckbrief"
+  },
+  {
+   "id": "a86cdf5f",
+   "grund": "Art unbestimmt (Schnirkelschnecken allgemein), keine Quelle abgerufen"
+  },
+  {
+   "id": "4f255858",
+   "grund": "keine Fachquelle für gespreizte Flügelfedern und Vergleich mit Milan abgerufen"
+  },
+  {
+   "id": "35313198",
+   "grund": "keine Fachquelle für gespreizte Flügelfedern und Vergleich mit Milan abgerufen"
+  },
+  {
+   "id": "0fd687ba",
+   "grund": "keine Fachquelle für gespreizte Flügelfedern und Vergleich mit Milan abgerufen"
+  },
+  {
+   "id": "e2b33682",
+   "grund": "keine Fachquelle abgerufen"
+  },
+  {
+   "id": "7c3b402c",
+   "grund": "Doppelung: Pilznahrung und Kriechsohle stehen im Steckbrief"
+  },
+  {
+   "id": "cfc2a39f",
+   "grund": "Doppelung: Blattlausbetreuung steht im Steckbrief"
+  },
+  {
+   "id": "4a5d4b3f",
+   "grund": "Doppelung: Keilschwanz steht im Steckbrief"
+  },
+  {
+   "id": "b0a3c1f0",
+   "grund": "kein Steckbrief, Art nicht eindeutig, keine Fachquelle abgerufen"
+  }
+ ]
+}
