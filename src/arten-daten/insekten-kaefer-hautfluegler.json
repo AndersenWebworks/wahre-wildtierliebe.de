@@ -1,0 +1,1300 @@
+{
+ "paket": "insekten-kaefer-hautfluegler",
+ "arten": [
+  {
+   "slug": "hirschkaefer",
+   "name": "Hirschkäfer",
+   "latein": "Lucanus cervus",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Größter Käfer Mitteleuropas; die Männchen tragen geweihartig vergrößerte Oberkiefer, die Larven leben jahrelang in morschem Eichenholz.",
+   "erkennen": [
+    "Männchen bis etwa 8 cm lang, mit geweihartig vergrößerten Oberkiefern, die bis zur Hälfte der Körperlänge ausmachen können.",
+    "Weibchen kleiner, mit winzigen, aber spitzen und kräftigen Oberkiefern.",
+    "Larve sehr groß und cremefarben, mit brauner Kopfkapsel und kräftigen Kiefern; sie lebt im Boden an Eichenwurzeln und Stubben."
+   ],
+   "verwechslung": "Das Männchen ist unverwechselbar. Das Weibchen ist an der Größe und den kleinen, spitzen Oberkiefern kenntlich.",
+   "lebensraum": "Alte, lichte Laubwälder, besonders Eichenwälder, außerdem Streuobstwiesen, Parks und Gärten mit altem Baumbestand. Die Larven entwickeln sich an morschem Holz von Stubben und Wurzeln im Boden.",
+   "zeit": "Die Käfer fliegen von Mai bis August, meist an warmen Abenden, und leben nur wenige Wochen.",
+   "spuren": "Bei alten Eichen: frische Saftstellen an der Rinde, an denen sich die Käfer versammeln.",
+   "regional": "Nach der Roten Liste der Blatthornkäfer und Hirschkäfer des LUNG (Stand Dezember 2013) konzentrieren sich die heutigen Vorkommen in Mecklenburg-Vorpommern auf den südlichen Teil der Mecklenburgischen Seenplatte nahe der Grenze zu Brandenburg. Nördlich davon sind frühere Vorkommen wahrscheinlich erloschen. Für Mecklenburg-Vorpommern konnten bis dahin keine Brutstätten ermittelt werden, es gab nur Einzelbeobachtungen und Totfunde.",
+   "umgang": "Käfer und Larven nicht anfassen und nicht umsetzen. Alte Obstbäume möglichst stehen lassen; wenn eine Fällung nicht zu vermeiden ist, die Stubben im Boden lassen, denn dort entwickeln sich die Larven. Die Entwicklung dauert etwa fünf Jahre, in seltenen Fällen bis zu acht.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1, alle heimischen Schröter). FFH-Richtlinie Anhang II. Rote Liste Deutschland: Kategorie 2, stark gefährdet (Angabe im BfN-Artenporträt). Rote Liste Mecklenburg-Vorpommern: Kategorie 2, stark gefährdet (LUNG, Stand Dezember 2013).",
+   "naturdeck_ids": [
+    "183c70d2",
+    "2d42ded0",
+    "3f1d330b"
+   ],
+   "korrekturen": [
+    "e9bc81e4: Die Aussage, Käferlarven reiften im warmen, feuchten Eichenmulm langsamer als im morschen Ast, ist in den geprüften Quellen nicht belegt und wurde nicht übernommen.",
+    "Die Larvenzeit wird in den Quellen mit etwa 5 Jahren (BfN, LUNG), bis zu 8 Jahren (BfN) oder etwa 6 Jahren (NABU) angegeben, nicht einheitlich."
+   ],
+   "quellen": [
+    [
+     "BfN-Artenporträt Hirschkäfer",
+     "https://www.bfn.de/artenportraits/lucanus-cervus"
+    ],
+    [
+     "LUNG M-V: Rote Liste der Blatthornkäfer und Hirschkäfer (2013)",
+     "https://www.lung.mv-regierung.de/static/LUNG/dateien/fachinformationen/natur/artenschutz/rote-listen/rote_liste_blatthorn_hirschkaefer.pdf"
+    ],
+    [
+     "NABU Insektentrainer: Hirschkäfer",
+     "https://insektentrainer.nabu.de/insekt/hirschkaefer/"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeiner-rosenkaefer",
+   "name": "Gemeiner Rosenkäfer",
+   "latein": "Cetonia aurata",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Metallisch grüner, kräftiger Blütenbesucher mit weißen Querflecken; die Larve kriecht auf dem Rücken.",
+   "erkennen": [
+    "14 bis 20 mm lang, variabel metallisch grün bis bronzefarben glänzend.",
+    "Auf den Flügeldecken sitzen weiße Flecken und Bänder.",
+    "Die Unterseite schimmert rotgolden.",
+    "Die Larve ist ein dicker, weißlicher Engerling, der gestreckt auf dem Rücken liegend vorankommt."
+   ],
+   "verwechslung": "Maikäferengerlinge bleiben beim Kriechen gekrümmt und laufen auf den Beinen; die Rosenkäferlarve bewegt sich auf dem Rücken.",
+   "lebensraum": "Blütenreiche Säume, Gärten und Waldränder. Die Larven entwickeln sich in morschem Holz und in Kompost.",
+   "zeit": "Die Käfer fliegen von April bis Oktober, vor allem bei Sonne auf Blüten.",
+   "spuren": "Larven in Mulm, morschem Holz oder Komposthaufen; der Kokon besteht aus Erde und Holzfasern.",
+   "regional": "Nach der Roten Liste der Blatthornkäfer und Hirschkäfer des LUNG (Stand Dezember 2013) in Mecklenburg-Vorpommern häufig und ungefährdet.",
+   "umgang": "Käfer auf Blüten und Larven im Kompost oder Mulm nicht stören. Morsche Holzstücke und Komposthaufen im Garten bieten den Larven Entwicklungsraum.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1). In Mecklenburg-Vorpommern nach der Roten Liste von 2013 ungefährdet.",
+   "naturdeck_ids": [
+    "1571b5b5",
+    "aa7e95f2",
+    "1f56a05e",
+    "b7004afa"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia: Goldglänzender Rosenkäfer",
+     "https://de.wikipedia.org/wiki/Gemeiner_Rosenk%C3%A4fer"
+    ],
+    [
+     "LUNG M-V: Rote Liste der Blatthornkäfer und Hirschkäfer (2013)",
+     "https://www.lung.mv-regierung.de/static/LUNG/dateien/fachinformationen/natur/artenschutz/rote-listen/rote_liste_blatthorn_hirschkaefer.pdf"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "feldmaikaefer",
+   "name": "Feldmaikäfer",
+   "latein": "Melolontha melolontha",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Brauner Käfer mit fächerförmigen Fühlern und weißen Dreiecken am Hinterleib; die Engerlinge leben drei Jahre im Boden.",
+   "erkennen": [
+    "22 bis 32 mm lang; Kopf, Halsschild und Hinterleib überwiegend schwarz, Flügeldecken, Beine und Fühler rotbraun.",
+    "Am Hinterleibsrand eine Reihe weißer Dreiecke.",
+    "Fühlerfächer beim Männchen mit sieben, beim Weibchen mit sechs Lamellen.",
+    "Der Engerling ist weißlichgelb, C-förmig gekrümmt, hat eine braune Kopfkapsel, kräftige Mundwerkzeuge und drei Beinpaare."
+   ],
+   "verwechslung": "Der Engerling unterscheidet sich von Schnakenlarven durch die braune Kopfkapsel und die drei Beinpaare; Schnakenlarven haben keine Beine. Von Rosenkäferlarven unterscheidet er sich durch das gekrümmte Liegen und Kriechen auf den Beinen.",
+   "lebensraum": "Offenes Land, Waldränder und Gärten; die Engerlinge leben im Boden.",
+   "zeit": "Die Käfer fliegen im Mai, fast nur in der Abenddämmerung. Massenflüge treten in Flugjahren etwa alle drei bis vier Jahre auf.",
+   "spuren": "Engerlinge beim Umgraben im Boden; sie fressen an Wurzeln.",
+   "regional": "Nach der Roten Liste der Blatthornkäfer und Hirschkäfer des LUNG (Stand Dezember 2013) in Mecklenburg-Vorpommern sehr häufig und ungefährdet; der Waldmaikäfer gilt dort dagegen als stark gefährdet.",
+   "umgang": "Beim Umgraben gefundene Engerlinge können im Boden bleiben.",
+   "schutz": "In Mecklenburg-Vorpommern nach der Roten Liste von 2013 ungefährdet.",
+   "naturdeck_ids": [
+    "388f5b83"
+   ],
+   "korrekturen": [
+    "388f5b83: Die Aussage zur Kopfkapsel und den sechs Brustbeinen wurde bestätigt. Dass es der Feldmaikäfer ist, ist eine Zuordnung; der Waldmaikäfer hat ähnliche Larven."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Feldmaikäfer",
+     "https://de.wikipedia.org/wiki/Feldmaik%C3%A4fer"
+    ],
+    [
+     "LUNG M-V: Rote Liste der Blatthornkäfer und Hirschkäfer (2013)",
+     "https://www.lung.mv-regierung.de/static/LUNG/dateien/fachinformationen/natur/artenschutz/rote-listen/rote_liste_blatthorn_hirschkaefer.pdf"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "waldmistkaefer",
+   "name": "Waldmistkäfer",
+   "latein": "Anoplotrupes stercorosus",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Schwarzblauer Mistkäfer mit blau, violett oder grün schimmernden Seiten, der unter Dung senkrechte Brutgänge anlegt.",
+   "erkennen": [
+    "12 bis 19 mm lang, schwarzblau.",
+    "Seiten der Flügeldecken blau, violett oder grün schimmernd.",
+    "Wesentlich kleiner als der verwandte Gemeine Mistkäfer.",
+    "Er erzeugt mit zwei Schrilleisten Laute bei Paarung und Gefahr."
+   ],
+   "verwechslung": "Der Gemeine Mistkäfer (Geotrupes stercorarius) ist größer. Beide sind keine Kugelroller.",
+   "lebensraum": "Überwiegend Wälder, von der Tiefebene bis ins Gebirge.",
+   "zeit": "Die Paare graben im Frühjahr ihre Gänge; die Larve überwintert und verpuppt sich im Frühjahr.",
+   "spuren": "Kot, Pilze und Baumsaft dienen als Nahrung. Unter Kot oder Dung liegen die senkrechten, 70 bis 80 mm tiefen Brutgänge mit seitlichen Kammern; jede Kammer erhält ein Ei.",
+   "regional": "Nach der Roten Liste der Blatthornkäfer und Hirschkäfer des LUNG (Stand Dezember 2013) in Mecklenburg-Vorpommern sehr häufig und ungefährdet.",
+   "umgang": "Dung und Losung im Wald und am Wegrand liegen lassen; darunter entwickeln sich die Larven.",
+   "schutz": "In Mecklenburg-Vorpommern nach der Roten Liste von 2013 ungefährdet.",
+   "naturdeck_ids": [
+    "68e50df4"
+   ],
+   "korrekturen": [
+    "e1705e77: Mistkäfer dieser Gattung schieben keine Kugeln, sie graben Brutgänge. Nicht übernommen.",
+    "55da4d12: Dunkles Glänzen auf Sandwegen ist für die Art nicht belegt; nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Waldmistkäfer",
+     "https://de.wikipedia.org/wiki/Waldmistk%C3%A4fer"
+    ],
+    [
+     "LUNG M-V: Rote Liste der Blatthornkäfer und Hirschkäfer (2013)",
+     "https://www.lung.mv-regierung.de/static/LUNG/dateien/fachinformationen/natur/artenschutz/rote-listen/rote_liste_blatthorn_hirschkaefer.pdf"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "goldlaufkaefer",
+   "name": "Goldlaufkäfer",
+   "latein": "Carabus auratus",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Goldgrüner Laufkäfer mit drei breiten Längsrippen auf jeder Flügeldecke und rötlichen Beinen.",
+   "erkennen": [
+    "17 bis 30 mm lang.",
+    "Kopf, Halsschild und Flügeldecken goldgrün glänzend; auf jeder Flügeldecke drei breite Längsrippen.",
+    "Die ersten vier Fühlerglieder, die übrigen Fühlerglieder, Taster und Beine sind rot."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Felder, trockene Hänge, Waldränder und Gärten, besonders auf Lehmböden. Die Larven jagen am Boden in der Dämmerung.",
+   "zeit": "Die Käfer jagen am Tag; sie sind von April bis August zu sehen. Die Larven sind vor allem in der Dämmerung aktiv.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Der Käfer frisst Schnecken, Würmer und Insekten und ist im Garten nützlich. Nicht fangen, nicht aufnehmen.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1, alle europäischen Laufkäfer der Gattung Carabus).",
+   "naturdeck_ids": [
+    "0b4e208f"
+   ],
+   "korrekturen": [
+    "7d9e7eec: Der Goldlaufkäfer ist tagaktiv; die Angabe, er laufe nachts am Feldrand und blitze im Lampenlicht, ist nicht belegt.",
+    "14c85d66: Feuchte Waldwege als Lebensraum sind nicht belegt; die Quelle nennt Felder, trockene Hänge, Waldränder und Gärten."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Goldlaufkäfer",
+     "https://de.wikipedia.org/wiki/Goldlaufk%C3%A4fer"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "lederlaufkaefer",
+   "name": "Lederlaufkäfer",
+   "latein": "Carabus coriaceus",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Großer, matt schwarzer, flugunfähiger Laufkäfer mit runzligen Flügeldecken und kräftigen Kiefern, nachts auf der Jagd.",
+   "erkennen": [
+    "30 bis 40 mm lang, einer der größten Laufkäfer Mitteleuropas.",
+    "Schwarzer, matter Panzer mit gerunzelten Flügeldecken.",
+    "Kräftige Kiefer; an Fühlern und Beingelenken orange Bereiche."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Laub- und Mischwälder; tagsüber unter Moos und Steinen verborgen.",
+   "zeit": "Nachtaktiv; die Käfer erscheinen hauptsächlich von Mai bis Oktober, am häufigsten im August und September.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Bei Störung sondert der Käfer eine übel riechende Flüssigkeit ab; nicht anfassen. Er jagt Insekten, Schnecken und Würmer.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1, alle europäischen Laufkäfer der Gattung Carabus).",
+   "naturdeck_ids": [
+    "ba216214",
+    "b971fb81"
+   ],
+   "korrekturen": [
+    "b971fb81: Der Hofrand als Jagdort ist in der Quelle nicht belegt; genannt sind Wälder."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Lederlaufkäfer",
+     "https://de.wikipedia.org/wiki/Lederlaufk%C3%A4fer"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "feld-sandlaufkaefer",
+   "name": "Feld-Sandlaufkäfer",
+   "latein": "Cicindela campestris",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Grüner, flinker Käfer auf sonnigen Sandwegen, der bei Annäherung nur wenige Meter weiterfliegt.",
+   "erkennen": [
+    "10 bis 15 mm lang, meist leuchtend grün, selten blau oder braun.",
+    "Weißgelbe Flecken auf den Flügeldecken.",
+    "Fühler, Hinterleib und Unterseite kupferrot schimmernd.",
+    "Läuft in schnellen Schüben und hält dazwischen an."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Sonnige, trockene Stellen mit Sand- und Lehmboden. Die Larven leben in selbst gegrabenen Röhren von wenigen Millimetern Durchmesser, die bis zu 40 cm tief reichen, und lauern am Eingang.",
+   "zeit": "Von Ende März bis September aktiv.",
+   "spuren": "Kleine runde Röhreneingänge der Larven im Sandboden.",
+   "regional": null,
+   "umgang": "Offene, sandige Wegränder und Böschungen nicht zupflastern oder bepflanzen. Käfer und Larvenröhren nicht stören.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1, alle heimischen Sandläufer der Gattung Cicindela).",
+   "naturdeck_ids": [
+    "542e8550"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia: Feld-Sandlaufkäfer",
+     "https://de.wikipedia.org/wiki/Feld-Sandlaufk%C3%A4fer"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "schwarzer-moderkaefer",
+   "name": "Schwarzer Moderkäfer",
+   "latein": "Ocypus olens",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Größter Kurzflügler Mitteleuropas: matt schwarz, 22 bis 40 mm, streckt bei Störung den Hinterleib nach vorn.",
+   "erkennen": [
+    "22 bis 40 mm lang, ganz matt schwarz, dicht punktiert und schwarz behaart.",
+    "Kurze Flügeldecken, die den Hinterleib weitgehend frei lassen.",
+    "Bei Bedrohung spreizt er die Kiefer, streckt den Hinterleib nach vorn und kann aus weißen Drüsen am Hinterleibsende ein übel riechendes Sekret abgeben."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Feuchte Wälder und Waldränder, Auen, aber auch Gärten, Heiden und trockene Hänge; unter Totholz, Steinen und Laub und auf Wegen.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Räuberischer Käfer, auch als Larve. Nicht anfassen; die Kiefer können kräftig zubeißen. Totholz und Laubhaufen im Garten bieten ihm Unterschlupf.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "01aa953c",
+    "436206d0"
+   ],
+   "korrekturen": [
+    "b3953a37: Schnecken als Beute sind in der geprüften Quelle nicht genannt; nicht übernommen. Belegt ist nur eine räuberische Lebensweise."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Schwarzer Moderkäfer",
+     "https://de.wikipedia.org/wiki/Schwarzer_Moderk%C3%A4fer"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "totengraeber",
+   "name": "Gemeiner Totengräber",
+   "latein": "Nicrophorus vespillo",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Schwarzer Käfer mit zwei orangegelben Binden, der kleine Tierkadaver gemeinsam mit dem Partner vergräbt.",
+   "erkennen": [
+    "Meist 12 bis 22 mm lang, schwarz mit zwei orangegelben, zackig begrenzten Querbinden auf den Flügeldecken.",
+    "Fühlerkeule orange, bis auf das erste Glied.",
+    "Die Flügeldecken bedecken nur gut die Hälfte des Hinterleibs."
+   ],
+   "verwechslung": "Der Schwarzhörnige Totengräber (Nicrophorus vespilloides) hat ganz schwarze Fühler. Weitere Totengräberarten sehen ähnlich aus.",
+   "lebensraum": "Waldwege, Wiesen und Gärten, überall dort, wo kleine Kadaver liegen.",
+   "zeit": null,
+   "spuren": "Unter einem toten Kleintier ist die Erde oft frisch gelockert. Die Larven werden im Gang neben dem Kadaver vom Weibchen gefüttert, besonders nach der ersten Häutung.",
+   "regional": null,
+   "umgang": "Kadaver kleiner Tiere nicht entfernen, wenn sie nicht stören; die Käfer beseitigen sie und ziehen daran ihre Brut auf.",
+   "schutz": "Der Gemeine Totengräber gilt als nicht gefährdet (Insekten Sachsen).",
+   "naturdeck_ids": [
+    "02e0496d",
+    "3beb17fe",
+    "93e02ae0",
+    "9b75de75",
+    "f8c36d85"
+   ],
+   "korrekturen": [
+    "Die Naturdeck-Fakten sprechen von \"Totengräbern\" allgemein. Es gibt in Europa 13 Arten; die Merkmale gelten hier für den Gemeinen Totengräber."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Totengräber (Käfer)",
+     "https://de.wikipedia.org/wiki/Totengr%C3%A4ber_(K%C3%A4fer)"
+    ],
+    [
+     "Insekten Sachsen: Gemeiner Totengräber",
+     "https://www.insekten-sachsen.de/pages/TaxonomyBrowser.aspx?ID=186403"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "moschusbock",
+   "name": "Moschusbock",
+   "latein": "Aromia moschata",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Metallisch glänzender Bockkäfer mit langen Fühlern, der an alten Weiden lebt und nach Moschus riecht.",
+   "erkennen": [
+    "13 bis 34 mm lang, kupfer- bis bronzefarben oder blauviolett metallisch glänzend.",
+    "Männchen haben deutlich längere Fühler als Weibchen.",
+    "Drüsen am Halsschild sondern ein moschusartig riechendes Sekret ab."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Kopfweiden, Auwälder und Erlenbrüche. Die Larven entwickeln sich zwei bis drei Jahre in Weidenholz und anderem Weichholz.",
+   "zeit": "Die Käfer erscheinen vor allem Mitte bis Ende Juni an heißen Tagen und leben nur wenige Wochen.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Alte Weiden und Kopfweiden erhalten und weiter pflegen, auch kranke oder beschädigte Bäume. Die Art ging durch fehlende Weidenpflege und Entwässerung zurück.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1, Bockkäfer mit wenigen Ausnahmen).",
+   "naturdeck_ids": [
+    "2de9a135",
+    "3139003b"
+   ],
+   "korrekturen": [
+    "7b831dbc: Die Färbung ist metallisch kupfer-, bronze- oder blauviolett, nicht rotbraun. Nicht übernommen.",
+    "2de9a135: Als Hauptflugzeit nennt die Quelle Juni, nicht Juli."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Moschusbock",
+     "https://de.wikipedia.org/wiki/Moschusbock"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "saegebock",
+   "name": "Sägebock",
+   "latein": "Prionus coriarius",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Großer, brauner Bockkäfer mit kräftigen, gesägten Fühlern; nachtaktiv und oft am Licht zu finden.",
+   "erkennen": [
+    "18 bis 45 mm lang, braun bis dunkelbraun, leicht glänzend.",
+    "Kräftige, lange, gesägte Fühler; beim Männchen stärker gesägt.",
+    "Auf den Flügeldecken drei Längsrippen.",
+    "Die Larve wird etwa 6 cm lang."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Alte Bäume in Laubwäldern, manchmal in Alleen. Die Larven fressen drei Jahre lang erst unter der Rinde, später im Wurzelholz von Laubbäumen, selten von Nadelbäumen.",
+   "zeit": "Nachtaktiv; die Käfer fliegen abends und nachts zum Licht.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Alte Laubbäume und Wurzelstubben stehen lassen. Käfer am Licht nicht stören.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1, Bockkäfer mit wenigen Ausnahmen).",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "a5b84cbe: Der Sägebock lebt nach der Quelle an Laubbäumen und ist nachtaktiv; Kiefernstämme und eine Juni-Flugzeit sind nicht belegt. Nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Sägebock (Käfer)",
+     "https://de.wikipedia.org/wiki/Sägebock_(Käfer)"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "gelbrandkaefer",
+   "name": "Gelbrandkäfer",
+   "latein": "Dytiscus marginalis",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Großer Schwimmkäfer stehender Gewässer mit gelbem Rand; die Larve jagt Kaulquappen und atmet kopfunter am Hinterende.",
+   "erkennen": [
+    "27 bis 35 mm lang, breit oval; Männchen schwarzgrün, Weibchen eher braungrün.",
+    "Flügeldecken und Halsschild sind gelb gerandet.",
+    "Hinterbeine mit dichten Borsten, die als Ruder dienen.",
+    "Die Larve ist langgestreckt, 60 bis 80 mm lang, mit großem Kopf und kräftigen, sichelförmigen Kiefern."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Stehende Gewässer, Teiche und Gräben mit Pflanzen. Beute der Käfer sind Insektenlarven, Molchlarven, Kaulquappen und schwache Kleinfische.",
+   "zeit": "Die Weibchen legen im März und April Eier in Pflanzengewebe.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Nicht aus Gewässern fangen oder in andere Gewässer umsetzen. Teiche und Gräben mit Pflanzen und Flachwasser erhalten. Die Art hängt von Amphibienbeständen ab, weil die Larven viele Kaulquappen brauchen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "38d7e75a",
+    "47031d85",
+    "62d2ccfa",
+    "af04583e",
+    "d79ccb23",
+    "aa819bf5"
+   ],
+   "korrekturen": [
+    "aa819bf5: Der Eintrag nennt \"Schwimmkäfer\" allgemein. Die Luftblase unter den Flügeldecken ist für den Gelbrandkäfer belegt und wurde für ihn übernommen.",
+    "d79ccb23: Dass die Kiefer Kaulquappen \"seitlich am Körper\" packen, ist in der Quelle nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Gelbrandkäfer",
+     "https://de.wikipedia.org/wiki/Gelbrandk%C3%A4fer"
+    ],
+    [
+     "Wikipedia: Dytiscus marginalis",
+     "https://de.wikipedia.org/wiki/Dytiscus_marginalis"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "grosser-kolbenwasserkaefer",
+   "name": "Großer Kolbenwasserkäfer",
+   "latein": "Hydrophilus piceus",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Mit bis zu 5 cm Europas größter Wasserkäfer, mattschwarz mit olivbraunem Schimmer und verdickten Fühlern.",
+   "erkennen": [
+    "Bis zu 5 cm lang.",
+    "Mattschwarz mit olivbraunem Schimmer, verdickte Fühler.",
+    "Atmet mit dem Fühler: Er hält den Kopf an die Wasseroberfläche und leitet die Luft über eine Kopfrinne; an der Körperunterseite hält eine Behaarung ein Luftkissen.",
+    "Die Larve ist wurmähnlich mit kräftigen Kiefern und jagt Wasserschnecken."
+   ],
+   "verwechslung": "Von den Schwimmkäfern wie dem Gelbrandkäfer unterscheidet er sich durch die verdickten Fühler, die ihm als Schnorchel dienen, und die Ernährung.",
+   "lebensraum": "Stehende, pflanzenreiche Gewässer, besonders in wärmeren Regionen.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Nicht fangen. Pflanzenreiche, besonnte Stillgewässer erhalten.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1, Gattung Hydrophilus, alle heimischen Arten). in mehreren Bundesländern gefährdet oder stark gefährdet.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "ceb59e4f: Der Kolbenwasserkäfer holt Luft mit dem Fühler und trägt sie als Luftkissen an der Bauchseite; der Luftvorrat unter den Flügeldecken gilt für Schwimmkäfer wie den Gelbrandkäfer. Nicht übernommen.",
+    "Der Käfer ist erwachsen überwiegend Pflanzenfresser (faulende Wasserpflanzen); die Larven jagen Schnecken."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Großer Kolbenwasserkäfer",
+     "https://de.wikipedia.org/wiki/Gro%C3%9Fer_Kolbenwasserk%C3%A4fer"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "taumelkaefer",
+   "name": "Taumelkäfer",
+   "latein": "Gyrinidae",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Kleine glänzend schwarze Käfer, die in schnellen Kreisen auf der Wasseroberfläche schwimmen; die Augen sind geteilt.",
+   "erkennen": [
+    "3,5 bis 8 mm lang, länglich oval, glänzend schwarz.",
+    "Die Facettenaugen sind geteilt: Ein Teil sieht unter Wasser, ein Teil über der Oberfläche.",
+    "Vorderbeine lang zum Greifen, Hinterbeine flach wie Paddel."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Wasseroberfläche von Seen und langsam fließenden Gewässern. Die Larven leben im Bodenschlamm und atmen über Kiemenanhänge an jedem Hinterleibssegment.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Beobachten, nicht fangen. Ruhige, saubere Gewässer erhalten.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "9a7ddb30"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia: Taumelkäfer",
+     "https://de.wikipedia.org/wiki/Taumelk%C3%A4fer"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "schilfkaefer",
+   "name": "Schilfkäfer",
+   "latein": "Donacia",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Metallisch schimmernde, schlanke Käfer an Ufer- und Wasserpflanzen; die Larven leben unter Wasser.",
+   "erkennen": [
+    "Beim Wasserschwaden-Schilfkäfer (Donacia semicuprea) 5 bis 8 mm lang.",
+    "Glänzende Flügeldecken mit bläulichem, grünlichem oder kupferfarbenem Schimmer.",
+    "Sitzt im Sommer sichtbar an Stängeln der Uferpflanzen."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Uferzonen von Seen, Teichen, Altwässern und Wiesengräben. Die Larven fressen untergetaucht an Pflanzen und atmen mit Anhängen am Hinterleib, mit denen sie luftführendes Pflanzengewebe anstechen; sie verpuppen sich in luftgefüllten Kokons unter Wasser.",
+   "zeit": "Im Sommer an den Pflanzen sichtbar; die Jungkäfer schlüpfen im Herbst und bleiben bis zum Frühjahr im Kokon.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Pflanzenreiche Ufer und Gräben nicht vollständig abmähen oder räumen.",
+   "schutz": null,
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "0711e1fd: Die Larven fressen nach der Quelle untergetaucht an Wasserpflanzen, nicht verborgen im Mark über dem Wasser. Nicht übernommen.",
+    "cd78c2b7: Fensterfraß in Röhrichtblättern und der Sitz der Larven an Wurzeln sind in der Quelle nicht belegt. Nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Wasserschwaden-Schilfkäfer",
+     "https://de.wikipedia.org/wiki/Schilfk%C3%A4fer"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "erlenblattkaefer",
+   "name": "Blauer Erlenblattkäfer",
+   "latein": "Agelastica alni",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Kleiner, metallisch blauer Blattkäfer, dessen Larven Erlenblätter zu Fenstern abweiden.",
+   "erkennen": [
+    "6 bis 7 mm lang, gedrungen, blauschwarz, dunkelblau, blauviolett oder grünlich.",
+    "Fühler und Beine schwarz.",
+    "Junge Larven fressen nur eine Blattseite (Fensterfraß), ältere Larven lochen die Blätter."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Erlen an Gewässern und in Feuchtgebieten. Die Larven verpuppen sich 3 bis 5 cm tief im Boden; die neuen Käfer erscheinen im Juli.",
+   "zeit": "Eine Generation im Jahr; die neuen Käfer erscheinen im Juli.",
+   "spuren": "Skelettierte, durchlöcherte Erlenblätter, oft mit Larven und Käfern am selben Blatt.",
+   "regional": null,
+   "umgang": "Der Fraß ist natürlich; Erlen erholen sich in der Regel. Keine Bekämpfung nötig, nur bei Massenvermehrung kann ein Baum kahl gefressen werden.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "09ae4878",
+    "bc889c0c"
+   ],
+   "korrekturen": [
+    "ac7c112e: Runde Fenster werden nach der Quelle nur von jungen Larven gefressen; diese Angabe wurde nicht eigens übernommen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Blauer Erlenblattkäfer",
+     "https://de.wikipedia.org/wiki/Erlenblattk%C3%A4fer"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "gruener-sauerampferkaefer",
+   "name": "Grüner Sauerampferkäfer (Ampferblattkäfer)",
+   "latein": "Gastrophysa viridula",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Kleiner, metallisch grüner bis rötlicher Blattkäfer auf Ampfer; die Larven sind grau und warzig.",
+   "erkennen": [
+    "4 bis 7 mm lang, Weibchen größer.",
+    "Glatter Körper, metallisch schimmernd in Grün, Blau, Rot, Purpur oder Violett je nach Lichteinfall.",
+    "Larven gräulich bis dunkelgrau mit auffallend pockigem Körper."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Heiden, Waldränder und größere Gärten, überall wo Ampfer wächst.",
+   "zeit": "Die Käfer sind von April bis Oktober zu finden.",
+   "spuren": "Angefressene Ampferblätter; Käfer und dunkle Larven sitzen oft am selben Blatt.",
+   "regional": null,
+   "umgang": "Beobachten. Nur bei Massenvermehrung kann der Ampferfraß größeren Schaden machen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "80e2624e",
+    "f6c67b98"
+   ],
+   "korrekturen": [
+    "226761ba: Der Fensterfraß der Larven ist in der Quelle nicht belegt; nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Grüner Sauerampferkäfer",
+     "https://de.wikipedia.org/wiki/Gastrophysa_viridula"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "pappelblattkaefer",
+   "name": "Pappelblattkäfer",
+   "latein": "Chrysomela populi",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Rotorange Flügeldecken mit dunklen Spitzen, bronzegrüner Halsschild; Larven und Käfer fressen an Pappeln und Weiden.",
+   "erkennen": [
+    "10 bis 12 mm lang, stark gewölbt, oval.",
+    "Halsschild bronzegrün oder schwarz, Flügeldecken orange bis rot mit dunkler Spitze.",
+    "Larven weiß bis hellgrün mit vielen schwarzen Punkten und ausstülpbaren Fleischzapfen.",
+    "Bei Bedrohung gibt der Käfer ein nach Phenol riechendes Sekret ab."
+   ],
+   "verwechslung": null,
+   "lebensraum": "An Weiden und Pappeln, besonders Zitterpappel (Espe). Nadelbäume werden nie befressen.",
+   "zeit": "Mai bis August, zwei bis drei Generationen; Jungkäfer erscheinen bis September.",
+   "spuren": "Larven fressen erst an der Blattunterseite, später skelettieren sie das Blatt zwischen den Adern.",
+   "regional": null,
+   "umgang": "Keine Bekämpfung nötig; wenn überhaupt, schadet der Fraß nur jungen Pflanzen. Nicht anfassen, das Abwehrsekret riecht scharf.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "f0a42482"
+   ],
+   "korrekturen": [
+    "f0a42482: Dass die Larven \"vom Rand zur Mittelrippe\" fressen, ist in der Quelle nicht belegt; belegt sind Unterseitenfraß und Skelettierfraß."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Pappelblattkäfer",
+     "https://de.wikipedia.org/wiki/Pappelblattk%C3%A4fer"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "siebenpunkt-marienkaefer",
+   "name": "Siebenpunkt-Marienkäfer",
+   "latein": "Coccinella septempunctata",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Roter, rundlicher Marienkäfer mit sieben schwarzen Punkten; Larven und Käfer fressen Blattläuse.",
+   "erkennen": [
+    "5,2 bis 8 mm lang, stark gewölbt, rund.",
+    "Rote Flügeldecken mit je drei schwarzen Punkten und einem weiteren Punkt am Schildchen, daneben weiße Dreiecke.",
+    "Die Larve frisst im Lauf ihrer Entwicklung etwa 400 Blattläuse."
+   ],
+   "verwechslung": "Der Asiatische Marienkäfer ist in der Zeichnung variabler; die sieben Punkte sind beim Siebenpunkt-Marienkäfer festgelegt.",
+   "lebensraum": "Überall, wo Blattläuse sitzen: Wiesen, Hecken, Gärten.",
+   "zeit": "Vom Frühjahr bis in den späten Herbst aktiv; zwei Generationen im Jahr.",
+   "spuren": "Eier auf blattlausbesiedelten Pflanzen.",
+   "regional": null,
+   "umgang": "Als Blattlausfresser nützlich. Überwintert in Kolonien am Boden zwischen Moos, Gras und Laub; Laub und Staudenreste im Winter liegen lassen.",
+   "schutz": "Insekt des Jahres 2006 (Deutschland und Österreich).",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "2b7c747a: Die Quelle nennt als Überwinterungsort Kolonien am Boden zwischen Moos, Gras und Laub; in Gebäuden sterben die Tiere häufig an der trockenen Luft. Die Angabe \"überwintern in Fensterritzen\" ist deshalb für den Siebenpunkt nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Siebenpunkt-Marienkäfer",
+     "https://de.wikipedia.org/wiki/Siebenpunkt-Marienk%C3%A4fer"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "zweipunkt-marienkaefer",
+   "name": "Zweipunkt-Marienkäfer",
+   "latein": "Adalia bipunctata",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Kleiner Marienkäfer, der in Rot meist zwei schwarze Punkte trägt; es gibt auch fast schwarze Tiere mit roten Flecken.",
+   "erkennen": [
+    "3,5 bis 5,5 mm lang, oval, rund, schwarze Beine.",
+    "Rote Form: rote Flügeldecken mit meist zwei Punkten.",
+    "Schwarze Form: fast ganz schwarz mit roten Zeichnungen."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Gärten, Wälder und Hecken; sie sucht tagsüber Blattläuse und Blattflöhe.",
+   "zeit": "Am aktivsten in der warmen Jahreszeit; im Herbst suchen die Tiere Quartier, auch in Häusern.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Wer einen Marienkäfer im Winter in der warmen Wohnung findet, kann ihn an einen kalten Ort wie den Dachboden bringen; Frost schadet ihm nicht, Wärme im Winter tötet ihn.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "c7aac921"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia: Zweipunkt-Marienkäfer",
+     "https://de.wikipedia.org/wiki/Zweipunkt-Marienk%C3%A4fer"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "gebaenderter-pinselkaefer",
+   "name": "Gebänderter Pinselkäfer",
+   "latein": "Trichius fasciatus",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Wollig gelb behaarter Blütenkäfer mit dunklen Querbinden, der wie eine kleine Hummel aussieht.",
+   "erkennen": [
+    "9 bis 12 mm lang.",
+    "Gelblich-orange Flügeldecken mit dunklen Querstreifen oder Flecken, Oberseite lang gelb und weiß wollig behaart.",
+    "Die Behaarung ahmt eine Hummel nach und schützt vor Fressfeinden."
+   ],
+   "verwechslung": "Hummeln haben vier häutige Flügel; der Pinselkäfer trägt harte Flügeldecken, unter denen die Hinterflügel liegen.",
+   "lebensraum": "Waldwiesen, Waldränder und Lichtungen, vor allem im Bergland, aber auch in Gärten mit Laubbäumen. Die Larven leben zwei Jahre in morschem Holz von Laubbäumen, vor allem Buche und Birke.",
+   "zeit": "Juni und Juli, manchmal bis in den Spätsommer.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Totholz und morsche Laubholzstücke im Garten bieten den Larven Raum. Die Käfer fressen Pollen auf Doldenblüten, Rosen, Disteln und Brombeere.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "405e6fe8",
+    "ab424cd1"
+   ],
+   "korrekturen": [
+    "405e6fe8: \"Der Flug ist käfrig hart\" ist keine belegte Angabe; nicht übernommen.",
+    "NABU Selfkant nennt die Art im Flachland als seltenen Gast; sie kommt vor allem im Bergland vor."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Gebänderter Pinselkäfer",
+     "https://de.wikipedia.org/wiki/Trichius_fasciatus"
+    ],
+    [
+     "Naturspektrum: Pinselkäfer",
+     "https://naturspektrum.de/db/m_spezies.php?art=trichius_zonatus"
+    ],
+    [
+     "NABU Selfkant: Pinselkäfer",
+     "https://www.nabu-selfkant.de/2012/06/24/pinselkafer-trichius-fasciatus-ein-seltener-gast-im-flachland/"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "feuerkaefer",
+   "name": "Feuerkäfer",
+   "latein": "Pyrochroidae",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Flache, leuchtend rote Käfer; die Larven leben flach unter loser Rinde.",
+   "erkennen": [
+    "3 bis 20 mm lang, flacher, länglicher, aber breiter Körper, meist leuchtend rot.",
+    "Fühler elfgliedrig, beim Männchen ab dem dritten Glied gekämmt, beim Weibchen gesägt.",
+    "Larven stark abgeflacht, unter Rinde."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Laubwälder und Waldränder, auf Blüten und Totholz. Die Larven entwickeln sich zwei bis drei Jahre unter Rinde.",
+   "zeit": "In Mitteleuropa fliegen die Käfer im Mai und Juni.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Totholz mit Rinde liegen lassen; dort leben die Larven.",
+   "schutz": null,
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "b8500fae: \"Im Totholz jagen sie andere Insektenlarven\" trifft laut Quelle nur eingeschränkt zu; die meisten Larven fressen Pilze. Die Quelle nennt auch, dass sie Borkenkäferlarven verzehren. Nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Feuerkäfer",
+     "https://de.wikipedia.org/wiki/Feuerk%C3%A4fer"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "grosser-leuchtkaefer",
+   "name": "Großer Leuchtkäfer (Glühwürmchen)",
+   "latein": "Lampyris noctiluca",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Die flügellosen Weibchen leuchten am Boden, um fliegende Männchen anzulocken; die Larven fressen Schnecken.",
+   "erkennen": [
+    "Männchen 10 bis 12 mm, bräunlich, geflügelt, mit großem, gerundetem Halsschild und großen Augen.",
+    "Weibchen 15 bis 20 mm, flügellos, wurmähnlich, ähnlich wie die Larve.",
+    "Das Leuchtorgan des Weibchens ist ein auffälliger weißlicher Fleck an der Unterseite der Hinterleibsspitze; das Licht ist gleichmäßig, nicht blinkend."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Wiesen, Waldränder, Gärten und Parks. Die Larven jagen räuberisch Nackt- und Gehäuseschnecken und brauchen etwa 2 bis 3 Jahre.",
+   "zeit": "Die Käfer erscheinen von Mai bis Juli; zu sehen sind sie von Juni bis September, vor allem abends.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Sie lassen sich fördern durch naturnahe Gärten mit Laubgehölzen, Komposthaufen und Wasser. Rückgang durch Pestizide, Schneckenbekämpfung und Lichtverschmutzung: Gartenbeleuchtung nachts ausschalten, keine Schneckenkörner. Die erwachsenen Käfer fressen nicht mehr.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "93deafae",
+    "d88b05a8"
+   ],
+   "korrekturen": [
+    "d88b05a8: \"Leuchten im Wiesenfilz\" ist nicht eigens belegt; die Weibchen leuchten am Boden. Die Männchen tragen nur kleine Leuchtpunkte."
+   ],
+   "quellen": [
+    [
+     "NABU Insektentrainer: Großer Leuchtkäfer",
+     "https://insektentrainer.nabu.de/insekt/grosser-leuchtkaefer/"
+    ],
+    [
+     "Wikipedia: Großer Leuchtkäfer",
+     "https://de.wikipedia.org/wiki/Gro%C3%9Fer_Leuchtk%C3%A4fer"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "gruener-scheinbockkaefer",
+   "name": "Grüner Scheinbockkäfer",
+   "latein": "Oedemera nobilis",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Schlanker, metallisch grüner Blütenkäfer; nur die Männchen haben stark verdickte Hinterschenkel.",
+   "erkennen": [
+    "Etwa 10 mm lang (8 bis 15 mm), glänzend grün, je nach Licht metallisch.",
+    "Männchen mit stark verdickten Hinterschenkeln, Weibchen ohne.",
+    "Fliegt trotz der verdickten Schenkel gut."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Blüten in Wiesen, Hecken, Gärten und an Waldrändern. Die Larven leben in Pflanzenstängeln, totem Pflanzenmaterial und morschem Holz.",
+   "zeit": "Tagaktiv; die Käfer fressen Pollen und gelegentlich Nektar. Jungkäfer überwintern im Boden und erscheinen im Frühjahr.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Alte, hohle Pflanzenstängel über den Winter stehen lassen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "d84cefe8"
+   ],
+   "korrekturen": [
+    "d84cefe8: Verdickte Hinterschenkel haben nur die Männchen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Grüner Scheinbockkäfer",
+     "https://de.wikipedia.org/wiki/Gr%C3%BCner_Scheinbockk%C3%A4fer"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "hornisse",
+   "name": "Hornisse",
+   "latein": "Vespa crabro",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Größte heimische Faltenwespe, rotbraun und gelb, deutlich weniger reizbar als Gemeine und Deutsche Wespe; besonders geschützt.",
+   "erkennen": [
+    "Arbeiterinnen 18 bis 25 mm, Königinnen bis etwa 35 mm lang.",
+    "Kopf gelbbraun, Brust braun mit rötlichen Schultern, Hinterleib schwarz-gelb gebändert; Hinterleib am Anfang rot.",
+    "Papiernest aus zernagtem Holz und Speichel, in dunklen Hohlräumen, bis etwa 60 cm groß.",
+    "Fliegt auch abends und wird von Licht angelockt."
+   ],
+   "verwechslung": "Die Hornissenschwebfliege sieht ähnlich aus, ist aber eine harmlose Fliege mit nur einem Flügelpaar. Gemeine und Deutsche Wespe sind deutlich kleiner.",
+   "lebensraum": "Lichte Wälder, Gärten, Parks. Das Nest liegt in Baumhöhlen, Spechthöhlen oder Verschalungen und Rollladenkästen, auch auf Dachböden und in Schuppen. Das Volk zieht im nächsten Jahr um; das alte Nest wird nicht wieder besiedelt.",
+   "zeit": "Königinnen erwachen Ende April bis Anfang Mai; Nester entstehen ab Mitte Mai, die Völker sind im Sommer am größten.",
+   "spuren": "Helle Schabespuren an Ästen von Esche und Flieder, aus denen die Tiere Baumsaft trinken; Papierfasern an morschem Holz.",
+   "regional": null,
+   "umgang": "Nest nie selbst entfernen und den Einflugbereich nicht verstellen; mindestens 2 m Abstand halten und Erschütterungen am Nest vermeiden. Fliegengitter helfen gegen Besuch im Haus; bei einer Hornisse im Zimmer ein Fenster öffnen, kein Insektenspray. Das Entfernen oder Umsiedeln eines Nests braucht eine Genehmigung der Unteren Naturschutzbehörde; Hornissenberater oder die Naturschutzbehörde helfen weiter.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1, Spalte 2 „besonders geschützt“, nicht streng geschützt). Verboten sind das Fangen, Verletzen und Töten sowie die Zerstörung der Nester (Umweltbundesamt).",
+   "naturdeck_ids": [
+    "100ede4b",
+    "d5a93db8",
+    "f7bb15fb"
+   ],
+   "korrekturen": [
+    "f309ec9f: Dass Hornissen die Rinde junger Eschen im Spätsommer wiederholt anschaben, ist nicht belegt; die Quellen nennen Esche, Flieder und Eiche und die Jungkönigin im Frühjahr als Rindennutzer.",
+    "Die Behauptung \"sieben Stiche töten ein Pferd\" ist falsch; Hornissen stechen fast nur in Nestnähe, wenn sie gestört werden."
+   ],
+   "quellen": [
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ],
+    [
+     "Umweltbundesamt: Wespen und Hornissen",
+     "https://www.umweltbundesamt.de/hornisse"
+    ],
+    [
+     "NABU Insektentrainer: Hornisse",
+     "https://insektentrainer.nabu.de/insekt/hornisse/"
+    ],
+    [
+     "Wikipedia: Hornisse",
+     "https://de.wikipedia.org/wiki/Hornisse"
+    ]
+   ]
+  },
+  {
+   "slug": "hornissenschwebfliege",
+   "name": "Hornissenschwebfliege",
+   "latein": "Volucella zonaria",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Größte Schwebfliege Mitteleuropas mit Hornissenzeichnung; eine harmlose Fliege.",
+   "erkennen": [
+    "16 bis 22 mm lang, gelbes Gesicht, rotbraune Augen.",
+    "Hinterleib mit zwei breiten schwarzen Binden, hornissenähnlich.",
+    "Eine Fliege: nur ein Flügelpaar, sie schwebt wie eine Hummel."
+   ],
+   "verwechslung": "Von der Hornisse unterscheidet sie sich durch ein Flügelpaar statt zwei und die kurzen Fühler.",
+   "lebensraum": "Blüten wie Baldrian, Dost und Skabiose. Die Larven leben in Nestern von Wespen, Hornissen oder Hummeln und fressen tote Insekten und Reste.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Nicht mit der Hornisse verwechseln, sie sticht nicht. Beobachten.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "6652b896",
+    "93fac3df"
+   ],
+   "korrekturen": [
+    "Die Rote-Liste-Einstufung in Deutschland ist in den Quellen widersprüchlich; keine verlässliche Angabe."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Hornissenschwebfliege",
+     "https://de.wikipedia.org/wiki/Hornissenschwebfliege"
+    ]
+   ]
+  },
+  {
+   "slug": "rote-waldameise",
+   "name": "Rote Waldameise",
+   "latein": "Formica rufa",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Rötliche Waldameise, die große Nadelhügel an sonnigen Waldrändern baut; besonders geschützt.",
+   "erkennen": [
+    "Arbeiterinnen 4,5 bis 9 mm; Kopf und Vorderkörper rötlich, Kopfoberseite, Hinterleib und der größte Teil der Beine schwarzbraun.",
+    "Nest bis 1,5 m hoher Haufen, oben mit Nadeln und kleinen Zweigstücken bedeckt, darunter Erde; er reicht bis etwa 2 m tief in den Boden.",
+    "Ein Haufen kann 100.000 bis 1.000.000 Ameisen beherbergen.",
+    "Bei Bedrohung spritzen die Tiere Ameisensäure."
+   ],
+   "verwechslung": "Die Kahlrückige Waldameise (Formica polyctena) sieht sehr ähnlich aus; sie ist nur an Borsten zu unterscheiden. Beide stehen unter Schutz.",
+   "lebensraum": "Windgeschützte, sonnige Waldränder und Lichtungen, Laub- und Nadelwald.",
+   "zeit": null,
+   "spuren": "Ameisenstraßen und Haufen aus Nadeln. Waldameisen tragen auch Nadelharz ins Nest.",
+   "regional": null,
+   "umgang": "Haufen nicht betreten, aufgraben oder verändern und Ameisen nicht fangen; bei Bauarbeiten oder Holzarbeiten die Ameisenschutzwarte oder die Naturschutzbehörde fragen. Eine Umsiedlung ist nur mit Genehmigung zulässig. Beim Menschen entstehen durch die Ameisensäure Pusteln oder Quaddeln, also Abstand halten.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1, Spalte 2 „besonders geschützt“). Dort stehen auch die Kahlrückige Waldameise (Formica polyctena) und weitere Waldameisen der Gattung Formica. Verboten sind Entnahme, Tötung und Zerstörung von Nest und Brut ohne Genehmigung (NABU).",
+   "naturdeck_ids": [
+    "fdd7ac2e"
+   ],
+   "korrekturen": [
+    "2d628635, 515a02a5, be84c3f8, d3d06a04: Harz im Nest ist für Waldameisen belegt (Studien an Formica paralugubris; Harz wirkt antimikrobiell und festigt den Bau). Dass der Duft Pilze hemme oder das Nest trocken halte, ist so nicht belegt; ebenso der Harzgeruch am Hügel. Nicht übernommen.",
+    "fdd7ac2e: \"feste Straßen\" zum Nest wurde nicht eigens geprüft; die Aussage zum Nadelhügel ist belegt."
+   ],
+   "quellen": [
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ],
+    [
+     "NABU Insektentrainer: Rote Waldameise",
+     "https://insektentrainer.nabu.de/insekt/rote-waldameise/"
+    ],
+    [
+     "NABU: Das Jahr der Waldameisen",
+     "https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/hautfluegler/ameisen/06607.html"
+    ],
+    [
+     "wissenschaft.de: Ameisen halten sich mit Harz gesund",
+     "https://www.wissenschaft.de/erde-umwelt/ameisen-halten-sich-mit-harz-gesund/"
+    ],
+    [
+     "Wikipedia: Rote Waldameise",
+     "https://de.wikipedia.org/wiki/Rote_Waldameise"
+    ]
+   ]
+  },
+  {
+   "slug": "schwarze-wegameise",
+   "name": "Schwarze Wegameise",
+   "latein": "Lasius niger",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Kleine dunkle Gartenameise, die Blattläuse wegen des Honigtaus hält und Nester unter Steinen und im Rasen anlegt.",
+   "erkennen": [
+    "Arbeiterinnen 3 bis 5 mm, dunkelbraun bis schwarz mit silbrigen Härchen; Königinnen 8 bis 9 mm.",
+    "Baut flache Erdhügel um Grashalme und versteckt sich unter Steinen, Rinde und im Rasen."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Gärten, Siedlungen und Waldränder, nicht an sehr trockenen Orten.",
+   "zeit": "Von März bis Oktober aktiv; die Hochzeitsflüge finden an warmen Hochsommertagen statt.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Die Tiere sind harmlos; nicht bekämpfen. Sie nützen als Insektenfresser und halten Blattläuse und Schildläuse wegen des Honigtaus.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "8acb0a3b"
+   ],
+   "korrekturen": [
+    "cfc2a39f: Dass Honigtau später die Blätter schwärzt, ist in der Quelle nicht belegt; nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Schwarze Wegameise",
+     "https://de.wikipedia.org/wiki/Schwarze_Wegameise"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "gelbe-wiesenameise",
+   "name": "Gelbe Wiesenameise",
+   "latein": "Lasius flavus",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Blassgelbe, selten oberirdisch zu sehende Ameise, deren Erdnester in Wiesen grasbewachsene Hügel bilden.",
+   "erkennen": [
+    "Arbeiterinnen 2 bis 4,5 mm, blassgelb bis bräunlich-gelb; Königinnen 7 bis 9 mm, Männchen 3 bis 4 mm, die Geschlechtstiere sind dunkler.",
+    "Nester im Boden, oft unter Steinen, mit ausgedehnten Erdhügeln.",
+    "Nur wenige Nesteingänge, weil die Tiere kaum an die Oberfläche kommen."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Gärten mit größeren Rasenflächen, Wiesen und Waldränder, bevorzugt feuchte Stellen.",
+   "zeit": "Hochzeitsflug an warmen Hochsommertagen.",
+   "spuren": "Grasbewachsene Erdhügel in der Wiese.",
+   "regional": null,
+   "umgang": "Die Hügel müssen nicht eingeebnet werden. Die Tiere leben fast nur vom Honigtau der Wurzelläuse in ihrem Nest.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "9e459749"
+   ],
+   "korrekturen": [
+    "9e459749: Dass die Hügel Thymian tragen, ist in der Quelle nicht belegt; belegt sind Hügel, die mit Gras bewachsen sind."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Gelbe Wiesenameise",
+     "https://de.wikipedia.org/wiki/Gelbe_Wiesenameise"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "bienenwolf",
+   "name": "Bienenwolf",
+   "latein": "Philanthus triangulum",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Schwarzgelbe Grabwespe mit großem Kopf, die Honigbienen jagt und in sandigen Boden nistet.",
+   "erkennen": [
+    "Weibchen 13 bis 18 mm, Männchen 8 bis 10 mm, schwarzgelb.",
+    "Großer Kopf und im mittleren Teil verdickte Fühler.",
+    "Das Weibchen betäubt Honigbienen mit einem Stich und trägt sie als Larvennahrung zum Nest."
+   ],
+   "verwechslung": "Mit Wespen oder Honigbienen leicht zu verwechseln; der große Kopf und die Beute im Flug verraten ihn.",
+   "lebensraum": "Warme, trockene Heiden und Magerrasen, auch als Kulturfolger in Siedlungen. Die Weibchen graben bis zu 1 m lange Röhren in sandigen Boden mit mehreren Brutkammern.",
+   "zeit": "Ab Mitte Juni aktiv.",
+   "spuren": "Sandaushub vor dem Eingang einer Röhre in sandigem Boden.",
+   "regional": null,
+   "umgang": "Nester in Sandflächen und Wegrändern nicht zerstören oder zutreten. Er ist für Menschen nicht aggressiv.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "9f3024e8"
+   ],
+   "korrekturen": [
+    "9f3024e8: \"Ohne Ameisenstraße\" ist keine belegte Angabe; die Aussage zu sandigen Wegkanten stimmt mit der Quelle überein."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Bienenwolf",
+     "https://de.wikipedia.org/wiki/Philanthus_triangulum"
+    ]
+   ]
+  },
+  {
+   "slug": "dunkle-erdhummel",
+   "name": "Dunkle Erdhummel",
+   "latein": "Bombus terrestris",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Dunkle Hummel mit zwei gelben Binden und weißem Hinterleibsende, die früh im Jahr fliegt und unterirdisch nistet.",
+   "erkennen": [
+    "Schwarz mit zwei gelben Querbinden und weißem Hinterleibsende.",
+    "Königinnen 20 bis 30 mm, Arbeiterinnen 11 bis 17 mm.",
+    "Von der Hellen Erdhummel im Gelände kaum zu unterscheiden."
+   ],
+   "verwechslung": "Die Helle Erdhummel hat ein ähnliches Muster und ist im Gelände nur von Fachleuten sicher zu unterscheiden.",
+   "lebensraum": "Nester unterirdisch, meist in verlassenen Maus- oder Maulwurfsbauten oder unter Steinen, bis etwa 1,5 m tief.",
+   "zeit": "Die Königinnen sind schon im Februar und März bei der Nestsuche zu sehen.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Nester nicht stören. Früh blühende Weiden, Obst und Wildblumen helfen den Königinnen im Frühjahr. Alle Hummeln sind geschützt.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1: Bienen und Hummeln, alle heimischen Arten).",
+   "naturdeck_ids": [
+    "a891d201"
+   ],
+   "korrekturen": [
+    "b6eda20a: Der Vergleich mit Gartenhummeln ist nicht belegt; die Dunkle Erdhummel wird in der Quelle mit der Hellen Erdhummel verglichen. Nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Dunkle Erdhummel",
+     "https://de.wikipedia.org/wiki/Dunkle_Erdhummel"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "ackerhummel",
+   "name": "Ackerhummel",
+   "latein": "Bombus pascuorum",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Häufige Hummel mit gelblich-rötlichbrauner Brust und rostrotem Hinterleibsende; baut oft in alten Mausnestern.",
+   "erkennen": [
+    "Arbeiterinnen 9 bis 15 mm.",
+    "Brust gelblich bis rötlichbraun, Hinterleib mit dunklen und hellen Haarbinden, am Ende rotbraun."
+   ],
+   "verwechslung": "Von der Dunklen Erdhummel unterscheidet sie die orange bis rotbraune Hinterleibsspitze statt eines weißen Endes.",
+   "lebensraum": "Wiesen, Gärten, Waldränder und Parks. Nester in Hohlräumen, oft in verlassenen Mäusebauen, aus Moos und Gras; Völker mit 60 bis 150 Tieren.",
+   "zeit": "Königinnen ab April bis Mitte Mai, Arbeiterinnen von Ende April bis Oktober.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Nicht stören. Klee, Disteln, Flockenblumen und Obstgehölze bieten Nahrung. Nur junge Königinnen überwintern.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1: Bienen und Hummeln, alle heimischen Arten).",
+   "naturdeck_ids": [
+    "f7709eda"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia: Ackerhummel",
+     "https://de.wikipedia.org/wiki/Ackerhummel"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeine-eichengallwespe",
+   "name": "Gemeine Eichengallwespe",
+   "latein": "Cynips quercusfolii",
+   "gruppe": "Käfer, Ameisen, Hummeln und Wespen",
+   "kurz": "Winzige Gallwespe, deren Larve in einem kugeligen Gallapfel an der Blattunterseite von Eichen heranwächst.",
+   "erkennen": [
+    "Galle 10 bis 22 mm groß, kugelig, zuerst grün, später rot, an den Blattadern der Unterseite.",
+    "In der Galle eine einzige Larvenkammer von 3 bis 4 mm.",
+    "Das Innere der noch fleischigen Galle verfärbt sich an der Luft blauschwarz."
+   ],
+   "verwechslung": "Die Eichenlinsengallwespe bildet kleine, flache Linsengallen, oft in großer Zahl an einem Blatt.",
+   "lebensraum": "Eichen. Die Art wechselt zwischen einer zweigeschlechtlichen und einer eingeschlechtlichen Generation.",
+   "zeit": "Reife Gallen fallen im Herbst zu Boden.",
+   "spuren": "Gallen an Eichenblättern, später am Boden.",
+   "regional": null,
+   "umgang": "Die Galle schadet dem Baum nicht wesentlich; nicht entfernen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "38b56b96"
+   ],
+   "korrekturen": [
+    "b4d0c57b: Linsengallen sind hellbraun bis gelblichweiß mit einzelnen roten Härchen, nicht durchgehend rot. Die Aussage \"jede Kammer enthält nur eine Larve\" stimmt. Wegen der Farbangabe nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Gemeine Eichengallwespe",
+     "https://de.wikipedia.org/wiki/Gemeine_Eichengallwespe"
+    ],
+    [
+     "Wikipedia: Eichenlinsengallwespe",
+     "https://de.wikipedia.org/wiki/Eichenlinsengallwespe"
+    ],
+    [
+     "Bundesartenschutzverordnung, Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  }
+ ],
+ "nicht_aufgenommen": [
+  [
+   "Hufeisenkäfer (5085b5df)",
+   "Als deutscher Käfername nicht eindeutig; keine Art zuzuordnen und nicht belegt."
+  ],
+  [
+   "Kiefernprachtkäfer (5e6349aa)",
+   "Name nicht eindeutig: Blauer Kiefern-Prachtkäfer (Phaenops cyanea) ist von der Prachtkäfer-Regelung der Bundesartenschutzverordnung ausgenommen, der Marmorierte Kiefernprachtkäfer (Chalcophora mariana) nicht. Ohne Art keine belastbare Aussage."
+  ],
+  [
+   "Wespenspinne (03d183b9, 11444c08, 2a512d2a, 41780291, d3cecc9e)",
+   "Spinne, gehört nicht zu Käfern oder Hautflüglern."
+  ],
+  [
+   "Wespenbussard (135e1b5e, 187463e4, 42f35f93, 7074dd5d, ad20de7c, b035528e)",
+   "Vogel, anderes Paket."
+  ],
+  [
+   "Ameisenlöwe (1f9b77b4, 2375b9be, 7ce0909d, c0024051, eb40ed98)",
+   "Netzflügler, keine Ameise und kein Käfer."
+  ],
+  [
+   "Dunkler Wiesenknopf-Ameisenbläuling (2c6460ab)",
+   "Schmetterling."
+  ],
+  [
+   "Neuntöter, Grünspecht, Wendehals, Waldkauz (0d9e072e, 3af176dc, 4cce84b1, 544dc3f6, ab84a981, 2dad3f02, 61466d8b, 3f2b5b36, 92eb4895, 4f18cb97)",
+   "Vögel, nur Nahrung genannt."
+  ],
+  [
+   "Dachs, Igel, Baum- und Steinmarder (0853d65d, 2e54414a, c6026b83, 2405cbc0, 2bcfbdb0, b64d21bb, f39de1d7)",
+   "Säugetiere; Käferreste nur als Losungsinhalt."
+  ],
+  [
+   "Fransenfledermaus (79e98df9, 84b18a3f)",
+   "Säugetier, anderes Paket."
+  ],
+  [
+   "Veränderliche Krabbenspinne (63538bcc)",
+   "Spinne."
+  ],
+  [
+   "Efeu und Schwebfliegen (db426feb)",
+   "Pflanzenfakt; keine Käfer- oder Hautflüglerart."
+  ],
+  [
+   "Gelber Gilbweiderich und Schenkelbienen (f82671ee)",
+   "Pflanzenfakt; Schenkelbienen nicht eigens im Paket und nicht belegt."
+  ],
+  [
+   "Salweide und Hummelköniginnen (3fdc4928), Blutweiderich und Hummeln (fad78076)",
+   "Pflanzenfakten, keine eigene Art; nicht belegt."
+  ],
+  [
+   "Eichenstubben mit Mulm (e9bc81e4)",
+   "Allgemeiner Habitatfakt ohne Art; nicht belegt (siehe Hirschkäfer)."
+  ],
+  [
+   "Eichenlinsengallwespe (Neuroterus quercusbaccarum)",
+   "Nur in der Gemeinen Eichengallwespe als Verwechslungsart erwähnt, kein eigener Steckbrief."
+  ]
+ ]
+}

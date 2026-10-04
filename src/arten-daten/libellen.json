@@ -1,0 +1,966 @@
+{
+ "paket": "libellen",
+ "arten": [
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit der Blauflügel-Prachtlibelle. Deren Männchen haben fast den ganzen Flügel blau, bei der Gebänderten Prachtlibelle bleiben Spitze und Ansatz klar.",
+   "zeit": "Etwa Mitte Mai bis Anfang September, am häufigsten von Mitte Juni bis Anfang August.",
+   "spuren": null,
+   "regional": "Der NABU Mecklenburg-Vorpommern nennt sie als Art, die man etwa bei einer Paddeltour auf der Warnow sieht.",
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt. Rote Liste der Libellen Deutschlands (Ott et al. 2015, Stand 2012): nicht gefährdet. Rückgänge an einzelnen Gewässern gehen auf Begradigung, Uferverbau und Nährstoffeinträge zurück.",
+   "korrekturen": [
+    "Die Naturdeck-Fakten nennen als Lebensraum meist nur Gräben. Die Art besiedelt vor allem langsam fließende Bäche, kleine Flüsse und Kanäle."
+   ],
+   "slug": "gebaenderte-prachtlibelle",
+   "name": "Gebänderte Prachtlibelle",
+   "latein": "Calopteryx splendens",
+   "kurz": "Die Männchen schillern blaugrün und tragen eine breite dunkelblaue Binde im Flügel.",
+   "erkennen": [
+    "Männchen: Körper metallisch blaugrün, Flügel mit breiter blauer Binde, Spitze und Ansatz durchsichtig",
+    "Weibchen: metallisch grün bis bronzefarben, grünlich getönte Flügel ohne Binde, mit weißem Flügelmal",
+    "Körperlänge etwa 5 cm, Spannweite 6,5 bis 7 cm",
+    "Männchen verteidigen ihr Revier gern von einer erhöhten Sitzwarte aus"
+   ],
+   "lebensraum": "Langsam fließende Bäche, kleinere Flüsse und krautreiche Kanäle mit Besonnung und viel Ufervegetation.",
+   "umgang": "Die Tiere nicht fangen und Ufer nicht abräumen. Sie brauchen besonnte, naturnahe Bäche und Gräben mit Pflanzen am Ufer und sauberem Wasser.",
+   "naturdeck_ids": [
+    "10e657fa",
+    "1b5f8638",
+    "34b63f2b",
+    "a5ab636a",
+    "fe082110"
+   ],
+   "quellen": [
+    [
+     "NABU M-V: Die Gebänderte Prachtlibelle",
+     "https://mecklenburg-vorpommern.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/libellen/11026.html"
+    ],
+    [
+     "NABU Insektentrainer: Gebänderte Prachtlibelle",
+     "https://insektentrainer.nabu.de/insekt/gebaenderte-prachtlibelle/"
+    ],
+    [
+     "Wikipedia (de): Gebänderte Prachtlibelle",
+     "https://de.wikipedia.org/wiki/Geb%C3%A4nderte_Prachtlibelle"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit der Gebänderten Prachtlibelle, bei der das Blau nur als Binde in der Flügelmitte sitzt.",
+   "zeit": "Von Ende April bis Ende September, Hauptschlupf Ende Mai bis Ende Juni.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt. Rote Liste Deutschland 2015: nicht mehr in der Roten Liste geführt.",
+   "korrekturen": [
+    "Die Naturdeck-Fakten sprechen von klaren Gräben. Die Art lebt an kühlen, strömenden Bächen, nicht an stehenden Gräben."
+   ],
+   "slug": "blaufluegel-prachtlibelle",
+   "name": "Blauflügel-Prachtlibelle",
+   "latein": "Calopteryx virgo",
+   "kurz": "Beim Männchen ist der ganze Flügel metallisch blau bis blaugrün, die Weibchen sind bräunlich.",
+   "erkennen": [
+    "Männchen: Flügel fast bis zur Spitze blau oder blaugrün schillernd",
+    "Unterseite der letzten Hinterleibssegmente beim Männchen leuchtend rot",
+    "Weibchen: bräunlich bis kupfern getönte, durchscheinende Flügel, Körper metallisch grün",
+    "Spannweite 6 bis 7 cm"
+   ],
+   "lebensraum": "Kleine bis mittelgroße, kühlere Bäche mit mäßiger bis schneller Strömung, auch innerhalb von Wäldern.",
+   "umgang": "Die Tiere nicht fangen. Sie brauchen saubere, naturnahe Bäche mit Ufergehölzen und Wasserpflanzen für die Eiablage.",
+   "naturdeck_ids": [
+    "37602bde",
+    "9785562e",
+    "ffb4665d"
+   ],
+   "quellen": [
+    [
+     "BUND Naturschutz: Blauflügel-Prachtlibelle",
+     "https://www.bund-naturschutz.de/tiere-in-bayern/libellen/steckbriefe/blaufluegel-prachtlibelle"
+    ],
+    [
+     "NABU Insektentrainer: Gebänderte Prachtlibelle (Vergleich)",
+     "https://insektentrainer.nabu.de/insekt/gebaenderte-prachtlibelle/"
+    ],
+    [
+     "Wikipedia (de): Blauflügel-Prachtlibelle",
+     "https://de.wikipedia.org/wiki/Blaufl%C3%BCgel-Prachtlibelle"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": null,
+   "zeit": "Schlupf ab Anfang Juli, Flugzeit bis in den September oder Oktober.",
+   "spuren": "Narben in der Rinde junger Zweige über dem Wasser, in die die Eier gestochen wurden.",
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt.",
+   "korrekturen": [
+    "Eiablage nicht nur in Weiden: Die Quelle nennt Rinde von Weichhölzern allgemein, also auch Erle und Pappel."
+   ],
+   "slug": "weidenjungfer",
+   "name": "Gemeine Weidenjungfer",
+   "latein": "Chalcolestes viridis",
+   "kurz": "Metallgrüne Kleinlibelle, deren Weibchen die Eier in die Rinde von Zweigen über dem Wasser stechen.",
+   "erkennen": [
+    "Körper metallgrün, später kupfern bis bronzefarben",
+    "Nach vorn gerichteter Zipfel in der seitlichen Brustzeichnung",
+    "Körperlänge 40 bis 50 mm, Spannweite 50 bis 60 mm"
+   ],
+   "lebensraum": "Stehende und langsam fließende Gewässer mit Weichhölzern wie Weiden, Erlen oder Pappeln am Ufer.",
+   "umgang": "Ufergehölze mit jungen Zweigen über dem Wasser stehen lassen, sie werden zur Eiablage gebraucht.",
+   "naturdeck_ids": [
+    "fa39d300"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeine Weidenjungfer",
+     "https://de.wikipedia.org/wiki/Gemeine_Weidenjungfer"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit der Sibirischen Winterlibelle, die sich am Brustband unterscheidet. Eine sichere Bestimmung erfordert Fachwissen.",
+   "zeit": "Erwachsene Tiere überwintern. Die Fortpflanzung liegt im April bis Juni, neu geschlüpfte Tiere fliegen bis in den Herbst. An sonnigen Wintertagen werden sie zeitweise aktiv.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt. Früher in der Roten Liste Deutschlands als gefährdet geführt, heute nicht mehr gefährdet.",
+   "korrekturen": [
+    "2e1f8270: Aussage zu Flügelmalen weit zur Spitze nicht belegt, nicht übernommen. Dass die Tiere im Altgras oder Schilf sitzen, ist von den Quellen nicht ausdrücklich gedeckt, belegt ist nur das Überwintern als erwachsenes Tier."
+   ],
+   "slug": "gemeine-winterlibelle",
+   "name": "Gemeine Winterlibelle",
+   "latein": "Sympecma fusca",
+   "kurz": "Beige bis braune Kleinlibelle, die als erwachsenes Tier überwintert und die Flügel in Ruhe anlegt.",
+   "erkennen": [
+    "Färbung beige bis braun mit Kupferglanz",
+    "Flügel in Ruhe längs über dem Körper zusammengelegt, ungewöhnlich für Kleinlibellen",
+    "Unterer Rand des oberen Brustbandes gerade, das trennt sie von der seltenen Sibirischen Winterlibelle",
+    "Sitzt gut getarnt und regungslos"
+   ],
+   "lebensraum": "Flache stehende Gewässer bis etwa 1 m Tiefe mit Seggen, Schilf und lockerer Vegetation.",
+   "umgang": "Gewässerränder mit Schilf und Seggen erhalten, sie dienen der Art als Lebensraum.",
+   "naturdeck_ids": [
+    "255d7d30",
+    "4de6c66f",
+    "80b7fcfb",
+    "bf8469b1",
+    "da4ce999"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeine Winterlibelle",
+     "https://de.wikipedia.org/wiki/Gemeine_Winterlibelle"
+    ],
+    [
+     "Rote Liste Libellen Deutschlands (Ott et al. 2015), Tabelle LibellenWissen",
+     "https://www.libellenwissen.de/wp-content/uploads/Rote_Liste_1998_und_2015_Entwicklung_LibellenWissen_de.pdf"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": null,
+   "zeit": "Mai bis Oktober, am häufigsten im August.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt. Libelle des Jahres 2016 wegen sichtbarer Bestandsrückgänge.",
+   "korrekturen": [
+    "8d7cade6 und die Angabe zu schräg sitzenden Tieren mit halb gespreizten Flügeln: in den geprüften Quellen nicht belegt, nicht übernommen."
+   ],
+   "slug": "gemeine-binsenjungfer",
+   "name": "Gemeine Binsenjungfer",
+   "latein": "Lestes sponsa",
+   "kurz": "Kleine, metallisch grüne Kleinlibelle an fischfreien, verkrauteten Tümpeln und Mooren.",
+   "erkennen": [
+    "Männchen dunkel metallgrün, reife Männchen mit bläulichem Reif an einzelnen Segmenten",
+    "Weibchen kupferfarben",
+    "Körperlänge 35 bis 39 mm, Spannweite etwa 4 bis 4,5 cm"
+   ],
+   "lebensraum": "Fischfreie, verkrautete, besonnte Tümpel, Teiche, Gräben und Moore. Austrocknen der Gewässer wird vertragen.",
+   "umgang": "Kleine, fischfreie und besonnte Gewässer mit Binsen und Seggen erhalten, nicht entwässern und keine Fische einsetzen.",
+   "naturdeck_ids": [
+    "26a96739"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeine Binsenjungfer",
+     "https://de.wikipedia.org/wiki/Gemeine_Binsenjungfer"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": null,
+   "zeit": "Schlupf im Mai und Juni.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt.",
+   "korrekturen": [
+    "Gemeine Federlibelle und Blaue Federlibelle sind in den Naturdeck-Fakten getrennt geführt, es ist dieselbe Art (Platycnemis pennipes). Die Flügelhaltung (61713c5d) ist nicht belegt."
+   ],
+   "slug": "blaue-federlibelle",
+   "name": "Blaue Federlibelle",
+   "latein": "Platycnemis pennipes",
+   "kurz": "Zarte, hellblaue Kleinlibelle mit verbreiterten weißlichen Schienen an Mittel- und Hinterbeinen.",
+   "erkennen": [
+    "Schienen der Mittel- und Hinterbeine weißlich verbreitert, mit fischgrätenartigen Dornen",
+    "Männchen hellblau mit blauen Augen",
+    "Weibchen weißlich-cremefarben, manchmal grünlich oder bläulich",
+    "Körperlänge etwa 3,5 cm, Spannweite 4,5 cm"
+   ],
+   "lebensraum": "Fließende und stehende Gewässer mit viel Wasserpflanzen, meist unter 500 m Höhe. Temporäre Flachgewässer und schnelle Bergbäche werden gemieden.",
+   "umgang": "Gewässer mit Wasserpflanzen und Ufervegetation erhalten und nicht ausräumen.",
+   "naturdeck_ids": [
+    "61713c5d",
+    "62c3dde0",
+    "6d40565a",
+    "c93e99db"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Blaue Federlibelle",
+     "https://de.wikipedia.org/wiki/Blaue_Federlibelle"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit anderen blauen Azurjungfern. Zur sicheren Unterscheidung die Zeichnung auf dem zweiten Segment prüfen.",
+   "zeit": "Schlupf von Mai bis August, die Tiere leben bis etwa vier Wochen.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt.",
+   "korrekturen": [
+    "Das Hufeisen sitzt auf dem zweiten Hinterleibssegment, nicht auf der Brust."
+   ],
+   "slug": "hufeisen-azurjungfer",
+   "name": "Hufeisen-Azurjungfer",
+   "latein": "Coenagrion puella",
+   "kurz": "Blaue Kleinlibelle, deren Männchen auf dem zweiten Hinterleibsring eine hufeisenförmige schwarze Zeichnung tragen.",
+   "erkennen": [
+    "Männchen blau mit schwarzer Zeichnung, auf dem zweiten Hinterleibssegment ein schwarzes Hufeisen",
+    "Weibchen meist grün, seltener blau, mit mehr Schwarz",
+    "Körperlänge 35 bis 40 mm",
+    "Bei der Paarung greift das Männchen das Weibchen hinter dem Kopf, es entsteht ein Paarungsrad"
+   ],
+   "lebensraum": "Stehende Gewässer, in Mitteleuropa besonders im Flachland häufig.",
+   "umgang": "Gewässer mit Pflanzenbewuchs und besonnte Uferzonen erhalten.",
+   "naturdeck_ids": [
+    "1fc8a12f",
+    "37e40dc0"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Hufeisen-Azurjungfer",
+     "https://de.wikipedia.org/wiki/Hufeisen-Azurjungfer"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit anderen Azurjungfern, etwa der Hufeisen-Azurjungfer. Verwandte Arten zeigen zwei Streifen an den Brustseiten, die Becherjungfer nur einen schmalen Strich.",
+   "zeit": "Hauptflugzeit Juni bis August.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt.",
+   "korrekturen": [
+    "Becherjungfer und Becher-Azurjungfer sind in den Naturdeck-Fakten getrennt, es ist dieselbe Art. Der Becherfleck variiert und taugt allein nicht zur sicheren Bestimmung. a0d47d99 (Klammern an Binsen) und die Angaben zu waagerechter Ruhehaltung sind nicht belegt."
+   ],
+   "slug": "gemeine-becherjungfer",
+   "name": "Gemeine Becherjungfer",
+   "latein": "Enallagma cyathigerum",
+   "kurz": "Blaue Kleinlibelle, auch Becher-Azurjungfer genannt, mit einem gestielten schwarzen Becher auf dem zweiten Ring.",
+   "erkennen": [
+    "Auf dem zweiten Hinterleibssegment eine becherförmige schwarze Zeichnung, die aber stark variiert",
+    "Brustseiten bei Männchen und Weibchen bis auf einen schmalen Strich ohne Zeichnung",
+    "Hinterleib des Männchens blau und schwarz"
+   ],
+   "lebensraum": "Stillgewässer mit offener Wasserfläche, auch Moorseen, Teiche und langsam fließende Bäche.",
+   "umgang": "Offene, besonnte Gewässer mit Ufervegetation erhalten.",
+   "naturdeck_ids": [
+    "169b68dc",
+    "25bf6d1b",
+    "e79d18f2"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeine Becherjungfer",
+     "https://de.wikipedia.org/wiki/Gemeine_Becherjungfer"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit der Kleinen Pechlibelle, die kleiner ist und seltener vorkommt.",
+   "zeit": "Anfang Mai bis Ende September.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt. In der Roten Liste nicht gefährdet, gilt als häufigste Kleinlibelle ihres Verbreitungsgebiets.",
+   "korrekturen": [
+    "Waagerechte Ansitzhaltung (7f8fd30d) nicht belegt."
+   ],
+   "slug": "grosse-pechlibelle",
+   "name": "Große Pechlibelle",
+   "latein": "Ischnura elegans",
+   "kurz": "Häufige Kleinlibelle, deren Männchen am achten Hinterleibssegment ein auffällig hellblaues Schlusslicht tragen.",
+   "erkennen": [
+    "Männchen: schwarzer Hinterleib, achtes Segment hellblau",
+    "Weibchen in mehreren Farbformen, junge Tiere mit violetter oder lachsroter Brust",
+    "Ältere Weibchen männchenfarben, olivgrün oder bräunlich-orange",
+    "Körperlänge etwa 30 mm"
+   ],
+   "lebensraum": "Stehende und langsam fließende Gewässer, auch neue Gartenteiche werden früh besiedelt.",
+   "umgang": "Kleine, besonnte Gewässer mit Pflanzen vertragen die Art gut. Nicht fangen.",
+   "naturdeck_ids": [
+    "7dc0dd8d",
+    "7f8fd30d",
+    "84901614"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Große Pechlibelle",
+     "https://de.wikipedia.org/wiki/Gro%C3%9Fe_Pechlibelle"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit der Großen Pechlibelle, die größer und weit häufiger ist.",
+   "zeit": "Ende Mai bis Anfang September.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt. Rote Liste Deutschland (Stand 2012): Vorwarnliste, zuvor gefährdet.",
+   "korrekturen": [
+    "Die Naturdeck-Fakten nennen Gräben. Die Quelle nennt flache, vegetationsarme Gewässer."
+   ],
+   "slug": "kleine-pechlibelle",
+   "name": "Kleine Pechlibelle",
+   "latein": "Ischnura pumilio",
+   "kurz": "Winzige Kleinlibelle flacher, pflanzenarmer Gewässer, Libelle des Jahres 2022.",
+   "erkennen": [
+    "Körper etwa 3 cm lang, Spannweite etwa 3,5 cm",
+    "Männchen mit blauer Zeichnung am Hinterleibsende, die Weibchen ohne",
+    "Weibchen färben von rötlich-orange nach grünlich um",
+    "Männchen wechseln von weißlich über gelbgrün zu blau"
+   ],
+   "lebensraum": "Flache, vegetationsarme Gewässer.",
+   "umgang": "Flache, offene Kleingewässer nicht zuwachsen lassen oder verfüllen.",
+   "naturdeck_ids": [
+    "77470126",
+    "957bbd51"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Kleine Pechlibelle",
+     "https://de.wikipedia.org/wiki/Kleine_Pechlibelle"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit der Scharlachlibelle, die rote Beine hat.",
+   "zeit": "Von April bis August, eine der ersten Libellen im Frühjahr.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt.",
+   "korrekturen": [
+    "c2ce90be: Die Flugzeit beginnt schon im April, nicht erst im Mai."
+   ],
+   "slug": "fruehe-adonislibelle",
+   "name": "Frühe Adonislibelle",
+   "latein": "Pyrrhosoma nymphula",
+   "kurz": "Rot-schwarze Kleinlibelle mit schwarzen Beinen, eine der ersten Libellen im Jahr.",
+   "erkennen": [
+    "Männchen rot und schwarz gezeichnet",
+    "Beine schwarz",
+    "Körperlänge 35 bis 45 mm, Spannweite 50 bis 70 mm",
+    "Weibchen in drei bis vier Farbformen mit unterschiedlich viel Schwarz am Hinterleib"
+   ],
+   "lebensraum": "Teiche, langsam fließende Bäche und Moortümpel mit dichter Vegetation, in der sie sich oft verbirgt.",
+   "umgang": "Bewachsene Teich- und Grabenränder nicht ausräumen.",
+   "naturdeck_ids": [
+    "c2ce90be"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Frühe Adonislibelle",
+     "https://de.wikipedia.org/wiki/Fr%C3%BChe_Adonislibelle"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit anderen Mosaikjungfern, etwa der Herbst-Mosaikjungfer. Entscheidend ist die Hinterleibszeichnung.",
+   "zeit": "Juli bis Oktober.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt. Libelle des Jahres 2012, eine der häufigsten Großlibellen Europas.",
+   "korrekturen": [
+    "Das kurze senkrechte Hängen der Männchen ist in den geprüften Quellen nicht belegt."
+   ],
+   "slug": "blaugruene-mosaikjungfer",
+   "name": "Blaugrüne Mosaikjungfer",
+   "latein": "Aeshna cyanea",
+   "kurz": "Große Libelle mit schwarzem Hinterleib und grünen bis blauen Flecken, auch an Gartenteichen.",
+   "erkennen": [
+    "Körperlänge 7 bis 8 cm, Spannweite 9,5 bis 11 cm",
+    "Männchen: schwarzer Hinterleib mit grünen und blauen Flecken",
+    "Weibchen: braunschwarz und grün gescheckt"
+   ],
+   "lebensraum": "Stehende und langsam fließende Gewässer einschließlich Gartenteichen. Jagd im niedrigen Flug auch in Wäldern.",
+   "umgang": "Nicht fangen. Teiche mit Uferpflanzen und Gehölz in der Nähe nützen der Art.",
+   "naturdeck_ids": [
+    "d309db24"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Blaugrüne Mosaikjungfer",
+     "https://de.wikipedia.org/wiki/Blaugr%C3%BCne_Mosaikjungfer"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": null,
+   "zeit": "Juli bis September.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt.",
+   "korrekturen": [
+    "Die Beschränkung auf Waldteiche wird von der Quelle nicht gedeckt. Genannt werden Teiche und Seen."
+   ],
+   "slug": "braune-mosaikjungfer",
+   "name": "Braune Mosaikjungfer",
+   "latein": "Aeshna grandis",
+   "kurz": "Große Libelle mit bräunlich getönten Flügeln, die lange gleitend über das Wasser fliegt.",
+   "erkennen": [
+    "Flügel braun getönt, bei ähnlichen Arten glasklar",
+    "Spannweite 9,5 bis 10,5 cm",
+    "Männchen gleiten lange Strecken ohne Flügelschlag über dem Wasser"
+   ],
+   "lebensraum": "Teiche und Seen.",
+   "umgang": "Nicht fangen. Teiche und Seen mit Röhricht und Wasserpflanzen für die Eiablage erhalten.",
+   "naturdeck_ids": [
+    "da706d54"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Braune Mosaikjungfer",
+     "https://de.wikipedia.org/wiki/Braune_Mosaikjungfer"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit der Blaugrünen Mosaikjungfer. Das T-Zeichen am Hinterleibsansatz hilft bei der Unterscheidung.",
+   "zeit": "Juli bis Oktober, die in Mitteleuropa am spätesten fliegende Mosaikjungfer.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt. In der Roten Liste nicht gefährdet, hat sich in Mitteleuropa ausgebreitet.",
+   "korrekturen": [
+    "Gelbe Brustzeichnung (11c03363) und Hängen an Weidenzweigen (8c5b1dd4) nicht belegt. Quellen nennen Schilfgewässer, nicht Gräben."
+   ],
+   "slug": "herbst-mosaikjungfer",
+   "name": "Herbst-Mosaikjungfer",
+   "latein": "Aeshna mixta",
+   "kurz": "Die späteste Mosaikjungfer des Jahres, sie fliegt bis in den Oktober.",
+   "erkennen": [
+    "Männchen schwarz mit blauen Flecken und einem T-förmigen Zeichen am Hinterleibsansatz",
+    "Weibchen gelb und braun gezeichnet",
+    "Spannweite etwa 80 mm, Körper 62 bis 64 mm"
+   ],
+   "lebensraum": "Schilfreiche Stillgewässer und Röhrichtzonen.",
+   "umgang": "Röhricht an Gewässern erhalten. Zu hoher Fischbesatz und Schäden an Schilf und Seggen durch Freizeitnutzung schaden der Art.",
+   "naturdeck_ids": [
+    "11c03363",
+    "cb730516"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Herbst-Mosaikjungfer",
+     "https://de.wikipedia.org/wiki/Herbst-Mosaikjungfer"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": null,
+   "zeit": "Häufig von Juni bis August.",
+   "spuren": "Das Weibchen sticht die Eier allein in untergetauchte Pflanzenteile.",
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt. Bestände stabil, weltweit nicht gefährdet (IUCN).",
+   "korrekturen": [
+    "82a7d3f7: Eier werden in untergetauchte Pflanzenteile gestochen, nicht in schwimmende."
+   ],
+   "slug": "grosse-koenigslibelle",
+   "name": "Große Königslibelle",
+   "latein": "Anax imperator",
+   "kurz": "Eine der größten Libellen Mitteleuropas, das Männchen mit grünem Brustkorb und blauem Hinterleib.",
+   "erkennen": [
+    "Spannweite 9,5 bis 11 cm",
+    "Männchen: grüner Brustkorb, leuchtend blauer Hinterleib mit durchgehendem schwarzem Rückenstreifen",
+    "Weibchen: blaugrüner Hinterleib mit breiterem braunem Rückenband",
+    "Männchen patrouillieren territorial über dem Wasser"
+   ],
+   "lebensraum": "Vor allem stehende Gewässer, jagt aber weit darüber hinaus.",
+   "umgang": "Nicht fangen. Teiche mit Unterwasserpflanzen erhalten.",
+   "naturdeck_ids": [
+    "6dc128ea",
+    "7bad1a2d",
+    "95ee563f",
+    "eadf502d"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Große Königslibelle",
+     "https://de.wikipedia.org/wiki/Gro%C3%9Fe_K%C3%B6nigslibelle"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit anderen Keiljungfern. Komplett schwarze Beine unterscheiden sie von nahen Arten.",
+   "zeit": "Ab Ende April, meist Anfang Mai bis Ende Juni, vereinzelt bis Juli oder August.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt. Rote Liste Deutschland: Vorwarnliste, früher stark gefährdet. Libelle des Jahres 2017.",
+   "korrekturen": [
+    "Die Naturdeck-Fakten verorten sie auf sandigen Uferwegen. Die Art ist an Fließgewässer gebunden."
+   ],
+   "slug": "gemeine-keiljungfer",
+   "name": "Gemeine Keiljungfer",
+   "latein": "Gomphus vulgatissimus",
+   "kurz": "Gelb-schwarz gezeichnete Flussjungfer mit schwarzen Beinen und weit getrennten Augen.",
+   "erkennen": [
+    "Gelb-schwarze Zeichnung, reife Männchen schwarzgrünlich mit blaugrünen Augen",
+    "Beine komplett schwarz",
+    "Augen berühren sich nicht, anders als bei anderen Großlibellen",
+    "Männchen am Hinterleibsende keulenförmig verdickt, Länge bis 5 cm"
+   ],
+   "lebensraum": "Fließgewässer mit feinem Sand- oder Schlammgrund, vor allem Mittel- und Unterläufe größerer Bäche und Flüsse. Die Larven leben eingegraben.",
+   "umgang": "Nicht fangen. Naturnahe Flussufer mit Sandbänken erhalten. Funde können der Naturschutzbehörde gemeldet werden.",
+   "naturdeck_ids": [
+    "558b2254"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeine Keiljungfer",
+     "https://de.wikipedia.org/wiki/Gemeine_Keiljungfer"
+    ],
+    [
+     "libellenwissen.de: Gemeine Keiljungfer ist Libelle des Jahres 2017",
+     "https://libellenwissen.de/die-gemeine-keiljungfer-ist-libelle-des-jahres-2017/"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": null,
+   "zeit": "Mitte Mai bis Mitte August, am häufigsten Ende Juni bis Juli.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt.",
+   "korrekturen": [
+    "b24f5318: Gelbe Stirn trifft auf die Gemeine Smaragdlibelle nicht zu, bei ihr ist die Stirn einheitlich grün. Die Art heißt in der Fachliteratur auch Falkenlibelle."
+   ],
+   "slug": "gemeine-smaragdlibelle",
+   "name": "Gemeine Smaragdlibelle",
+   "latein": "Cordulia aenea",
+   "kurz": "Metallisch grün bis kupferfarbene Libelle mit grünen Augen, die Ufer nährstoffarmer Seen abfliegt.",
+   "erkennen": [
+    "Körper metallgrün bis kupferfarben, Augen grün",
+    "Stirn einheitlich grün, ohne gelbe Zeichnung",
+    "Männchen mit keulenförmigem Hinterleib",
+    "Länge 5 bis 5,5 cm, Spannweite 7,5 cm"
+   ],
+   "lebensraum": "Nährstoffarme Seen und Teiche. Männchen patrouillieren am Ufer, Weibchen kommen nur zur Eiablage ans Wasser.",
+   "umgang": "Nicht fangen. Naturnahe Seeufer erhalten.",
+   "naturdeck_ids": [
+    "8105ed5e"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Falkenlibelle",
+     "https://de.wikipedia.org/wiki/Falkenlibelle"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit dem Großen Blaupfeil. Der Plattbauch ist breiter und hat dunkle Flügelbasen.",
+   "zeit": "Die Libellen schlüpfen ab Mai.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt. Insekt des Jahres 2001.",
+   "korrekturen": [
+    "27e940f9: Bernsteinfarbene Flügelbasen bei Jungtieren nicht belegt, die Quelle nennt dunkle Basen. 539a92dc: Kürzerer Hinterleib als beim Blaupfeil nicht belegt."
+   ],
+   "slug": "plattbauch",
+   "name": "Plattbauch",
+   "latein": "Libellula depressa",
+   "kurz": "Libelle mit breitem, flachem Hinterleib, beim Männchen hellblau bereift.",
+   "erkennen": [
+    "Männchen: hellblauer, wachsartig bereifter Hinterleib",
+    "Weibchen gelbbraun, später olivgrün bis dunkelbraun",
+    "Flügel glasklar mit dunklen Flügelbasen",
+    "Körper 40 bis 45 mm, Spannweite 70 bis 80 mm"
+   ],
+   "lebensraum": "Pionierart an besonnten, vegetationsarmen Flachgewässern mit Sand- oder Lehmufern, die auch zeitweise austrocknen können.",
+   "umgang": "Neu angelegte, kahle Kleingewässer nicht sofort wieder zuwachsen lassen.",
+   "naturdeck_ids": [
+    "9aa2bcd7",
+    "bec4d135"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Plattbauch",
+     "https://de.wikipedia.org/wiki/Plattbauch"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit dem Plattbauch, der dunkle Flügelbasen statt Mittelflecke hat.",
+   "zeit": "Ab Mai, in warmen Jahren ab Ende April, bis Mitte oder Ende August.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt. Weltweit nicht gefährdet. Bekannt für Massenwanderungen.",
+   "korrekturen": [],
+   "slug": "vierfleck",
+   "name": "Vierfleck",
+   "latein": "Libellula quadrimaculata",
+   "kurz": "Jeder der vier Flügel trägt einen dunklen Fleck nahe der Flügelmitte.",
+   "erkennen": [
+    "Dunkler Fleck am Flügelknoten jedes Flügels",
+    "Kaum Unterschied zwischen Männchen und Weibchen",
+    "Körper 41 bis 45 mm, Spannweite 7 bis 8,5 cm"
+   ],
+   "lebensraum": "Pflanzenreiche Flachgewässer, Röhrichtteiche, Moore und Moorgewässer, auch leicht saure.",
+   "umgang": "Moorgewässer und Röhrichtteiche erhalten und nicht entwässern.",
+   "naturdeck_ids": [
+    "0cbe3f65",
+    "223319cb",
+    "54e64cc5",
+    "cb07ad01",
+    "2daba74b"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Vierfleck",
+     "https://de.wikipedia.org/wiki/Vierfleck"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit dem Plattbauch, der einen breiteren Hinterleib und dunkle Flügelbasen hat.",
+   "zeit": "Schlupf ab Mitte Mai, Hauptflugzeit Juli bis Anfang August, vereinzelt bis Oktober.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt.",
+   "korrekturen": [],
+   "slug": "grosser-blaupfeil",
+   "name": "Großer Blaupfeil",
+   "latein": "Orthetrum cancellatum",
+   "kurz": "Männchen mit mattblau bereiftem Hinterleib und dunkler Spitze, sonnt sich gern am Boden.",
+   "erkennen": [
+    "Männchen: mattblauer Reif auf dem Hinterleib, dunkle Spitze, dunkle Brust, grüne Augen",
+    "Weibchen und junge Tiere gelb mit schwarzer Gitterzeichnung, später braun bis olivgrün",
+    "Körper 44 bis 50 mm"
+   ],
+   "lebensraum": "Offene, besonnte Wasserflächen und Uferzonen mit wenig Schilf, auch Seen, Kiesgruben und Fischteiche. Sitzt gern auf sandigem oder steinigem Boden.",
+   "umgang": "Offene, sandige oder steinige Uferstellen nicht zuwachsen lassen.",
+   "naturdeck_ids": [
+    "1c427285",
+    "c493e6e8"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Großer Blaupfeil",
+     "https://de.wikipedia.org/wiki/Gro%C3%9Fer_Blaupfeil"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": null,
+   "zeit": "Mai bis August.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt. Rote Liste der Libellen Deutschlands (Ott et al. 2015, Stand 2012): gefährdet. Libelle des Jahres 2014.",
+   "korrekturen": [
+    "Die Naturdeck-Fakten nennen Moorgräben. Die Quelle nennt Hochmoore und Moorseen. Die schwarzen Keile (329524dc) sind nicht belegt."
+   ],
+   "slug": "kleine-moosjungfer",
+   "name": "Kleine Moosjungfer",
+   "latein": "Leucorrhinia dubia",
+   "kurz": "Moorlibelle, deren Männchen blutrot und schwarz gefärbt sind.",
+   "erkennen": [
+    "Männchen blutrot und schwarz",
+    "Weibchen meist mit weißgelber Zeichnung, einzelne männchenfarbig",
+    "Körper 3 bis 4 cm, Spannweite 5 bis 6 cm",
+    "Männchen fliegen nahe am Ufer und sitzen niedrig an der Vegetation"
+   ],
+   "lebensraum": "Hochmoore und Röhrichtzonen von Moorseen mit saurem, sauerstoffarmem Wasser.",
+   "umgang": "Moore nicht entwässern. Der Moorschutz ist die wirksamste Hilfe.",
+   "naturdeck_ids": [
+    "329524dc",
+    "5248745b"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Kleine Moosjungfer",
+     "https://de.wikipedia.org/wiki/Kleine_Moosjungfer"
+    ],
+    [
+     "Rote Liste Libellen Deutschlands (Ott et al. 2015), Tabelle LibellenWissen",
+     "https://www.libellenwissen.de/wp-content/uploads/Rote_Liste_1998_und_2015_Entwicklung_LibellenWissen_de.pdf"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit der Kleinen Moosjungfer, die kleiner ist und rote Männchen hat.",
+   "zeit": "Mitte Mai bis Ende Juli, am häufigsten Ende Mai bis Ende Juni.",
+   "spuren": null,
+   "regional": "Das südliche Mecklenburg-Vorpommern zählt laut Bundesamt für Naturschutz zu den Verbreitungsschwerpunkten der Art in Deutschland.",
+   "schutz": "Nach Bundesnaturschutzgesetz streng geschützt, FFH-Richtlinie Anhang II und IV. Rote Liste Deutschland (Ott et al. 2015): gefährdet.",
+   "korrekturen": [
+    "Dass der gelbe Fleck im Flug sichtbar ist, ist nicht belegt. Er ist bei sitzenden Tieren das Erkennungsmerkmal."
+   ],
+   "slug": "grosse-moosjungfer",
+   "name": "Große Moosjungfer",
+   "latein": "Leucorrhinia pectoralis",
+   "kurz": "Seltene Moorlibelle mit einem gelben Fleck auf dem siebten Hinterleibsring, der lebenslang bleibt.",
+   "erkennen": [
+    "Gelber Fleck auf dem siebten Hinterleibssegment",
+    "Junge Männchen mit gelben Flecken auf dem Hinterleib, die später braun werden",
+    "Helle Stirn, typisch für Moosjungfern",
+    "Männchen sitzen gern auf senkrechten Halmen"
+   ],
+   "lebensraum": "Sonnige, fischfreie, mäßig nährstoffreiche Kleingewässer, besonders in Moorgebieten, auch Torfstiche und Moorgräben.",
+   "umgang": "Gewässer nicht verfüllen, entwässern oder mit Fischen besetzen. Vorkommen können der Naturschutzbehörde gemeldet werden.",
+   "naturdeck_ids": [
+    "390188fb"
+   ],
+   "quellen": [
+    [
+     "BfN: Artenportrait Leucorrhinia pectoralis",
+     "https://www.bfn.de/artenportraits/leucorrhinia-pectoralis"
+    ],
+    [
+     "Wikipedia (de): Große Moosjungfer",
+     "https://de.wikipedia.org/wiki/Gro%C3%9Fe_Moosjungfer"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit der Gemeinen Heidelibelle, die gelbe Streifen auf den Beinen hat.",
+   "zeit": "Juli bis November.",
+   "spuren": "Eiablage im Tandem im Flug über dem Wasser zwischen Wasserpflanzen.",
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt.",
+   "korrekturen": [
+    "4eeefaf1 und 68a4c477: Die Beine sind schwarz, nicht rot. Die Aussage, reife Männchen leuchteten rot bis an die Beine, ist falsch."
+   ],
+   "slug": "blutrote-heidelibelle",
+   "name": "Blutrote Heidelibelle",
+   "latein": "Sympetrum sanguineum",
+   "kurz": "Kleine rote Heidelibelle mit komplett schwarzen Beinen.",
+   "erkennen": [
+    "Männchen rot an Kopf, Brust und Hinterleib",
+    "Weibchen bräunlich-gelb bis rötlich-braun mit schwarzen Zeichen",
+    "Beine völlig schwarz, ohne Gelb oder Rot",
+    "Körper 34 bis 36 mm, Spannweite 50 bis 60 mm"
+   ],
+   "lebensraum": "Verschiedene kleine stehende Gewässer.",
+   "umgang": "Gewässer mit Pflanzenbewuchs erhalten. Nicht fangen.",
+   "naturdeck_ids": [
+    "05736daf"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Blutrote Heidelibelle",
+     "https://de.wikipedia.org/wiki/Blutrote_Heidelibelle"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": "Mit der Blutroten Heidelibelle, die ganz schwarze Beine hat.",
+   "zeit": "Juli bis November.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt.",
+   "korrekturen": [
+    "7a738c05: Flach geöffnete Flügel nicht belegt."
+   ],
+   "slug": "gemeine-heidelibelle",
+   "name": "Gemeine Heidelibelle",
+   "latein": "Sympetrum vulgatum",
+   "kurz": "Mittelgroße Heidelibelle, deren Beine oben einen gelben Streifen tragen.",
+   "erkennen": [
+    "Beine schwarz mit gelber Oberseite",
+    "Männchen rot an Kopf, Brust und Hinterleib, Hinterleib nach hinten verbreitert",
+    "Weibchen bräunlich-gelb mit schwarzen Zeichen",
+    "Spannweite 5 bis 6,5 cm"
+   ],
+   "lebensraum": "Stehende Gewässer verschiedener Art, auch kleine Teiche und Gartengewässer.",
+   "umgang": "Nicht fangen. Besonnte Teichufer mit Pflanzen erhalten.",
+   "naturdeck_ids": [
+    "f567d848"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeine Heidelibelle",
+     "https://de.wikipedia.org/wiki/Gemeine_Heidelibelle"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  },
+  {
+   "gruppe": "Libellen",
+   "verwechslung": null,
+   "zeit": "Juli bis September, gelegentlich bis Anfang November. Sonnt sich auf Steinen, Holz und offenem Boden.",
+   "spuren": null,
+   "regional": null,
+   "schutz": "Wie alle heimischen Libellen nach der Bundesartenschutzverordnung besonders geschützt.",
+   "korrekturen": [
+    "9dd9e798: Weibchen sind bräunlich-grau, nicht gelbbraun. Das Sitzen an Moorwegen ist nicht belegt."
+   ],
+   "slug": "schwarze-heidelibelle",
+   "name": "Schwarze Heidelibelle",
+   "latein": "Sympetrum danae",
+   "kurz": "Kleine Heidelibelle, deren Männchen tief schwarz werden, Libelle des Jahres 2019.",
+   "erkennen": [
+    "Männchen mit tief schwarzem Hinterleib",
+    "Weibchen bräunlich-grau mit schwarzen Zeichen",
+    "Beide Geschlechter mit gelben Flecken an den Brustseiten",
+    "Körper etwa 3 cm, Spannweite 4,5 bis 5,5 cm"
+   ],
+   "lebensraum": "Sumpfige Seeufer, Teiche und Moore, bevorzugt kühlere Regionen.",
+   "umgang": "Moore und Moorgewässer erhalten und nicht entwässern.",
+   "naturdeck_ids": [
+    "92df015f",
+    "9dd9e798"
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Schwarze Heidelibelle",
+     "https://de.wikipedia.org/wiki/Schwarze_Heidelibelle"
+    ],
+    [
+     "NABU M-V: Verbreitungsatlas der Libellen Mecklenburg-Vorpommerns (Bönsel & Frank 2013)",
+     "https://mecklenburg-vorpommern.nabu.de/wir-ueber-uns/produkte/publikationen/16444.html"
+    ]
+   ]
+  }
+ ],
+ "nicht_aufgenommen": [
+  [
+   "Eintagsfliegen-Exuvien (4558eb87)",
+   "Keine Libelle: Eintagsfliegen sind eine eigene Insektenordnung. Im Naturdeck gibt es keine Libellen-Exuvie."
+  ],
+  [
+   "Baumfalke (25417f7b, 716f97d2, 7c1ca7d3, 864e3872, e024d5a1, f36cd222)",
+   "Vogel, gehört nicht zum Libellenpaket."
+  ]
+ ]
+}

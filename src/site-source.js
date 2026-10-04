@@ -1,3 +1,5 @@
+import { buildSpeciesPages } from './arten.js';
+
 export const site = {
   name: 'Wa(h)re Wildtier(liebe)',
   shortName: 'Wildtierliebe',
@@ -349,6 +351,7 @@ const pages = [
     title: 'Wildtiere erkennen – Wa(h)re Wildtier(liebe)', description: 'Arten über Ort, Größe, Verhalten, Stimme und Spuren eingrenzen.',
     intro: 'Farbe allein täuscht. Verlässlicher wird eine Bestimmung, wenn Ort, Tageszeit, Größe, Körperform, Bewegung, Stimme und Jahreszeit zusammenpassen.',
     cards: [
+      link('arten', 'Artensteckbriefe', 'Vögel, Säugetiere, Fledermäuse, Libellen, Insekten und mehr mit Merkmalen, Lebensraum und Schutzstatus.'),
       link('vogel-erkennen', 'Vögel', 'Silhouette, Schnabel, Flug, Stimme und Lebensraum.'),
       link('spuren-und-kot', 'Spuren und Kot', 'Trittsiegel, Fraßbild, Losung und Laufweg zusammen lesen.'),
       link('stimmen-und-rufe', 'Stimmen und Rufe', 'Rhythmus, Wiederholung, Ort und Tageszeit notieren.'),
@@ -366,7 +369,7 @@ const pages = [
       section('Fünf Merkmale notieren', [], ['Größe im Vergleich zu Amsel, Taube oder Krähe.', 'Körperform und Schnabelform.', 'Bewegung am Boden, im Geäst oder im Flug.', 'Lebensraum und genaue Höhe.', 'Stimme, Tageszeit und Wiederholung.']),
       section('Verwechslungen zulassen', ['Ein dunkler Vogel ist nicht automatisch eine Amsel, ein großer Greif nicht automatisch ein Adler. Zwei oder drei Kandidaten nebeneinander zu prüfen ist genauer als eine schnelle Gewissheit.']),
       section('Region und Saison nutzen', ['Im Gebiet um Plau am See verändern Seen, Wälder, Felder, Dörfer und Zugzeiten die Wahrscheinlichkeit. Seltenheit wird erst nach den sichtbaren Merkmalen berücksichtigt.']),
-    ], next: [link('tierfinder', 'Vogelfinder öffnen', 'Merkmale filtern und Kandidaten vergleichen.'), link('regional-plau', 'Regionale Ebene', 'Lebensräume rund um Plau am See.')],
+    ], next: [link('arten/singvoegel', 'Vogelarten nachschlagen', 'Steckbriefe zu Singvögeln, Greifvögeln, Eulen und Wasservögeln.'), link('tierfinder', 'Vogelfinder öffnen', 'Merkmale filtern und Kandidaten vergleichen.'), link('regional-plau', 'Regionale Ebene', 'Lebensräume rund um Plau am See.')],
   },
   {
     slug: 'spuren-und-kot', kind: 'identify', kicker: 'Spuren', heading: 'Eine Spur erzählt mehr als ein einzelner Abdruck',
@@ -376,7 +379,7 @@ const pages = [
       section('Den Maßstab mitfotografieren', ['Lineal oder Münze neben die Spur legen, ohne sie zu berühren. Mehrere Abdrücke und die ganze Laufspur aufnehmen.']),
       section('Umgebung einbeziehen', ['Zaunloch, Ufer, Baumart, Fraßreste, Haare oder Federn können die Einordnung stützen. Ein einzelner Abdruck im weichen Boden verformt leicht.']),
       section('Hygiene', ['Kot, Gewölle und tote Tiere nicht mit bloßen Händen anfassen. Kinder und Haustiere fernhalten; bei auffälligen Funden zuständige Stellen fragen.']),
-    ], next: [link('tierfinder', 'Spurenfinder', 'Form, Ort und Größe kombinieren.'), link('gartentagebuch', 'Fund dokumentieren', 'Ort und Datum festhalten.')],
+    ], next: [link('arten/saeugetiere', 'Säugetiere nachschlagen', 'Steckbriefe mit Trittsiegeln, Losung und Fraßspuren.'), link('tierfinder', 'Spurenfinder', 'Form, Ort und Größe kombinieren.'), link('gartentagebuch', 'Fund dokumentieren', 'Ort und Datum festhalten.')],
   },
   {
     slug: 'stimmen-und-rufe', kind: 'identify', kicker: 'Hören', heading: 'Stimmen haben Rhythmus, Ort und Tageszeit',
@@ -405,7 +408,7 @@ const pages = [
     sections: [
       section('Vier Beobachtungen', [], ['Ungefähre Körperlänge.', 'Zahl und Haltung der Flügel.', 'Färbung und Behaarung.', 'Pflanze, Bodenstelle oder Material, das genutzt wird.']),
       section('Lebensraum gleich mitlesen', ['Viele Wildbienen brauchen nicht nur Blüten, sondern offene Bodenstellen, markhaltige Stängel oder vorhandene Hohlräume. Eine Artbeobachtung zeigt deshalb oft direkt, welcher Teil des Ortes wertvoll ist.']),
-    ], next: [link('balkon-und-fenster', 'Blüten auf kleiner Fläche', 'Nahrung und Wasser passend anbieten.'), link('gartentagebuch', 'Beobachtung sammeln', 'Pflanze und Besuchszeit notieren.')],
+    ], next: [link('arten', 'Insekten nachschlagen', 'Steckbriefe zu Schmetterlingen, Libellen, Käfern, Hummeln und Heuschrecken.'), link('balkon-und-fenster', 'Blüten auf kleiner Fläche', 'Nahrung und Wasser passend anbieten.'), link('gartentagebuch', 'Beobachtung sammeln', 'Pflanze und Besuchszeit notieren.')],
   },
   {
     slug: 'natur-beobachten', kind: 'hub', kicker: 'Sehen lernen', heading: 'Beobachten heißt: anwesend sein, ohne den Ort zu übernehmen',
@@ -415,6 +418,7 @@ const pages = [
       link('saisonkalender', 'Jahreszeiten', 'Was jetzt beginnt, ruht, brütet oder wandert.'),
       link('nachts-beobachten', 'Nachtleben', 'Ohne Ausleuchten sehen und hören.'),
       link('gartentagebuch', 'Gartentagebuch', 'Wiederkehrende Beobachtungen vergleichbar machen.'),
+      link('arten', 'Arten nachschlagen', 'Steckbriefe zu Tieren der Region mit Merkmalen und Schutzstatus.'),
       link('regional-plau', 'Region Plau am See', 'Seen, Wälder, Felder und Siedlungen gemeinsam betrachten.'),
       link('vogel-erkennen', 'Vögel beobachten', 'Größe, Habitat, Saison und Stimme verbinden.'),
       link('tierfinder', 'Beobachtung eingrenzen', 'Mit den vorhandenen Merkmalen weiterkommen.', 'Werkzeug'),
@@ -449,7 +453,7 @@ const pages = [
       section('Wasser und Ufer', ['Seen, Gräben, Feuchtflächen und Röhrichte prägen Vogelzug, Amphibien, Libellen und Fledermausjagd. Ufer werden aus Abstand beobachtet; Schilf und Brutplätze bleiben unbetreten.']),
       section('Dorf, Garten und Feldrand', ['Alte Gebäude, Hecken, Obstbäume, Brachen und Wegränder verbinden Siedlung und offene Landschaft. Genau an diesen Übergängen werden Licht, Verkehr, Netze und Pflege besonders wirksam.']),
       section('Lokale Hilfe', ['Bei verletzten oder hilfsbedürftigen Wildtieren bietet der NABU Plau am See regionale Kontaktwege. Art und Fundort bestimmen, welche Stelle zuständig ist.']),
-    ], next: [link('hilfestellen', 'Hilfestellen', 'Kontakte für akute Funde.'), link('vogel-erkennen', 'Vögel der Region', 'Lebensraum und Saison in die Bestimmung einbeziehen.')], sources: [sources.local, sources.mv],
+    ], next: [link('arten', 'Arten der Region', 'Steckbriefe zu Vögeln, Säugetieren, Fledermäusen, Libellen und Insekten.'), link('hilfestellen', 'Hilfestellen', 'Kontakte für akute Funde.'), link('vogel-erkennen', 'Vögel der Region', 'Lebensraum und Saison in die Bestimmung einbeziehen.')], sources: [sources.local, sources.mv],
   },
 ];
 
@@ -625,7 +629,7 @@ const toolPages = [
   },
 ];
 
-export const allPages = [...pages, ...toolPages];
+export const allPages = [...pages, ...toolPages, ...buildSpeciesPages()];
 
 const genericTitle = (page) => page.title || `${page.heading} – ${site.name}`;
 export const publicPages = allPages.map((page) => ({ ...page, title: genericTitle(page) }));

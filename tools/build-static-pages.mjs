@@ -7,7 +7,7 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const pageUrl = (page) => page.slug ? `/${page.slug}/` : '/';
 const esc = (value = '') => String(value).replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;');
 const json = (value) => JSON.stringify(value).replaceAll('<', '\\u003c');
-const relativeBase = (page) => page.slug ? '../' : './';
+const relativeBase = (page) => page.slug ? '../'.repeat(page.slug.split('/').length) : './';
 const relative = (page, slug = '') => `${relativeBase(page)}${slug ? `${slug}/index.html` : 'index.html'}`;
 const icon = (name) => {
   const paths = {
@@ -75,7 +75,7 @@ function renderSections(page) {
 
 function renderSources(page) {
   if (!page.sources?.length) return '';
-  return `<aside class="sources"><h2>Hilfe und Vertiefung</h2>${page.sources.map(([label, href]) => `<a href="${esc(href)}" target="_blank" rel="noopener noreferrer">${esc(label)}${icon('arrow')}</a>`).join('')}</aside>`;
+  return `<aside class="sources"><h2>${esc(page.sourcesTitle || 'Hilfe und Vertiefung')}</h2>${page.sources.map(([label, href]) => `<a href="${esc(href)}" target="_blank" rel="noopener noreferrer">${esc(label)}${icon('arrow')}</a>`).join('')}</aside>`;
 }
 
 function renderTool(page) {

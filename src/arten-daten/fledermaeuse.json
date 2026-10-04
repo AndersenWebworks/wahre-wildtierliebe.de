@@ -1,0 +1,415 @@
+{
+ "paket": "fledermaeuse",
+ "arten": [
+  {
+   "slug": "grosser-abendsegler",
+   "name": "Großer Abendsegler",
+   "latein": "Nyctalus noctula",
+   "gruppe": "Fledermäuse",
+   "kurz": "Große Fledermaus mit rostbraunem Fell, die schnell, geradlinig und hoch jagt und oft schon früh am Abend zu sehen ist.",
+   "erkennen": [
+    "eine der größten Fledermäuse Europas, Flügelspannweite etwa 32 bis 40 Zentimeter",
+    "kurzes, eng anliegendes, im Sommer rostbraun glänzendes Fell",
+    "schneller, gerader Flug in großer Höhe",
+    "tiefe Ortungsrufe um 20 Kilohertz, am Fledermausdetektor als typisches Plipp-Plopp zu hören"
+   ],
+   "verwechslung": "Wegen der Größe leicht mit dem Kleinen Abendsegler, dem Riesenabendsegler und der Breitflügelfledermaus zu verwechseln. Die Breitflügelfledermaus fliegt deutlich langsamer.",
+   "lebensraum": "Eine Waldfledermaus, die höhlenreiche Altholzbestände braucht: Laubwälder, Parks, baumbestandene Ufer, Auwälder und Alleen. Gejagt wird über Gewässern, an Waldrändern und über Siedlungen, bis zu 10 Kilometer vom Quartier entfernt.",
+   "zeit": "Aktiv in der Dämmerung und nachts; im Spätsommer und Herbst ziehen die Tiere in die Winterquartiere.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Höhlenbäume mit Spechthöhlen, Fäulnis- oder Sturmhöhlen nicht ohne Not fällen. Quartiere nicht stören. Bei einem verletzten oder gefundenen Tier eine Fledermaus-Fachstelle oder die Naturschutzbehörde fragen.",
+   "schutz": "Streng geschützt (Anhang IV der FFH-Richtlinie, § 7 BNatSchG). Rote Liste Deutschland 2020: Vorwarnliste (V).",
+   "naturdeck_ids": [
+    "0038cda9",
+    "9ccac2c2",
+    "db02af63",
+    "d22c5cbd",
+    "ce4635be"
+   ],
+   "korrekturen": [
+    "Quartiertyp fehlt im Naturdeck: Die Art wohnt vor allem in Baumhöhlen, nur selten in Gebäuden.",
+    "Der Große Abendsegler ist eine Fernzieher-Art (bis etwa 1.600 Kilometer); das Naturdeck erwähnt das nur beiläufig."
+   ],
+   "quellen": [
+    [
+     "BfN Artenporträt Großer Abendsegler",
+     "https://www.bfn.de/artenportraits/nyctalus-noctula"
+    ],
+    [
+     "NABU Schleswig-Holstein Großer Abendsegler",
+     "https://schleswig-holstein.nabu.de/tiere-und-pflanzen/saeugetiere/fledermaeuse/arten-und-biologie/03062.html"
+    ],
+    [
+     "Fledermausschutz Seligenstadt, Akustische Bestimmung",
+     "https://fledermausschutz-seligenstadt.de/akustische-bestimmung-von-fledermausrufen/"
+    ]
+   ]
+  },
+  {
+   "slug": "breitfluegelfledermaus",
+   "name": "Breitflügelfledermaus",
+   "latein": "Eptesicus serotinus",
+   "gruppe": "Fledermäuse",
+   "kurz": "Große, dunkle Fledermaus, die langsamer als ein Abendsegler fliegt und schon in der frühen Dämmerung jagt.",
+   "erkennen": [
+    "große, relativ dunkle Fledermaus mit breiten Flügeln",
+    "fliegt deutlich langsamer als der Große Abendsegler",
+    "beginnt schon in der frühen Dämmerung zu jagen"
+   ],
+   "verwechslung": "Wegen der Größe mit dem Großen Abendsegler zu verwechseln. Der Abendsegler fliegt schneller und höher.",
+   "lebensraum": "Offene und halboffene Landschaften mit Gehölzen: Weiden, Parklandschaften, Waldränder, auch Städte mit genug Grün. Gejagt wird über Grünland, entlang von Baumreihen und an Waldrändern, bis zu 12 Kilometer vom Quartier entfernt.",
+   "zeit": "Jagd ab der frühen Dämmerung.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Die Sommerquartiere liegen in Spalten an und in Gebäuden, etwa im Firstbereich von Dachböden, hinter Verkleidungen und Fensterläden. Diese Quartiere nicht verschließen und die Tiere nicht stören; die Art ist sehr ortstreu. Bei Funden im Haus oder verletzten Tieren eine Fledermaus-Fachstelle fragen.",
+   "schutz": "Streng geschützt (Anhang IV der FFH-Richtlinie, § 7 BNatSchG). Rote Liste Deutschland 2020: gefährdet (3).",
+   "naturdeck_ids": [
+    "f8c033c7"
+   ],
+   "korrekturen": [
+    "Die Rote-Liste-Einstufung (gefährdet) und die Bindung an Gebäudequartiere fehlen im Naturdeck.",
+    "Aussagen zu Rufen (tiefer als bei der Zwergfledermaus) und zum Flug um Baumkronen oder über Dorfstraßen konnten nicht belegt werden und wurden nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "BfN Artenporträt Breitflügelfledermaus",
+     "https://www.bfn.de/artenportraits/eptesicus-serotinus"
+    ]
+   ]
+  },
+  {
+   "slug": "zwergfledermaus",
+   "name": "Zwergfledermaus",
+   "latein": "Pipistrellus pipistrellus",
+   "gruppe": "Fledermäuse",
+   "kurz": "Eine der kleinsten Fledermäuse Europas und die häufigste in Deutschland; wohnt oft in Spalten an Gebäuden.",
+   "erkennen": [
+    "5 bis 8 Gramm schwer, zusammengefaltet etwa so groß wie eine Streichholzschachtel",
+    "dunkelbraunes Fell, schwarze Flughäute",
+    "kurze, dreieckige Ohren mit abgerundeten Spitzen",
+    "Ortungsrufe am Detektor um 45 Kilohertz"
+   ],
+   "verwechslung": "Leicht mit der Mückenfledermaus zu verwechseln. Sicher unterscheiden lassen sich beide an den Rufen: Die Mückenfledermaus ruft bei etwa 55 Kilohertz, die Zwergfledermaus bei etwa 45.",
+   "lebensraum": "Sehr anpassungsfähig, mit Schwerpunkt in Siedlungen und deren Umfeld. Gejagt wird an Gewässerufern, Waldrändern, Hecken und Baumreihen. Gefressen werden kleine fliegende Insekten, vor allem Mücken.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Die Wochenstuben liegen in engen Spalten an Gebäuden, etwa hinter Verkleidungen, in Hohlräumen und Dachräumen; schon Spalten von 1 bis 2 Zentimetern reichen. Solche Spalten nicht verschließen und Quartiere nicht stören. Bei verletzten Tieren oder Funden im Haus eine Fledermaus-Fachstelle fragen.",
+   "schutz": "Streng geschützt (Anhang IV der FFH-Richtlinie, § 7 BNatSchG). Rote Liste Deutschland 2020: ungefährdet (*).",
+   "naturdeck_ids": [
+    "399bc0d9",
+    "ad10a981",
+    "b6600522"
+   ],
+   "korrekturen": [
+    "Jagd im Licht von Hoflampen (0835879a, 8340bd1f, f9dc7510) wurde in den Quellen nicht belegt.",
+    "Rufende Männchen aus Mauerspalten im Spätsommer (8340bd1f) konnte nicht belegt werden."
+   ],
+   "quellen": [
+    [
+     "BfN Artenporträt Zwergfledermaus",
+     "https://www.bfn.de/artenportraits/pipistrellus-pipistrellus"
+    ],
+    [
+     "NABU Schleswig-Holstein Zwergfledermaus",
+     "https://schleswig-holstein.nabu.de/tiere-und-pflanzen/saeugetiere/fledermaeuse/arten-und-biologie/03069.html"
+    ]
+   ]
+  },
+  {
+   "slug": "mueckenfledermaus",
+   "name": "Mückenfledermaus",
+   "latein": "Pipistrellus pygmaeus",
+   "gruppe": "Fledermäuse",
+   "kurz": "Kleinste Fledermaus Europas, äußerlich kaum von der Zwergfledermaus zu trennen, aber mit höheren Rufen.",
+   "erkennen": [
+    "kleinste Fledermausart Europas, 3 bis 7 Gramm",
+    "dunkel- bis mittelbraunes Fell, schwarze Flughäute",
+    "auffällig kurze, helle Schnauze",
+    "Ortungsrufe am Detektor um 55 Kilohertz"
+   ],
+   "verwechslung": "Mit der Zwergfledermaus. Äußerlich kaum zu trennen; sicher gelingt es an den höheren Rufen (etwa 55 statt 45 Kilohertz). Bei akustischer Bestimmung gibt es Überlappungen im Bereich um 51 bis 53 Kilohertz.",
+   "lebensraum": "Naturnahe Auwälder und gewässernahe Laubwälder in kleinräumig gegliederter Landschaft. Gejagt wird an Gewässern und Ufergehölzen, auch an Schilfzonen, an Waldrändern, Hecken und Baumreihen.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Wochenstuben liegen meist an Gebäuden (Außenverkleidungen, Zwischendächer, Hohlwände), daneben in Baumhöhlen; die Tiere wechseln das Quartier häufig. Quartiere nicht verschließen oder stören, Höhlenbäume am Wasser erhalten. Bei verletzten Tieren eine Fledermaus-Fachstelle fragen.",
+   "schutz": "Streng geschützt (Anhang IV der FFH-Richtlinie, § 7 BNatSchG). Rote Liste Deutschland 2020: ungefährdet (*).",
+   "naturdeck_ids": [
+    "5b1321ba",
+    "7c105970",
+    "e1a15cd7"
+   ],
+   "korrekturen": [
+    "Aussage zum feineren, flatterigeren Flug im Vergleich zum Abendsegler (6e803dea) konnte nicht belegt werden."
+   ],
+   "quellen": [
+    [
+     "BfN Artenporträt Mückenfledermaus",
+     "https://www.bfn.de/artenportraits/pipistrellus-pygmaeus"
+    ],
+    [
+     "NABU Schleswig-Holstein Mückenfledermaus",
+     "https://schleswig-holstein.nabu.de/tiere-und-pflanzen/saeugetiere/fledermaeuse/arten-und-biologie/03070.html"
+    ],
+    [
+     "Fledermausschutz Seligenstadt, Akustische Bestimmung",
+     "https://fledermausschutz-seligenstadt.de/akustische-bestimmung-von-fledermausrufen/"
+    ]
+   ]
+  },
+  {
+   "slug": "rauhautfledermaus",
+   "name": "Rauhautfledermaus",
+   "latein": "Pipistrellus nathusii",
+   "gruppe": "Fledermäuse",
+   "kurz": "Kleine Waldfledermaus und Fernzieherin, die im Spätsommer von Nordosten durch Deutschland nach Südwesten zieht.",
+   "erkennen": [
+    "etwas größer als Zwerg- und Mückenfledermaus, 6 bis 15 Gramm",
+    "Oberseite rot- bis kastanienbraun, Unterseite hell- bis gelbbraun",
+    "längerer fünfter Finger als bei den verwandten Arten",
+    "Balzrufe der Männchen im Herbst für Menschen hörbar"
+   ],
+   "verwechslung": "Mit Zwerg- und Mückenfledermaus. Sicheres Merkmal ist der längere fünfte Finger.",
+   "lebensraum": "Abwechslungs-, tümpel- und gewässerreiche Wälder im Tiefland, etwa in der norddeutschen Moränenlandschaft. Gejagt wird im freien Luftraum in 3 bis 20 Metern Höhe an Stillgewässern, Waldrändern, Feuchtwiesen und in Parks.",
+   "zeit": "Zugzeit im Spätsommer und Herbst; Balzrufe der Männchen im Herbst.",
+   "spuren": "Balzrufe der Männchen aus Baumhöhlen und Spalten.",
+   "regional": null,
+   "umgang": "Quartiere liegen in Baumhöhlen, Stammrissen, hinter loser Borke, in Fledermauskästen und gelegentlich an Gebäuden; überwinternde Tiere finden sich auch in Holzstapeln. Brennholzstapel im Winter nur vorsichtig abbauen, Alt- und Totholz stehen lassen. Bei Funden eine Fledermaus-Fachstelle fragen.",
+   "schutz": "Streng geschützt (Anhang IV der FFH-Richtlinie, § 7 BNatSchG). Rote Liste Deutschland 2020: ungefährdet (*).",
+   "naturdeck_ids": [
+    "6818976c",
+    "753ca16e"
+   ],
+   "korrekturen": [
+    "Rufe tiefer als bei der Zwergfledermaus (9f9b3f5d) und rauer Sozialruf (8a5738cf) wurden in den Quellen nicht belegt.",
+    "Die weite Zugstrecke (bislang bis 1.905 Kilometer nachgewiesen) fehlt im Naturdeck."
+   ],
+   "quellen": [
+    [
+     "BfN Artenporträt Rauhautfledermaus",
+     "https://www.bfn.de/artenportraits/pipistrellus-nathusii"
+    ],
+    [
+     "NABU Schleswig-Holstein Rauhautfledermaus",
+     "https://schleswig-holstein.nabu.de/tiere-und-pflanzen/saeugetiere/fledermaeuse/arten-und-biologie/02949.html"
+    ]
+   ]
+  },
+  {
+   "slug": "wasserfledermaus",
+   "name": "Wasserfledermaus",
+   "latein": "Myotis daubentonii",
+   "gruppe": "Fledermäuse",
+   "kurz": "Kleine bis mittelgroße Fledermaus, die schnell und dicht über ruhigem Wasser jagt.",
+   "erkennen": [
+    "relativ kurze Ohren mit kurzem, abgerundetem Ohrdeckel",
+    "große Hinterfüße",
+    "Flug zumeist schnell und dicht über der Wasseroberfläche"
+   ],
+   "verwechslung": "Wegen der großen Hinterfüße mit der Teichfledermaus. Die Wasserfledermaus ist deutlich kleiner.",
+   "lebensraum": "Jagd hauptsächlich über stehenden und langsam fließenden Gewässern, bis 7 bis 8 Kilometer vom Quartier entfernt. Sommerquartiere in Baumhöhlen gewässernaher Wälder.",
+   "zeit": "Rückkehr aus den Winterquartieren ab März oder April, Abzug bis Oktober.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Alt- und Höhlenbäume sowie Waldwege und Gehölzreihen am Wasser erhalten. Quartiere nicht stören. Bei verletzten Tieren eine Fledermaus-Fachstelle fragen.",
+   "schutz": "Streng geschützt (Anhang IV der FFH-Richtlinie, § 7 BNatSchG). Rote Liste Deutschland 2020: ungefährdet (*).",
+   "naturdeck_ids": [
+    "296e6992",
+    "982e4b71"
+   ],
+   "korrekturen": [
+    "Helle Bauchseite, die beim Jagen aufblitzt (4fe07e83, a2a4d7a6), und Streifen der Flügelspitzen über dem Wasser (d37821f5) wurden nicht belegt."
+   ],
+   "quellen": [
+    [
+     "BfN Artenporträt Wasserfledermaus",
+     "https://www.bfn.de/artenportraits/myotis-daubentonii"
+    ]
+   ]
+  },
+  {
+   "slug": "fransenfledermaus",
+   "name": "Fransenfledermaus",
+   "latein": "Myotis nattereri",
+   "gruppe": "Fledermäuse",
+   "kurz": "Hell graubraune Fledermaus mit Borstenreihe an der Schwanzflughaut; sucht langsam und niedrig Blätter und Boden ab, jagt auch in Ställen.",
+   "erkennen": [
+    "hell graubraunes Rückenfell, grau- bis braunweißes Bauchfell",
+    "S-förmig geschwungene Schwanzflughaut mit steifen, nach unten gebogenen Borsten am Hinterrand",
+    "langsamer Jagdflug, oft nur 1 bis 4 Meter über dem Boden"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Nahezu alle Waldtypen, dazu Parks, Obstwiesen und gehölzreiche Bachläufe. Sie sucht Boden und Pflanzen von der Strauchschicht bis in die Kronen ab und jagt bis zu 4 Kilometer vom Quartier entfernt, auch in Kuhställen.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Wochenstuben in Baumhöhlen, Rindenspalten, Fledermauskästen, Spalten an Gebäuden und Brücken, oft in Viehställen. Quartiere nicht verschließen oder stören, Alt- und Totholz sowie Waldränder erhalten. Bei verletzten Tieren eine Fledermaus-Fachstelle fragen.",
+   "schutz": "Streng geschützt (Anhang IV der FFH-Richtlinie, § 7 BNatSchG). Rote Liste Deutschland 2020: ungefährdet (*).",
+   "naturdeck_ids": [
+    "eef3fa52",
+    "84b18a3f",
+    "89f2356e",
+    "79e98df9"
+   ],
+   "korrekturen": [
+    "Beuteangaben (Spinnen, Käfer von Blättern) in 54cb9d83 und 79e98df9 wurden nicht belegt und nicht übernommen; belegt ist nur das Absuchen von Pflanzen und Boden."
+   ],
+   "quellen": [
+    [
+     "BfN Artenporträt Fransenfledermaus",
+     "https://www.bfn.de/artenportraits/myotis-nattereri"
+    ]
+   ]
+  },
+  {
+   "slug": "kleine-bartfledermaus",
+   "name": "Kleine Bartfledermaus",
+   "latein": "Myotis mystacinus",
+   "gruppe": "Fledermäuse",
+   "kurz": "Eine der kleinsten Myotis-Arten, mit krausem Fell, die an Hecken, Gewässerufern und in Gärten jagt.",
+   "erkennen": [
+    "etwa 4 Zentimeter Körperlänge",
+    "krauses, nuss- bis graubraunes Rückenfell, helles bis dunkelgraues Bauchfell",
+    "Schnauze, Ohren und Flughäute schwarzbraun"
+   ],
+   "verwechslung": "Leicht mit der Großen Bartfledermaus, der Zwergfledermaus und der Nymphenfledermaus zu verwechseln. Akustisch ist sie von der Großen Bartfledermaus kaum zu unterscheiden.",
+   "lebensraum": "Kleinräumig gegliederte Kulturlandschaft, Wälder und Siedlungen. Gejagt wird an Waldrändern, Gewässerufern, Hecken, in Gärten und auf Streuobstwiesen.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Sommerquartiere liegen in Spalten an Gebäuden (hinter Fensterläden und Wandverkleidungen), an Brücken und in Baumhöhlen; die Wochenstuben werden oft gewechselt. Solche Spalten nicht verschließen, Hecken und Kleingewässer erhalten. Bei Funden im Haus oder verletzten Tieren eine Fledermaus-Fachstelle fragen.",
+   "schutz": "Streng geschützt (Anhang IV der FFH-Richtlinie, § 7 BNatSchG). Rote Liste Deutschland 2020: ungefährdet.",
+   "naturdeck_ids": [
+    "6c058a1f",
+    "f4e26dd5"
+   ],
+   "korrekturen": [
+    "Aussage zu steiler fallenden Rufreihen im Vergleich zur Zwergfledermaus (35029656) wurde nicht belegt."
+   ],
+   "quellen": [
+    [
+     "BfN Artenporträt Kleine Bartfledermaus",
+     "https://www.bfn.de/artenportraits/myotis-mystacinus"
+    ]
+   ]
+  },
+  {
+   "slug": "mopsfledermaus",
+   "name": "Mopsfledermaus",
+   "latein": "Barbastella barbastellus",
+   "gruppe": "Fledermäuse",
+   "kurz": "Kleine Waldfledermaus mit gedrungener Mopsnase, die leise ruft und in Baumspalten hinter Borke wohnt.",
+   "erkennen": [
+    "gedrungene Nase wie bei einem Mops",
+    "jagt meist im freien Luftraum dicht über den Baumkronen",
+    "wechselt am Detektor zwischen zwei Ruftypen, der tiefere bei etwa 32 Kilohertz",
+    "sehr leise Rufe, daher am Detektor schwer zu erfassen"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Waldreiche Gebiete mit gegliederten Laubwäldern und vollständigem Kronenschluss; stark genutzte Kiefern- und Fichtenwälder meidet sie. Jagdgebiete reichen bis 8 Kilometer von der Wochenstube.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Die Wochenstuben liegen in Baumspalten und hinter abstehender Borke an abgestorbenen Bäumen. Totholz und Altbäume erhalten, Quartiere nicht stören. Bei verletzten oder gefundenen Tieren eine Fledermaus-Fachstelle fragen.",
+   "schutz": "Streng geschützt (Anhang II und IV der FFH-Richtlinie, § 7 BNatSchG). Rote Liste Deutschland 2020: stark gefährdet (2).",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "Jagd an Waldschneisen und Waldkanten (b2fbe6de, b49ab1f4) wurde nicht belegt; belegt ist das Jagen im freien Luftraum über den Baumkronen.",
+    "Die Beschreibung der Rufe als trocken und zweisilbig (b49ab1f4) wurde nicht belegt; bekannt sind zwei abwechselnde Ruftypen. Die 32 Kilohertz passen zum tieferen Ruftyp."
+   ],
+   "quellen": [
+    [
+     "BfN Artenporträt Mopsfledermaus",
+     "https://www.bfn.de/artenportraits/barbastella-barbastellus"
+    ],
+    [
+     "Fledermausschutz Seligenstadt, Akustische Bestimmung",
+     "https://fledermausschutz-seligenstadt.de/akustische-bestimmung-von-fledermausrufen/"
+    ]
+   ]
+  },
+  {
+   "slug": "zweifarbfledermaus",
+   "name": "Zweifarbfledermaus",
+   "latein": "Vespertilio murinus",
+   "gruppe": "Fledermäuse",
+   "kurz": "Mittelgroße Fledermaus mit silberweiß gespitztem Rückenfell, die hoch jagt und im Herbst hörbar balzt.",
+   "erkennen": [
+    "schwarzbraunes Rückenfell mit silberweißen Haarspitzen, grauweißer bis weißer Bauch",
+    "Schnauze, Ohren und Flughäute schwarz",
+    "etwa sperlingsgroß im Flug, 12 bis 23 Gramm",
+    "zwitschernde Balzrufe im Herbst, für Menschen hörbar"
+   ],
+   "verwechslung": "Wegen der auffälligen Färbung kaum mit anderen Fledermäusen zu verwechseln.",
+   "lebensraum": "Jagd hoch über Gewässern und Uferzonen, im Offenland und über Siedlungen, in 7 bis 12 Metern, teils bis 30 Metern Höhe. Wochenstuben meist in niedrigen Wohnhäusern ländlicher Regionen, oft nahe Stillgewässern.",
+   "zeit": "Die Balzrufe sind von Oktober bis in den späten November am Abend nahe der Quartiere zu hören.",
+   "spuren": "Balzrufe der Männchen an hohen Gebäuden im Herbst.",
+   "regional": null,
+   "umgang": "Quartiere liegen in Spalten an und in Gebäuden, etwa auf Dachböden zwischen Balken und hinter Holzverschalungen, zur Paarungszeit auch an sehr hohen Gebäuden wie Kirchen und Hochhäusern. Solche Spalten nicht verschließen, Quartiere nicht stören. Bei Funden im Haus oder verletzten Tieren eine Fledermaus-Fachstelle fragen.",
+   "schutz": "Streng geschützt (Anhang IV der FFH-Richtlinie, § 7 BNatSchG). Rote Liste Deutschland 2020: Daten unzureichend (D).",
+   "naturdeck_ids": [
+    "8e708664"
+   ],
+   "korrekturen": [
+    "Die Art zieht teils weit (längste nachgewiesene Strecke 1.787 Kilometer), kann aber auch in der Nähe überwintern."
+   ],
+   "quellen": [
+    [
+     "BfN Artenporträt Zweifarbfledermaus",
+     "https://www.bfn.de/artenportraits/vespertilio-murinus"
+    ],
+    [
+     "NABU-Fledermausschutz Sachsen Zweifarbfledermaus",
+     "https://fledermausschutz-sachsen.de/index.php?article_id=20"
+    ]
+   ]
+  },
+  {
+   "slug": "braunes-langohr",
+   "name": "Braunes Langohr",
+   "latein": "Plecotus auritus",
+   "gruppe": "Fledermäuse",
+   "kurz": "Mittelgroße Fledermaus mit sehr großen Ohren, die Falter und Spinnen von Blättern absammelt und im Flug fast stehen kann.",
+   "erkennen": [
+    "sehr große, dunkelgraue Ohren, 3 bis 4 Zentimeter lang bei 4 bis 5 Zentimetern Körper",
+    "hell braungraues Fell am Rücken, hellgrauer, teils gelblich überhauchter Bauch",
+    "langsamer Rüttelflug, kann in der Luft stehen",
+    "im Ruhezustand die Ohren nach hinten unter die Flügel gelegt, sichtbar bleibt nur der Ohrdeckel"
+   ],
+   "verwechslung": "Mit dem Grauen Langohr oder der Bechsteinfledermaus.",
+   "lebensraum": "Lockere Nadel-, Misch-, Laub- und Auwälder mit mehreren Schichten; im Siedlungsbereich Parks, Gärten, Friedhöfe und Obstbaumanlagen. Gejagt wird meist in 500 bis 1.500 Metern Umkreis der Wochenstube, auch auf Streuobstwiesen und an Hecken.",
+   "zeit": null,
+   "spuren": "Unter Fraßplätzen bleiben oft Schmetterlingsteile am Boden liegen.",
+   "regional": null,
+   "umgang": "Sommerquartiere in Baumhöhlen, Vogel- und Fledermauskästen und auf Dachböden, dort hinter Balken und in Nischen. Solche Dachbodenquartiere nicht verschließen und die Tiere nicht stören. Bei Funden im Haus oder verletzten Tieren eine Fledermaus-Fachstelle fragen.",
+   "schutz": "Streng geschützt (Anhang IV der FFH-Richtlinie, § 7 BNatSchG). Rote Liste Deutschland 2020: gefährdet (3).",
+   "naturdeck_ids": [
+    "435c2ef8",
+    "595fa062",
+    "b1205690",
+    "bcf8eb4d",
+    "c1d2a4fe"
+   ],
+   "korrekturen": [
+    "Das Naturdeck sagt, die Tiere lesen Falter von Blättern. Belegt ist das Absammeln flugunfähiger Gliedertiere (Spinnen, Raupen) von Pflanzen; mittelgroße Nachtfalter werden auch im Flug gejagt."
+   ],
+   "quellen": [
+    [
+     "BfN Artenporträt Braunes Langohr",
+     "https://www.bfn.de/artenportraits/plecotus-auritus"
+    ],
+    [
+     "NABU Baden-Württemberg Braunes Langohr",
+     "https://baden-wuerttemberg.nabu.de/tiere-und-pflanzen/saeugetiere/fledermaeuse/arten/21094.html"
+    ],
+    [
+     "NABU-Fledermausschutz Sachsen Braunes Langohr",
+     "https://fledermausschutz-sachsen.de/index.php?article_id=22"
+    ]
+   ]
+  }
+ ],
+ "nicht_aufgenommen": []
+}

@@ -1,0 +1,925 @@
+{
+ "paket": "insekten-falter-netzfluegler",
+ "arten": [
+  {
+   "slug": "kleiner-fuchs",
+   "name": "Kleiner Fuchs",
+   "latein": "Aglais urticae",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Orangebrauner Tagfalter mit blauen Flecken am Flügelsaum, dessen Raupen gesellig an Brennnesseln leben.",
+   "erkennen": [
+    "Flügelspannweite etwa 40 bis 50 Millimeter",
+    "Oberseite orange bis rotbraun, Flügelbasis dunkelbraun, Saum mit blauen Randflecken",
+    "Raupe etwa 30 Millimeter lang, schwarz mit weißen Punkten, gelben Seitenstreifen und Dornen",
+    "Raupen sitzen gemeinsam in selbst gesponnenen Gespinsten"
+   ],
+   "verwechslung": "Der Große Fuchs ist größer und gilt in Mecklenburg-Vorpommern als gefährdet. Beim Kleinen Fuchs sind die Flügelränder blau gefleckt, außerdem leben seine Raupen gesellig, die des Admirals einzeln.",
+   "lebensraum": "Er lebt in offener Landschaft, an Waldrändern, auf Lichtungen und in Gärten. Entscheidend sind sonnige, trockene Brennnesselbestände für die Raupen.",
+   "zeit": "Als Falter überwintert er und ist schon ab Februar oder März zu sehen, die Flugzeit reicht bis in den Oktober.",
+   "spuren": "Gespinste mit Raupen an Brennnesseln, die Eier legt das Weibchen im Mai an die Blattunterseite.",
+   "regional": "Der NABU Mecklenburg-Vorpommern beschreibt ihn als Art offener Landschaften, Waldränder und Lichtungen im ganzen Land.",
+   "umgang": "Sonnige Brennnesselecken im Garten stehen lassen, dort entwickeln sich die Raupen. Raupen und Falter bleiben unberührt. Überwinternde Falter in Schuppen oder auf Dachböden nicht stören.",
+   "schutz": "Nach NABU Mecklenburg-Vorpommern nicht in der Roten Liste geführt, weil er überall als häufig gilt.",
+   "naturdeck_ids": [
+    "00564d76",
+    "4369900d"
+   ],
+   "korrekturen": [
+    "00564d76: Die Raupen sitzen tatsächlich gesellig an Brennnesseln. Dass schwarze Dornen sie vom Admiral trennen, ist nicht belegt, denn beide Raupen tragen Dornen. Der verlässlichere Unterschied ist die gesellige Lebensweise des Kleinen Fuchses."
+   ],
+   "quellen": [
+    [
+     "NABU Mecklenburg-Vorpommern: Kleiner Fuchs",
+     "https://mecklenburg-vorpommern.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/tagfalter/artensteckbriefe/15831.html"
+    ],
+    [
+     "Wikipedia: Kleiner Fuchs",
+     "https://de.wikipedia.org/wiki/Kleiner_Fuchs"
+    ]
+   ]
+  },
+  {
+   "slug": "admiral",
+   "name": "Admiral",
+   "latein": "Vanessa atalanta",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Schwarzer Wanderfalter mit roten Binden und weißen Flecken an den Vorderflügelspitzen.",
+   "erkennen": [
+    "Flügelspannweite 55 bis 65 Millimeter",
+    "Vorderflügel samtig schwarz mit roter Querbinde und weißen Spitzenflecken",
+    "Hinterflügel mit roter Randbinde",
+    "Raupe etwa 40 Millimeter, in der Färbung veränderlich, lebt einzeln"
+   ],
+   "verwechslung": "Wegen der roten Binde auf schwarzem Grund ist er kaum mit anderen Arten zu verwechseln. Die Raupe lebt im Gegensatz zu der des Kleinen Fuchses einzeln.",
+   "lebensraum": "Er fliegt in Gärten, an Waldrändern und auf Wiesen, überall dort, wo Brennnesseln für die Raupen wachsen.",
+   "zeit": "In Mitteleuropa fliegt er von Mai bis Oktober, im Herbst oft an Fallobst und Blüten.",
+   "spuren": null,
+   "regional": "Laut NABU Mecklenburg-Vorpommern wird der Admiral im Land häufig beobachtet.",
+   "umgang": "Brennnesseln für die Raupen und etwas Fallobst für die Falter im Herbst liegen lassen. Die Tiere nicht anfassen oder aufscheuchen.",
+   "schutz": "Gilt nach NABU in Deutschland als ungefährdet.",
+   "naturdeck_ids": [
+    "104b9486",
+    "4369900d",
+    "03756b2f"
+   ],
+   "korrekturen": [
+    "03756b2f: Die Aussage zur gemeinsamen Futterpflanze Brennnessel stimmt. Das Bild der Raupenhäute an Brennnesseln im Spätsommer ist nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU Mecklenburg-Vorpommern: Admiral",
+     "https://mecklenburg-vorpommern.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/tagfalter/artensteckbriefe/15446.html"
+    ],
+    [
+     "Wikipedia: Admiral (Schmetterling)",
+     "https://de.wikipedia.org/wiki/Admiral_(Schmetterling)"
+    ]
+   ]
+  },
+  {
+   "slug": "tagpfauenauge",
+   "name": "Tagpfauenauge",
+   "latein": "Aglais io",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Rostroter Tagfalter mit vier großen Augenflecken, der bei Gefahr die Flügel ruckartig öffnet und zischt.",
+   "erkennen": [
+    "Flügelspannweite etwa 50 bis 55 Millimeter",
+    "Auf jedem Flügel ein Augenfleck in Schwarz, Blau und Gelb",
+    "Unterseite dunkel marmoriert",
+    "Raupe etwa 42 Millimeter, schwarz mit weißen Punkten und dunklen Dornen, gemeinsam in Nestern an Brennnesseln"
+   ],
+   "verwechslung": "Kaum zu verwechseln. Die vier Augenflecken unterscheiden ihn von Admiral und Kleinem Fuchs.",
+   "lebensraum": "Er lebt in offener Landschaft, an Waldrändern, in Parks und Gärten. Die Eier legt das Weibchen an sonnige, windgeschützte Brennnesselbestände.",
+   "zeit": "Die erste Generation fliegt von Juni bis August, die zweite von August bis Oktober. Überwinterte Tiere sind von März bis Mai zu sehen.",
+   "spuren": "Raupennester an Brennnesseln.",
+   "regional": null,
+   "umgang": "Sonnige, windgeschützte Brennnesselecken stehen lassen. Überwinternde Falter in Dachböden, Kellern oder Schuppen nicht stören.",
+   "schutz": "Gilt nach NABU in Deutschland als ungefährdet. Schmetterling des Jahres 2009.",
+   "naturdeck_ids": [
+    "dbe3b467",
+    "03756b2f"
+   ],
+   "korrekturen": [
+    "dbe3b467: Das Öffnen der Flügel mit Augenflecken als Abschreckung ist belegt, ebenso das Zischen. Dass sich die Flecken erst bei Wärme voll öffnen, und der Distelbesuch im Juli sind nicht belegt.",
+    "8df24ccc nicht übernommen: Die Brennnessel als Raupenfutter stimmt, der fenstrige Fraß ist nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU Mecklenburg-Vorpommern: Tagpfauenauge",
+     "https://mecklenburg-vorpommern.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/tagfalter/artensteckbriefe/15492.html"
+    ],
+    [
+     "Wikipedia: Tagpfauenauge",
+     "https://de.wikipedia.org/wiki/Tagpfauenauge"
+    ]
+   ]
+  },
+  {
+   "slug": "landkaertchen",
+   "name": "Landkärtchen",
+   "latein": "Araschnia levana",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Fliegt in zwei verschieden aussehenden Generationen, im Frühjahr orange, im Sommer schwarz mit weißer Binde.",
+   "erkennen": [
+    "Frühjahrsform braunorange mit schwarzen Flecken und weißen Punkten an den Vorderflügelspitzen",
+    "Sommerform schwarz mit hellen Bändern",
+    "Unterseite rotbraun, von weißen Linien durchzogen wie eine Landkarte",
+    "Raupen leben an Brennnesseln, die Eier liegen in kleinen Türmchen übereinander"
+   ],
+   "verwechslung": "Die beiden Generationen sehen so verschieden aus, dass man sie früher für zwei Arten hielt. Die kartenartige Unterseite ist beiden gemeinsam.",
+   "lebensraum": "Raupen brauchen Brennnesseln, der Falter ist in Wäldern, an Wegen und an Waldrändern zu finden.",
+   "zeit": "Die erste Generation fliegt von April bis Juni, die zweite im Juli und August.",
+   "spuren": "Eitürmchen an Brennnesselblättern.",
+   "regional": null,
+   "umgang": "Brennnesselbestände an Waldrändern und Gartenrändern stehen lassen. Tiere und Raupen nicht berühren.",
+   "schutz": "Das Verbreitungsgebiet dehnt sich aus. Insekt des Jahres 2023 und Schmetterling des Jahres 2007.",
+   "naturdeck_ids": [
+    "20352e1c",
+    "2e156cfd",
+    "451375a8"
+   ],
+   "korrekturen": [
+    "20352e1c und 451375a8: Das Bild der orangen Frühjahrs- und dunklen Sommerform stimmt. Die Bezeichnung \"Frühjahrstiere\" ist unüblich und wurde nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "NABU Mecklenburg-Vorpommern: Landkärtchenfalter",
+     "https://mecklenburg-vorpommern.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/tagfalter/artensteckbriefe/21273.html"
+    ],
+    [
+     "Wikipedia: Landkärtchen",
+     "https://de.wikipedia.org/wiki/Landk%C3%A4rtchen"
+    ]
+   ]
+  },
+  {
+   "slug": "aurorafalter",
+   "name": "Aurorafalter",
+   "latein": "Anthocharis cardamines",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Weißer Frühlingsfalter, bei dem nur das Männchen leuchtend orange Vorderflügelspitzen trägt.",
+   "erkennen": [
+    "Flügelspannweite 35 bis 45 Millimeter",
+    "Männchen mit oranger äußerer Vorderflügelhälfte",
+    "Weibchen ohne Orange, mit grauschwarzen Flügelspitzen",
+    "Raupe etwa 30 Millimeter, oben blaugrün, an den Seiten weiß"
+   ],
+   "verwechslung": "Weibchen sehen anderen Weißlingen ähnlich. Die grauschwarzen Spitzen und die mit Wiesenschaumkraut oder Knoblauchsrauke verbundene Frühjahrsflugzeit helfen bei der Bestimmung.",
+   "lebensraum": "Er lebt auf mageren und feuchten Wiesen und in lichten Wäldern, wo die Raupenpflanzen wachsen.",
+   "zeit": "Eine Generation im Jahr, die von April bis Juni fliegt.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Wiesenschaumkraut und Knoblauchsrauke an Wiesen und Waldrändern nicht vorzeitig mähen. Die Raupen fressen vor allem Blüten und Früchte der Pflanzen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "2a1bd0ea"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU Mecklenburg-Vorpommern: Aurorafalter",
+     "https://mecklenburg-vorpommern.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/tagfalter/artensteckbriefe/15832.html"
+    ],
+    [
+     "Wikipedia: Aurorafalter",
+     "https://de.wikipedia.org/wiki/Aurorafalter"
+    ]
+   ]
+  },
+  {
+   "slug": "weidenbohrer",
+   "name": "Weidenbohrer",
+   "latein": "Cossus cossus",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Großer nachtaktiver Falter, dessen bis zu 10 Zentimeter lange Raupen im Holz alter Weiden leben und nach Essig riechen.",
+   "erkennen": [
+    "Falter 65 bis 80 Millimeter Spannweite, hellgraue Flügel mit dunkler Marmorierung, plump gebaut",
+    "Raupe etwa 100 Millimeter, Rücken breit dunkelrot, Körper gelblich, Kopf schwarz",
+    "Ältere Raupen riechen stark nach Essig",
+    "Gänge im Holz sind oval"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Die Raupe lebt vor allem in Weiden, aber auch in Birken, Erlen, Birnen und Apfelbäumen.",
+   "zeit": "Die Falter fliegen nachts von Ende Mai bis Anfang August.",
+   "spuren": "Ovale Fraßgänge im Holz und Essiggeruch an befallenen Stämmen.",
+   "regional": null,
+   "umgang": "Die Raupen entwickeln sich zwei bis vier Jahre im Holz. Befallene alte Weiden bleiben nach Möglichkeit stehen. Bei Zweifeln an der Standsicherheit eines Baums helfen Baumpfleger oder die Naturschutzbehörde.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "bf3e8dd1",
+    "f7461616"
+   ],
+   "korrekturen": [
+    "2c566694: Der Essiggeruch der Raupen ist belegt, rotes Bohrmehl und ein säuerlicher Geruch der Fraßstelle nicht. Der Fakt wurde nicht übernommen.",
+    "bf3e8dd1 und f7461616: Essiggeruch und Weiden als Wirt stimmen. Die Raupen sind am Rücken dunkelrot, nicht ganz rot. Das Bohrmehl am Stammfuß ist nicht eigens belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Weidenbohrer",
+     "https://de.wikipedia.org/wiki/Weidenbohrer"
+    ]
+   ]
+  },
+  {
+   "slug": "dunkler-wiesenknopf-ameisenblaeuling",
+   "name": "Dunkler Wiesenknopf-Ameisenbläuling",
+   "latein": "Phengaris nausithous",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Dunkelbrauner bis dunkelblauer Bläuling, dessen Raupen vom Großen Wiesenknopf in Knotenameisen-Nester wechseln.",
+   "erkennen": [
+    "Männchen oben dunkelblau mit breitem schwarzgrauem Rand",
+    "Weibchen einfarbig dunkelbraun",
+    "Unterseite bei beiden Geschlechtern gefleckt"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Feuchtwiesen mit Großem Wiesenknopf und passenden Knotenameisen. In Deutschland ist er außerhalb des Alpenvorlands selten geworden.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Wiesen mit Großem Wiesenknopf nicht umbrechen und nicht zur Flugzeit mähen. Als Schutzmaßnahme wird eine einmalige Mahd ab Anfang September genannt.",
+   "schutz": "FFH-Richtlinie Anhang II und IV.",
+   "naturdeck_ids": [
+    "2c6460ab"
+   ],
+   "korrekturen": [
+    "2c6460ab: Die Bindung an Großen Wiesenknopf und Knotenameisen (Myrmica) ist belegt. Die Raupen leben nicht im Boden als Brut, sondern überwintern als Raupen im Ameisennest und fressen dort Ameisenbrut."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Dunkler Wiesenknopf-Ameisenbläuling",
+     "https://de.wikipedia.org/wiki/Dunkler_Wiesenknopf-Ameisenbl%C3%A4uling"
+    ]
+   ]
+  },
+  {
+   "slug": "kleiner-schillerfalter",
+   "name": "Kleiner Schillerfalter",
+   "latein": "Apatura ilia",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Waldfalter, dessen Männchen im Licht blau schillern und feuchte Wegstellen und Aas aufsuchen statt Blüten.",
+   "erkennen": [
+    "Flügelspannweite 55 bis 60 Millimeter",
+    "Männchen mit bläulichem Schiller, Weibchen ohne",
+    "Dunkler Fleck auf dem Vorderflügel mit rötlichem Ring",
+    "Es gibt auch eine rötliche Variante ohne blauen Glanz"
+   ],
+   "verwechslung": "Der Große Schillerfalter ähnelt ihm. Den Kleinen erkennt man am dunklen, rötlich eingefassten Augenfleck auf dem Vorderflügel.",
+   "lebensraum": "Große Auwälder und größere Waldgebiete mit Pappeln, auf denen die Weibchen die Eier einzeln ablegen. Außerhalb davon ist er selten.",
+   "zeit": "Von Mitte Juni bis Ende August.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Pappeln und Weiden in Wäldern und an Waldrändern erhalten. Die Falter nicht ködern oder fangen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "37d913d3"
+   ],
+   "korrekturen": [
+    "37d913d3: Das Saugen an feuchten Stellen und der Schiller nur beim Männchen sind belegt. Blau ist je nach Variante nicht immer vorhanden, bei der rötlichen Form fehlt es."
+   ],
+   "quellen": [
+    [
+     "NABU Mecklenburg-Vorpommern: Kleiner Schillerfalter",
+     "https://mecklenburg-vorpommern.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/tagfalter/artensteckbriefe/19436.html"
+    ],
+    [
+     "Wikipedia: Kleiner Schillerfalter",
+     "https://de.wikipedia.org/wiki/Kleiner_Schillerfalter"
+    ]
+   ]
+  },
+  {
+   "slug": "kleiner-feuerfalter",
+   "name": "Kleiner Feuerfalter",
+   "latein": "Lycaena phlaeas",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Kleiner Falter mit feuerroten Vorderflügeln und dunkelbraunem Rand, dessen Raupen Ampfer fressen.",
+   "erkennen": [
+    "Flügelspannweite 22 bis 27 Millimeter",
+    "Vorderflügel orangerot mit dunkelbraunem Rand",
+    "Hinterflügel dunkelbraun mit oranger Randbinde",
+    "Männchen und Weibchen gleich gefärbt"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Offene, schütter bewachsene Flächen wie Sandgruben, Binnendünen, Wegränder und Brachen. Die Raupen fressen Ampfer.",
+   "zeit": "Mehrere sich überlappende Generationen, meist von April bis Oktober.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Ampfer an mageren Rändern und Brachen stehen lassen. Die Falter nicht anfassen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "525f377a"
+   ],
+   "korrekturen": [
+    "3bd67f37: Sauerampfer als Raupenfutter stimmt, der Fensterfraß als Merkmal ist nicht belegt und wurde nicht übernommen.",
+    "525f377a: Ampfer als Landeplatz stimmt, die Flügel sind orangerot, nicht eigens kupferrot."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Kleiner Feuerfalter",
+     "https://de.wikipedia.org/wiki/Kleiner_Feuerfalter"
+    ]
+   ]
+  },
+  {
+   "slug": "c-falter",
+   "name": "C-Falter",
+   "latein": "Polygonia c-album",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Orangebrauner Falter mit gezackten Flügeln und einem weißen C auf der Unterseite der Hinterflügel.",
+   "erkennen": [
+    "Flügelspannweite 40 bis 50 Millimeter",
+    "Oberseite orange mit schwarzen, braunen und gelben Zeichen",
+    "Unterseite dunkelbraun bis hell, mit weißem C",
+    "Raupe etwa 30 Millimeter, orangebraun mit weißen Dornen auf den hinteren zwei Dritteln"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Lichte Wälder, Waldränder, Lichtungen, Gärten, Hecken und Streuobstwiesen. Raupen fressen Brennnessel, Hopfen, Weide und Hasel.",
+   "zeit": "Er überwintert als Falter, zeigt sich früh im Jahr an ersten Blühern und ist fast ganzjährig zu sehen. Im Herbst saugt er an Fallobst.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Brennnesseln als wilde Ecke zulassen und etwas Fallobst liegen lassen.",
+   "schutz": "Nach NABU Mecklenburg-Vorpommern nicht gefährdet.",
+   "naturdeck_ids": [
+    "6f075dd7"
+   ],
+   "korrekturen": [
+    "6f075dd7: Brombeeren und die Tarnung im Laub sind nicht eigens belegt, der gezackte Flügelrand schon."
+   ],
+   "quellen": [
+    [
+     "NABU Mecklenburg-Vorpommern: C-Falter",
+     "https://mecklenburg-vorpommern.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/tagfalter/artensteckbriefe/19479.html"
+    ],
+    [
+     "Wikipedia: C-Falter",
+     "https://de.wikipedia.org/wiki/C-Falter"
+    ]
+   ]
+  },
+  {
+   "slug": "trauermantel",
+   "name": "Trauermantel",
+   "latein": "Nymphalis antiopa",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Großer dunkelbraun-violetter Falter mit breitem hellem Saum, der nach der Überwinterung weiß ausbleicht.",
+   "erkennen": [
+    "Flügelspannweite 55 bis 75 Millimeter",
+    "Oberseite dunkel braunviolett mit breitem gelblichem Saum und blauen Flecken",
+    "Frische Tiere haben einen hellgelben Saum, überwinterte einen weißen",
+    "Raupe 50 bis 55 Millimeter, schwarz mit rotorangen Rückenflecken und langen Dornen"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Weichholzauen, Weidengehölze, feuchte Laubwälder, Obstwiesen und Alleen. Raupen fressen Weide und Birke.",
+   "zeit": "Er überwintert als Falter in Baumhöhlen oder Reisighaufen. Im Frühjahr besucht er Weidenkätzchen, später blutende Birkenstämme und im Herbst gärendes Fallobst.",
+   "spuren": "Raupen leben bis zur letzten Häutung gesellig an Weide oder Birke und können Zweige kahlfressen.",
+   "regional": "Laut NABU Mecklenburg-Vorpommern schwankt der Bestand stark, als Hauptgefährdung gelten großräumige Klimaveränderungen, die Parasiten der Raupen begünstigen.",
+   "umgang": "Weiden und Birken an Gewässern und Waldrändern erhalten und etwas Fallobst liegen lassen. Reisighaufen und Baumhöhlen als Winterquartier unberührt lassen.",
+   "schutz": "Rote Liste Deutschlands: Vorwarnliste.",
+   "naturdeck_ids": [
+    "a2c5e2bf"
+   ],
+   "korrekturen": [
+    "a2c5e2bf: Der Saum bleicht bei überwinterten Tieren bis zum Frühsommer aus. Die frisch geschlüpften Tiere ab Juli haben einen hellgelben Saum."
+   ],
+   "quellen": [
+    [
+     "NABU Mecklenburg-Vorpommern: Trauermantel",
+     "https://mecklenburg-vorpommern.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/tagfalter/artensteckbriefe/19596.html"
+    ],
+    [
+     "Wikipedia: Trauermantel",
+     "https://de.wikipedia.org/wiki/Trauermantel"
+    ]
+   ]
+  },
+  {
+   "slug": "kaisermantel",
+   "name": "Kaisermantel",
+   "latein": "Argynnis paphia",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Großer oranger Waldfalter mit braunen Punkten, unten grün mit silbrigen Streifen.",
+   "erkennen": [
+    "Flügelspannweite 55 bis 65 Millimeter",
+    "Oberseite orange mit braunen Querbändern und Punkten, beim Männchen dunkle Duftstreifen auf den Adern",
+    "Unterseite der Hinterflügel grünlich mit silbrig-weißen Streifen",
+    "Weibchen dunkler und grünlicher"
+   ],
+   "verwechslung": "Der Große Fuchs sieht oben ähnlich orange aus, hat aber keine grünsilberne Unterseite.",
+   "lebensraum": "Waldränder, Waldwege, blütenreiche Lichtungen und staudenreiche Waldwiesen. Die Falter besuchen Wasserdost, Kratzdisteln, Flockenblumen und Skabiosen, die Raupen fressen ausschließlich Veilchen.",
+   "zeit": "Von Mitte Juni bis in den September.",
+   "spuren": null,
+   "regional": "Der NABU Mecklenburg-Vorpommern nennt ihn als besonders geschützt und im Land gefährdet. Gefahren sind Insektizid- und Herbizideinsatz und der Verlust blütenreicher Waldränder.",
+   "umgang": "Blütenreiche Waldränder mit Veilchen erhalten, Waldwege nicht bis an den Rand abmähen.",
+   "schutz": "Besonders geschützt und in Mecklenburg-Vorpommern gefährdet (NABU M-V).",
+   "naturdeck_ids": [
+    "cae73575",
+    "fa6c5f4b"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU Mecklenburg-Vorpommern: Kaisermantel",
+     "https://mecklenburg-vorpommern.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/tagfalter/artensteckbriefe/19407.html"
+    ],
+    [
+     "Wikipedia: Kaisermantel",
+     "https://de.wikipedia.org/wiki/Kaisermantel"
+    ]
+   ]
+  },
+  {
+   "slug": "schachbrettfalter",
+   "name": "Schachbrettfalter",
+   "latein": "Melanargia galathea",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Schwarz-weißer Falter mit Schachbrettmuster, der auf mageren Wiesen fliegt.",
+   "erkennen": [
+    "Spannweite 37 bis 52 Millimeter",
+    "Oberseite schwarz oder dunkelbraun und weiß gewürfelt",
+    "Unterseite der Hinterflügel mit kleinen Augenflecken",
+    "Raupe 28 Millimeter, grün, gelb bis braun"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Nährstoffarme, blütenreiche Wiesen und Waldlichtungen. Die Raupen fressen Gräser wie Federgras, Wiesenschwingel und Hafer.",
+   "zeit": "Eine Generation von Juni bis August. Abends ruhen die Falter kopfüber an Halmen und Blüten.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Magere Wiesen nicht düngen und nicht zu früh mähen.",
+   "schutz": "Schmetterling des Jahres 2019. NABU Mecklenburg-Vorpommern nennt Düngung als Rückgangsursache.",
+   "naturdeck_ids": [
+    "e828a11d"
+   ],
+   "korrekturen": [
+    "e828a11d: Magere Wiesen als Lebensraum stimmen. Dass er oft mit halb geöffneten Flügeln sitzt, ist nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU Mecklenburg-Vorpommern: Schachbrettfalter",
+     "https://mecklenburg-vorpommern.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/tagfalter/artensteckbriefe/19408.html"
+    ],
+    [
+     "Wikipedia: Schachbrett (Schmetterling)",
+     "https://de.wikipedia.org/wiki/Schachbrettfalter"
+    ]
+   ]
+  },
+  {
+   "slug": "distelfalter",
+   "name": "Distelfalter",
+   "latein": "Vanessa cardui",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Orangebrauner Wanderfalter mit schwarzer, weiß gefleckter Vorderflügelspitze, der jedes Jahr aus dem Süden einfliegt.",
+   "erkennen": [
+    "Spannweite 5 bis 6 Zentimeter",
+    "Vorderflügel mit schwarzer Spitze und weißen Flecken",
+    "Auf der Unterseite der Hinterflügel Augenflecken am Rand"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Offene, trockene Flächen mit Disteln. Raupen fressen Disteln, Brennnesseln und viele andere Kräuter.",
+   "zeit": "Von Mai bis in den Oktober, in manchen Jahren im Spätsommer in Schwärmen.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Disteln und blütenreiche Ecken stehen lassen.",
+   "schutz": null,
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "ec665e59: Das Landen mit offenen Flügeln auf Klee und die blassere, fransige Erscheinung abgeflogener Tiere sind nicht belegt. Belegt ist nur, dass der Falter nicht heimisch überwintert, sondern aus dem Süden zuwandert."
+   ],
+   "quellen": [
+    [
+     "NABU Mecklenburg-Vorpommern: Distelfalter",
+     "https://mecklenburg-vorpommern.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/tagfalter/artensteckbriefe/16215.html"
+    ],
+    [
+     "Wikipedia: Distelfalter",
+     "https://de.wikipedia.org/wiki/Distelfalter"
+    ]
+   ]
+  },
+  {
+   "slug": "buchen-streckfuss",
+   "name": "Buchen-Streckfuß",
+   "latein": "Calliteara pudibunda",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Nachtfalter, dessen Raupe auffällig behaart ist und am Hinterende einen roten bis orangefarbenen Haarpinsel trägt.",
+   "erkennen": [
+    "Falter 37 bis 67 Millimeter Spannweite, Vorderflügel fein hellgrau mit zwei bis vier dunklen, gezackten Binden",
+    "Ruhend streckt er die Vorderbeine nach vorn",
+    "Raupe etwa 50 Millimeter, gelbgrün oder bräunlich rosa, mit Haarbüscheln und einem orange bis roten Pinsel am Hinterende"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Laubwälder, Hecken, Parks und Gärten.",
+   "zeit": "Die Falter fliegen im Mai und Juni, die Raupen sind von Juli bis Oktober zu sehen.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Raupen nicht anfassen, die Haare können die Augen reizen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "f1e3aa0d"
+   ],
+   "korrekturen": [
+    "f1e3aa0d: Die zottige Behaarung stimmt. Die Haarbüschel werden als gelblich bis rosa beschrieben, auffällig ist der rote Pinsel am Hinterende. Buche und Eiche als Futterpflanze wurden in der Quelle nicht eigens genannt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Buchen-Streckfuß",
+     "https://de.wikipedia.org/wiki/Buchen-Streckfu%C3%9F"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeine-skorpionsfliege",
+   "name": "Gemeine Skorpionsfliege",
+   "latein": "Panorpa communis",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Schlanke Fliege mit schnabelartig verlängertem Kopf, deren Männchen ein skorpionartig gebogenes Hinterleibsende tragen.",
+   "erkennen": [
+    "Kopf mit schnabelartiger Verlängerung, an deren Spitze die Mundwerkzeuge sitzen",
+    "Vier durchsichtige bis gelbliche Flügel",
+    "Männchen mit vergrößertem, nach vorn gebogenem Hinterleibsende"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Sie hält sich vor allem in schattigen Bereichen an Büschen auf.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Das gebogene Hinterende ist kein Stachel, sondern ein Paarungsorgan. Die Tiere sind harmlos und bleiben unberührt.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "07358e17",
+    "26e161d0",
+    "b477cc7e",
+    "aa4e2057"
+   ],
+   "korrekturen": [
+    "216eaf15 und db76efa3: Die Beschreibung als Zange und die rotbraune Färbung sind nicht belegt, das Männchen klammert sich mit paarigen Fortsätzen am Weibchen fest.",
+    "Brennnesselsaum als Aufenthaltsort ist in der Quelle nicht belegt, dort steht nur schattige Bereiche an Büschen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Skorpionsfliegen",
+     "https://de.wikipedia.org/wiki/Skorpionsfliegen"
+    ]
+   ]
+  },
+  {
+   "slug": "ameisenloewe",
+   "name": "Ameisenlöwe",
+   "latein": "Myrmeleon formicarius",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Die Larve der Gemeinen Ameisenjungfer lauert am Grund eines selbstgegrabenen Sandtrichters auf Beute.",
+   "erkennen": [
+    "Trichter von etwa 8 Zentimeter Durchmesser in lockerem Sand",
+    "Larve etwa 1 bis 1,7 Zentimeter, borstig, mit Saugzangen",
+    "Erwachsene Ameisenjungfer mit glasklaren Flügeln ohne Zeichnung, 70 bis 80 Millimeter Spannweite"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Trockene, sandige Stellen mit wenig Bewuchs, oft unter Überhängen.",
+   "zeit": "Die erwachsenen Tiere leben drei bis vier Wochen und fliegen von Mai bis August. Die Larve braucht ein bis drei Jahre.",
+   "spuren": "Trichter im Sand. Rutscht Beute hinein, wirft die Larve Sand nach ihr, damit sie nicht entkommt.",
+   "regional": null,
+   "umgang": "Trockene Sandstellen nicht begrünen oder festtreten und die Trichter nicht zerstören.",
+   "schutz": "Die Bestände gehen durch Lebensraumverlust zurück, regional ist die Art häufig.",
+   "naturdeck_ids": [
+    "1f9b77b4",
+    "2375b9be",
+    "7ce0909d",
+    "c0024051"
+   ],
+   "korrekturen": [
+    "eb40ed98: Die Larve am Trichtergrund rückwärts eingegraben ist nicht belegt und wurde nicht übernommen.",
+    "Beute sind nicht nur Ameisen, auch Spinnen und Käfer."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Gemeine Ameisenjungfer",
+     "https://de.wikipedia.org/wiki/Gemeine_Ameisenjungfer"
+    ],
+    [
+     "Wikipedia: Ameisenlöwen",
+     "https://de.wikipedia.org/wiki/Ameisenl%C3%B6wen"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeine-florfliege",
+   "name": "Gemeine Florfliege",
+   "latein": "Chrysoperla carnea",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Zartgrünes Netzflügler-Insekt mit schillernden Augen, dessen Larven Blattläuse jagen.",
+   "erkennen": [
+    "Langer, schlanker, grüner Körper, vor der Überwinterung bräunlich",
+    "Halbkugelige, schillernde Augen",
+    "Flügel mit dichter grüner Aderung, in Ruhe dachförmig über dem Hinterleib",
+    "Larve 7 bis 8 Millimeter, trägt leere Beutehüllen an Borsten am Rücken"
+   ],
+   "verwechslung": "Kleine Motten haben beschuppte, nicht netzaderige Flügel.",
+   "lebensraum": "Überall vom Flachland bis in höhere Lagen. Zum Überwintern sucht sie trockenes Laub und geschützte Orte wie hohle Baumstämme, Dachböden und Fensterritzen.",
+   "zeit": "Mehrere Generationen im Jahr. Als Einzige der mitteleuropäischen Florfliegen überwintert sie als erwachsenes Tier.",
+   "spuren": "Larven mit Tarnhaufen aus Beuteresten zwischen Blattläusen.",
+   "regional": null,
+   "umgang": "Überwinternde Florfliegen am Haus nicht stören oder hinaustragen. Laubecken und Nischen im Garten bieten Winterquartiere.",
+   "schutz": "Insekt des Jahres 1999.",
+   "naturdeck_ids": [
+    "4d0a64de",
+    "62a832eb",
+    "efec43d9"
+   ],
+   "korrekturen": [
+    "4816badd: Überwinterung erwachsener Tiere stimmt. Blass in Schuppen ist nicht belegt, die Tiere färben sich vor der Überwinterung bräunlich und sitzen auch auf Dachböden. Der Fakt wurde nicht übernommen.",
+    "5dc4c239: Goldene Augen und dachförmige Flügel stimmen im Kern, die Hoflampen als Aufenthaltsort sind nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Gemeine Florfliege",
+     "https://de.wikipedia.org/wiki/Gemeine_Florfliege"
+    ],
+    [
+     "Wikipedia: Florfliegen",
+     "https://de.wikipedia.org/wiki/Florfliegen"
+    ]
+   ]
+  },
+  {
+   "slug": "kamelhalsfliege",
+   "name": "Kamelhalsfliege",
+   "latein": "Raphidioptera",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Insekt mit stark verlängertem Halsabschnitt und abgeflachtem Kopf, dessen Larven unter Rinde jagen.",
+   "erkennen": [
+    "Erstes Brustsegment stark verlängert, darauf ein langer, abgeflachter Kopf",
+    "Weibchen mit Legeröhre, etwa so lang wie der Hinterleib",
+    "Beißende Mundwerkzeuge"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Sonnige Stellen in Wäldern und auf Lichtungen. Larven leben unter Rinde oder am Boden und jagen unter anderem Borkenkäfer- und Bockkäferlarven.",
+   "zeit": "Mai bis Juni.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Totholz und Rinde als Lebensraum der Larven stehen lassen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "da9c5e6e"
+   ],
+   "korrekturen": [
+    "da9c5e6e: Der lange Hals ist belegt. Kiefernrinde als Sitzplatz ist nicht belegt. Der Satz vom Kopf, der vor die Netzflügel gehoben wird, ist ungenau, es ist ein verlängerter Halsabschnitt. Artbestimmung nicht möglich, daher auf Ordnungsebene geführt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Kamelhalsfliegen",
+     "https://de.wikipedia.org/wiki/Kamelhalsfliegen"
+    ]
+   ]
+  },
+  {
+   "slug": "eintagsfliegen",
+   "name": "Eintagsfliegen",
+   "latein": "Ephemeroptera",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Zarte Insekten, deren Larven im Wasser leben und deren erwachsene Tiere nur Stunden bis wenige Tage überdauern.",
+   "erkennen": [
+    "Larven mit drei Schwanzfäden und Kiemen",
+    "Erwachsene Tiere leben meist ein bis vier Tage",
+    "Sie häuten sich nach dem Schlupf als einzige Insekten ein weiteres Mal mit voll entwickelten Flügeln"
+   ],
+   "verwechslung": "Steinfliegenlarven haben zwei Schwanzfäden und keine Kiemenplättchen.",
+   "lebensraum": "Saubere Gewässer. Eintagsfliegen verschwinden bei Verschmutzung.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Gewässerränder und Ufer naturnah lassen und keine Stoffe einleiten.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "85147b7b"
+   ],
+   "korrekturen": [
+    "85147b7b: Drei Schwanzfäden stimmen. Der Aufenthalt unter Steinen im Graben ist nicht belegt.",
+    "4558eb87, 76bf0257, e3239a30: Die Aussagen zu leeren Hüllen an Schilf, zum Juli und zum nächtlichen Schlupf sind in der Quelle nicht belegt und wurden nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Eintagsfliegen",
+     "https://de.wikipedia.org/wiki/Eintagsfliegen"
+    ]
+   ]
+  },
+  {
+   "slug": "koecherfliegen",
+   "name": "Köcherfliegen",
+   "latein": "Trichoptera",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Mottenähnliche Insekten mit behaarten Flügeln, deren Larven in selbstgebauten Röhren im Wasser leben.",
+   "erkennen": [
+    "Larven bauen aus Steinchen oder Schilfstückchen einen Köcher, gebunden mit Spinnsekret",
+    "Die Bauform des Köchers ist oft artspezifisch, manche Köcher sind spiralig wie Schneckenhäuser",
+    "Erwachsene sehen mottenähnlich aus, die Flügel sind behaart, nicht beschuppt"
+   ],
+   "verwechslung": "Motten haben beschuppte Flügel.",
+   "lebensraum": "Gewässer. Die meisten Arten reagieren empfindlich auf Verschmutzung.",
+   "zeit": null,
+   "spuren": "Köcher aus Sand, Steinchen oder Pflanzenteilen am Gewässergrund.",
+   "regional": null,
+   "umgang": "Köcher nicht aus dem Wasser nehmen. Ufer naturnah lassen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "4c49e722",
+    "4db8562b",
+    "ec6d5daf"
+   ],
+   "korrekturen": [
+    "8a882671: Dass bewegliche Köcher sauerstoffreiches Wasser verraten, ist so nicht belegt. Belegt ist nur, dass viele Arten gute Gewässerqualität anzeigen.",
+    "99f9ff28: Die Angabe zu Kopf und sechs Brustbeinen wurde in der Quelle nicht geprüft und nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Köcherfliegen",
+     "https://de.wikipedia.org/wiki/K%C3%B6cherfliegen"
+    ]
+   ]
+  },
+  {
+   "slug": "steinfliegen",
+   "name": "Steinfliegen",
+   "latein": "Plecoptera",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Weichhäutige Insekten, deren Larven in kühlen, sauerstoffreichen Bächen leben und zwei Schwanzfäden tragen.",
+   "erkennen": [
+    "Larven mit zwei Schwanzfäden, ohne Kiemenplättchen",
+    "Erwachsene mit langen Fühlern, Flügel in Ruhe flach über dem Rücken gefaltet",
+    "Länge 3,5 bis 30 Millimeter"
+   ],
+   "verwechslung": "Eintagsfliegenlarven haben drei Schwanzfäden und Kiemenplättchen.",
+   "lebensraum": "Kalte, sauerstoffreiche Fließgewässer, meist Bäche. Die Larven zeigen wenig belastete Gewässer an.",
+   "zeit": null,
+   "spuren": "Abgestreifte Larvenhüllen an Pflanzen am Ufer.",
+   "regional": null,
+   "umgang": "Bäche und Gräben naturnah, kühl und unverschmutzt halten.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "e4b68589"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia: Steinfliegen",
+     "https://de.wikipedia.org/wiki/Steinfliegen"
+    ]
+   ]
+  },
+  {
+   "slug": "schnaken",
+   "name": "Schnaken",
+   "latein": "Tipulidae",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Große, langbeinige Mücken, die nicht stechen und deren graue Larven im feuchten Boden leben.",
+   "erkennen": [
+    "Körper bis 40 Millimeter, sehr schlank, schmale Flügel",
+    "Lange, leicht abbrechende Beine",
+    "Weiche Mundwerkzeuge, die nur Flüssigkeit aufnehmen",
+    "Larven walzenförmig, grau und beinlos"
+   ],
+   "verwechslung": "Stechmücken sind kleiner und können stechen.",
+   "lebensraum": "Larven leben im feuchten Boden oder im Wasser und bauen Laub und morsches Holz ab.",
+   "zeit": null,
+   "spuren": "Larven in feuchtem Boden. Bei Massenauftreten können sie Wurzeln von Gemüse schädigen.",
+   "regional": null,
+   "umgang": "Schnaken stechen nicht und müssen nicht beseitigt werden. Die Larven sind für den Abbau von Laub und Holz nützlich.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "a9adadfc"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia: Schnaken",
+     "https://de.wikipedia.org/wiki/Schnaken"
+    ]
+   ]
+  },
+  {
+   "slug": "grosser-wollschweber",
+   "name": "Großer Wollschweber",
+   "latein": "Bombylius major",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Pelzige Fliege mit langem Rüssel, die wie ein Kolibri vor Blüten schwebt.",
+   "erkennen": [
+    "9 bis 12 Millimeter, dicht braun bis gelblich-beige behaart",
+    "Rüssel 5,5 bis 7,7 Millimeter lang, in Ruhe nach vorn gestreckt",
+    "Flügelvorderrand mit breiter dunkler, hinten gezackter Binde"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Wiesen, Waldränder und Gartenränder in der Nähe von Nestern solitärer Bienen und Wespen.",
+   "zeit": "April bis Juni.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Die Fliege saugt nur Nektar und ist harmlos. Nistplätze von Wildbienen in Boden und Böschung erhalten, denn die Larven leben als Parasitoide an deren Brut.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "9faa47c0"
+   ],
+   "korrekturen": [
+    "9faa47c0: Schwebflug und langer Rüssel stimmen. Lerchensporn als Blüte ist nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Großer Wollschweber",
+     "https://de.wikipedia.org/wiki/Gro%C3%9Fer_Wollschweber"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeine-raubfliege",
+   "name": "Gemeine Raubfliege",
+   "latein": "Tolmerus atricapillus",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Graubraune Raubfliege, die von Ansitzwarten aus vorbeifliegende Insekten fängt.",
+   "erkennen": [
+    "Mittelgroß, graubraun, 14 bis 18 Millimeter",
+    "Männchen mit doppelt gespitzter Verlängerung am letzten Hinterleibssegment",
+    "Sitzt oft auf Ansitzwarten und lauert auf Beute"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Lichte Wälder, Waldränder, Streuobstwiesen und Wiesen. In Nord- und Mitteldeutschland die häufigste Raubfliegenart.",
+   "zeit": "Mai bis Oktober, am stärksten Juli bis September.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Beobachten, nicht anfassen. Sie sticht Beute mit dem Rüssel.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "ed67d6c5"
+   ],
+   "korrekturen": [
+    "ed67d6c5: Ansitz und Rüssel stimmen. Als Sitzplatz sind Zaunpfähle plausibel, die Quelle nennt allgemein Ansitzwarten."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Gemeine Raubfliege",
+     "https://de.wikipedia.org/wiki/Gemeine_Raubfliege"
+    ]
+   ]
+  },
+  {
+   "slug": "hornissenschwebfliege",
+   "name": "Hornissenschwebfliege",
+   "latein": "Volucella zonaria",
+   "gruppe": "Schmetterlinge und Verwandte",
+   "kurz": "Größte Schwebfliege Mitteleuropas, die einer Hornisse zum Verwechseln ähnlich sieht, aber harmlos ist.",
+   "erkennen": [
+    "Körper 16 bis 22 Millimeter",
+    "Hinterleib rötlichgelb mit zwei breiten schwarzen Binden",
+    "Gesicht gelb gezeichnet, Augen rotbraun",
+    "Sieht aus wie eine Hornisse, Flug und Färbung ahmen sie nach"
+   ],
+   "verwechslung": "Von echten Hornissen unterscheidet sie sich als Fliege durch die kurzen Fühler und nur ein Flügelpaar.",
+   "lebensraum": "Wiesen in Waldnähe. Larven leben in Nestern von Wespen, Hornissen und Hummeln und fressen tote Insekten und Abfall.",
+   "zeit": "Von Mai oder Juni bis September.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Die Schwebfliege ist harmlos und bleibt unberührt.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "6652b896",
+    "93fac3df"
+   ],
+   "korrekturen": [
+    "6652b896 und 93fac3df: Hornissenähnliche Zeichnung und Blütenbesuch stimmen. Dass sie genau an Dolden sitzen, nennt die Quelle nicht, sie nennt Baldrian und Dost als Beispiele."
+   ],
+   "quellen": [
+    [
+     "Wikipedia: Hornissenschwebfliege",
+     "https://de.wikipedia.org/wiki/Hornissenschwebfliege"
+    ]
+   ]
+  }
+ ],
+ "nicht_aufgenommen": [
+  [
+   "Braune Waldvögel",
+   "Gattung nicht eindeutig (Waldbrettspiel, Waldvögelchen), ohne Artbezug nicht belegbar"
+  ],
+  [
+   "Schilfhalmfliegen",
+   "Art nicht eindeutig bestimmbar, keine Quelle gefunden"
+  ],
+  [
+   "Wasserdost, Efeu, Flockenblume, Brennnessel, Wald-Geißblatt (Naturdeck-Fakten mit Faltern oder Schwebfliegen als Nebenbezug)",
+   "Pflanzen, gehören nicht zum Paket"
+  ],
+  [
+   "Braunes Langohr, Zwerg- und Mückenfledermaus, Wasserfledermaus (Fakten mit Faltern oder Mücken als Beute)",
+   "Fledermäuse, anderes Paket"
+  ],
+  [
+   "Libellen (Prachtlibellen, Heidelibellen, Federlibellen, Pechlibellen, Mosaikjungfern, Königslibellen und weitere)",
+   "andere Insektengruppe, anderes Paket"
+  ],
+  [
+   "Schmetterlingstramete, Stinkmorchel, Fliegenpilz",
+   "Pilze, gehören nicht zum Paket"
+  ],
+  [
+   "Käfer, Wanzen, Spinnen, Zikaden (u. a. Maikäferlarven, Sichelwanzen, Krabbenspinnen)",
+   "andere Gruppen, anderes Paket"
+  ]
+ ]
+}

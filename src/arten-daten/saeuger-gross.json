@@ -1,0 +1,1052 @@
+{
+ "paket": "saeuger-gross",
+ "arten": [
+  {
+   "slug": "reh",
+   "name": "Reh",
+   "latein": "Capreolus capreolus",
+   "gruppe": "Säugetiere",
+   "kurz": "Kleinster heimischer Hirsch mit herzförmigen Trittsiegeln, im Sommer rostbraun, im Winter graubraun.",
+   "erkennen": [
+    "Schulterhöhe bis etwa 84 cm, Gewicht 15 bis 30 kg.",
+    "Fell im Sommer rostbraun, im Winter graubraun.",
+    "Nur die Böcke tragen ein Gehörn, es ist kurz und hat meist nur drei Sprossen.",
+    "Trittsiegel 4 bis 6 cm lang, herzförmig, mit zwei spitz zulaufenden Schalen."
+   ],
+   "verwechslung": "Mit Damwild-Kälbern: deren Tritt ähnelt im Sommer dem eines erwachsenen Rehs, hat aber einen deutlich größeren Ballenanteil. Erwachsenes Damwild ist größer und im Sommer weiß gefleckt.",
+   "lebensraum": "Bewaldete Gebiete und angrenzende Wiesen und Felder. Im Offenland hält es sich gern an Hecken und Waldrändern auf.",
+   "zeit": "Vor allem in der Dämmerung und am frühen Morgen, die Kitze kommen im Mai und Juni zur Welt.",
+   "spuren": "Herzförmige Schalenabdrücke, die beim Ziehen geschlossen und in der Flucht gespreizt sind. Die Losung besteht aus kleinen, eiförmigen, dunklen Kotpillen von 1 bis 1,5 cm Länge. Böcke fegen junge Gehölze, um die Basthaut vom Gehörn zu entfernen und ihr Revier zu markieren, dabei bleibt aufgefaserte Rinde zurück.",
+   "regional": null,
+   "umgang": "Rehkitze, die allein im hohen Gras liegen, sind nicht verlassen und werden nicht angefasst. Im Mai und Juni Hunde an der Leine führen und Wiesen vor der Mahd möglichst von Fachleuten oder Jägern absuchen lassen, etwa mit Drohnen mit Wärmebildkamera. Bei offensichtlich verletzten Tieren die Polizei oder den örtlichen Jagdausübungsberechtigten verständigen.",
+   "schutz": "Nicht gefährdet, jagdbare Art (Stadtwildtiere). Hauptgefahren sind Straßenverkehr und Mahd.",
+   "naturdeck_ids": [
+    "0790d155",
+    "9d8dfa92",
+    "70295dff",
+    "e1e8c9b8",
+    "68381345"
+   ],
+   "korrekturen": [
+    "359ea85e und 9395a5d8 (Afterklauen nur bei Sprung oder Flucht; Winterfährte eng hintereinander): bei Reh nicht belegt, daher nicht übernommen. Die Quelle nennt nur, dass die Afterklauen beim Reh auf einer Linie mit den Schalen liegen.",
+    "5e791a5e: 'Spitzen stehen enger als bei jungen Damhirschen' nicht belegt. Belegt ist nur die Verwechslungsmöglichkeit mit Damkälbern.",
+    "fc04e53b: scharfer Drüsengeruch an Fegestellen sowie Haarreste (68381345) nicht belegt.",
+    "9d8dfa92: 'frische Losung glänzend' belegt, das spätere Mattwerden und lockere Liegen nicht."
+   ],
+   "quellen": [
+    [
+     "Stadtwildtiere: Reh",
+     "https://www.stadtwildtiere.de/artportraet/reh"
+    ],
+    [
+     "waldwissen.net: Wildtierkot erkennen",
+     "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/wildtierkot-erkennen"
+    ],
+    [
+     "Wildbrücke / Trittsiegel-Überblick (Reh)",
+     "https://wildbruecke.de/reh-spuren/page/2/"
+    ]
+   ]
+  },
+  {
+   "slug": "rothirsch",
+   "name": "Rothirsch",
+   "latein": "Cervus elaphus",
+   "gruppe": "Säugetiere",
+   "kurz": "Größtes heimisches Landsäugetier; Hirsche tragen ein verzweigtes Stangengeweih und röhren im Herbst.",
+   "erkennen": [
+    "Schulterhöhe bis etwa 150 cm, Hirsche bis 250 kg, Kühe nur etwa halb so schwer.",
+    "Sommerfell rotbraun, Winterfell graugelb bis graubraun.",
+    "Nur Hirsche tragen ein Geweih, das jedes Frühjahr abgeworfen wird und nachwächst.",
+    "Trittsiegel breit, beim Hirsch ab dem dritten Lebensjahr deutlich breiter als beim Tier."
+   ],
+   "verwechslung": "Mit Damwild: Damwild ist kleiner, hat im Sommer weiße Flecken und ein Schaufelgeweih, sein Tritt ist schmaler und vorn spitzer.",
+   "lebensraum": "Wälder mit angrenzenden Offenlandflächen. Ursprünglich lebte die Art im Offenland und wurde erst vom Menschen in den Wald gedrängt.",
+   "zeit": "Die Brunft mit dem Röhren liegt im September und Oktober.",
+   "spuren": "Breite Schalenabdrücke, die Afterklauen drücken sich nur bei Flucht oder weichem Boden ab. Losung 2 bis 3 cm groß und walzenförmig. Rotwild frisst auch Rinde und Triebe, daraus entstehen Schälschäden. Suhlen und Malbäume gehören zu den typischen Zeichen, vor allem während der Brunft.",
+   "regional": null,
+   "umgang": "Auf den Wegen bleiben, Hunde anleinen und in der Brunftzeit besonders viel Abstand zu Rudeln und röhrenden Hirschen halten. Wildunfälle der Polizei melden.",
+   "schutz": "Jagdbare Art, nicht gefährdet. Die Deutsche Wildtier Stiftung fordert den Austausch zwischen Teilbeständen durch Wanderkorridore und Grünbrücken.",
+   "naturdeck_ids": [
+    "4c5f3e8b",
+    "c0ccc038",
+    "75150223",
+    "c79187c9"
+   ],
+   "korrekturen": [
+    "40daf2a7 und fa371940: Schälen ist belegt, die Angaben zu Jahreszeit ('im Sommer', 'im Winter') und zu senkrechten Zahnzügen wurden nicht belegt und nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "Deutsche Wildtier Stiftung: Rothirsch",
+     "https://www.deutschewildtierstiftung.de/wildtiere/rothirsch"
+    ],
+    [
+     "waldwissen.net: Wildtierkot erkennen",
+     "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/wildtierkot-erkennen"
+    ]
+   ]
+  },
+  {
+   "slug": "damwild",
+   "name": "Damwild",
+   "latein": "Dama dama",
+   "gruppe": "Säugetiere",
+   "kurz": "Mittelgroßer Hirsch mit weiß gefleckter Sommerdecke; die Männchen tragen ein breites Schaufelgeweih.",
+   "erkennen": [
+    "Schulterhöhe 75 bis 100 cm, Hirsche 53 bis 90 kg, Tiere 35 bis 55 kg.",
+    "Sommerdecke rostbraun mit weißen Flecken und dunklem Aalstrich.",
+    "Weißer Spiegel mit schwarzer Umrandung.",
+    "Nur die Hirsche tragen ein breites, schaufelförmiges Geweih."
+   ],
+   "verwechslung": "Mit Rothirsch und Reh: Rothirsch ist deutlich größer und trägt ein Stangengeweih. Faustregel der Quelle: Wer Flecken oder Schaufeln sieht, hat Damwild vor sich.",
+   "lebensraum": "Waldreiche Landschaften mit Wiesen und Feldern. Das Damwild in Deutschland geht auf Gehegehaltung und Aussetzungen zurück.",
+   "zeit": "Die Hauptbrunft liegt im Oktober, die Männchen rülpsen statt zu röhren.",
+   "spuren": "Der Tritt ist länglich und stärker zugespitzt als beim Rothirsch, der Ballen macht etwa 50 bis 60 Prozent der Trittlänge aus. Das Trittsiegel eines Damtiers ist etwa 5 cm lang, das eines Hirsches etwa 8 cm.",
+   "regional": null,
+   "umgang": "Abstand halten und Wild nicht in Dickungen aufscheuchen. In der Brunft nicht in die Nähe von Rudeln gehen, Hunde anleinen. Wildunfälle der Polizei melden.",
+   "schutz": "Jagdbare Art; in den ausgewerteten Quellen keine Gefährdungseinstufung angegeben.",
+   "naturdeck_ids": [
+    "43d16eb9",
+    "6dbfe8dd"
+   ],
+   "korrekturen": [
+    "190c6971, d8e6b98c, ddc4c660: Die Aussage, Damwild setze 'rundere' Schalen als Reh oder Rothirsch, widerspricht den Quellen. Der Damwild-Tritt ist länglich und stärker zugespitzt.",
+    "43d16eb9: 'schmal und lang' stimmt im Vergleich zum Rothirsch, die stärkere Spreizung gegenüber dem Reh ist nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Waidwissen: Damwild",
+     "https://waidwissen.com/damwild"
+    ],
+    [
+     "Deutsche Wildtier Stiftung: Rothirsch (Abgrenzung Damwild)",
+     "https://www.deutschewildtierstiftung.de/wildtiere/rothirsch"
+    ]
+   ]
+  },
+  {
+   "slug": "wildschwein",
+   "name": "Wildschwein",
+   "latein": "Sus scrofa",
+   "gruppe": "Säugetiere",
+   "kurz": "Massiges, borstiges Wildtier, das Wiesen aufbricht, in Suhlen badet und Malbäume mit Schlamm hinterlässt.",
+   "erkennen": [
+    "Gedrungener Körper mit kurzen Beinen und langen Borsten auf Rücken und Nacken.",
+    "Keiler mit aufwärts gekrümmten Eckzähnen.",
+    "Fell grau bis braunschwarz, Frischlinge sind bis etwa vier Monate längs gestreift.",
+    "Trittsiegel mit deutlich abgedrückten Afterklauen."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Laub- und Mischwälder, Feuchtgebiete, Äcker; zunehmend auch Ortsränder und Gärten.",
+   "zeit": "Überwiegend dämmerungs- und nachtaktiv, ganzjährig aktiv.",
+   "spuren": "Aufgebrochene Wiesen und Grasnarben, Suhlen in feuchten Senken und Malbäume mit abgescheuerter Rinde und Schlammresten. Der Kot besteht aus zusammengeballten, wurstähnlichen Kotbeeren.",
+   "regional": null,
+   "umgang": "Nicht füttern und Kompost und Abfälle unzugänglich halten. Bei einer Begegnung ruhig bleiben, nicht rennen, langsam zurückgehen, Hunde anleinen und nie zwischen eine Bache und ihre Frischlinge geraten. Keiler sind laut NABU Ende November bis Ende Dezember besonders gereizt.",
+   "schutz": "Jagdbare Art ohne besonderen Schutzstatus, nicht gefährdet.",
+   "naturdeck_ids": [
+    "056e7253",
+    "29f7ba25",
+    "c216ba5b",
+    "e5579f9d",
+    "8b379537",
+    "996feec6"
+   ],
+   "korrekturen": [
+    "Wühlen, Suhlen und Malbäume sind belegt. Die Einzelangaben 'helle Wurzelstücke und Borsten' (056e7253, 29f7ba25) und 'erdiger Geruch' (c216ba5b, 8b379537) sind nicht belegt und nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "Stadtwildtiere: Wildschwein",
+     "https://www.stadtwildtiere.de/artportraet/wildschwein"
+    ],
+    [
+     "NABU: Artenporträt Wildschwein",
+     "https://www.nabu.de/tiere-und-pflanzen/saeugetiere/sonstige-saeugetiere/28522.html"
+    ],
+    [
+     "waldwissen.net: Wildtierkot erkennen",
+     "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/wildtierkot-erkennen"
+    ]
+   ]
+  },
+  {
+   "slug": "rotfuchs",
+   "name": "Rotfuchs",
+   "latein": "Vulpes vulpes",
+   "gruppe": "Säugetiere",
+   "kurz": "Hundeartiger Räuber mit rotbraunem Fell, schwarzen Läufen und buschiger Rute mit heller Spitze.",
+   "erkennen": [
+    "Rotbraunes Fell mit grauen Varianten.",
+    "Schwarze Vorderläufe und schwarze Ohrrückseiten.",
+    "Buschige Rute mit heller Spitze, große Ohren.",
+    "Körperlänge 50 bis 90 cm, Gewicht 4 bis 10 kg."
+   ],
+   "verwechslung": "Mit kleinen Hunden: Die Fuchsfährte verläuft fast in einer geraden Linie, die vier Zehen stehen eng beisammen, der Abdruck wirkt schmaler als beim Hund.",
+   "lebensraum": "Wald, Feldflur, Dörfer und Städte.",
+   "zeit": "Vor allem in der Dämmerung und nachts, in Siedlungen auch tagsüber zu sehen.",
+   "spuren": "Gerade geschnürte Fährte mit vier Zehen. Die Losung ist wurstförmig, 3 bis 10 cm lang, an einem Ende spitz gedreht und wird bewusst an erhöhten Stellen abgesetzt.",
+   "regional": null,
+   "umgang": "Nicht füttern, damit die Tiere ihre Scheu behalten. Komposthaufen und Abfallsäcke verschließen. Gemüse und Fallobst vor dem Verzehr waschen, weil Fuchslosung Eier des Kleinen Fuchsbandwurms enthalten kann.",
+   "schutz": "Nicht gefährdet, jagdbare Art.",
+   "naturdeck_ids": [
+    "c97bc41f",
+    "f04167e2",
+    "f04e375b"
+   ],
+   "korrekturen": [
+    "f04167e2: 'herber Geruch' nicht belegt. Die Losungsmerkmale gedreht, mit Haaren und Kernen und erhöht abgelegt sind belegt bzw. plausibel.",
+    "f04e375b: Dunkelfärbung durch Beerenhäute im Spätsommer nicht ausdrücklich belegt."
+   ],
+   "quellen": [
+    [
+     "Stadtwildtiere: Fuchs",
+     "https://www.stadtwildtiere.de/artportraet/rotfuchs"
+    ],
+    [
+     "waldwissen.net: Wildtierkot erkennen",
+     "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/wildtierkot-erkennen"
+    ],
+    [
+     "Wurzeltrapp: Fuchs und Dachs (Fährtenkunde)",
+     "https://wurzeltrapp.de/wildtiere/der-fuchs-wildtiere-und-faehrtenkunde/"
+    ]
+   ]
+  },
+  {
+   "slug": "dachs",
+   "name": "Dachs",
+   "latein": "Meles meles",
+   "gruppe": "Säugetiere",
+   "kurz": "Größter heimischer Marder, kurzbeinig, mit weißem Kopf und schwarzen Streifen über den Augen.",
+   "erkennen": [
+    "Kopf-Rumpf-Länge 65 bis 90 cm, gedrungener Körper, kurze kräftige Beine.",
+    "Weißes Gesicht mit schwarzem Streifen jeder Seite von der Nase über das Auge bis zum Ohr.",
+    "Trittsiegel mit fünf Zehen und deutlichen Krallenabdrücken, die Vorderkrallen sind länger als die hinteren.",
+    "Nachtaktiv, lebt in Familiengruppen."
+   ],
+   "verwechslung": "Mit Fuchs und Hund durch die Fährte unterscheidbar: Dachs fünf Zehen, Fuchs und Hund vier. Verwechselbar mit dem Waschbären, der aber gespreizte, handartige Zehen hat.",
+   "lebensraum": "Hanglagen in Laubwäldern, von dort aus Wiesen, Felder und Siedlungsränder an Bächen und Gärten.",
+   "zeit": "Nachtaktiv, ganzjährig im Gebiet.",
+   "spuren": "Flache Kotgruben (Latrinen) mit fuchsähnlicher, meist nicht spitz endender Losung von etwa 2 cm Durchmesser. Festgetretene Wechsel durchs Gras, Bauanlage mit mehreren Röhren, Kratzspuren an Bäumen.",
+   "regional": null,
+   "umgang": "Bauten und Wechsel nicht stören und nicht betreten. Latrinen und Wühlstellen im Garten sind Zeichen eines Nahrungsreviers, keine Schädigung, die ein Eingreifen rechtfertigt. Bei einem Bau am Haus die Untere Naturschutzbehörde fragen.",
+   "schutz": "Nicht gefährdet, jagdbare Art (Stadtwildtiere).",
+   "naturdeck_ids": [
+    "0853d65d",
+    "2e54414a",
+    "9fe26910",
+    "c6026b83",
+    "cbc30692"
+   ],
+   "korrekturen": [
+    "6a03d39c (graue Haare mit heller Spitze am Stacheldraht) und adc9952c (Erde fächerförmig vor dem Bau, tiefere Krallenrillen als bei Fuchsgruben) nicht belegt, nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "Stadtwildtiere: Dachs",
+     "https://www.stadtwildtiere.de/artportraet/dachs"
+    ],
+    [
+     "Wurzeltrapp: Dachs (Fährtenkunde)",
+     "https://wurzeltrapp.de/wildtiere/der-dachs-wildtiere-und-faehrtenkunde/"
+    ],
+    [
+     "waldwissen.net: Wildtierkot erkennen",
+     "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/wildtierkot-erkennen"
+    ]
+   ]
+  },
+  {
+   "slug": "steinmarder",
+   "name": "Steinmarder",
+   "latein": "Martes foina",
+   "gruppe": "Säugetiere",
+   "kurz": "Graubrauner Marder mit weißem, oft gegabeltem Kehlfleck, der gern in Gebäuden lebt.",
+   "erkennen": [
+    "Kehlfleck meist weiß und oft gegabelt, er kann bis auf die Vorderbeine reichen.",
+    "Nase hell rosa, Fell gräulich mit durchscheinender heller Unterwolle.",
+    "Kopf-Rumpf-Länge 40 bis 56 cm, Schwanz 20 bis 32 cm, Gewicht 0,8 bis 2,5 kg.",
+    "Trittsiegel mit fünf Zehen und Krallenabdrücken."
+   ],
+   "verwechslung": "Mit dem Baummarder: Dieser hat einen rundlichen gelblichen bis orangefarbenen Kehlfleck und eine dunkelbraune Nase. Auf Dachböden und in Hofgebäuden handelt es sich fast immer um den Steinmarder, weil er Nähe zum Menschen sucht.",
+   "lebensraum": "Ursprünglich Felsbewohner, heute Wälder und vor allem Siedlungen, Scheunen, Dachböden und Hofanlagen.",
+   "zeit": "Nachtaktiv, ganzjährig. Die Jungen kommen meist im April oder Mai zur Welt.",
+   "spuren": "Wurstförmige, 8 bis 10 cm lange Losung mit gedrehter Spitze, oft auf erhöhten Stellen wie Balken, Mauern oder Holzstapeln. Im Sommer enthält sie oft Kirschkerne und Beerenreste. Trittsiegel mit fünf Zehen und Krallen.",
+   "regional": null,
+   "umgang": "Wenn Jungtiere im Gebäude sind, nicht vertreiben, sondern abwarten, bis sie ausgezogen sind. Einstiegslöcher danach verschließen, wenn sicher niemand mehr drin ist. Dabei die Untere Jagd- oder Naturschutzbehörde fragen.",
+   "schutz": "Nicht gefährdet, jagdbare Art mit Schonzeit (Jagdzeit nach Bundesjagdzeitenverordnung 16. Oktober bis 28. Februar).",
+   "naturdeck_ids": [
+    "2d5eaaf7",
+    "3e650619",
+    "6992311f",
+    "cad88db4",
+    "f39de1d7",
+    "fe7b0526"
+   ],
+   "korrekturen": [
+    "fe7b0526: fünf Zehen belegt, der Vergleich 'Ballen dichter als beim Waschbären' nicht belegt.",
+    "2aa54e76 ('Marder ziehen im Staub paarige Sprungspuren, Hinterfüße dicht vor Vordertritten'): nicht artgenau, Details nicht belegt, deshalb keiner Art zugeordnet.",
+    "Der Hinweis zum Vertreiben der Jungen: aus Quellen zur Wurfzeit abgeleitet, nicht ausdrücklich belegt."
+   ],
+   "quellen": [
+    [
+     "Stadtwildtiere: Steinmarder",
+     "https://www.stadtwildtiere.de/artportraet/steinmarder"
+    ],
+    [
+     "waldwissen.net: Baummarder oder Steinmarder",
+     "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/saeugetiere/baummarder-oder-steinmarder"
+    ],
+    [
+     "Berlin.de: Der Steinmarder",
+     "https://www.berlin.de/sen/uvk/natur-und-gruen/jagd-und-wildtiere/wildtiere-im-stadtgebiet/steinmarder/"
+    ]
+   ]
+  },
+  {
+   "slug": "baummarder",
+   "name": "Baummarder",
+   "latein": "Martes martes",
+   "gruppe": "Säugetiere",
+   "kurz": "Waldmarder mit dunkelbraunem Fell, braunem Näschen und gelblichem bis orangefarbenem Kehlfleck.",
+   "erkennen": [
+    "Fell dunkel bis kastanienbraun.",
+    "Kehlfleck gelblich, orange oder weißlich, rundlich und nur unter der Kehle.",
+    "Nase dunkelbraun, Ohren länger mit hellem Rand.",
+    "Wirkt in den Merkmalen wärmer gefärbt als der graue Steinmarder."
+   ],
+   "verwechslung": "Mit dem Steinmarder, der einen weißen, oft gegabelten Kehlfleck, eine rosa Nase und ein graueres Fell hat. Der Kehlfleck gilt als zuverlässigstes Merkmal.",
+   "lebensraum": "Wälder, auch fragmentierte Wälder und waldnahe Gärten. Reviere können bis zu 30 Quadratkilometer groß sein.",
+   "zeit": "Überwiegend nachtaktiv, gelegentlich auch tagsüber aktiv.",
+   "spuren": "Gedrehte, wurstförmige Losung, im Sommer mit Beerenresten. Die Losung des Baummarders riecht nach Moschus, die des Steinmarders unangenehm.",
+   "regional": null,
+   "umgang": "Im Wald und an Waldrändern Abstand halten und Wege nicht verlassen. Der Baummarder braucht vernetzte Wälder, deshalb helfen Hecken und Waldkorridore. Straßenverkehr ist eine Hauptursache für Verluste.",
+   "schutz": "Nicht gefährdet, jagdbare Art; in einigen Bundesländern strenger geschützt (Regelung des Bundeslandes prüfen).",
+   "naturdeck_ids": [
+    "10d2f04e",
+    "5252a4ad",
+    "b64d21bb"
+   ],
+   "korrekturen": [
+    "ac4f8196 und 42cd734c: Kirschkerne (Steinmarder-Merkmal) und Losung 'auf Stubben' nicht belegt für den Baummarder, nicht übernommen.",
+    "b75ae5f1: Fünfter Zeh 'halb im Rand' nicht belegt.",
+    "10d2f04e, 5252a4ad, b64d21bb: Standort der Losung (Stubben, Wurzeln) nicht belegt, übernommen sind nur gedrehte Form und Beerenreste."
+   ],
+   "quellen": [
+    [
+     "Stadtwildtiere: Baummarder",
+     "https://www.stadtwildtiere.de/artportraet/baummarder"
+    ],
+    [
+     "waldwissen.net: Baummarder oder Steinmarder",
+     "https://www.waldwissen.net/de/lebensraum-wald/tiere-im-wald/saeugetiere/baummarder-oder-steinmarder"
+    ]
+   ]
+  },
+  {
+   "slug": "iltis",
+   "name": "Iltis",
+   "latein": "Mustela putorius",
+   "gruppe": "Säugetiere",
+   "kurz": "Dunkler Marder mit heller Gesichtsmaske, der an Gräben und Ufern jagt und bei Gefahr stark riecht.",
+   "erkennen": [
+    "Dunkelbraunes bis schwarzes Fell, gelbliches Unterfell schimmert durch.",
+    "Weiße Gesichtsmaske, die ihn von anderen Mardern unterscheidet.",
+    "Kopf-Rumpf-Länge 35 bis 45 cm, Schwanz 11 bis 17 cm.",
+    "Trittsiegel mit fünf Zehen, kleiner als bei Stein- und Baummarder, größer als beim Hermelin."
+   ],
+   "verwechslung": "Mit Stein- und Baummarder: der Iltis ist zierlicher, hat einen kürzeren, weniger buschigen Schwanz und die helle Maske.",
+   "lebensraum": "Bewachsene Bach- und Flussufer, Sumpfgebiete, Rohrgürtel, grabenreiche Wiesen und Feldgehölze, auch Siedlungsränder.",
+   "zeit": "Dämmerungs- und nachtaktiv.",
+   "spuren": "Häufig Paarsprünge, die rund ein Drittel kürzer sind als bei Verwandten. Die Krallen sind im fünfzehigen Abdruck deutlich zu sehen. Das Analdrüsensekret riecht übel und dient zur Revierkennzeichnung und Verteidigung.",
+   "regional": null,
+   "umgang": "Feuchte, strukturreiche Gräben und Ufersäume nicht ausräumen, das hilft der Art. Bei Funden im Haus oder Verletzten die Untere Naturschutzbehörde fragen.",
+   "schutz": "Rote Liste Deutschland 3 (gefährdet), FFH-Richtlinie Anhang V; jagdbar, in vielen Bundesländern ruht die Jagd.",
+   "naturdeck_ids": [
+    "4c2c3f21",
+    "9539c6af"
+   ],
+   "korrekturen": [
+    "ba5a547c: 'Lauf wirkt breiter und weicher als bei Mardern' widerspricht der Quelle, laut der der Iltistritt kleiner und zarter als beim Marder ist.",
+    "2a9f0c54, 950b7e1e, d9abde52: Details zur Iltislosung (Froschreste, strenger Geruch, gedreht) nicht belegt. Belegt ist nur das übelriechende Analdrüsensekret."
+   ],
+   "quellen": [
+    [
+     "Artensteckbrief.de (BfN-Daten): Waldiltis",
+     "https://www.artensteckbrief.de/?ID_Art=156&BL="
+    ],
+    [
+     "Deutsche Wildtier Stiftung: Waldiltis",
+     "https://www.deutschewildtierstiftung.de/wildtiere/iltis"
+    ],
+    [
+     "Wikipedia: Europäischer Iltis (ergänzend)",
+     "https://de.wikipedia.org/wiki/Europ%C3%A4ischer_Iltis"
+    ]
+   ]
+  },
+  {
+   "slug": "hermelin",
+   "name": "Hermelin",
+   "latein": "Mustela erminea",
+   "gruppe": "Säugetiere",
+   "kurz": "Kleiner Marder, der im Winter ganz weiß wird; die Schwanzspitze bleibt das ganze Jahr schwarz.",
+   "erkennen": [
+    "Kopf-Rumpf-Länge 17 bis 33 cm, Schwanz 4 bis 12 cm, Gewicht 40 bis 360 g.",
+    "Sommer: braun mit weißem Bauch, die Fellgrenze verläuft relativ gerade, die Füße sind heller.",
+    "Winter: weißes Fell, nur die Schwanzspitze bleibt schwarz.",
+    "Etwa doppelt so groß wie das Mauswiesel."
+   ],
+   "verwechslung": "Mit dem Mauswiesel: Dieses hat keine schwarze Schwanzspitze, einen gezackten Verlauf der Fellgrenze und bleibt im Winter braun.",
+   "lebensraum": "Offene und halboffene Landschaft mit Mäusevorkommen, Gräben, Hecken, Ufer und Wiesen.",
+   "zeit": "Vorwiegend nachtaktiv, legt pro Nacht mehrere Kilometer zurück.",
+   "spuren": "Trittsiegel sind schwer von denen großer Mauswiesel zu trennen, weil sich die Größen überlappen. Beobachtungen im Schnee: Spurbreite etwa 7,5 cm beim Hermelin gegenüber knapp 4 cm beim Mauswiesel (nur Einzelbeispiele, keine festen Grenzwerte).",
+   "regional": null,
+   "umgang": "Aus der Ferne beobachten und nicht verfolgen. Hecken und Altgrasstreifen am Feldrand erhalten. Verletzte oder offensichtlich hilflose Tiere nicht anfassen, sondern eine Wildtierstation fragen.",
+   "schutz": "Rote Liste Deutschland: Kategorie D (Daten unzureichend).",
+   "naturdeck_ids": [
+    "02d82358",
+    "7b665d90",
+    "8aba3191"
+   ],
+   "korrekturen": [
+    "00c7233d und 835fb426 (Kotwürstchen auf Steinen, Federreste): nicht belegt. Sicher belegt ist die Jagd auf Wühlmäuse und kleine Säuger, Vögel kommen ebenfalls vor.",
+    "70e18941: 'kleine Fünfzehentritte paarig, enden an Mausgängen' nicht belegt.",
+    "02d82358: 'paarige Sprünge im Sand' nicht ausdrücklich belegt, Winterfärbung und Schwanzspitze sind belegt."
+   ],
+   "quellen": [
+    [
+     "Rote Liste Zentrum: Winterbote und Wühlmausjäger",
+     "https://www.rote-liste-zentrum.de/de/Winterbote-und-Wuhlmausjager-2275.html"
+    ],
+    [
+     "Schweizerischer Nationalpark: Hermelin und Mauswiesel",
+     "https://nationalpark.ch/flora-und-fauna/hermelin-und-mauswiesel/"
+    ],
+    [
+     "Wildbrücke: Unterschied Mauswiesel und Hermelin",
+     "https://wildbruecke.de/mauswiesel-und-hermelin/"
+    ]
+   ]
+  },
+  {
+   "slug": "mauswiesel",
+   "name": "Mauswiesel",
+   "latein": "Mustela nivalis",
+   "gruppe": "Säugetiere",
+   "kurz": "Kleinstes Raubtier der Welt, braun mit weißem Bauch und kurzem Schwanz ohne dunkle Spitze.",
+   "erkennen": [
+    "Kopf-Rumpf-Länge 14 bis 19 cm, Schwanz nur 3 bis 5 cm, Gewicht 30 bis 100 g.",
+    "Braunes Rückenfell, weiße bis gelbliche Bauchseite, Fellgrenze gezackt.",
+    "Schwanzspitze hat die Farbe des Fells, höchstens einzelne dunkle Haare.",
+    "Bleibt im Winter braun."
+   ],
+   "verwechslung": "Mit dem Hermelin, das etwa doppelt so groß ist, eine ganzjährig schwarze Schwanzspitze hat und im Winter weiß wird.",
+   "lebensraum": "Waldränder, Wiesen, Äcker und Hecken. Gern in Strukturen mit Wühlmausvorkommen.",
+   "zeit": "Ganzjährig aktiv, überwiegend dämmerungs- und tagaktiv.",
+   "spuren": "Nur schwer zu entdecken. Die Trittsiegel überschneiden sich in der Größe mit denen kleiner Hermeline, im Schnee hilft die Spurbreite (Einzelbeispiel knapp 4 cm).",
+   "regional": null,
+   "umgang": "Mit Geduld an extensiv genutzten Flächen beobachten und nicht stören. Altgrasstreifen und Hecken erhalten. Verletzte Tiere nicht anfassen, sondern eine Wildtierstation fragen.",
+   "schutz": "Rote-Liste-Einstufung für Deutschland nicht eindeutig zu belegen (Quellen widersprechen sich, die Fassung 2009 führt D, eine weitere Seite V). Deshalb keine Einstufung angegeben.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "09fae717, 234229b5, 45919aee, 69a086d8, 8c016515, 97c63bb1: Die Quellen belegen die Jagd auf Wühlmäuse und kleine Nager, nicht aber Sprungpaare, Losungsform oder die Nutzung von Feldmausgängen im Einzelnen. Daher keine Fakt-ID als bestätigt übernommen."
+   ],
+   "quellen": [
+    [
+     "Stadtwildtiere Berlin: Mauswiesel",
+     "https://berlin.stadtwildtiere.de/artportraet/mauswiesel"
+    ],
+    [
+     "Schweizerischer Nationalpark: Hermelin und Mauswiesel",
+     "https://nationalpark.ch/flora-und-fauna/hermelin-und-mauswiesel/"
+    ]
+   ]
+  },
+  {
+   "slug": "fischotter",
+   "name": "Fischotter",
+   "latein": "Lutra lutra",
+   "gruppe": "Säugetiere",
+   "kurz": "Größte heimische Marderart, ein scheuer, nachtaktiver Wasserjäger mit dichtem Fell und Schwimmhäuten.",
+   "erkennen": [
+    "Länge bis etwa 1,20 bis 1,30 m inklusive Schwanz, Gewicht bis 12 kg.",
+    "Rücken dunkelbraun, Bauch heller, gestreckter Körper, kurze Beine, rundlicher Kopf.",
+    "Schwimmhäute zwischen den Zehen.",
+    "Trittsiegel zeigt fünf Zehenballen, im Schnee oft mit Schwimmhaut, auf Schlamm mit Schleifspur des Schwanzes."
+   ],
+   "verwechslung": "Mit dem Mink, der deutlich kleiner und schlanker ist (rund 60 cm Gesamtlänge gegenüber bis zu 1,30 m beim Fischotter).",
+   "lebensraum": "Gewässerufer mit flachen und steilen Abschnitten und Versteckmöglichkeiten, auch Teichanlagen. Reviere umfassen je nach Nahrungsangebot 2 bis 20 km Uferstrecke.",
+   "zeit": "Scheu und überwiegend nachtaktiv, selten zu sehen. Er legt in einer Nacht bis zu 20 km zurück.",
+   "spuren": "Losung wird zur Revierkennzeichnung abgesetzt und riecht deutlich nach Fisch, mit Fischresten und Schalentieren. Dazu Markierungssekret, Beutereste und Trittsiegel.",
+   "regional": "Der BUND Mecklenburg-Vorpommern erfasst seit 2000 jährlich zwischen September und März Otternachweise auf etwa 10.600 Quadratkilometern, etwa der halben Landesfläche. Die Zahl der Nachweise steigt.",
+   "umgang": "Abstand zu Ufern mit Otterspuren halten, besonders in der Dämmerung und nachts. Reusen und Fischfallen sind für Otter tödlich, ottersichere Reusen helfen. Bei Verkehrsopfern oder verletzten Tieren die Naturschutzbehörde verständigen.",
+   "schutz": "Streng geschützt, FFH-Anhang II und IV; Rote Liste Deutschland 3 (gefährdet), Erhaltungszustand ungünstig bis unzureichend (BfN-Artenporträt).",
+   "naturdeck_ids": [
+    "09d78277",
+    "5245db81",
+    "56562f2f",
+    "6c215416",
+    "8febf872",
+    "b8e7e6bf"
+   ],
+   "korrekturen": [
+    "Die Angabe 'süßlich' zum Geruch der Losung wurde in den verfügbaren Quellen nicht bestätigt, belegt ist 'riecht deutlich nach Fisch' (5245db81, 56562f2f, 6c215416, 8febf872).",
+    "09d78277: Schwimmhaut wird laut Quelle vor allem im Schnee sichtbar, 'nur in sehr weichem Schlamm' nicht ausdrücklich belegt.",
+    "b8e7e6bf: Otterwechsel ist plausibel, 'nasse Bauchspuren' nicht belegt, belegt ist die Schwanzschleifspur."
+   ],
+   "quellen": [
+    [
+     "BfN: Fischotter",
+     "https://www.bfn.de/artenportraits/lutra-lutra"
+    ],
+    [
+     "BUND Mecklenburg-Vorpommern: Fischotter",
+     "https://www.bund-mecklenburg-vorpommern.de/themen/naturschutz/naturschutz/artenportraits/fischotter"
+    ],
+    [
+     "Wikipedia: Fischotter (ergänzend)",
+     "https://de.wikipedia.org/wiki/Fischotter"
+    ]
+   ]
+  },
+  {
+   "slug": "mink",
+   "name": "Mink",
+   "latein": "Neovison vison",
+   "gruppe": "Säugetiere",
+   "kurz": "Dunkler, schlanker Marder aus Nordamerika, der an Gewässern lebt und aus Pelztierhaltung stammt.",
+   "erkennen": [
+    "Rund 60 cm lang, davon etwa 20 cm Schwanz.",
+    "Dichtes, dunkelbraunes, glänzendes Fell.",
+    "Dunkle Oberlippe und heller Unterkieferfleck.",
+    "Schwimmhäute zwischen den Zehen."
+   ],
+   "verwechslung": "Mit dem Europäischen Nerz, der auf den ersten Blick kaum zu unterscheiden ist, und mit dem Iltis. Die sichere Bestimmung braucht Fachleute.",
+   "lebensraum": "Ufer von Seen, Fließgewässern, Gräben, Kanälen und Fischteichen, besonders mit dichter Vegetation; auch Moorränder und Feuchtgebiete.",
+   "zeit": "Überwiegend dämmerungs- und nachtaktiv.",
+   "spuren": "Trittsiegel mit Schwimmhaut sind im Uferschlamm möglich. Die Nahrung besteht aus Fischen, Amphibien, Krebsen, Kleinsäugern, Wasservögeln und Eiern, entsprechende Reste können auf Beutegewässern liegen.",
+   "regional": "Stabile Populationen gibt es laut Jagdverband unter anderem in Brandenburg, mit einem Schwerpunkt in Ostdeutschland. Für Mecklenburg-Vorpommern liegt keine eigene belegte Angabe vor.",
+   "umgang": "Der Mink ist als gebietsfremde Art eingestuft. Sichtungen helfen den Behörden und können der Unteren Naturschutzbehörde oder dem Jagdausübungsberechtigten gemeldet werden. Selbst fangen sollte man die Tiere nicht.",
+   "schutz": "Gebietsfremde Art ohne Rote-Liste-Einstufung. Eine Quelle (Jagdportal) nennt die Aufnahme in die EU-Unionsliste mit Wirkung ab 7. August 2027, nicht über eine Behörde geprüft.",
+   "naturdeck_ids": [
+    "46ab0b07",
+    "c6cbd33d"
+   ],
+   "korrekturen": [
+    "46ab0b07: Fünf Zehen und Schwimmhaut sind plausibel (Marder), die Quellen nennen Schwimmhäute zwischen den Zehen.",
+    "c6cbd33d: Minklosung mit Fischschuppen und Krebspanzern ist über die Nahrungsangaben gedeckt, die Losungsform selbst wurde nicht belegt.",
+    "Spuren und Losung des Minks sind in den Quellen sonst nicht beschrieben."
+   ],
+   "quellen": [
+    [
+     "Wildtierportal Baden-Württemberg: Mink",
+     "https://www.wildtierportal-bw.de/de/frontend/product/detail?productId=64"
+    ],
+    [
+     "Deutscher Jagdverband: Mink",
+     "https://www.jagdverband.de/zahlen-fakten/tiersteckbriefe/mink-neovison-vison"
+    ],
+    [
+     "Wild beim Wild: Mink auf der EU-Liste",
+     "https://wildbeimwild.com/en/american-mink-added-to-the-eu-list-of-invasive-alien-species/"
+    ]
+   ]
+  },
+  {
+   "slug": "marderhund",
+   "name": "Marderhund",
+   "latein": "Nyctereutes procyonoides",
+   "gruppe": "Säugetiere",
+   "kurz": "Fuchsgroßer, gedrungener Hundeartiger mit dunkler Gesichtsmaske, aus Ostasien eingeführt.",
+   "erkennen": [
+    "Körperlänge 50 bis 68 cm, Rute 13 bis 25 cm, Gewicht 4 bis 10 kg.",
+    "Kurze Beine und gedrungener Körper, schulterhoch 20 bis 30 cm.",
+    "Dunkle Gesichtsmaske mit hellerem Band, Flanken beigegrau.",
+    "Trittsiegel mit vier Zehen an allen Füßen."
+   ],
+   "verwechslung": "Mit dem Waschbären, dessen Maske ähnlich wirkt: Der Marderhund ist ein Hundeartiger, kann nicht klettern und hat keinen geringelten Schwanz.",
+   "lebensraum": "Wälder mit dichtem Unterholz, feuchte strukturreiche Gebiete, Seen und Schilfgürtel. Als Schlafplatz dienen oft verlassene Dachs- oder Fuchsbaue.",
+   "zeit": "Nachtaktiv. In kalten Wintern hält er als einziger Hundeartiger Winterruhe, grob zwischen November und Februar.",
+   "spuren": "Im Schlamm oder Schnee sind vier Zehenabdrücke zu sehen, der Vorderfußabdruck ist meist breiter als lang, der Hinterfuß ähnelt dem eines Hundes. Kotplätze markieren sein Revier, im Sommer enthält die Losung viel pflanzliche Nahrung wie Früchte.",
+   "regional": null,
+   "umgang": "Nicht füttern und keine Tiere einfangen. Abfälle und Kompost nicht zugänglich halten. Der Marderhund steht auf der Unionsliste invasiver Arten, deshalb sind Haltung und Handel verboten. Sichtungen kann man der Unteren Naturschutzbehörde oder dem Jagdausübungsberechtigten melden.",
+   "schutz": "Gebietsfremde Art, in Deutschland seit den 1960er Jahren ausgebreitet. EU-Unionsliste invasiver Arten (Einfuhr, Zucht, Transport verboten, seit 2019); jagdbar.",
+   "naturdeck_ids": [
+    "019d435f",
+    "bd6e189e",
+    "8ffb0738",
+    "7d360fa4"
+   ],
+   "korrekturen": [
+    "4107830c und b265de89: 'Mittelzehen spreizen weniger sauber', 'Zehen spreizen breiter als beim Fuchs' nicht belegt. Quellen nennen nur vier Zehen und hundeähnlichen Hinterfuß.",
+    "019d435f: 'Gang wirkt kürzer und rundlicher' nicht belegt, vier Zehen sind belegt.",
+    "7d360fa4: 'an festen Wechseln' nicht belegt, Kotplätze und Obst im Sommer sind belegt."
+   ],
+   "quellen": [
+    [
+     "Stadtwildtiere: Marderhund",
+     "https://www.stadtwildtiere.de/artportraet/marderhund"
+    ],
+    [
+     "Wildtierportal Bayern: Marderhund",
+     "https://www.wildtierportal.bayern.de/wildtiere_bayern/223538/index.php"
+    ],
+    [
+     "Wikipedia: Marderhund (ergänzend)",
+     "https://de.wikipedia.org/wiki/Marderhund"
+    ]
+   ]
+  },
+  {
+   "slug": "waschbaer",
+   "name": "Waschbär",
+   "latein": "Procyon lotor",
+   "gruppe": "Säugetiere",
+   "kurz": "Kleinbär mit schwarzer Gesichtsmaske, geringeltem Schwanz und handartigen Vorderpfoten, aus Nordamerika eingeführt.",
+   "erkennen": [
+    "Schwarze, weiß umrandete Gesichtsmaske.",
+    "Buschiger Schwanz mit schwarzen und weißen Ringen.",
+    "Kopf-Rumpf-Länge etwa 40 bis 70 cm, Gewicht 5 bis 10 kg.",
+    "Vorderpfoten wirken wie kleine Kinderhände, fünf lange Zehen."
+   ],
+   "verwechslung": "Mit dem Marderhund, der keinen geringelten Schwanz hat und vier Zehen. Beim Dachs ist das Trittsiegel mit Krallen breiter, ohne gespreizte Finger.",
+   "lebensraum": "Wasserreiche Laub- und Mischwälder, zunehmend auch Siedlungen mit Baumhöhlen, Gebäuden und Bauen als Quartier.",
+   "zeit": "Ganzjährig dämmerungs- und nachtaktiv.",
+   "spuren": "Fährte mit fünf Zehen an Vorder- und Hinterpfoten, die Vorderpfoten ähneln Händen. Kot wird oft an Latrinen abgesetzt; Spulwurmeier im Kot können für Menschen gefährlich sein, deshalb Schutzhandschuhe tragen.",
+   "regional": "Mecklenburg-Vorpommern gehört zu den beiden großen Verbreitungsschwerpunkten der Art in Deutschland.",
+   "umgang": "Nicht füttern, sonst verlieren die Tiere ihre Scheu. Mülltonnen mit festem Deckel nutzen, Futter und Speisereste unzugänglich lagern und Zugänge zu Dachböden verschließen, wenn sicher kein Tier mehr drin ist. Nach EU-Recht darf man Waschbären nicht halten, befördern oder anderswo freilassen. Bei Problemen die Untere Naturschutzbehörde oder die Jagdbehörde fragen.",
+   "schutz": "Gebietsfremde Art, seit 2016 auf der EU-Unionsliste invasiver Arten, in Deutschland jagdbar. Keine Gefährdungseinstufung.",
+   "naturdeck_ids": [
+    "5bf5cc51",
+    "bfd8d1ad",
+    "d93e6726",
+    "e1049558",
+    "ff952b37"
+   ],
+   "korrekturen": [
+    "f37b726f: Vergleich 'Zehen stehen gespreizter als bei Marder oder Otter' nicht belegt.",
+    "bfd8d1ad: 'drücken sich tief in weichen Lehm' nicht belegt, handähnliche Spur ist belegt."
+   ],
+   "quellen": [
+    [
+     "Stadtwildtiere: Waschbär",
+     "https://www.stadtwildtiere.de/artportraet/waschbaer"
+    ],
+    [
+     "NABU Berlin: Waschbär",
+     "https://berlin.nabu.de/tiere-und-pflanzen/saeugetiere/waschbaer/index.html"
+    ],
+    [
+     "LfU Bayern: Waschbär",
+     "https://www.lfu.bayern.de/natur/neobiota/invasive_arten/doc/waschbaer.pdf"
+    ],
+    [
+     "Wikipedia: Waschbär (ergänzend)",
+     "https://de.wikipedia.org/wiki/Waschb%C3%A4r"
+    ]
+   ]
+  },
+  {
+   "slug": "wolf",
+   "name": "Wolf",
+   "latein": "Canis lupus",
+   "gruppe": "Säugetiere",
+   "kurz": "Großer, scheuer Beutegreifer, der seit 2000 wieder in Deutschland Welpen großzieht.",
+   "erkennen": [
+    "Ähnelt einem großen Haushund, mit längerer Schnauze und kleineren aufrechten Ohren.",
+    "Helle Wangen und Flecken über den Augen, weißliche Halsvorderseite.",
+    "Schulterhöhe 66 bis 91 cm, Körperumriss quadratisch, Schwanz hängt in Ruhe nach unten.",
+    "Trittsiegel 8 bis 10 cm lang, länglich-oval, Krallen gerade ausgerichtet."
+   ],
+   "verwechslung": "Mit Hunden, besonders großen Schäferhunden. Ein einzelner Abdruck reicht kaum zur Unterscheidung. Der Spurverlauf hilft: Wölfe laufen im geschnürten Trab mit Hinterpfoten in den Vorderabdrücken, Hunde laufen oft im Zickzack.",
+   "lebensraum": "Dünn besiedelte Tieflandlandschaften und Mittelgebirge, meist mit Rehen, Rothirschen und Wildschweinen als Hauptbeute. Territorien umfassen 150 bis 350 Quadratkilometer.",
+   "zeit": "Überwiegend nachtaktiv und scheu, Begegnungen am Tag sind selten.",
+   "spuren": "Geschnürte Fährte in Doppeltrittsiegeln. Die Losung ist langgestreckt, zylindrisch, 10 bis 20 cm lang und enthält Haare und Knochensplitter mit weißen Kalkanteilen.",
+   "regional": "Im Monitoringjahr 2024/25 wurden in Mecklenburg-Vorpommern 28 Wolfsrudel, fünf Paare und ein territorialer Einzelwolf nachgewiesen, laut Landesangaben.",
+   "umgang": "Wölfe meiden normalerweise Menschen. Bei einer Begegnung ruhig stehen bleiben, Abstand halten, langsam rückwärts gehen und sich bemerkbar machen, nicht weglaufen. Hunde anleinen. Auffällig ist ein Wolf, der sich wiederholt auf unter 30 Meter nähert, aggressiv reagiert oder tagelang an Wohnhäusern auftaucht, das dem Wolfsmanagement melden. Nicht füttern und nicht anlocken.",
+   "schutz": "Auf EU-Ebene ist der Wolf seit 2025 von Anhang IV in Anhang V der FFH-Richtlinie herabgestuft. Der Rechtsstand in Deutschland ändert sich derzeit; verbindlich Auskunft geben die Naturschutzbehörden der Länder.",
+   "naturdeck_ids": [
+    "ab91f526"
+   ],
+   "korrekturen": [
+    "ab91f526: Schnüren ist belegt, 'Vordertritte stehen sauberer als Hundespuren' nur teilweise (länglicher Abdruck, gerade Krallen). Einzelabdrücke sind nach Quellenlage kaum sicher von Hundespuren zu trennen.",
+    "Das Naturdeck nennt keinen Schutzstatus, dieser wird in der EU und in Deutschland gerade geändert."
+   ],
+   "quellen": [
+    [
+     "BfN: Wolf",
+     "https://www.bfn.de/artenportraits/canis-lupus"
+    ],
+    [
+     "Wolfskompetenzzentrum Landesforst M-V",
+     "https://www.wald-mv.de/landesforst-mv/aufgaben-der-landesforst-mv/wolfskompetenzzentrum/"
+    ],
+    [
+     "Wölfe in M-V (Landesportal)",
+     "https://wolf-mv.de/woelfe-in-m-v/"
+    ],
+    [
+     "KORA: Nachweise im Feld",
+     "https://www.kora.ch/de/arten/wolf/nachweise-im-feld"
+    ],
+    [
+     "NABU: Bundesregierung nimmt Wolf ins Bundesjagdgesetz auf",
+     "https://www.nabu.de/tiere-und-pflanzen/saeugetiere/wolf/wissen/26885.html"
+    ]
+   ]
+  },
+  {
+   "slug": "biber",
+   "name": "Biber",
+   "latein": "Castor fiber",
+   "gruppe": "Säugetiere",
+   "kurz": "Größtes heimisches Nagetier mit flacher Schwanzkelle, das Weichhölzer fällt und Gewässer gestaltet.",
+   "erkennen": [
+    "Länge bis etwa 1,35 m, Gewicht 25 bis 30 kg.",
+    "Flache, schuppige Schwanzkelle, Schwimmhäute an den Hinterfüßen.",
+    "Große orangerote Nagezähne.",
+    "Dichtes graubraunes bis dunkelbraunes Fell."
+   ],
+   "verwechslung": "Mit Nutria und Bisam: Beim Biber ist der Schwanz breit und paddelförmig, bei der Nutria rund und beim Bisam seitlich abgeflacht. Im Wasser ist der Biber deutlich größer.",
+   "lebensraum": "Fließ- und Stillgewässer mit Uferbewuchs. Biber bauen Burgen aus Ästen oder Erdbaue mit Unterwassereingang und verlassen das Wasser selten weiter als etwa 50 m.",
+   "zeit": "Dämmerungs- und nachtaktiv, kein Winterschlaf, im Winter aber weniger draußen.",
+   "spuren": "Rinde, Knospen und Zweige werden im Winter gefressen, dabei bleiben geschälte Weiden und Pappeln und angenagte Stämme zurück. Fällungen zeigen helle Späne, die Zähne hinterlassen breite Nagespuren.",
+   "regional": "In Mecklenburg-Vorpommern leben nach Angaben des LUNG rund 4.500 Biber. Die Wiederansiedlung begann an der Peene und im Sternberger Seenland, an der Mittleren Elbe überlebte eine kleine Restpopulation.",
+   "umgang": "Burgen, Dämme und Bäume nicht beschädigen, das ist verboten. Bei Konflikten wie gestauten Gräben oder Fraß an Gehölzen helfen die geschulten Biberbeauftragten des Landes.",
+   "schutz": "Streng geschützt (BNatSchG), FFH-Anhang II und IV. Rote Liste Deutschland Vorwarnliste (V); in Mecklenburg-Vorpommern gefährdet (3), laut Berichterstattung 2025.",
+   "naturdeck_ids": [
+    "6cbcff15",
+    "c514f5ae",
+    "d1c539ab",
+    "bd20347f"
+   ],
+   "korrekturen": [
+    "Die Details 'paarige Rillen' und 'schräger Biss' sind in den Quellen nicht ausdrücklich beschrieben, belegt sind Schälen, Fällen und breite Nagespuren."
+   ],
+   "quellen": [
+    [
+     "BfN: Biber",
+     "https://www.bfn.de/artenportraits/castor-fiber"
+    ],
+    [
+     "NABU Mecklenburg-Vorpommern: Der Biber",
+     "https://mecklenburg-vorpommern.nabu.de/tiere-und-pflanzen/saeugetiere/sonstige-saeugetiere/11482.html"
+    ],
+    [
+     "NABU: Im Vergleich Biber, Nutria oder Bisam",
+     "https://www.nabu.de/tiere-und-pflanzen/saeugetiere/nager/29380.html"
+    ]
+   ]
+  },
+  {
+   "slug": "bisam",
+   "name": "Bisam",
+   "latein": "Ondatra zibethicus",
+   "gruppe": "Säugetiere",
+   "kurz": "Wühlmaus aus Nordamerika mit seitlich abgeflachtem Schwanz, die an Gewässern Fressplätze anlegt.",
+   "erkennen": [
+    "Körper 25 bis 40 cm lang, Gewicht etwa 900 g.",
+    "Schwanz schuppig und seitlich zusammengedrückt.",
+    "Kopf schmal und spitz, kleine Ohren, dunkle Zähne.",
+    "Im Wasser ragt oft nur der halbe Körper heraus."
+   ],
+   "verwechslung": "Mit Nutria und Biber: Die Nutria hat einen runden Schwanz, orange Zähne und weiße Barthaare, der Biber eine flache Kelle und ist deutlich größer.",
+   "lebensraum": "Uferbereiche stehender und fließender Gewässer. Bisame bauen Erdbaue mit Eingang unter Wasser oder kuppelförmige Burgen aus Pflanzenmaterial.",
+   "zeit": null,
+   "spuren": "Ein Netz aus Pfaden, Bauten und Fressplätzen am Ufer. Der Bisam frisst vor allem Pflanzen, gelegentlich auch Insekten, Amphibien oder Fische.",
+   "regional": null,
+   "umgang": "Bisame stehen auf der EU-Unionsliste. Bei Schäden an Deichen oder Teichufern entscheidet die zuständige Wasser- oder Jagdbehörde über Maßnahmen; Privatleute sollten nicht selbst fangen. Der Biber ist dagegen streng geschützt, deshalb vor jedem Eingriff die Art sicher bestimmen.",
+   "schutz": "Gebietsfremde Art, EU-Unionsliste invasiver Arten. Jagdrecht ist Ländersache.",
+   "naturdeck_ids": [
+    "1ec4c508"
+   ],
+   "korrekturen": [
+    "5c426c30, dd207639, f1d8efaf, cb6a139f: 'Schilf schräg abgenagt', 'feine Schwimmhäute' und 'sauberere Schnittenden als Nutria' sind in den Quellen nicht belegt.",
+    "ca52a0a2: Aussehen und Geruch der Bisamlosung nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU: Im Vergleich Biber, Nutria oder Bisam",
+     "https://www.nabu.de/tiere-und-pflanzen/saeugetiere/nager/29380.html"
+    ],
+    [
+     "Land Brandenburg: Umgang mit Bisam und Nutria",
+     "https://mleuv.brandenburg.de/mleuv/de/umwelt/wasser/gewaesser-und-anlagenunterhaltung/umgang-mit-bisam-und-nutria/"
+    ],
+    [
+     "Jagdfakten: Bisamratte",
+     "https://www.jagdfakten.at/bisamratte-steckbrief/"
+    ]
+   ]
+  },
+  {
+   "slug": "nutria",
+   "name": "Nutria",
+   "latein": "Myocastor coypus",
+   "gruppe": "Säugetiere",
+   "kurz": "Plumpes Nagetier aus Südamerika mit rundem Schwanz, orangefarbenen Zähnen und weißen Barthaaren.",
+   "erkennen": [
+    "Körper etwa 55 bis 70 cm, Gewicht bis etwa 9 kg.",
+    "Runder, schuppiger Schwanz.",
+    "Orangefarbene Schneidezähne und lange weiße Barthaare.",
+    "Stumpfer Kopf, im Wasser ragt der Rücken über die Oberfläche."
+   ],
+   "verwechslung": "Mit Biber und Bisam: Der Biber ist größer und hat eine flache Kelle, der Bisam ist kleiner und hat einen seitlich abgeflachten Schwanz.",
+   "lebensraum": "Bäche und Flüsse mit viel Ufervegetation, nährstoffreiche Seen und Teiche.",
+   "zeit": "Ganzjährig dämmerungs- und nachtaktiv.",
+   "spuren": "Trittsiegel mit fünf Zehen, der Hinterfuß ist größer als der Vorderfuß und hat Schwimmhäute zwischen den meisten Zehen. Der Schwanz zeichnet sich oft als dünne Linie ab.",
+   "regional": null,
+   "umgang": "Nicht füttern, auch wenn die Tiere zutraulich werden. Bei Schäden an Ufern oder Deichen die zuständige Wasser- oder Jagdbehörde fragen. Nutria nicht mit dem streng geschützten Biber verwechseln.",
+   "schutz": "Gebietsfremde Art, auf der EU-Unionsliste invasiver Arten. Keine Rote-Liste-Einstufung. Jagdrecht ist Ländersache.",
+   "naturdeck_ids": [
+    "af7c6ed3",
+    "34786a8b",
+    "ca404448"
+   ],
+   "korrekturen": [
+    "0b3072ea, 32d6c8b8: 'schräg abgeschnittenes Schilf', 'stumpfe Stängelenden' und 'breite Wechsel' nicht belegt.",
+    "ca404448: 'breite Schwimmspur durch Entengrütze' nicht ausdrücklich belegt, belegt ist, dass der Rücken beim Schwimmen sichtbar bleibt."
+   ],
+   "quellen": [
+    [
+     "Stadtwildtiere: Nutria",
+     "https://www.stadtwildtiere.de/artportraet/nutria"
+    ],
+    [
+     "NABU: Im Vergleich Biber, Nutria oder Bisam",
+     "https://www.nabu.de/tiere-und-pflanzen/saeugetiere/nager/29380.html"
+    ],
+    [
+     "Land Brandenburg: Umgang mit Bisam und Nutria",
+     "https://mleuv.brandenburg.de/mleuv/de/umwelt/wasser/gewaesser-und-anlagenunterhaltung/umgang-mit-bisam-und-nutria/"
+    ]
+   ]
+  },
+  {
+   "slug": "feldhase",
+   "name": "Feldhase",
+   "latein": "Lepus europaeus",
+   "gruppe": "Säugetiere",
+   "kurz": "Größter Hase der Welt mit schwarz gespitzten Ohren, der in flachen Mulden im Gras ruht.",
+   "erkennen": [
+    "Länge 55 bis 68 cm, Gewicht 3,5 bis 5 kg.",
+    "Braungraues Fell, helle Bauchseite.",
+    "Ohren mit schwarzen Spitzen, Schwanzoberseite schwarz.",
+    "Kräftige Hinterfüße, Pfoten dicht behaart."
+   ],
+   "verwechslung": "Mit dem Wildkaninchen: Dieses hat kürzere Ohren (6 bis 8 cm) und kürzere Hinterläufe und ist kleiner.",
+   "lebensraum": "Offene Feldflur, Wiesen, Hecken und Brachen, auch lichte Wälder und Randbereiche.",
+   "zeit": "Vor allem dämmerungs- und nachtaktiv; in der Fortpflanzungszeit zwischen Januar und März auch tagsüber.",
+   "spuren": "Die Sasse ist eine flache Mulde im Gras, oft durch Hecken oder hohes Gras geschützt. Die Hinterfüße zeigen vier Zehen, die Vorderfüße fünf, wegen der Behaarung zeichnen sich oft nur Umrisse und Krallen ab.",
+   "regional": null,
+   "umgang": "Junghasen, die allein in der Sasse sitzen, sind nicht verlassen: Die Mutter kommt meist nur nachts zum Säugen. Nicht anfassen und nicht mitnehmen. Während der Zeit der Jungtiere (März bis September) Hunde anleinen und auf den Wegen bleiben.",
+   "schutz": "Rote Liste Deutschland: gefährdet, nach der Liste der Säugetiere 2020. Ursache vor allem intensive Landwirtschaft, Verkehr und Verlust von Feldrainen.",
+   "naturdeck_ids": [
+    "4785f05d",
+    "83e2ddd2",
+    "8decdf1e",
+    "9637f779"
+   ],
+   "korrekturen": [
+    "5b524bf6, c94f6d25, 83e2ddd2: Form und Farbe der Hasenlosung (rund, faserig, grünlich bis strohgelb) nicht belegt.",
+    "a6b4fc66: Spurbild 'Hinterläufe vor die Vordertritte' nicht belegt.",
+    "Die Sasse als Mulde im Gras ist belegt (4785f05d, 8decdf1e, 9637f779); 'helle Haare am Rand' nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Stadtwildtiere: Feldhase",
+     "https://www.stadtwildtiere.de/artportraet/feldhase"
+    ],
+    [
+     "Rote Liste Zentrum: Feldhase",
+     "https://www.rote-liste-zentrum.de/themenwelt/artenportraits/feldhase/"
+    ],
+    [
+     "NABU Odenwaldkreis: Feldhase",
+     "https://www.nabu-odenwaldkreis.de/wildtierhilfe/erste-hilfe-ma%C3%9Fnahmen/feldhase/"
+    ]
+   ]
+  },
+  {
+   "slug": "wildkaninchen",
+   "name": "Wildkaninchen",
+   "latein": "Oryctolagus cuniculus",
+   "gruppe": "Säugetiere",
+   "kurz": "Kleiner als der Feldhase, graubraun mit kurzen Ohren, lebt in Kolonien mit Bauten im Sandboden.",
+   "erkennen": [
+    "Körperlänge 35 bis 45 cm, Gewicht etwa 1,3 bis 2,5 kg.",
+    "Graubraunes Fell, helle Unterseite, helle Unterseite der Blume.",
+    "Kurze Ohren von etwa 6 bis 8 cm.",
+    "Hinterläufe kürzer als beim Feldhasen."
+   ],
+   "verwechslung": "Mit dem Feldhasen, der größer ist, längere Ohren mit schwarzen Spitzen und eine schwarze Schwanzoberseite hat.",
+   "lebensraum": "Sandige, grabbare Böden mit Hecken und Gebüsch. Die Tiere leben in Kolonien mit verzweigten Bauen.",
+   "zeit": "Ganzjährig dämmerungs- und nachtaktiv.",
+   "spuren": "Verzweigte Baue im Sandboden, die Gänge können bis zu drei Meter tief und 45 Meter lang werden. Bei Gefahr klopfen die Tiere mit den Hinterläufen.",
+   "regional": null,
+   "umgang": "Nicht füttern, das lässt Bestände anwachsen und führt zu Ärger durch Baue. Hunde anleinen. Bauten und Hecken erhalten, wo sie nicht stören.",
+   "schutz": "Rote Liste Deutschland: Vorwarnliste (V), nach Meinig et al. 2020. Rückgang vor allem durch Myxomatose und Chinaseuche (RHD).",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "49ee2a7d: Sandrampen am Heckenfuß und 'runde Kugeln dichter als Hasenlosung' nicht belegt, nicht als bestätigt übernommen."
+   ],
+   "quellen": [
+    [
+     "Stadtwildtiere: Wildkaninchen",
+     "https://www.stadtwildtiere.de/artportraet/wildkaninchen"
+    ],
+    [
+     "Wikipedia: Wildkaninchen (ergänzend)",
+     "https://de.wikipedia.org/wiki/Wildkaninchen"
+    ],
+    [
+     "Rote Liste Zentrum: Säugetiere",
+     "https://www.rote-liste-zentrum.de/de/Saugetiere-Mammalia-1730.html"
+    ]
+   ]
+  },
+  {
+   "slug": "eichhoernchen",
+   "name": "Eichhörnchen",
+   "latein": "Sciurus vulgaris",
+   "gruppe": "Säugetiere",
+   "kurz": "Flinker Baumbewohner mit buschigem Schwanz, dessen Farbe von hellrot bis fast schwarz reicht.",
+   "erkennen": [
+    "Fellfarbe von hellrot bis fast schwarz, Bauch rein weiß.",
+    "Im Winter Haarpinsel an den Ohren.",
+    "Gewicht etwa 200 bis 400 g, Schwanz fast körperlang.",
+    "Tagaktiv, klettert gewandt."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Wälder, Parks und Gärten mit Bäumen. Der Kobel ist ein kugelförmiges Nest aus Ästen, Moos und Gras, hoch im Baum nahe am Stamm.",
+   "zeit": "Ganzjährig tagaktiv, besonders morgens und im Sommer nochmals am Nachmittag.",
+   "spuren": "An Nadelbaumzapfen bleiben abgerissene Schuppen und eine blanke Spindel liegen. Haselnüsse werden mit kräftigen Bissen aufgebrochen und oft in zwei Teile gespalten, Mäuse nagen feiner und einseitig.",
+   "regional": null,
+   "umgang": "Nicht füttern, falsches Futter macht Eichhörnchen zu dick. Kobel nicht entfernen oder öffnen. Hilflose Jungtiere nicht mitnehmen, sondern eine Wildtierstation fragen.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung. Nester dürfen nicht entfernt werden.",
+   "naturdeck_ids": [
+    "0fbbd4e6",
+    "7d550040",
+    "fac3ea8d",
+    "1b3bd981"
+   ],
+   "korrekturen": [
+    "1b3bd981 und b49f8f83: 'von unten zerfasert' bzw. 'Schuppenkranz am Fuß' nicht belegt.",
+    "c4dd79a7, e8a0d6cd: Vergleiche mit Mäusefraß am Zapfen nicht belegt. Belegt ist der Unterschied bei Haselnüssen.",
+    "Der Bundesartenschutz stützt sich auf Angaben des Eichhörnchen Notruf e.V. und der Bußgeldübersicht, die BArtSchV selbst wurde nicht geprüft."
+   ],
+   "quellen": [
+    [
+     "Stadtwildtiere: Eichhörnchen",
+     "https://www.stadtwildtiere.de/artportraet/eichhoernchen"
+    ],
+    [
+     "NABU Brandenburg: Eichhörnchen",
+     "https://brandenburg.nabu.de/tiere-und-pflanzen/saeugetiere/30994.html"
+    ],
+    [
+     "BUND Naturschutz: Eichhörnchen",
+     "https://www.bund-naturschutz.de/tiere-in-bayern/eichhoernchen"
+    ]
+   ]
+  },
+  {
+   "slug": "braunbrustigel",
+   "name": "Braunbrustigel",
+   "latein": "Erinaceus europaeus",
+   "gruppe": "Säugetiere",
+   "kurz": "Stacheliger Insektenfresser, der nachts in Gärten und Hecken Käfer, Würmer und Schnecken sucht.",
+   "erkennen": [
+    "Etwa 6.000 bis 8.000 Stacheln.",
+    "Kopf-Rumpf-Länge etwa 25 bis 30 cm, Gewicht 800 bis 1.700 g.",
+    "Rollt sich bei Gefahr zusammen.",
+    "Trittsiegel mit fünf Zehen und langen Krallen, ähnlich einer Rattenspur."
+   ],
+   "verwechslung": null,
+   "lebensraum": "Strukturreiche Gärten, Parks, Hecken, Waldränder und Wiesen. In Städten ist die Dichte laut Quelle zwei- bis dreimal höher als auf dem Land.",
+   "zeit": "Dämmerungs- und nachtaktiv, Winterschlaf etwa von November bis März oder April.",
+   "spuren": "Kot mit Käferresten, Beeren und Insektenpanzern. Als Tagesnester dienen einfache Mulden unter Laub und Gebüsch.",
+   "regional": null,
+   "umgang": "Gesunde Igel nicht füttern und nicht einsammeln. Im Garten helfen Hecken, Laub- und Reisighaufen, Ausstiegshilfen an Teichen und Kellerschächten sowie durchlässige Zäune. Mähroboter nachts nicht laufen lassen, Motorsensen und Laubbläser vorsichtig einsetzen. Im November tagsüber auftauchende Jungtiere unter etwa 500 g brauchen Hilfe, dann Igelstation oder Tierarzt fragen.",
+   "schutz": "Besonders geschützt. Rote Liste Deutschland Vorwarnliste (seit 2020). Wildtier des Jahres 2024.",
+   "naturdeck_ids": [
+    "2bcfbdb0",
+    "2405cbc0"
+   ],
+   "korrekturen": [
+    "2405cbc0, 2bcfbdb0: 'glänzende' oder 'schwarz glänzende' Losung nicht belegt. Belegt sind Käfer, Insekten und Beerenreste in der Nahrung.",
+    "'bröckelig statt glatt' (2405cbc0) nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Stadtwildtiere: Igel",
+     "https://www.stadtwildtiere.de/artportraet/igel"
+    ],
+    [
+     "NABU Niedersachsen: Igel",
+     "https://niedersachsen.nabu.de/tiere-und-pflanzen/saeugetiere/igel/index.html"
+    ],
+    [
+     "Deutsche Wildtier Stiftung: Deutschland sucht Igel und Maulwurf",
+     "https://www.deutschewildtierstiftung.de/aktuelles/artikel/deutschland-sucht-igel-und-maulwurf-geht-in-die-zweite-runde"
+    ]
+   ]
+  },
+  {
+   "slug": "maulwurf",
+   "name": "Maulwurf",
+   "latein": "Talpa europaea",
+   "gruppe": "Säugetiere",
+   "kurz": "Unterirdisch lebender Insektenfresser mit samtigem Fell und großen Vorderfüßen, meist nur an seinen Hügeln zu erkennen.",
+   "erkennen": [
+    "Körper 14 bis 17 cm, Gewicht 80 bis 120 g.",
+    "Walzenförmig und fast halslos, samtweiches Fell in Grau bis Schwarz.",
+    "Große Vorderfüße mit flachen Krallen.",
+    "Lebt fast ausschließlich unterirdisch."
+   ],
+   "verwechslung": "Mit der Schermaus (Wühlmaus): Maulwurfshügel sind hoch und rund und liegen regelmäßig, Schermaushügel sind flach und länglich.",
+   "lebensraum": "Wiesen, Weiden, Gärten und Wälder mit lockerem Boden. Das Gangsystem liegt dicht unter der Oberfläche bis etwa 50 cm Tiefe und ist etwa 200 Meter lang.",
+   "zeit": "Ganzjährig aktiv, kein Winterschlaf. Er patrouilliert alle drei bis vier Stunden durch das Revier.",
+   "spuren": "Erdhügel entstehen aus überschüssigem Aushub der Gänge. Ein Maulwurf kann in 20 Minuten etwa sechs Kilogramm Erde bewegen. Er frisst Regenwürmer und Insektenlarven.",
+   "regional": null,
+   "umgang": "Der Maulwurf ist besonders geschützt und darf nicht gefangen, verletzt oder getötet werden. Er schadet Pflanzen nicht und frisst Larven wie Engerlinge.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung; nach der Roten Liste in Deutschland ungefährdet (NABU Brandenburg).",
+   "naturdeck_ids": [
+    "45cabf3b",
+    "a0ecf1a3",
+    "d8013747"
+   ],
+   "korrekturen": [
+    "112bc177, 979f4c64: 'krümelige Erde', 'trockene Haufen heller' und 'grobe Würste' nicht belegt.",
+    "f4f8eb08: 'ohne Gangöffnung' ist nicht bestätigt. Eine Quelle (Stadtwildtiere) nennt dagegen ein Loch in der Hügelmitte, das Fachangaben anderer Quellen widerspricht und deshalb nicht übernommen wurde.",
+    "45cabf3b: 'Gang liegt mittig darunter' wurde nicht eindeutig bestätigt, die Reihung der Hügel (a0ecf1a3, d8013747) und der Gang darunter ist plausibel, aber nur teilweise belegt."
+   ],
+   "quellen": [
+    [
+     "NABU Brandenburg: Maulwurf",
+     "https://brandenburg.nabu.de/tiere-und-pflanzen/saeugetiere/17739.html"
+    ],
+    [
+     "Stadtwildtiere: Maulwurf",
+     "https://www.stadtwildtiere.de/artportraet/maulwurf"
+    ]
+   ]
+  }
+ ],
+ "nicht_aufgenommen": [
+  [
+   "Marder (unbestimmt)",
+   "Fakt 2aa54e76 nennt nur 'Marder' und beschreibt Sprungspuren ohne Belege, keiner Art sicher zuzuordnen."
+  ],
+  [
+   "Schermaus, Rötelmaus, Waldmaus, Gelbhalsmaus, Haselmaus",
+   "Kleine Nager, gehören zu einem anderen Paket."
+  ],
+  [
+   "Hirschkäfer, Wolfsspinnen, Kaisermantel und Kleiner Fuchs (Falter), Uhu u. a.",
+   "Keine Säugetiere dieses Pakets; Wortähnlichkeit (Hirsch, Wolf, Fuchs)."
+  ]
+ ]
+}

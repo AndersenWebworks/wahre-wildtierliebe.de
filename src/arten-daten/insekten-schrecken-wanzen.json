@@ -1,0 +1,927 @@
+{
+ "paket": "insekten-schrecken-wanzen",
+ "arten": [
+  {
+   "slug": "gruenes-heupferd",
+   "name": "Grünes Heupferd",
+   "latein": "Tettigonia viridissima",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Große grüne Laubheuschrecke mit sehr langen Fühlern; die Männchen singen laut und schwirrend.",
+   "erkennen": [
+    "Körper 28 bis 42 mm lang, einheitlich grün mit feinem braunem Streifen auf dem Rücken",
+    "Fühler länger als der Körper",
+    "Weibchen mit 23 bis 32 mm langem Legebohrer",
+    "Larven sind flügellos"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Warme, geschützte Stellen mit mindestens knie- bis hüfthoher Vegetation, etwa Brachen, Hecken, Gartenränder und Trockenrasen.",
+   "zeit": "Die Larven schlüpfen ab Ende April; erwachsene Tiere gibt es etwa von Mitte Juli bis Anfang November, gesungen wird vor allem abends und nachts bei Wärme.",
+   "spuren": "Nur die Männchen singen: ein lauter, schwirrender Gesang aus zwei schnell aufeinanderfolgenden Impulsen mit längerer Pause dazwischen, bis etwa 50 bis 100 Meter weit zu hören. Laubheuschrecken wie das Heupferd singen vor allem am Abend und in der Nacht.",
+   "regional": null,
+   "umgang": "Nicht anfassen und nicht aus Hecken scheuchen. Hohe Gras- und Krautsäume stehen lassen, am besten erst spät im Jahr mähen.",
+   "schutz": "Rote Liste Deutschland (2024): ungefährdet.",
+   "naturdeck_ids": [
+    "159dbcd4",
+    "182a4154",
+    "b4678a99",
+    "39fd17dd",
+    "c4c082f5",
+    "880fde19"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Grünes Heupferd",
+     "https://de.wikipedia.org/wiki/Grünes_Heupferd"
+    ],
+    [
+     "NABU: Heuschrecken beobachten und erkennen",
+     "https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/heuschrecken/01474.html"
+    ],
+    [
+     "NABU: Rote Liste der Heuschrecken 2024",
+     "https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/heuschrecken/01472.html"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeine-sichelschrecke",
+   "name": "Gemeine Sichelschrecke",
+   "latein": "Phaneroptera falcata",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Kleine, grün gesprenkelte Laubheuschrecke mit extrem langen Fühlern und sehr leisem Gesang.",
+   "erkennen": [
+    "12 bis 18 mm lang, grün mit feinen dunklen Punkten",
+    "Fühler etwa viermal so lang wie der Körper",
+    "Weibchen mit aufwärts gebogener Legeröhre",
+    "Männchen mit stark gekrümmten Hinterleibsanhängen"
+   ],
+   "verwechslung": "Die Punktierte Zartschrecke ist ebenfalls grün und gepunktet, hat aber sehr kurze Flügel.",
+   "lebensraum": "Warme Stellen wie verbuschte Trockenrasen und Sandgruben; durch die Klimaerwärmung breitet sie sich nach Norden aus.",
+   "zeit": "Erwachsene Tiere von August bis Oktober.",
+   "spuren": "Der Gesang ist extrem leise, nur etwa einen Meter weit zu hören, und besteht aus unregelmäßigen, kurzen Lauten, vor allem nachts.",
+   "regional": "Die Art ist nach Norden vorgedrungen; Vorkommen sind unter anderem von Rügen belegt.",
+   "umgang": "Nicht anfassen. Warme, verbuschte Säume und Brachen mit Sträuchern bleiben ungestört am wertvollsten.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "93fff053",
+    "a41c29d5"
+   ],
+   "korrekturen": [
+    "d4b6e18b: Ein Legebohrer, der hinter den Flügeln hervorragt, ließ sich nicht belegen.",
+    "ec9bc960: Die Aussage zu gebogenen Flügelspitzen als sicherem Merkmal ließ sich nicht belegen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeine Sichelschrecke",
+     "https://de.wikipedia.org/wiki/Gemeine_Sichelschrecke"
+    ]
+   ]
+  },
+  {
+   "slug": "gewoehnliche-strauchschrecke",
+   "name": "Gewöhnliche Strauchschrecke",
+   "latein": "Pholidoptera griseoaptera",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Graubraune, flugunfähige Laubheuschrecke in Hecken und an Waldrändern mit gelber Unterseite.",
+   "erkennen": [
+    "13 bis 20 mm lang, grau- bis dunkelbraun",
+    "Unterseite gelb",
+    "Flügel stark verkürzt, sie fliegt nicht",
+    "Halsschildseiten fein weiß gerandet"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Mittelhohe bis hohe Vegetation wie Waldränder, Hecken und hohe Wiesen; auf Sandböden fehlt sie.",
+   "zeit": "Erwachsene Tiere von Juni bis November; die Männchen singen ab dem Nachmittag bis spät in den Abend, auch bei kühlem, feuchtem Wetter.",
+   "spuren": "Der Gesang besteht aus drei Silben mit zunehmender Lautstärke, etwa wie ein „zizizi“, und ist bis etwa 10 Meter weit zu hören.",
+   "regional": null,
+   "umgang": "Nicht anfassen. Hecken, Waldsäume und hohe Randstreifen sind ihr Lebensraum und sollten nicht radikal zurückgeschnitten werden.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "0961bb19",
+    "925d22e2",
+    "5a61f343"
+   ],
+   "korrekturen": [
+    "d21e6541, d530c694: Die Lautbeschreibungen „raspeln leise“ und „ticken trocken“ ließen sich nicht belegen; belegt ist ein dreisilbiges „zizizi“."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Gewöhnliche Strauchschrecke",
+     "https://de.wikipedia.org/wiki/Gewöhnliche_Strauchschrecke"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeine-eichenschrecke",
+   "name": "Gemeine Eichenschrecke",
+   "latein": "Meconema thalassinum",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Zart hellgrüne, nachtaktive Laubheuschrecke der Baumkronen, die nicht zirpt, sondern mit den Hinterfüßen trommelt.",
+   "erkennen": [
+    "Etwa 12 bis 15 mm lang, glänzend hellgrün",
+    "Fühler gelb mit braunen Ringen, etwa viermal körperlang",
+    "Flügel voll entwickelt und länger als der Hinterleib",
+    "Männchen mit langen, aufeinander zu gebogenen Hinterleibsanhängen"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Meist in den Kronen von Laubbäumen, an Waldrändern und in Gärten und Parks; nicht auf Eichen beschränkt.",
+   "zeit": "Erwachsene Tiere von Ende Juli bis November; tagsüber im Laub versteckt, dämmerungs- und nachtaktiv.",
+   "spuren": "Kein Gesang im üblichen Sinn: Die Männchen trommeln schnell mit den Hinterfüßen auf Blätter. Das ergibt ein schnurrendes Geräusch, das man nur aus etwa einem Meter Nähe hört. Im Herbst kommen Tiere ans Licht und sitzen an Fenstern oder in Wohnungen.",
+   "regional": "In Mecklenburg-Vorpommern ist zusätzlich die Südliche Eichenschrecke eingewandert (Erstfund 2016 in Pasewalk); beide trommeln, was Menschen kaum hören.",
+   "umgang": "Verirrte Tiere am Fenster oder in der Wohnung nicht zerdrücken, sondern nach draußen auf einen Strauch setzen lassen. Sie leben räuberisch von Blattläusen und anderen kleinen Insekten.",
+   "schutz": "Nicht auf der Roten Liste Deutschlands, Datenlage wegen der verborgenen Lebensweise aber dünn.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "677f2d7f: Das Trommeln nachts stimmt, aber die Eichenschrecke hat keine kurzen, sondern voll entwickelte, lange Flügel.",
+    "b747127e: Eichenschrecken zirpen nicht; sie trommeln mit den Hinterfüßen."
+   ],
+   "quellen": [
+    [
+     "Insektenreich-SH: Gemeine Eichenschrecke",
+     "https://www.insektenreich-sh.de/artensteckbriefe/gemeine-eichenschrecke"
+    ],
+    [
+     "Universität Rostock: Neue Heuschrecken-Art in M-V",
+     "https://www.uni-rostock.de/universitaet/kommunikation-und-aktuelles/medieninformationen/detailansicht/n/neue-heuschrecken-art-breitet-sich-in-mecklenburg-vorpommern-aus-80016/"
+    ]
+   ]
+  },
+  {
+   "slug": "roesels-beissschrecke",
+   "name": "Roesels Beißschrecke",
+   "latein": "Roeseliana roeselii",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Olivgrüne bis braune Laubheuschrecke mit hellem Rand am Halsschild und ununterbrochen schwirrendem Gesang.",
+   "erkennen": [
+    "14 bis 19 mm lang, Grundfarbe grünolive, braun oder rotbraun",
+    "Heller Seitenrand am Halsschild",
+    "Männchen mit längeren Flügeln als die Weibchen",
+    "Tagaktiv"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Gras- und Wiesenland, vor allem frische, natürliche Wiesen, aber auch trockene wie feuchte Grünlandflächen; auch in Gärten.",
+   "zeit": "Erwachsene Tiere von Ende Juni bis Oktober; sie singen am Tag.",
+   "spuren": "Das Männchen erzeugt durch Flügelreiben einen langen, gleichmäßigen Schwirrton aus rund 75 Silben pro Sekunde.",
+   "regional": null,
+   "umgang": "Nicht anfassen. Wiesen und Säume in Teilen stehen lassen und nicht flächig auf einmal mähen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "688602a4",
+    "d5ed7e9b"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Roesels Beißschrecke",
+     "https://de.wikipedia.org/wiki/Roesels_Beißschrecke"
+    ],
+    [
+     "NABU: Heuschrecken beobachten und erkennen",
+     "https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/heuschrecken/01474.html"
+    ]
+   ]
+  },
+  {
+   "slug": "sumpfschrecke",
+   "name": "Sumpfschrecke",
+   "latein": "Stethophyma grossum",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Große Feldheuschrecke feuchter Wiesen mit rot-oranger Hinterschienenunterseite; sie knipst statt zu zirpen.",
+   "erkennen": [
+    "16 bis 35 mm lang, olivgrün bis dunkelbraun, Weibchen größer",
+    "Gelbe Streifen auf den Vorderflügeln",
+    "Unterseite der Hinterschienen rot-orange, Hinterknie schwarz gezeichnet",
+    "Springt weit"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Feucht- und Nasswiesen, die beweidet oder gemäht werden; die Eier brauchen bis zum nächsten Sommer genug Bodenfeuchte.",
+   "zeit": "Erwachsene Tiere von Juli bis Oktober, tagsüber.",
+   "spuren": "Sie schleudern die Hinterschiene ruckartig am Flügel entlang und erzeugen so ein weithin hörbares „tick“, etwa 15 Meter weit; meist folgen 5 bis 10 Laute aufeinander, in der Balz bis zu 20.",
+   "regional": null,
+   "umgang": "Feuchtwiesen nicht entwässern und nicht umbrechen; abschnittsweise mähen, damit Rückzugsflächen bleiben.",
+   "schutz": "Rote Liste Deutschland (2024): ungefährdet; in Österreich und der Schweiz gilt sie als gefährdet.",
+   "naturdeck_ids": [
+    "0dc905a2",
+    "156bedcf",
+    "378dced9",
+    "beb34ca3"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Sumpfschrecke",
+     "https://de.wikipedia.org/wiki/Sumpfschrecke"
+    ],
+    [
+     "Rote Liste Heuschrecken und Fangschrecken 2024 (NaBiV 170/7)",
+     "https://www.rote-liste-zentrum.de/wp-content/uploads/NaBiV_170_7_1_RL_Heuschrecken_und_Fangschrecken_2024_20240229-0949.pdf"
+    ]
+   ]
+  },
+  {
+   "slug": "sumpfgrashuepfer",
+   "name": "Sumpfgrashüpfer",
+   "latein": "Pseudochorthippus montanus",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Kleiner Grashüpfer feuchter Wiesen und Moore mit dunklen Knien und deutlich langsamerem Gesang als verwandte Arten.",
+   "erkennen": [
+    "Männchen 12,9 bis 16 mm, Weibchen 17 bis 22 mm",
+    "Grün mit braunem Rücken oder ganz grün",
+    "Dunkle Knie, verkürzte Flügel",
+    "Weibchen mit längeren Legeklappen als bei ähnlichen Arten"
+   ],
+   "verwechslung": "Dem Gemeinen Grashüpfer sehr ähnlich; sicher unterscheidet man sie am langsameren Gesang und am feuchteren Lebensraum.",
+   "lebensraum": "Feuchte bis nasse Lebensräume mit höchstens mittelhoher Vegetation, etwa Nasswiesen und Moore.",
+   "zeit": "Erwachsene Tiere von Juni bis November, etwa einen Monat später als verwandte Arten.",
+   "spuren": "Der Gesang ist auffallend langsamer als bei verwandten Grashüpfern, im Aufbau aber ähnlich: wiederholte Silbenfolgen mit Pausen.",
+   "regional": null,
+   "umgang": "Nasswiesen nicht entwässern. Trockenere Jahre und Entwässerung gefährden die Art.",
+   "schutz": "Rote Liste Deutschland (2024): gefährdet (Kategorie 3), wegen Entwässerung und zunehmender Dürreperioden.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "8ddb3e27: Dass der Sumpfgrashüpfer „knipst“ und rötliche Schienen hat, ließ sich nicht belegen; belegt sind dunkle Knie und ein langsamer Grashüpfergesang."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Sumpfgrashüpfer",
+     "https://de.wikipedia.org/wiki/Sumpfgrashüpfer"
+    ],
+    [
+     "NABU: Rote Liste der Heuschrecken 2024",
+     "https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/heuschrecken/01472.html"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeiner-grashuepfer",
+   "name": "Gemeiner Grashüpfer",
+   "latein": "Pseudochorthippus parallelus",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Häufigster Grashüpfer im Grünland; grün oder braun, mit kurzen Fühlern und strophenartigem Gesang.",
+   "erkennen": [
+    "13 bis 22 mm lang, grün oder braun, mitunter rötlich oder purpurn getönt",
+    "Weibchen deutlich größer, mit sehr kurzen Flügeln",
+    "Kurze Fühler, anders als bei Laubheuschrecken"
+   ],
+   "verwechslung": "Mit anderen Grashüpfern, etwa dem Sumpfgrashüpfer; sicher gelingt das nur über den Gesang.",
+   "lebensraum": "Offenes Grünland, sehr anpassungsfähig.",
+   "zeit": "Erwachsene Tiere von Juni, selten Mai, bis Anfang Oktober; Kurzfühlerschrecken singen tagsüber.",
+   "spuren": "Das Männchen streicht einen Zahnkamm an den Hinterschenkeln über die Flügeldecke, etwa fünf Silben pro Sekunde, meist 8 bis 10 in einer Strophe.",
+   "regional": null,
+   "umgang": "Nicht anfassen. Ungemähte Randstreifen und Säume erhalten.",
+   "schutz": "Rote Liste Deutschland (2024): ungefährdet.",
+   "naturdeck_ids": [
+    "2507ec71"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeiner Grashüpfer",
+     "https://de.wikipedia.org/wiki/Gemeiner_Grashüpfer"
+    ],
+    [
+     "NABU: Rote Liste der Heuschrecken 2024",
+     "https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/heuschrecken/01472.html"
+    ]
+   ]
+  },
+  {
+   "slug": "saebel-dornschrecke",
+   "name": "Säbel-Dornschrecke",
+   "latein": "Tetrix subulata",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Kleine Dornschrecke feuchter Wiesen, deren Halsschild als säbelförmiger Fortsatz über den Hinterleib ragt.",
+   "erkennen": [
+    "7 bis 12 mm lang ohne den Halsschildfortsatz",
+    "Halsschild zieht sich säbelartig nach hinten",
+    "Färbung sehr variabel, rötlich bis gelbbraun und schwarz"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Bevorzugt feuchte Wiesen, Heiden und Stellen mit offenem Boden.",
+   "zeit": "Erwachsene Tiere ab August, nach der Überwinterung wieder von März bis Juli; Paarung April bis Juni.",
+   "spuren": "Sie singt nicht; die Männchen werben mit wiegendem Gang. Sie fressen vor allem Algen, Moose und Flechten.",
+   "regional": null,
+   "umgang": "Nicht anfassen. Feuchte, lückig bewachsene Uferstellen und offene Bodenstellen belassen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "715fbcc3"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Säbel-Dornschrecke",
+     "https://de.wikipedia.org/wiki/Säbeldornschrecke"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeine-dornschrecke",
+   "name": "Gemeine Dornschrecke",
+   "latein": "Tetrix undulata",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Kleine, unauffällig gelb- bis graubraune Dornschrecke feuchter, kühler Standorte, die nicht singt.",
+   "erkennen": [
+    "6 bis 12 mm lang, gelb- bis graubraun mit dunkler Fleckung",
+    "Halsschild meist verkürzt",
+    "Flügel meist verkürzt, selten voll entwickelt"
+   ],
+   "verwechslung": "Die Säbel-Dornschrecke hat einen Halsschild, der als langer Fortsatz über den Hinterleib hinausragt.",
+   "lebensraum": "Feuchte, kühlere Lebensräume wie Moore, Feuchtwiesen und Sandheiden.",
+   "zeit": null,
+   "spuren": "Sie hat keine Lauterzeugung und verständigt sich vermutlich über Vibrationen und Sichtsignale.",
+   "regional": null,
+   "umgang": "Nicht anfassen. Feuchte Ränder und offene Bodenstellen nicht überbauen oder zuschütten.",
+   "schutz": null,
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "d9e0b27b: Der Halsschild „zieht sich spitz über den Rücken“ passt zur Säbel-Dornschrecke, nicht zur Gemeinen Dornschrecke mit verkürztem Halsschild; die Art im Naturdeck bleibt unklar."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeine Dornschrecke",
+     "https://de.wikipedia.org/wiki/Gemeine_Dornschrecke"
+    ]
+   ]
+  },
+  {
+   "slug": "blaufluegelige-oedlandschrecke",
+   "name": "Blauflügelige Ödlandschrecke",
+   "latein": "Oedipoda caerulescens",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Unauffällig grau bis braun getarnt am Boden, im Flug mit blau durchscheinenden Hinterflügeln.",
+   "erkennen": [
+    "Männchen 13 bis 23 mm, Weibchen 20 bis 29 mm",
+    "Hinterflügel blau durchscheinend mit dunkler Querbinde, nur im Flug sichtbar",
+    "Körper hellgrau bis fast schwarz, oft ocker oder rotbraun, dem Untergrund angepasst",
+    "Kräftige Sprungbeine"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Trockenwarme, kahle und spärlich bewachsene Flächen wie Heiden, Sandwege und frühere Abbaugebiete.",
+   "zeit": null,
+   "spuren": "Sie hat keinen Werbegesang; die Männchen suchen die Weibchen aktiv.",
+   "regional": null,
+   "umgang": "Offene, vegetationsarme Sandstellen und Wegränder nicht zuwachsen lassen oder zuschütten.",
+   "schutz": "Rote Liste Deutschland (2024): ungefährdet, früher Kategorie 3.",
+   "naturdeck_ids": [
+    "92058252"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Blauflügelige Ödlandschrecke",
+     "https://de.wikipedia.org/wiki/Blauflügelige_Ödlandschrecke"
+    ],
+    [
+     "NABU: Rote Liste der Heuschrecken 2024",
+     "https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/heuschrecken/01472.html"
+    ]
+   ]
+  },
+  {
+   "slug": "feldgrille",
+   "name": "Feldgrille",
+   "latein": "Gryllus campestris",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Glänzend schwarze Grille mit großem, kugeligem Kopf, die vor selbstgegrabenen Erdröhren zirpt.",
+   "erkennen": [
+    "Etwa 18 bis 27 mm lang, glänzend schwarz",
+    "Großer, kugeliger Kopf, lange Fühler",
+    "Weibchen mit Legestachel zwischen drei Hinterleibsanhängen, Männchen mit zwei",
+    "Wohnröhre 10 bis 20 cm tief im Boden"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Trockene, schütter bewachsene Böschungen, Feldraine, Heiden und trockene Brachen; sie ist wärmebedürftig.",
+   "zeit": "Gesang von Mai bis Juli, vom späten Vormittag bis in die warmen Abendstunden.",
+   "spuren": "Das Männchen singt mit schnellen Flügelbewegungen Silbengruppen von meist vier Silben, bis etwa 50 Meter weit hörbar. Die Tiere sind scheu: Schon bei Annäherung hört der Gesang auf.",
+   "regional": null,
+   "umgang": "Nicht ausgraben und nicht stören. Trockene, lückige Böschungen und Feldraine erhalten.",
+   "schutz": "Rote Liste Deutschland (2024): ungefährdet, früher Kategorie 3; regional im Rückgang.",
+   "naturdeck_ids": [
+    "17ae18c9"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU: Die Feldgrille",
+     "https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/heuschrecken/00866.html"
+    ],
+    [
+     "Wikipedia (de): Feldgrille",
+     "https://de.wikipedia.org/wiki/Feldgrille"
+    ],
+    [
+     "NABU: Rote Liste der Heuschrecken 2024",
+     "https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/heuschrecken/01472.html"
+    ]
+   ]
+  },
+  {
+   "slug": "kurzfluegelige-schwertschrecke",
+   "name": "Kurzflügelige Schwertschrecke",
+   "latein": "Conocephalus dorsalis",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Kleine, grasgrüne Laubheuschrecke feuchter Wiesen mit braunem Rückenstreifen und gebogenem Legebohrer.",
+   "erkennen": [
+    "10 bis 15 mm lang, grasgrün mit braunem Streifen über den Rücken",
+    "Spitzer Kopf mit vorgewölbter Stirn",
+    "Weibchen mit gebogenem Legebohrer von etwa 9 mm",
+    "Flügel verkürzt, flugunfähig"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Feuchtwiesen, Röhrichte und Ufer langsam fließender Gewässer; sie bevorzugt helle, sonnige Stellen.",
+   "zeit": null,
+   "spuren": "Der Gesang klingt wie ein andauerndes Summen aus zwei abwechselnden, unterschiedlich klingenden Teilen.",
+   "regional": null,
+   "umgang": "Nicht anfassen. Feuchtwiesen, Röhrichtsäume und Uferstreifen stehen lassen.",
+   "schutz": "Rote Liste Deutschland (2024): ungefährdet.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "fdbdd4de: Der Legebohrer der Kurzflügeligen Schwertschrecke ist gebogen, nicht gerade."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Kurzflügelige Schwertschrecke",
+     "https://de.wikipedia.org/wiki/Kurzflügelige_Schwertschrecke"
+    ],
+    [
+     "NABU: Rote Liste der Heuschrecken 2024",
+     "https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/heuschrecken/01472.html"
+    ]
+   ]
+  },
+  {
+   "slug": "punktierte-zartschrecke",
+   "name": "Punktierte Zartschrecke",
+   "latein": "Leptophyes punctatissima",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Zierliche grüne Laubheuschrecke mit dunklen Punkten und winzigen Flügeln, die auf Sträuchern lebt.",
+   "erkennen": [
+    "10 bis 15 mm lang, grün mit dunklen Punkten",
+    "Flügel sehr kurz, bei Weibchen besonders",
+    "Männchen mit braunrotem Rückenstreifen, Weibchen meist ohne oder nur schmal",
+    "Weibchen mit sichelförmig aufwärts gebogenem Legebohrer"
+   ],
+   "verwechslung": "Die Gemeine Sichelschrecke ist ähnlich gefärbt, hat aber lange Flügel.",
+   "lebensraum": "Laubgehölze, Stauden und Gebüsch; im Westen und Norden Deutschlands häufig.",
+   "zeit": "Männchen singen ab August.",
+   "spuren": "Der Gesang ist hochfrequent und sehr leise, die Männchen rufen und werben mit Gesang.",
+   "regional": null,
+   "umgang": "Nicht anfassen. Gebüsch und Hecken im Garten nicht ganzjährig stutzen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "67df5141"
+   ],
+   "korrekturen": [
+    "725f398a: Die Zartschrecke hat sehr kurze, keine langen Flügel."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Punktierte Zartschrecke",
+     "https://de.wikipedia.org/wiki/Punktierte_Zartschrecke"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeine-feuerwanze",
+   "name": "Gemeine Feuerwanze",
+   "latein": "Pyrrhocoris apterus",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Rot-schwarze Wanze, die sich gern in großen Gruppen am Boden und an Linden versammelt.",
+   "erkennen": [
+    "6,5 bis 12 mm lang",
+    "Kopf und Fühler schwarz, Halsschild rot mit schwarzem Fleck",
+    "Rote Flügeldecken mit runden schwarzen Flecken",
+    "Meist kurzflügelig und flugunfähig"
+   ],
+   "verwechslung": "Sie ist eine Wanze, kein Käfer, obwohl Volksnamen anderes nahelegen.",
+   "lebensraum": "Meist am Boden, gelegentlich auf Pflanzen; oft an Linden, auch an Malvengewächsen und Robinien.",
+   "zeit": "Eine Generation im Jahr; die erwachsenen Tiere überwintern und paaren sich im Frühjahr.",
+   "spuren": "Große Ansammlungen aus teils Hunderten Tieren, durch Duftstoffe zusammengehalten, oft an Baumfüßen.",
+   "regional": null,
+   "umgang": "Ansammlungen einfach in Ruhe lassen; die Wanzen saugen Pflanzensäfte, vor allem Samen von Linden.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "f28ab526"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeine Feuerwanze",
+     "https://de.wikipedia.org/wiki/Gemeine_Feuerwanze"
+    ],
+    [
+     "Wikipedia (de): Feuerwanzen",
+     "https://de.wikipedia.org/wiki/Feuerwanze"
+    ]
+   ]
+  },
+  {
+   "slug": "gruene-stinkwanze",
+   "name": "Grüne Stinkwanze",
+   "latein": "Palomena prasina",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Breit-ovale Schildwanze, im Sommer leuchtend grün, im Herbst braun bis rötlichbraun.",
+   "erkennen": [
+    "12 bis 13,5 mm lang, breit oval",
+    "Im Sommer grün, im Herbst bräunlich bis rotbraun",
+    "Vorderrand des Halsschilds eingebuchtet"
+   ],
+   "verwechslung": "Die Wipfel-Stinkwanze (Palomena viridissima) ist sehr ähnlich, hat aber einen nach außen gewölbten Halsschild-Vorderrand.",
+   "lebensraum": "Krautschicht, Sträucher und Laubbäume wie Erlen und Linden, auch Brennnesseln und Disteln.",
+   "zeit": "Paarung und Eiablage vor allem im Mai und Juni; eine Generation im Jahr, die erwachsenen Tiere überwintern geschützt.",
+   "spuren": "Bei Gefahr gibt sie aus Drüsen am Hinterleib ein übelriechendes, lange haftendes Sekret ab.",
+   "regional": null,
+   "umgang": "Nicht anfassen; sie wehrt sich mit Geruch. Die erwachsenen Tiere saugen an reifenden Samen und Früchten, etwa an Beeren.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "017ccd49",
+    "0fd7dddd"
+   ],
+   "korrekturen": [
+    "282130e0: Helle Flecken statt eines einfarbigen Schilds bei jungen Tieren ließen sich nicht belegen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Grüne Stinkwanze",
+     "https://de.wikipedia.org/wiki/Grüne_Stinkwanze"
+    ]
+   ]
+  },
+  {
+   "slug": "rote-mordwanze",
+   "name": "Rote Mordwanze",
+   "latein": "Rhynocoris iracundus",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Rot-schwarze Raubwanze, die auf Doldenblüten Insekten erbeutet.",
+   "erkennen": [
+    "13,8 bis 17,6 mm lang",
+    "Rot-schwarz gemustert, rote Unterseite mit schwarzen Flecken",
+    "Schildchen schwarz mit roter Spitze",
+    "Kräftiger dreigliedriger Rüssel"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Nur an sonnigen, warmen, trockenen Stellen; erwachsene Tiere sitzen oft auf Doldenblütlern, Larven leben am Boden unter Steinen und Pflanzenresten.",
+   "zeit": "Erwachsene Tiere im Juni und Juli.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Nicht anfassen: Der kräftige Rüssel kann beim Menschen schmerzhaft stechen. Sie jagt ausschließlich Insekten.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "91d97ad6"
+   ],
+   "korrekturen": [
+    "3451acdf: Der „kurze, eingeklappte“ Rüssel ließ sich nicht belegen; belegt ist ein kräftiger, dreigliedriger Rüssel."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Rote Mordwanze",
+     "https://de.wikipedia.org/wiki/Rote_Mordwanze"
+    ]
+   ]
+  },
+  {
+   "slug": "streifenwanze",
+   "name": "Streifenwanze",
+   "latein": "Graphosoma italicum",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Rot-schwarz längsgestreifte Schildwanze auf Doldenblütlern.",
+   "erkennen": [
+    "8 bis 12 mm lang",
+    "Schwarze Längsstreifen auf rotem oder gelbrotem Grund, Unterseite rot mit schwarzen Punkten",
+    "Großes Schildchen bedeckt die Vorderflügel",
+    "Fühler und Beine schwarz",
+    "Larven unauffällig braun"
+   ],
+   "verwechslung": "Ähnliche Arten haben rote Beine; bei der Streifenwanze sind Beine und Fühler schwarz.",
+   "lebensraum": "Offene bis halbschattige, trockene bis feuchte Stellen mit Doldenblütlern wie Wilder Möhre, Pastinak, Fenchel und Dill.",
+   "zeit": "Paarung Ende Mai bis Juni, erwachsene Tiere ab Ende Juli oder August, Larven bis Oktober.",
+   "spuren": null,
+   "regional": "Die Art hat sich in den letzten Jahrzehnten nach Norden ausgebreitet und erreicht inzwischen Nord- und Ostsee.",
+   "umgang": "Nicht anfassen. Doldenblütler an Wegrändern und Brachen stehen lassen.",
+   "schutz": null,
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "8faf0bdb: „Fünf schwarze Längsbänder“ ließ sich nicht belegen; die Quelle nennt sechs schwarze Längsstreifen auf der Oberseite."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Streifenwanze",
+     "https://de.wikipedia.org/wiki/Streifenwanze"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeiner-wasserlaeufer",
+   "name": "Gemeiner Wasserläufer",
+   "latein": "Gerris lacustris",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Räuberische Wanze, die auf der Wasseroberfläche läuft und dort Insekten fängt.",
+   "erkennen": [
+    "8 bis 10 mm lang",
+    "Vorderschenkel gelblich mit zwei dunklen Streifen",
+    "Wasserabweisende Behaarung an der Unterseite",
+    "Verkürzte Vorderbeine als Fangbeine"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Stehende Gewässer, unabhängig von Nährstoffgehalt und Bewuchs.",
+   "zeit": "Zwei Generationen im Jahr; Tiere, die bis Mitte Juli erwachsen werden, überwintern an Land in Falllaub oder unter Rinde.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Nicht aus dem Wasser nehmen; Gartenteiche und Gräben mit ruhiger Wasseroberfläche erhalten.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "a1a95077",
+    "f156f8b1"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeiner Wasserläufer",
+     "https://de.wikipedia.org/wiki/Gemeiner_Wasserläufer"
+    ]
+   ]
+  },
+  {
+   "slug": "teichlaeufer",
+   "name": "Teichläufer",
+   "latein": "Hydrometra stagnorum",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Sehr schlanke Wanze mit langen dünnen Beinen im Uferbereich von Teichen und Gräben.",
+   "erkennen": [
+    "Sehr schmaler, langgestreckter Körper",
+    "Unverhältnismäßig lange, dünne Beine",
+    "Läuft über die Wasseroberfläche"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Übergangszone zwischen Wasser und Land an Teichen, Sümpfen und langsam fließenden Bächen.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Ufer und Verlandungszonen nicht abräumen; die Tiere jagen dort kleine Wirbellose wie Mückenlarven und Wasserflöhe.",
+   "schutz": null,
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "14536036, 31d39875: Bewegungsbeschreibungen („rucken“, „Fangkreis“) und „lange Mittelbeine“ ließen sich nicht belegen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Teichläufer",
+     "https://de.wikipedia.org/wiki/Teichläufer"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeiner-rueckenschwimmer",
+   "name": "Gemeiner Rückenschwimmer",
+   "latein": "Notonecta glauca",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Wasserwanze, die auf dem Rücken schwimmt und an der Bauchseite einen Luftvorrat mitführt.",
+   "erkennen": [
+    "13,5 bis 16 mm lang",
+    "Flache Bauchseite, kahnförmig gewölbter Rücken",
+    "Schwimmt mit dem Bauch nach oben",
+    "Luftvorrat in behaarten Rinnen der Bauchseite"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Fast alle stehenden und langsam fließenden Gewässer.",
+   "zeit": "Ein Jahr Entwicklung mit einer Generation; Eiablage von Februar bis April, erwachsene Tiere ab Ende Juli oder August; im Herbst fliegen sie zu neuen Gewässern.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Nicht herausfangen; die Tiere jagen im Wasser kleine Insekten und Kaulquappen. Gartenteiche möglichst ohne Fischbesatz lassen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "4d7140d6",
+    "57a0541d",
+    "c7698960"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeiner Rückenschwimmer",
+     "https://de.wikipedia.org/wiki/Gemeiner_Rückenschwimmer"
+    ]
+   ]
+  },
+  {
+   "slug": "wasserskorpion",
+   "name": "Wasserskorpion",
+   "latein": "Nepa cinerea",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Graubraune Wasserwanze mit Fangbeinen und einem langen Atemrohr, das zur Oberfläche reicht.",
+   "erkennen": [
+    "17 bis 25 mm Körperlänge plus etwa 10 mm Atemrohr",
+    "Dunkel- bis graubraun, mitunter rötlich getönt",
+    "Vorderbeine zu Fangbeinen umgebaut"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Flache, schlammige Gewässer; sie lauert zwischen Wasserpflanzen auf Beute.",
+   "zeit": "Larven von Mai bis Juli, erwachsen bis September; die erwachsenen Tiere überwintern im Schlamm.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Nicht herausfangen. Flache, verschlammte Gewässerzonen mit Pflanzenbewuchs erhalten.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "55a81ba6",
+    "91b11b6e",
+    "eceb1a8f"
+   ],
+   "korrekturen": [
+    "3f2d3f84: Das Atemrohr ist kein Stachel, auch wenn es so aussieht."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Wasserskorpion",
+     "https://de.wikipedia.org/wiki/Wasserskorpion"
+    ]
+   ]
+  },
+  {
+   "slug": "blutzikade",
+   "name": "Blutzikade",
+   "latein": "Cercopis vulnerata",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Schwarze Zikade mit leuchtend roten Zeichnungen auf den Flügeln, Insekt des Jahres 2009.",
+   "erkennen": [
+    "Wenige Millimeter bis etwa 1 cm lang",
+    "Schwarz mit leuchtend roter, S-förmig gebogener Zeichnung auf den Flügeln",
+    "Springt kurz"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Feuchte Wiesen, Waldlichtungen und Feldränder, in allen Biotoptypen; nach Norden seltener.",
+   "zeit": "Erwachsene Tiere von Mai bis August.",
+   "spuren": "Die Larven leben unterirdisch in Schaumnestern an Wurzeln.",
+   "regional": null,
+   "umgang": "Ungestört lassen; sie sind reine Pflanzensauger ohne dokumentierte Schäden.",
+   "schutz": "Keine akute Bedrohung.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "0260e169: Die Blutzikade ist schwarz mit roten Zeichnungen, nicht rot mit schwarzen Flecken.",
+    "69fe81ce: „Rote Flügeldecken“ und „Saugstellen“ ließen sich so nicht belegen."
+   ],
+   "quellen": [
+    [
+     "NABU: Die Blutzikade",
+     "https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/sonstige-insekten/24294.html"
+    ],
+    [
+     "Wikipedia (de): Blutzikaden",
+     "https://de.wikipedia.org/wiki/Blutzikade"
+    ]
+   ]
+  },
+  {
+   "slug": "wiesenschaumzikade",
+   "name": "Wiesenschaumzikade",
+   "latein": "Philaenus spumarius",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Kleine Zikade, deren Larven sich in einem Schaumklümpchen (Kuckucksspeichel) an Stängeln verbergen.",
+   "erkennen": [
+    "5,3 bis 6,9 mm lang",
+    "Über 20 Farbformen, oft wie ein Käfer mit dachartig liegenden Flügeln",
+    "Außergewöhnliche Sprungkraft",
+    "Larven sitzen im Schaum"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Wiesen und krautige Vegetation, sehr anpassungsfähig.",
+   "zeit": "Fünf Larvenstadien in etwa 50 Tagen.",
+   "spuren": "Der Schaum besteht zu 99,3 Prozent aus Wasser; die Larve pumpt rhythmisch Luft in ein eiweißhaltiges Sekret. Er hält sie feucht und schützt sie vor Feinden.",
+   "regional": null,
+   "umgang": "Schaum nicht entfernen; die Zikade ist harmlos für Menschen. Sie ist Nahrung für Vögel und andere Insekten.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "43e60cc5",
+    "4712def9",
+    "dd352665",
+    "bbb75636"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Wiesenschaumzikade",
+     "https://de.wikipedia.org/wiki/Wiesenschaumzikade"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeiner-ohrwurm",
+   "name": "Gemeiner Ohrwurm",
+   "latein": "Forficula auricularia",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Dunkelbraunes, nachtaktives Insekt mit Zange am Hinterleib; das Weibchen versorgt Eier und Larven.",
+   "erkennen": [
+    "10 bis 24 mm lang, rötlich- bis dunkelbraun",
+    "Männchen mit stark gebogenen, am Grund gezähnten Zangen",
+    "Weibchen mit kürzeren, geraden Zangen ohne Zähne",
+    "Fliegt kaum, obwohl Flügel vorhanden"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Wälder, Wiesen, Gärten und Siedlungen, sehr anpassungsfähig.",
+   "zeit": "Nachtaktiv; die erwachsenen Tiere überwintern in geschützten Verstecken wie Rindenspalten.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Nicht bekämpfen; Ohrwürmer fressen Pflanzliches wie Tierisches, darunter Blattläuse. Tagsüber sitzen sie in engen Spalten.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "0fa8fbfc",
+    "3483070d",
+    "dd7680b4",
+    "dfdb23b7",
+    "ef499a2a"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeiner Ohrwurm",
+     "https://de.wikipedia.org/wiki/Gemeiner_Ohrwurm"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeine-waldschabe",
+   "name": "Gemeine Waldschabe",
+   "latein": "Ectobius sylvestris",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Kleine Waldschabe, die im Laub lebt und sich in Gebäuden nicht fortpflanzt.",
+   "erkennen": [
+    "9 bis 12 mm lang",
+    "Halsschild mit dunklem Fleck in der Mitte und verwischten Rändern",
+    "Männchen voll geflügelt und flugfähig, Weibchen mit verkürzten Flügeln"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Vor allem Wälder, in Bodenvegetation und Falllaub.",
+   "zeit": "Aktiv von Mai bis September; Männchen tagsüber, besonders nachmittags, Weibchen und Larven eher nachts.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Verirrte Tiere im Haus können nicht dauerhaft leben und nach draußen gesetzt werden.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "69e0f96a"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeine Waldschabe",
+     "https://de.wikipedia.org/wiki/Gemeine_Waldschabe"
+    ]
+   ]
+  },
+  {
+   "slug": "bernstein-waldschabe",
+   "name": "Bernstein-Waldschabe",
+   "latein": "Ectobius vittiventris",
+   "gruppe": "Heuschrecken, Wanzen und Zikaden",
+   "kurz": "Einheitlich ockerbraune Waldschabe, die sich seit etwa 1999 nach Norden ausbreitet.",
+   "erkennen": [
+    "9 bis 14 mm lang, Beine bedornt",
+    "Halsschild einheitlich hellbraun, am Rand durchscheinend",
+    "Flügel überragen den Hinterleib bei beiden Geschlechtern",
+    "Körper einheitlich ockerfarben, ohne dunkle Zeichnung"
+   ],
+   "verwechslung": "Die Deutsche Schabe hat zwei dunkle Streifen auf dem Halsschild, die der Bernstein-Waldschabe fehlen; verwechselt wird sie auch mit der Tanger- und der Blassen Waldschabe.",
+   "lebensraum": "Offenes Gebüsch und Gärten; sie frisst ausschließlich zersetztes Pflanzenmaterial.",
+   "zeit": "Tagaktiv, vom Licht angelockt, flugfähig.",
+   "spuren": null,
+   "regional": "Seit etwa 1999 breitet sie sich in Deutschland nach Norden aus und kommt inzwischen fast überall außer in Schleswig-Holstein vor.",
+   "umgang": "Kein Schädling: Im Haus findet sie keine Nahrung und stirbt nach wenigen Tagen. Tiere an Fenstern nach draußen setzen.",
+   "schutz": null,
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "c478488f: Zwei dunkle Bruststreifen fehlen der Bernstein-Waldschabe gerade; sie sind ein Merkmal der Deutschen Schabe.",
+    "f5b55d6f: Die Flügel überragen den Hinterleib bei beiden Geschlechtern, nicht nur beim Männchen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Bernstein-Waldschabe",
+     "https://de.wikipedia.org/wiki/Bernstein-Waldschabe"
+    ]
+   ]
+  }
+ ],
+ "nicht_aufgenommen": [
+  [
+   "Gemeine Sichelwanze",
+   "Art nicht eindeutig bestimmbar (Nabis, Himacerus); Quellen zu Brennnesseln und Fangbeinen fehlen (3 Naturdeck-Fakten: 570017a2, b0a3c1f0)"
+  ],
+  [
+   "Grüne Blattwanze",
+   "Artzuordnung unklar (Fakt 6d73192e), kein tragfähiger Beleg gefunden"
+  ],
+  [
+   "Moschuszikade",
+   "Unter diesem Namen keine Art belegbar (Fakt 4e8bcc9d)"
+  ],
+  [
+   "Feldschwirl",
+   "Vogel, gehört nicht ins Paket (21962d54, 969f60b1)"
+  ],
+  [
+   "Kleiber, Baumläufer, Waldwasserläufer",
+   "Vögel, gehören nicht ins Paket"
+  ],
+  [
+   "Hornissen, Ampferblattkäfer, Spinnenläufer",
+   "Andere Gruppen, nicht im Paket"
+  ]
+ ]
+}

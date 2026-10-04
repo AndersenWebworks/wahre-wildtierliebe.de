@@ -1,0 +1,1159 @@
+{
+ "paket": "wirbellose-amphibien",
+ "arten": [
+  {
+   "slug": "wespenspinne",
+   "name": "Wespenspinne",
+   "latein": "Argiope bruennichi",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Große Radnetzspinne mit schwarz-gelb-weiß quergebändertem Hinterleib und einem Zickzackband im Netz.",
+   "erkennen": [
+    "Weibchen bis etwa 2,5 cm lang, Hinterleib gelb-weiß mit schwarzen Querbändern wie bei einer Wespe",
+    "Männchen nur etwa 6 mm groß und unscheinbar",
+    "Im Radnetz ein senkrechtes Zickzackband (Stabiliment) über und unter der Netzmitte",
+    "Netz meist 20 bis 70 cm über dem Boden"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Sonnige, offene Flächen mit niedriger bis halbhoher Vegetation, etwa Wiesen und Feldränder.",
+   "zeit": "Halbwüchsige Tiere ab Mai, erwachsene Tiere ab Juli, die Weibchen sind bis in den Oktober zu sehen.",
+   "spuren": "Das Radnetz mit dem auffälligen Zickzackband.",
+   "regional": null,
+   "umgang": "Das Netz im Gras nicht zerstören, die Spinne nicht anfassen. Ihr Biss ist für Menschen ungefährlich, die Giftklauen dringen normalerweise nicht durch die Haut. Gras an Wegrändern gestaffelt statt komplett zu mähen lässt ihr Raum.",
+   "schutz": "Rote Liste Deutschland: ungefährdet. Spinne des Jahres 2001.",
+   "naturdeck_ids": [
+    "03d183b9",
+    "11444c08",
+    "2a512d2a",
+    "41780291",
+    "d3cecc9e"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Wespenspinne",
+     "https://de.wikipedia.org/wiki/Wespenspinne"
+    ]
+   ]
+  },
+  {
+   "slug": "gartenkreuzspinne",
+   "name": "Gartenkreuzspinne",
+   "latein": "Araneus diadematus",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Häufige Radnetzspinne, auf dem Hinterleib ein Kreuz aus hellen Flecken.",
+   "erkennen": [
+    "Auf dem Hinterleib helle Flecken, die sich zu einem Kreuz fügen: vier längliche und ein kleiner runder in der Mitte",
+    "Färbung sehr unterschiedlich, von hell bis dunkel",
+    "Weibchen bis etwa 18 mm, Männchen etwa 10 mm",
+    "Baut senkrechte Radnetze"
+   ],
+   "verwechslung": null,
+   "lebensraum": "In Mitteleuropa weit verbreitet, besonders häufig in Streuobstwiesen, Hecken und an Zäunen.",
+   "zeit": "Paarung im Juli und August, die Eier überwintern im Kokon, die Jungspinnen schlüpfen im April oder Mai.",
+   "spuren": "Radnetz, oft zwischen Hecke und Zaun gespannt.",
+   "regional": null,
+   "umgang": "Netze lassen sich meist leicht umgehen. Der Biss ist unangenehm, hat aber medizinisch keine langfristigen Folgen und kommt kaum vor, weil die Haut nur an dünnen Stellen durchdrungen wird.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "072a75b2",
+    "0c5fbce8"
+   ],
+   "korrekturen": [
+    "23dcb30a: Aussage, die Kreuzzeichnung werde nach Häutungen klar, in der Quelle nicht belegt.",
+    "c55d326d: Aussage, die Spinne baue abends neue Netze und die Nabe sei morgens frei, nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Gartenkreuzspinne",
+     "https://de.wikipedia.org/wiki/Gartenkreuzspinne"
+    ]
+   ]
+  },
+  {
+   "slug": "spaltenkreuzspinne",
+   "name": "Spaltenkreuzspinne",
+   "latein": "Nuctenea umbratica",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Flache, dunkle Kreuzspinne, die tagsüber in Rindenspalten und Mauerritzen sitzt.",
+   "erkennen": [
+    "Hinterleib deutlich abgeflacht",
+    "Färbung rotbraun bis schwarzbraun mit dunkler, blattförmiger, gelblich gesäumter Zeichnung",
+    "Weibchen 13 bis 16 mm, Männchen 7 bis 10 mm",
+    "Großes Netz von 45 bis 70 cm Durchmesser, abends in der Netzmitte"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Lichte Laub- und Mischwälder, dazu alte Bäume, Holzbauten und Hauswände. Tagsüber unter loser Rinde, in Rindenritzen oder Mauerspalten.",
+   "zeit": "Erwachsene Tiere vor allem von Juli bis Oktober, die Weibchen überwintern unter Rinde und Ähnlichem.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Das Tagesversteck nicht öffnen oder stören. Lose Rinde und Spalten an Holzteilen sind ihr Lebensraum.",
+   "schutz": "Rote Liste Deutschland: ungefährdet. Spinne des Jahres 2017.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "d63e935c: Der Name 'Zweifleck-Kreuzspinne' ist in den Quellen nicht belegt. Die Art wird hier nur als nächstliegende Kandidatin für Spinnen unter Brettern am Hof geführt, das Naturdeck-Faktum wird nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Spaltenkreuzspinne",
+     "https://de.wikipedia.org/wiki/Nuctenea_umbratica"
+    ]
+   ]
+  },
+  {
+   "slug": "schilfradspinne",
+   "name": "Schilfradspinne",
+   "latein": "Larinioides cornutus",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Radnetzspinne feuchter Lebensräume, die ihr Netz zwischen Gräsern und Schilf spannt.",
+   "erkennen": [
+    "Weibchen 9 bis 13 mm, Männchen 6 bis 8 mm",
+    "Hinterleib je nach Tier schwarz-weiß bis braun, vorn mit dunklem Keilfleck mit breitem hellem Rand",
+    "Radnetz zwischen Gräsern und Schilf, daneben ein dicht gewebter, nach unten offener Unterschlupf"
+   ],
+   "verwechslung": "Brückenkreuzspinne (Larinioides sclopetarius) und Gerandete Schilfradspinne (Larinioides patagiatus) sehen ähnlich aus und lassen sich nach Zeichnung und Lebensraum unterscheiden.",
+   "lebensraum": "Küstenbiotope, Niedermoore und andere Feuchtgebiete, in Europa weit verbreitet und nicht selten.",
+   "zeit": "Paarung im Frühjahr und Herbst, den Tag verbringt die Spinne im Unterschlupf.",
+   "spuren": "Radnetz mit angrenzendem Gespinstunterschlupf.",
+   "regional": null,
+   "umgang": "Schilf- und Uferstreifen stehen lassen, dort baut sie ihre Netze.",
+   "schutz": null,
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "e92f21e8: Der 'helle Kreuzfleck' ist nicht belegt, die Quelle nennt einen dunklen Keilfleck mit hellem Rand vorn auf dem Hinterleib."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Schilfradspinne",
+     "https://de.wikipedia.org/wiki/Schilfradspinne"
+    ]
+   ]
+  },
+  {
+   "slug": "kuerbisspinne",
+   "name": "Kürbisspinne",
+   "latein": "Araniella cucurbitina",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Kleine Radnetzspinne mit glänzend gelbgrünem, kürbisförmigem Hinterleib.",
+   "erkennen": [
+    "Hinterleib glänzend gelblich-grün und rundlich wie ein Kürbis",
+    "Weibchen etwa 6 mm, Männchen etwa 4 mm",
+    "Radnetz von etwa 10 cm Durchmesser",
+    "Jungtiere rötlich-braun, grün erst als erwachsene Tiere im Frühjahr"
+   ],
+   "verwechslung": "Die nahe verwandte Araniella opisthographa sieht fast gleich aus und ist nur an den Genitalmerkmalen sicher zu unterscheiden.",
+   "lebensraum": "Eine der häufigsten heimischen Spinnen, in Wäldern, Hecken, Wiesen, Mooren und auf Feldern bis etwa 3 m Höhe.",
+   "zeit": "Erwachsene Tiere von Mai bis August, die Art überwintert als Jungtier an Zweigen.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Hecken und Gebüsche nicht radikal zurückschneiden, sie sind ihr Lebensraum.",
+   "schutz": null,
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "b01ff163: Aussage, der Hinterleib färbe sich mit der Sonne heller, nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Kürbisspinne",
+     "https://de.wikipedia.org/wiki/K%C3%BCrbisspinne"
+    ]
+   ]
+  },
+  {
+   "slug": "gerandete-jagdspinne",
+   "name": "Gerandete Jagdspinne",
+   "latein": "Dolomedes fimbriatus",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Große Spinne an Gewässerufern, die über das Wasser läuft und hellgelbe Seitenstreifen trägt.",
+   "erkennen": [
+    "Weibchen 15 bis 25 mm, Männchen 9 bis 15 mm",
+    "Gelbliche oder weiße Längsstreifen an den Körperseiten, Grundfarbe gelbbraun bis dunkelbraun",
+    "Manche Tiere ohne Streifen",
+    "Läuft und rudert auf der Wasseroberfläche"
+   ],
+   "verwechslung": "Wird gelegentlich ebenfalls 'Listspinne' genannt, ist aber nicht die Listspinne (Pisaura mirabilis). Diese ist kleiner und lebt nicht auf dem Wasser.",
+   "lebensraum": "Nahe an stehenden oder langsam fließenden Gewässern, in Hochmooren, Feuchtwiesen, Auwäldern und auch in Gärten mit Teich.",
+   "zeit": "Paarung im Mai und Juni, Eikokons ab Ende Juni.",
+   "spuren": "Kugelige, weiße bis hellbraune Eikokons von etwa 1 cm.",
+   "regional": null,
+   "umgang": "Die Spinne am Ufer ungestört lassen. Naturnahe Teichränder mit Pflanzen und Schilf erhalten. Sie frisst Insekten, Kaulquappen und kleine Fische, das ist normales Verhalten.",
+   "schutz": "Spinne des Jahres 2020. Ein Gefährdungsstatus wurde nicht geprüft.",
+   "naturdeck_ids": [
+    "05e205da"
+   ],
+   "korrekturen": [
+    "3e5b1cf4: Der Ort, an dem die Weibchen den Eikokon tragen, ist in der gelesenen Quelle nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Gerandete Jagdspinne",
+     "https://de.wikipedia.org/wiki/Gerandete_Jagdspinne"
+    ]
+   ]
+  },
+  {
+   "slug": "listspinne",
+   "name": "Listspinne",
+   "latein": "Pisaura mirabilis",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Langbeinige Jagdspinne, deren Weibchen den Eikokon unter dem Vorderkörper trägt.",
+   "erkennen": [
+    "Lange Beine, das vierte Paar ist am längsten",
+    "Männchen 10 bis 13 mm, Weibchen 12 bis 15 mm",
+    "Weibchen tragen den Eikokon unter dem Vorderkörper",
+    "Bewacht später ein Kinderstubennetz mit den Jungtieren"
+   ],
+   "verwechslung": "Wolfsspinnen tragen ihren Eikokon am Hinterleib, die Listspinne unter dem Vorderkörper. Der Name 'Listspinne' wird auch für die Gerandete Jagdspinne verwendet.",
+   "lebensraum": "Fast alle Lebensräume, bevorzugt feuchte wie Feuchtwiesen und Niedermoore, bis etwa 1500 m Höhe.",
+   "zeit": "Fortpflanzung im Frühjahr und Sommer, geschlechtsreif ab Mai.",
+   "spuren": "Kinderstubennetz mit Jungspinnen, vom Weibchen bewacht.",
+   "regional": null,
+   "umgang": "Das Kinderstubennetz nicht berühren, die Weibchen bewachen es.",
+   "schutz": "Spinne des Jahres 2002.",
+   "naturdeck_ids": [
+    "fff19f01"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Listspinne",
+     "https://de.wikipedia.org/wiki/Listspinne"
+    ]
+   ]
+  },
+  {
+   "slug": "wolfsspinnen",
+   "name": "Wolfsspinne",
+   "latein": "Lycosidae",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Netzlos jagende Bodenspinnen, die ihre Jungen auf dem Hinterleib tragen.",
+   "erkennen": [
+    "Zwei vergrößerte, nach vorn gerichtete hintere Mittelaugen",
+    "Je nach Art 3 bis 45 mm groß",
+    "Weibchen tragen den Eikokon an den Spinnwarzen am Hinterleib",
+    "Die geschlüpften Jungen klettern auf den Rücken der Mutter"
+   ],
+   "verwechslung": "Die Listspinne trägt den Eikokon unter dem Vorderkörper, Wolfsspinnen am Hinterleib.",
+   "lebensraum": "Moore, Wiesen, Wälder und andere Lebensräume, in Mitteleuropa etwa 90 Arten.",
+   "zeit": "Aktivitätszeit je nach Art verschieden.",
+   "spuren": "Keine Netze, die Tiere laufen frei am Boden.",
+   "regional": null,
+   "umgang": "Tiere mit Kokon oder Jungen nicht stören. Der Biss ist schmerzhaft, aber medizinisch nicht relevant, bei Ruhe kommt es nicht dazu.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "78415554",
+    "a141e9ec",
+    "a76c619d",
+    "d5117a43"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Wolfspinnen",
+     "https://de.wikipedia.org/wiki/Wolfsspinnen"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeine-streckerspinne",
+   "name": "Gemeine Streckerspinne",
+   "latein": "Tetragnatha extensa",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Schlanke Spinne, die sich bei Ruhe lang gestreckt an Halme oder Blattunterseiten legt.",
+   "erkennen": [
+    "Weibchen 10 bis 12 mm, Männchen 6 bis 9 mm, größte Art der Gattung in Europa",
+    "Vorderkörper und Beine einfarbig beigebraun, Hinterleib lang gestreckt mit dunklen Linien",
+    "In Ruhe lang ausgestreckt an Halm oder Blatt, dadurch gut getarnt"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Wiesen und Hochstaudenfluren in offener Landschaft, fast immer in Gewässernähe. Kleine Radnetze nahe am Boden oder über dem Wasser.",
+   "zeit": "Fortpflanzung von Mai bis September, Höhepunkt der Paarung im Juni.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Uferstauden und Schilf stehen lassen. Die Tiere nicht von Halmen abstreifen.",
+   "schutz": "Rote Liste Deutschland: ungefährdet.",
+   "naturdeck_ids": [
+    "540bc954",
+    "e5284276"
+   ],
+   "korrekturen": [
+    "46f8bdb6: Aussage, die Beine lägen eng am Körper, passt nicht zur belegten gestreckten Haltung und wird nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeine Streckerspinne",
+     "https://de.wikipedia.org/wiki/Gemeine_Streckerspinne"
+    ]
+   ]
+  },
+  {
+   "slug": "mauer-zebraspringspinne",
+   "name": "Mauer-Zebraspringspinne",
+   "latein": "Salticus scenicus",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Kleine schwarz-weiß gestreifte Springspinne an sonnigen Mauern und Zäunen.",
+   "erkennen": [
+    "Schwarz-weiße Streifung wie ein Zebra",
+    "Nur 4 bis 7 mm lang",
+    "Weiße Flecken auf dem Vorderkörper und drei dunkle Bänder auf dem Hinterleib",
+    "Große nach vorn gerichtete Augen, kurze Beine"
+   ],
+   "verwechslung": "Die Holz-Zebraspringspinne (Salticus cingulatus) ist eine verwandte Art. Nach der Quelle ist nur Salticus scenicus durch weiße Flecken auf dem Vorderkörper und drei dunkle Hinterleibsbänder gekennzeichnet.",
+   "lebensraum": "Sonnige, windgeschützte Stein- und Holzflächen wie Mauern, Zäune und Hauswände.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Die Spinne frisst Fliegen und andere Kleintiere und braucht keine Maßnahme. Sie springt bis etwa 5 cm weit und sichert sich dabei mit einem Faden.",
+   "schutz": "Spinne des Jahres 2005.",
+   "naturdeck_ids": [
+    "4953a1d0",
+    "aa536d10"
+   ],
+   "korrekturen": [
+    "b37f475a: Aussage, die kurzen Vorderbeine tasteten den Abstand ab, nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Mauer-Zebraspringspinne",
+     "https://de.wikipedia.org/wiki/Mauer-Zebraspringspinne"
+    ]
+   ]
+  },
+  {
+   "slug": "veraenderliche-krabbenspinne",
+   "name": "Veränderliche Krabbenspinne",
+   "latein": "Misumena vatia",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Lauert auf Blüten, das Weibchen kann sich zwischen Weiß, Gelb und Gelbgrün umfärben.",
+   "erkennen": [
+    "Weibchen bis 10 mm, Männchen nur etwa 4 mm",
+    "Weibchen gelb, gelbgrün oder weiß, an die Blüte angepasst",
+    "Männchen mit schwärzlichem Vorderkörper, Hinterleib weiß bis gelblich mit zwei dunklen Längsstreifen",
+    "Vergrößerte, bestachelte vordere Beinpaare zum Zugreifen"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Blütenreiches Grünland, sitzt auf Korb- und Doldenblütlern.",
+   "zeit": "Erwachsene Tiere von Mai bis Juli.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Blütenreiche Wiesen und Säume erhalten. Die Spinne fängt Schwebfliegen, Bienen und andere Besucher, das ist natürlich und kein Anlass einzugreifen.",
+   "schutz": "Rote Liste Deutschland: ungefährdet. Spinne des Jahres 2006.",
+   "naturdeck_ids": [
+    "63538bcc",
+    "ecb0ed60"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Veränderliche Krabbenspinne",
+     "https://de.wikipedia.org/wiki/Ver%C3%A4nderliche_Krabbenspinne"
+    ]
+   ]
+  },
+  {
+   "slug": "baldachinspinnen",
+   "name": "Baldachinspinne",
+   "latein": "Linyphiidae",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Winzige Spinnen, deren waagerechte Deckennetze bei Morgentau im Gras sichtbar werden.",
+   "erkennen": [
+    "Meist 1,5 bis 3 mm, selten bis 8 mm groß",
+    "Waagerechtes, leicht gewölbtes Netz wie ein Baldachin in niedriger Vegetation",
+    "Spinne hängt unter der Netzdecke und beißt die Beute durch das Netz"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Gras und niedrige Vegetation, die Familie lebt in vielen Klimazonen. In Mitteleuropa häufig etwa Erigone atra und Bathyphantes gracilis.",
+   "zeit": "Besonders im Spätsommer und Herbst, wenn sich die Tiere an Seidenfäden durch die Luft tragen lassen.",
+   "spuren": "Netzdecken im Tau.",
+   "regional": null,
+   "umgang": "Netze müssen nicht entfernt werden. Wiesenstücke ungemäht lassen schützt die Netzflächen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "922139f7",
+    "a24af561",
+    "eae8872d"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Baldachinspinnen",
+     "https://de.wikipedia.org/wiki/Baldachinspinnen"
+    ]
+   ]
+  },
+  {
+   "slug": "weberknechte",
+   "name": "Weberknecht",
+   "latein": "Opiliones",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Langbeinige Spinnentiere, die keine Spinnen sind und weder spinnen noch giften.",
+   "erkennen": [
+    "Vorder- und Hinterkörper sind verwachsen, der Hinterleib ist gegliedert",
+    "Keine Spinndrüsen und keine Giftdrüsen",
+    "Wehrstoffe aus Stinkdrüsen, die nicht giftig wirken"
+   ],
+   "verwechslung": "Spinnen haben einen deutlich abgesetzten Vorder- und Hinterkörper und Spinndrüsen.",
+   "lebensraum": "Überwiegend in der Bodenschicht und bodennah, nachtaktiv.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Völlig ungefährlich für Menschen. Sie fressen kleine Gliederfüßer und tote Insekten. Nicht anfassen, sie lassen sich am Haus und im Garten ungestört.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "1f5b5706"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Weberknechte",
+     "https://de.wikipedia.org/wiki/Weberknechte"
+    ]
+   ]
+  },
+  {
+   "slug": "rote-samtmilbe",
+   "name": "Rote Samtmilbe",
+   "latein": "Trombidium holosericeum",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Bis 4 mm große, scharlachrote Milbe mit samtigem Haarkleid, die gern auf warmen Steinen läuft.",
+   "erkennen": [
+    "Weichhäutiger Körper mit dichter scharlachroter Behaarung, samtartig",
+    "Bis etwa 4 mm lang, eine der größten Milben der gemäßigten Zone",
+    "Läuft auf Boden, Mauern und Steinen"
+   ],
+   "verwechslung": "Zecken sind dunkler und haben deutliche Mundwerkzeuge, Samtmilben sind samtig scharlachrot. Auch andere rote Milben kommen vor.",
+   "lebensraum": "Sonnige Stellen auf dem Boden oder an Mauern, Waldränder, Trockenrasen und Steinstrukturen.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Die Tiere sind für Menschen harmlos und saugen kein Blut. Die erwachsenen Tiere jagen Kleinstlebewesen im Boden und fressen Insekteneier. Eine Maßnahme ist nicht nötig.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "2988deae"
+   ],
+   "korrekturen": [
+    "7de5a255: Aussage, die Farbe warne vor ungenießbaren Hautstoffen, nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Trombidium holosericeum",
+     "https://de.wikipedia.org/wiki/Trombidium_holosericeum"
+    ],
+    [
+     "Utopia: Rote Samtmilben (Vergleich Zecke)",
+     "https://utopia.de/ratgeber/keine-zecken-wieso-rote-samtmilben-nuetzlich-fuer-deinen-garten-sind_197340/"
+    ]
+   ]
+  },
+  {
+   "slug": "wassermilben",
+   "name": "Wassermilbe",
+   "latein": "Hydrachnidia",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Kleine, oft rote Milben, die in Süßgewässern leben und deren Larven an Wasserinsekten schmarotzen.",
+   "erkennen": [
+    "Im Süßwasser lebende Milben, oft rot und nur wenige Millimeter klein",
+    "Viele Arten tragen Schwimmhaare an den Beinen"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Alle Süßgewässer, stehende wie fließende, vom Tümpel bis zum Bach.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Harmlose Gewässerbewohner. Sie reagieren empfindlich auf Sauerstoffmangel und gelten als Zeiger der Wasserqualität.",
+   "schutz": null,
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "53e31002: Aussage, acht Beine trennten Wassermilben von Insektenlarven, ist in der gelesenen Quelle nicht belegt. Die Quelle sagt, dass die Larven parasitisch an Wasserinsekten leben und die erwachsenen Tiere frei im Wasser."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Süßwassermilben",
+     "https://de.wikipedia.org/wiki/Hydrachnidia"
+    ]
+   ]
+  },
+  {
+   "slug": "weinbergschnecke",
+   "name": "Weinbergschnecke",
+   "latein": "Helix pomatia",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Größte heimische Gehäuseschnecke mit braunem Haus von 3 bis 5 cm, geschützt und kalkliebend.",
+   "erkennen": [
+    "Braunes Gehäuse von 3 bis 5 cm",
+    "Tier bis etwa 10 cm lang",
+    "Bei älteren Tieren verdickt sich der Mündungsrand durch immer neue Schichten",
+    "Verschließt das Haus im Winter und bei Trockenheit mit einem Deckel"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Lichte Wälder, Gebüsche und offene Lebensräume auf kalkhaltigen Böden. Sie braucht Kalk für Haus und Winterdeckel.",
+   "zeit": "Den Winter verbringt sie leicht eingegraben unter Büschen mit Kalkdeckel, im März oder April öffnet sie diesen. Bei starker Trockenheit hält sie auch im Sommer einen Trockenschlaf.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Nicht sammeln, nicht umsiedeln. Wo sie vorkommt, helfen Hecken, Gebüsch, Laubhaufen und unverdichteter Boden. Auf Wegen und beim Mähen auf kriechende Tiere achten.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung, FFH-Richtlinie Anhang V.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "86be08de: Der Kalkdeckel in Trockenzeiten ist belegt. Die Aussage, die helle Lippe zeige erwachsene Tiere, ist für die Weinbergschnecke nicht belegt, ihr Mündungsrand verdickt sich nur mit dem Alter. Eine abgeschlossene Lippe bilden eher Bänderschnecken."
+   ],
+   "quellen": [
+    [
+     "NABU Niedersachsen: Die Weinbergschnecke",
+     "https://niedersachsen.nabu.de/tiere-und-pflanzen/sonstige-arten/schnecken/arten-niedersachsen/10064.html"
+    ],
+    [
+     "Wikipedia (de): Weinbergschnecke",
+     "https://de.wikipedia.org/wiki/Weinbergschnecke"
+    ]
+   ]
+  },
+  {
+   "slug": "hain-baenderschnecke",
+   "name": "Hain-Bänderschnecke",
+   "latein": "Cepaea nemoralis",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Bänderschnecke mit dunkler Gehäusemündung und sehr unterschiedlichem Muster.",
+   "erkennen": [
+    "Gehäuse etwa 17 bis 23 mm, gelblich oder rötlichbraun",
+    "Bis zu fünf dunkle Bänder, die verschmelzen oder fehlen können",
+    "Dunkle Mündung, daran unterscheidet man sie von der Garten-Bänderschnecke"
+   ],
+   "verwechslung": "Garten-Bänderschnecke (Cepaea hortensis) hat eine helle Gehäusemündung.",
+   "lebensraum": "Gärten, Parks, Wälder und Hecken.",
+   "zeit": null,
+   "spuren": "Leere Häuser, oft an Drosselschmieden, wo Singdrosseln Schnecken auf Steinen aufschlagen.",
+   "regional": null,
+   "umgang": "Hecken, Laub und Staudensäume bieten Deckung. Beim Mähen und Wegräumen auf die Tiere achten.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "96cd26ba",
+    "bb0b91c8"
+   ],
+   "korrekturen": [
+    "deba9842: Aussage 'helle Lippe' bei der Hain-Schnirkelschnecke ist falsch, die Hain-Bänderschnecke hat eine dunkle Mündung, die helle gehört zur Garten-Bänderschnecke.",
+    "313f6adb: 'helle oder dunkle Bänder' ist ungenau, belegt sind dunkle Bänder, die auch fehlen können."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Hain-Bänderschnecke",
+     "https://de.wikipedia.org/wiki/Hain-B%C3%A4nderschnecke"
+    ],
+    [
+     "Wikipedia (de): Schnirkelschnecken",
+     "https://de.wikipedia.org/wiki/Schnirkelschnecken"
+    ]
+   ]
+  },
+  {
+   "slug": "bernsteinschnecken",
+   "name": "Bernsteinschnecke",
+   "latein": "Succineidae",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Uferschnecken mit dünnem, glänzend durchscheinendem Gehäuse, in das sie sich nicht ganz zurückziehen können.",
+   "erkennen": [
+    "Rechtsgewundenes, mäßig hohes Gehäuse mit wenigen Windungen",
+    "Dünn, glänzend und oft durchscheinend",
+    "Der Körper passt meist nicht vollständig ins Haus"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Uferzonen von Flüssen und Seen, einige Arten auch Küstendünen.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Ufersäume mit Schilf, Seggen und Stauden nicht abmähen oder zertreten.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "52c933fc",
+    "68dc6ca1",
+    "72eb0c94"
+   ],
+   "korrekturen": [
+    "6fbd953f: Aussage, das Haus wirke zu groß für den weichen Körper, ist umgekehrt, der Körper kann sich nicht ganz ins Haus zurückziehen.",
+    "1dd6cfb2 und 726cc8c3: Klettern bei Nässe und Vergleich mit jungen Bänderschnecken nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Bernsteinschnecken",
+     "https://de.wikipedia.org/wiki/Bernsteinschnecken"
+    ]
+   ]
+  },
+  {
+   "slug": "rote-wegschnecke",
+   "name": "Rote Wegschnecke",
+   "latein": "Arion rufus",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Große Nacktschnecke, trotz des Namens rot, orange, grau oder schwarz gefärbt.",
+   "erkennen": [
+    "12 bis 15 cm lang, in Ausnahmen bis 20 cm",
+    "Farbe von Schwarz und Dunkelbraun bis Rot, Orange oder Grau",
+    "Junge Tiere hellgelb bis hellorange mit dunklem Kopf",
+    "Mantelschild über ein Drittel der Körperlänge"
+   ],
+   "verwechslung": "Schwarze Wegschnecke (Arion ater) ist ausschließlich schwarz bis dunkelbraun. Sichere Unterscheidung nur über Genitalorgane oder Genetik.",
+   "lebensraum": "Wälder und feuchte Wiesen in Mittel- und Westeuropa.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Heimische Nacktschnecken sind Teil des Naturhaushalts und zersetzen Pflanzenreste, Pilze und Aas. Es gibt keinen Grund, sie zu verfolgen. Mulch und Laub lassen ihnen Verstecke.",
+   "schutz": "In Bayern als gefährdet geführt, wegen der Konkurrenz durch die eingeschleppte Spanische Wegschnecke.",
+   "naturdeck_ids": [
+    "17dd65c7"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Rote Wegschnecke",
+     "https://de.wikipedia.org/wiki/Rote_Wegschnecke"
+    ]
+   ]
+  },
+  {
+   "slug": "schwarze-wegschnecke",
+   "name": "Schwarze Wegschnecke",
+   "latein": "Arion ater",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Tiefschwarze Nacktschnecke, 10 bis 13 cm lang, mit Atemloch vorn rechts im Mantelschild.",
+   "erkennen": [
+    "10 bis 13 cm lang",
+    "Meist tiefschwarz, selten dunkelbraun oder grau",
+    "Atemloch rechts im vorderen Teil des Mantelschildes"
+   ],
+   "verwechslung": "Die Rote Wegschnecke gibt es auch in Schwarz, sicher trennbar nur nach Genitalorganen oder Genetik.",
+   "lebensraum": "Feuchte Wälder, Wiesen, Moore und Gärten. Sie kommt in Skandinavien, Dänemark, Schleswig-Holstein und Nordengland vor und wurde fast weltweit verschleppt.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Frisst welke oder frische Pflanzen und auch Aas. Als Zersetzer gehört sie zum Garten, Verstecke aus Laub und Holz lassen ihr Raum.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "441dabf6"
+   ],
+   "korrekturen": [
+    "441dabf6: Das Raspeln von Pilzen ist in der gelesenen Quelle nicht belegt, genannt werden Pflanzen und Aas."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Schwarze Wegschnecke",
+     "https://de.wikipedia.org/wiki/Schwarze_Wegschnecke"
+    ]
+   ]
+  },
+  {
+   "slug": "schwarzer-schnegel",
+   "name": "Schwarzer Schnegel",
+   "latein": "Limax cinereoniger",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Größte Nacktschnecke Europas, schlank mit deutlichem Kiel am Rückenende, nachtaktiv.",
+   "erkennen": [
+    "Bis 20 cm lang, vereinzelt bis 30 cm",
+    "Relativ schlanker Körper",
+    "Ausgeprägter Kiel, der vom Schwanzende nach vorn zieht",
+    "Kriechsohle in drei Längsfelder gegliedert"
+   ],
+   "verwechslung": "Wegschnecken haben keinen Rückenkiel.",
+   "lebensraum": "Naturnahe Wälder und Gebüsch, auch reine Nadelwälder. Versteckt sich unter Steinen, morschen Stubben und liegendem Totholz.",
+   "zeit": "Nachtaktiv.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Totholz und Stubben im Wald und im Garten liegen lassen. Die Art frisst Pilze, Algen und vermodernde Pflanzenreste, auch tote Artgenossen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "782efe57",
+    "a29bfd75"
+   ],
+   "korrekturen": [
+    "7c3b402c: Aussage zur 'hellen Sohle' im Vergleich mit Wegschnecken nicht belegt, die Quelle nennt eine dreigeteilte Sohle."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Schwarzer Schnegel",
+     "https://de.wikipedia.org/wiki/Schwarzer_Schnegel"
+    ]
+   ]
+  },
+  {
+   "slug": "tigerschnegel",
+   "name": "Tigerschnegel",
+   "latein": "Limax maximus",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Fleckig gezeichnete Nacktschnecke, 10 bis 20 cm lang, die auch Pilze und Aas frisst.",
+   "erkennen": [
+    "10 bis 20 cm lang",
+    "Auf hellgelbem, braunem oder grauem Grund unregelmäßige, meist längliche Flecken",
+    "Mantelschild etwa ein Drittel der Körperlänge, darin eine kleine Kalkschale"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Ursprünglich Süd- und Westeuropa, inzwischen in Mitteleuropa. Bevorzugt feuchte Keller und Gärten, kühle feuchte Steinhaufen und Komposthaufen.",
+   "zeit": "Nachtaktiv, bei Regen auch tagsüber unterwegs.",
+   "spuren": "Paarung hängend an einem bis zu 43 cm langen Schleimfaden.",
+   "regional": null,
+   "umgang": "Frisst Pilze, Pflanzenreste, Aas und gelegentlich andere Schnecken. Kein Anlass zum Eingreifen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "8444a481"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Tigerschnegel",
+     "https://de.wikipedia.org/wiki/Tigerschnegel"
+    ]
+   ]
+  },
+  {
+   "slug": "glaenzende-glattschnecke",
+   "name": "Glänzende Glattschnecke",
+   "latein": "Cochlicopa nitens",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Winzige Gehäuseschnecke mit glattem, glänzendem, bräunlichem Haus von etwa 6 bis 7 mm Höhe.",
+   "erkennen": [
+    "Gehäusehöhe etwa 5,5 bis 7,5 mm, Breite 2,1 bis 2,8 mm",
+    "Rechtsgewunden, bauchig-konisch",
+    "Bräunlich, glatt und glänzend"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Feuchte Wälder in Moos und unter Laub, Talauen und kalkreiche Sümpfe, aber auch trockenere Stellen.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Winzig und leicht zu übersehen. Laubschichten und Moos als Lebensraum bleiben ungestört.",
+   "schutz": null,
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "93ed6753: Aussage, das Haus sei flach, ist falsch, es ist bauchig-konisch. Der Aufenthalt unter Totholz ist nicht belegt, belegt sind Moos und Laub."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Glänzende Glattschnecke",
+     "https://de.wikipedia.org/wiki/Glattschnecken"
+    ]
+   ]
+  },
+  {
+   "slug": "schliessmundschnecken",
+   "name": "Schließmundschnecke",
+   "latein": "Clausiliidae",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Schlanke, turmförmige, meist linksgewundene Schnecken mit einem Schließplättchen vor der Mündung.",
+   "erkennen": [
+    "Hohes, turmförmig gewundenes Gehäuse",
+    "In der Regel linksgewunden",
+    "Verschlussmechanismus (Clausilium) in der Mündung",
+    "Mündung mit Falten, deren Form für die Bestimmung entscheidend ist"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Warme, humusreiche Böden, manche Arten auf totem Holz in Wäldern.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Totholz und Laubstreu bleiben liegen, dort leben viele Arten.",
+   "schutz": null,
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "a7557590: Aussage zu 'Zähnchen an der Spindelöffnung' und zur feuchten Rinde nicht belegt, belegt sind Mündungsfalten und das Leben mancher Arten auf Totholz."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Schließmundschnecken",
+     "https://de.wikipedia.org/wiki/Schlie%C3%9Fmundschnecken"
+    ]
+   ]
+  },
+  {
+   "slug": "sumpfdeckelschnecken",
+   "name": "Sumpfdeckelschnecke",
+   "latein": "Viviparidae",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Große Süßwasserschnecke bis 5 cm mit festem Deckel und lebendgebärend.",
+   "erkennen": [
+    "Bis 5 cm, eine der größten Süßwasserschnecken Mitteleuropas",
+    "Fester Deckel am Fuß, der die Mündung ganz verschließt",
+    "Männchen mit kürzerem, verdicktem rechtem Fühler"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Bewegte Gewässer wie Tieflandflüsse und Seeufer, kriecht auf Grund, Steinen und Holz.",
+   "zeit": null,
+   "spuren": "Leere Häuser mit oder ohne Deckel im Ufersaum.",
+   "regional": null,
+   "umgang": "Die einzige lebendgebärende Schneckenart Mitteleuropas. Sie weidet Algen und Bakterienrasen und frisst Detritus. Gewässer sauber halten, Ufer nicht verbauen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "109dd190",
+    "ec828cbb"
+   ],
+   "korrekturen": [
+    "7bf55e40: 'stiller Graben' passt nicht, die Quelle nennt bewegte Gewässer und Seeufer.",
+    "ad241b7c: Aussage, der Deckel verrate leere Häuser nach dem Fraß, nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Sumpfdeckelschnecken",
+     "https://de.wikipedia.org/wiki/Sumpfdeckelschnecke"
+    ]
+   ]
+  },
+  {
+   "slug": "grosse-teichmuschel",
+   "name": "Große Teichmuschel",
+   "latein": "Anodonta cygnea",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Bis 20 cm große Süßwassermuschel mit perlmuttglänzender Schaleninnenseite, besonders geschützt.",
+   "erkennen": [
+    "Bis zu 20 cm, Schale breit eiförmig, gelblich bis dunkelbraun",
+    "Innen deutlich perlmuttartig glänzend",
+    "Keine Zähne am Schloss (daher der Gattungsname)"
+   ],
+   "verwechslung": "Die Gemeine Teichmuschel wird nur 8 bis 10 cm groß und hat eine eher matte Perlmuttschicht.",
+   "lebensraum": "Saubere stehende Gewässer in Nord- und Mitteleuropa, in weichem oder sandigem Grund eingegraben.",
+   "zeit": null,
+   "spuren": "Leere Schalen am Ufer.",
+   "regional": null,
+   "umgang": "Muscheln nicht entnehmen. Als Filtrierer reinigt sie das Wasser, ihre Larven leben zeitweise parasitisch an Fischen. Gewässer vor Nährstoffeintrag schützen.",
+   "schutz": "Besonders geschützt nach Bundesnaturschutzrecht, durch Gewässerverschmutzung rückläufig.",
+   "naturdeck_ids": [
+    "e4ba253a"
+   ],
+   "korrekturen": [
+    "227bbbf3, 88749235, e4ba253a: Fraß durch Krähe, Ratte oder Bisam, Jahresringe als matte Bögen und die Lage im Uferlehm sind in der Quelle nicht belegt, bestätigt ist nur die Perlmuttinnenseite."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Große Teichmuschel",
+     "https://de.wikipedia.org/wiki/Gro%C3%9Fe_Teichmuschel"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeine-teichmuschel",
+   "name": "Gemeine Teichmuschel",
+   "latein": "Anodonta anatina",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Süßwassermuschel von 8 bis 10 cm mit matt perlmuttfarbener Innenseite, filtert etwa 40 Liter Wasser am Tag.",
+   "erkennen": [
+    "Breit bis eiförmige, dünnrandige Schale, gelblich bis dunkelbraun",
+    "Meist 8 bis 10 cm lang",
+    "Perlmuttschicht innen matt, nicht so stark glänzend wie bei der Großen Teichmuschel"
+   ],
+   "verwechslung": "Die Große Teichmuschel wird bis 20 cm groß und glänzt innen stärker.",
+   "lebensraum": "Fließende und stehende Gewässer auf schlammigem oder sandigem Grund, fast ganz Europa.",
+   "zeit": "Im Frühjahr gibt die Muschel Larven (Glochidien) ab, wenn ein Wirtsfisch in der Nähe ist.",
+   "spuren": "Leere Schalen am Ufer.",
+   "regional": null,
+   "umgang": "Muscheln im Wasser lassen. Die Larven setzen sich an Fischen wie Barsch und Plötze fest. Gefährdet durch Gewässerverschmutzung und die eingeschleppte Dreikantmuschel.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "4b0dbec2"
+   ],
+   "korrekturen": [
+    "4b0dbec2: Fraß durch Bisam oder Krähe nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeine Teichmuschel",
+     "https://de.wikipedia.org/wiki/Gemeine_Teichmuschel"
+    ]
+   ]
+  },
+  {
+   "slug": "kellerassel",
+   "name": "Kellerassel",
+   "latein": "Porcellio scaber",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Graue Landassel mit körniger Oberfläche, die sich nicht zur Kugel einrollen kann.",
+   "erkennen": [
+    "9 bis 18 mm lang, Oberfläche körnig",
+    "Spitz zulaufende Schwanzplatte und spitz dreieckiger Mittellappen am Kopf",
+    "Rollt sich nicht zur geschlossenen Kugel, bei Gefahr Schreckstarre"
+   ],
+   "verwechslung": "Rollasseln schließen sich zur Kugel. Die Mauerassel (Oniscus asellus) hat dreigliedrige zweite Antennen, die Kellerassel zweigliedrige.",
+   "lebensraum": "Keller, Gärten, Ställe, Komposthaufen, im Freiland Laubwälder und Gebüsche unter Steinen und Holz.",
+   "zeit": "Bevorzugt nachtaktiv.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Als Zersetzer organischer Reste nützlich. Weibchen tragen die Eier etwa 40 bis 50 Tage in einer flüssigkeitsgefüllten Bruttasche am Bauch. Holz- und Steinhaufen bleiben als Versteck.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "2acaba1c",
+    "abba5701",
+    "dd3c54a6"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Kellerassel",
+     "https://de.wikipedia.org/wiki/Kellerassel"
+    ],
+    [
+     "Wikipedia (de): Mauerassel",
+     "https://de.wikipedia.org/wiki/Mauerassel"
+    ]
+   ]
+  },
+  {
+   "slug": "gemeine-rollassel",
+   "name": "Gemeine Rollassel",
+   "latein": "Armadillidium vulgare",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Stark gewölbte, blaugraue Assel, die sich bei Störung zu einer lückenlosen Kugel einrollt.",
+   "erkennen": [
+    "8 bis 18 mm lang, schwärzlich- bis blaugrau, oval, stark gewölbt",
+    "Rollt sich bei Störung oder Trockenheit fast perfekt ein, ohne sichtbare Lücke"
+   ],
+   "verwechslung": "Kellerassel und Mauerassel können sich nicht zur geschlossenen Kugel einrollen.",
+   "lebensraum": "Offenere, trockenere Lebensräume mit Kalk, Gärten, Parks, unter Steinen und Holz. Wälder werden weniger bevorzugt.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Frisst Pflanzenreste, Pilze und tote Insekten und hilft beim Abbau. Steine und Holz als Verstecke liegen lassen.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "32e786d4",
+    "841b5d87"
+   ],
+   "korrekturen": [
+    "32e786d4, 841b5d87: 'unter feuchtem Totholz' passt nur teilweise, die Quelle nennt eher offene, trockenere Lebensräume mit hoher Trockenheitsresistenz."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Gemeine Rollassel",
+     "https://de.wikipedia.org/wiki/Gemeine_Rollassel"
+    ]
+   ]
+  },
+  {
+   "slug": "wasserassel",
+   "name": "Wasserassel",
+   "latein": "Asellus aquaticus",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Graubraune Süßwasserassel, die im Falllaub nährstoffreicher Gewässer lebt.",
+   "erkennen": [
+    "Männchen 12 bis 20 mm, Weibchen 8 bis 15 mm",
+    "Grau bis graubraun mit verstreuten weißen Flecken"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Stehende und fließende Süßgewässer, bevorzugt nährstoffreich, zwischen Wasserpflanzen, Detritus und Totholz am Grund.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Frisst zerfallendes Pflanzenmaterial und Aufwuchs und ist selbst Nahrung für Fische und Amphibien. Falllaub im Graben nicht restlos entfernen.",
+   "schutz": "Rote Liste Deutschland: ungefährdet, häufigste Art der Familie.",
+   "naturdeck_ids": [
+    "2042e954",
+    "7b76e048"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "Wikipedia (de): Wasserassel",
+     "https://de.wikipedia.org/wiki/Wasserassel"
+    ]
+   ]
+  },
+  {
+   "slug": "gewoehnlicher-flohkrebs",
+   "name": "Gewöhnlicher Flohkrebs",
+   "latein": "Gammarus pulex",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Seitlich abgeflachter Süßwasserkrebs kühler, sauerstoffreicher Bäche, der sich von Falllaub ernährt.",
+   "erkennen": [
+    "Männchen etwa 2,1 cm, Weibchen bis etwa 1,4 cm",
+    "Farbe weißlich-gelb über ocker und grau bis grünlich",
+    "Körper seitlich zusammengedrückt"
+   ],
+   "verwechslung": "Gammarus fossarum sieht ähnlich aus und unterscheidet sich im Bau des dritten Schwanzbeins.",
+   "lebensraum": "Kühle, sauerstoffreiche Fließgewässer, meist Mittel- und Unterlauf, bevorzugt kalkreich. Meidet saure Gewässer.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Frisst vor allem Falllaub und zerkleinert es. Wirbelloses Tier des Jahres 2002. Falllaub im Bach lassen, saubere Bäche erhalten.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "398a91b1",
+    "86a623b4"
+   ],
+   "korrekturen": [
+    "398a91b1, 86a623b4: Als Lebensraum nennt die Quelle Bäche, Gräben werden nicht genannt. Der Aspekt 'seitliche Sprünge verraten sauerstoffreiches Wasser' ist nicht ausdrücklich belegt, die Bindung an sauerstoffreiches Wasser aber schon."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Gammarus pulex",
+     "https://de.wikipedia.org/wiki/Gammarus_pulex"
+    ]
+   ]
+  },
+  {
+   "slug": "pferdeegel",
+   "name": "Pferdeegel",
+   "latein": "Haemopis sanguisuga",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Über 10 cm langer Egel stehender Gewässer, der kein Blut saugt und für Menschen harmlos ist.",
+   "erkennen": [
+    "Über 10 cm lang, gestreckt bis 15 cm",
+    "Oberseite bräunlich bis schwärzlich, Unterseite gelbgrau bis grünlich",
+    "Fünf Augenpaare vorn am Kopfrand",
+    "Bewegt sich kriechend mit zwei Saugnäpfen und schwimmend mit Wellenbewegungen"
+   ],
+   "verwechslung": "Dem Medizinischen Blutegel ähnlich und oft mit ihm verwechselt.",
+   "lebensraum": "Stehende und langsam fließende Gewässer in Europa und Nordafrika.",
+   "zeit": null,
+   "spuren": "Eikokons in feuchter Erde nahe am Ufer, Kapseln bis etwa 1 cm.",
+   "regional": null,
+   "umgang": "Er frisst Insektenlarven, Würmer, Fischlaich sowie Amphibieneier und -larven und stellt keine Gefahr für Mensch oder Vieh dar. Nicht anfassen, nicht verlegen.",
+   "schutz": null,
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "72285f0e: 'jagt Schnecken' ist in der gelesenen Quelle nicht belegt. Belegt ist, dass er kein Blut saugt und Insektenlarven, Würmer, Laich und Amphibienlarven frisst."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Pferdeegel",
+     "https://de.wikipedia.org/wiki/Pferdeegel"
+    ]
+   ]
+  },
+  {
+   "slug": "grosser-schneckenegel",
+   "name": "Großer Schneckenegel",
+   "latein": "Glossiphonia complanata",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Bis 3 cm langer, flacher Egel, der an Wasserschnecken und Würmern saugt und seine Brut am Bauch trägt.",
+   "erkennen": [
+    "Bis 3 cm lang und höchstens 1 cm breit, abgeflacht",
+    "Drei hintereinander liegende Augenpaare",
+    "Vorderer Saugnapf sehr klein, hinterer deutlich größer"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Stehende und fließende Gewässer aller Art, unter Steinen oder an Wasserpflanzen.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Saugt vor allem an Schnecken und Würmern, das Weibchen bewacht den Eikokon und die Jungen am Bauch. Nicht stören.",
+   "schutz": null,
+   "naturdeck_ids": [
+    "557cdb98"
+   ],
+   "korrekturen": [
+    "557cdb98: Aussage 'Saugscheibe tastend über den Schlamm' nicht belegt, bestätigt sind Vorkommen unter Steinen und kleiner vorderer Saugnapf."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Großer Schneckenegel",
+     "https://de.wikipedia.org/wiki/Glossiphonia_complanata"
+    ]
+   ]
+  },
+  {
+   "slug": "grasfrosch",
+   "name": "Grasfrosch",
+   "latein": "Rana temporaria",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Braunfrosch mit dreieckigem dunklem Schläfenfleck und quergebänderten Hinterbeinen.",
+   "erkennen": [
+    "7 bis 11 cm, meist 7 bis 9 cm",
+    "Färbung gelblich über rötlich bis dunkelbraun",
+    "Dreieckiger dunkler Schläfenfleck",
+    "Hinterbeine quergestreift"
+   ],
+   "verwechslung": "Moorfrosch: Die Männchen des Moorfroschs färben sich zur Paarung kräftig blau, beim Grasfrosch ist nur ein bläulicher Schimmer möglich.",
+   "lebensraum": "Grünland, Gebüsche, Wälder und Gärten. Zum Laichen sonnige, bewachsene Gewässer.",
+   "zeit": "Laichzeit im zeitigen Frühjahr, in Mitteleuropa meist Mitte bis Ende März.",
+   "spuren": "Leise Paarungsrufe der Männchen.",
+   "regional": null,
+   "umgang": "Nicht anfassen. Auf Wanderungen zwischen Winterquartier und Laichgewässer sterben viele Tiere im Straßenverkehr, im Frühjahr mit Rücksicht fahren. Naturnahe Teiche, Laub- und Steinhaufen helfen.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung, FFH-Richtlinie Anhang V.",
+   "naturdeck_ids": [
+    "968c2316"
+   ],
+   "korrekturen": [
+    "968c2316: 'springen im Juli weit vom Laichgewässer' ist nicht belegt, der Schläfenfleck ist belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Grasfrosch",
+     "https://de.wikipedia.org/wiki/Grasfrosch"
+    ]
+   ]
+  },
+  {
+   "slug": "erdkroetenkaulquappe",
+   "name": "Erdkrötenkaulquappe",
+   "latein": "Bufo bufo",
+   "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
+   "kurz": "Einheitlich schwarze Kaulquappen, die gesellig in Schwärmen im warmen Oberflächenwasser schwimmen.",
+   "erkennen": [
+    "Einheitlich schwarz, bis etwa 40 mm lang",
+    "Oft in breiten oder langgezogenen Schwärmen in den oberen, wärmeren Wasserschichten",
+    "Laich in Schnüren von 5 bis 8 mm Dicke, gestreckt etwa 2 bis 4 m lang"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Laichgewässer der Erdkröte, nach Wanderung im März. Die Kaulquappen sind ungenießbar, deshalb kann die Art auch in Teichen mit Fischen laichen.",
+   "zeit": "Wanderung zu den Laichgewässern meist im März.",
+   "spuren": "Laichschnüre im Wasser.",
+   "regional": null,
+   "umgang": "Kaulquappen nicht fangen und nicht umsetzen. Besatz mit Fischen und Entenfüttern meiden. Auf Wanderstrecken bei Regen im Frühjahr aufmerksam fahren.",
+   "schutz": "Alle heimischen Amphibien sind nach Bundesartenschutzverordnung besonders geschützt. Die Erdkröte steht nicht in der FFH-Richtlinie.",
+   "naturdeck_ids": [
+    "f542374d"
+   ],
+   "korrekturen": [
+    "f542374d: 'Bitterstoffe' ist nicht ausdrücklich belegt, die Quelle sagt 'ungenießbar'."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Erdkröte",
+     "https://de.wikipedia.org/wiki/Erdkr%C3%B6te"
+    ]
+   ]
+  }
+ ],
+ "nicht_aufgenommen": [
+  [
+   "Spinnenläufer (Scutigera coleoptrata)",
+   "Gehört zu den Hundertfüßern. Laut Quelle überwiegend in Gebäuden und im Südwesten Deutschlands, ein Vorkommen unter feuchtem Totholz in M-V ist nicht belegt (Fakt ad77910f)."
+  ],
+  [
+   "Zweifleck-Kreuzspinne",
+   "Name in den Quellen nicht belegt, Art nicht sicher bestimmbar (d63e935c). Als Spaltenkreuzspinne nur vermutet und ohne Fakt-ID geführt."
+  ],
+  [
+   "Rindenassel",
+   "Name nicht eindeutig einer Art zuzuordnen (Porcellium conspersum oder Hyloniscus riparius). Keine tragfähige Quelle für 'rollt sich nicht ein' und Rinde (Fakt effb9876)."
+  ],
+  [
+   "Skorpionsfliege",
+   "Insekt, gehört zu einem Insektenpaket (07358e17, 216eaf15, 26e161d0, aa4e2057, b477cc7e, db76efa3)."
+  ],
+  [
+   "Wasserskorpion",
+   "Wasserwanze, Insekt (3f2d3f84, 55a81ba6, 91b11b6e, eceb1a8f)."
+  ],
+  [
+   "Rückenschwimmer, Gelbrandkäferlarve, Schwarzer Moderkäfer, Mistkäfer, Ohrwurm, Landkärtchen, Libellen, Blattwanze",
+   "Insekten, gehören zu Insektenpaketen."
+  ],
+  [
+   "Krebsschere",
+   "Wasserpflanze, kein Tier."
+  ],
+  [
+   "Froschlöffel, Bittersüßer Nachtschatten, Sumpf-Blutauge",
+   "Pflanzen, nicht in diesem Paket."
+  ],
+  [
+   "Pilze (Zunderschwamm, Schwefelkopf, Kiefern-Braunporling)",
+   "Pilze, nicht in diesem Paket."
+  ],
+  [
+   "Singdrossel, Waldschnepfe, Star, Schleiereule, Trauerschnäpper, Schwarzkehlchen, Waldvogel",
+   "Vögel, andere Pakete."
+  ],
+  [
+   "Iltis, Fischotter, Mink, Bisam, Maulwurf, Spitzmaus, Fransenfledermaus, Reh, Fuchs",
+   "Säugetiere, andere Pakete."
+  ],
+  [
+   "Springfrosch",
+   "Im Naturdeck nicht vorhanden."
+  ]
+ ]
+}

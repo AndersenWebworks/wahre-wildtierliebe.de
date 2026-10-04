@@ -1,0 +1,908 @@
+{
+ "paket": "voegel-greife-eulen",
+ "arten": [
+  {
+   "slug": "habicht",
+   "name": "Habicht",
+   "latein": "Accipiter gentilis",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Kräftiger Waldgreifvogel mit breiten Flügeln und langem Schwanz, im Flug mit weißem Überaugenstreif.",
+   "erkennen": [
+    "54 bis 67 cm lang, Weibchen größer als Männchen",
+    "Oberseite schiefergrau, Unterseite weiß mit feiner grauer Bänderung",
+    "dunkler Kopf mit hellem Überaugenstreif",
+    "breite Flügel und langer Schwanz",
+    "Iris gelb bis orange"
+   ],
+   "verwechslung": "Mit dem Sperber, der deutlich kleiner ist. Der Größenunterschied ist das sicherste Merkmal.",
+   "lebensraum": "Laub-, Nadel- und Mischwälder mit alten Bäumen, dort baut er sein Nest hoch oben. Zur Jagd nutzt er auch Felder und offenes Land mit Hecken und Gebüsch als Deckung. Zunehmend lebt er auch in Siedlungsnähe und in Städten.",
+   "zeit": "Ganzjährig anwesend, er ist Standvogel und Kurzstreckenzieher.",
+   "spuren": "Rupfplätze liegen meist versteckt am Boden oder unter Kröpfbäumen. Dort findet man ausgerissene Federn der Beute, bei größeren Vögeln mit einem Knick im Federkiel, wo der Schnabel angesetzt hat. Anders als der Sperber nutzt der Habicht selten feste Rupfplätze, die Federn liegen daher oft verstreut. Unversehrte Kiele sprechen allgemein für einen Greifvogel, abgebissene Kiele eher für ein Säugetier. In der Balzzeit ruft das Männchen laut und gackernd „kja-kja-kja“.",
+   "regional": null,
+   "umgang": "Abstand halten, besonders am Horst. Rupfplätze und Horste nicht aufsuchen und nicht stören. Bei Hinweisen auf Fallen, Köder oder Abschuss die Polizei oder die Naturschutzbehörde verständigen.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel, BNatSchG und EU-Artenschutzverordnung). Laut NABU-Artenporträt in Deutschland nicht gefährdet, 10.000 bis 14.500 Brutpaare.",
+   "naturdeck_ids": [
+    "84116d92",
+    "8e4dc3d7",
+    "f03a1956"
+   ],
+   "korrekturen": [
+    "cdc8c88a: Der Habicht trage den Stoß „enger als beim Sperber“. Dafür fand sich keine Quelle, der Unterschied zum Sperber liegt vor allem in der Größe.",
+    "0007ba2e und fea5f7b4: „kurze runde Flügel“ beim Habicht ist nicht belegt, die Quelle nennt breite Flügel und langen Schwanz. Der Hakenflug und die Wendungen sind nicht belegt.",
+    "f03a1956: Unversehrte Kiele sind ein Merkmal von Greifvogelrupfungen allgemein. „Nahe an dichter Waldkante“ ist nur sinngemäß gedeckt (Rupfung in Deckung)."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Habicht",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/habicht/"
+    ],
+    [
+     "Bayerisches Wildtierportal Habicht",
+     "https://www.wildtierportal.bayern.de/wildtiere_bayern/100025/index.php"
+    ],
+    [
+     "Featherbase: Urheber einer Rupfung",
+     "https://www.featherbase.info/de/article/5"
+    ],
+    [
+     "NABU Cuxhaven: Greifvögel und Eulen",
+     "https://www.nabu-cuxhaven.de/hilfe-f%C3%BCr-wildtiere/greifv%C3%B6gel-und-eulen/"
+    ]
+   ]
+  },
+  {
+   "slug": "sperber",
+   "name": "Sperber",
+   "latein": "Accipiter nisus",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Kleiner, schneller Vogeljäger mit breiten runden Flügeln und langem Schwanz, oft an Hecken und im Garten.",
+   "erkennen": [
+    "32 bis 37 cm lang, Weibchen größer als Männchen",
+    "breite, runde Flügel und langer Schwanz",
+    "Oberseite schiefergrau",
+    "Männchen rostrot an Brust und Hals, Weibchen unten grau gebändert"
+   ],
+   "verwechslung": "Mit dem größeren Habicht. Der Sperber ist deutlich kleiner.",
+   "lebensraum": "Wälder mit hohen alten Nadelbäumen, zunehmend auch Siedlungsnähe, Parks und Gärten.",
+   "zeit": "Ganzjährig anwesend. Ältere Vögel bleiben, Jungvögel ziehen zum Teil in den Süden.",
+   "spuren": "Rupfungen von Kleinvögeln. Der Sperber rupft seine Beute meist vollständig, die Federn liegen oft an einem festen Platz. Er bevorzugt dafür aufgelockerte Bestände oder Dickungen. Zur Balz und bei Alarm ruft er gackernd „kjukjukju“, sonst ist er eher still.",
+   "regional": null,
+   "umgang": "Ein Sperber im Garten jagt Kleinvögel, das gehört zu seinem Leben. Nicht vertreiben und keine Fallen. Prallt ein Vogel gegen eine Scheibe, helfen Muster oder Markierungen auf dem Glas. Bei einem verletzten Tier die Auffangstation oder den Naturschutz fragen.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU nicht gefährdet, 23.000 bis 35.000 Brutpaare. Im 20. Jahrhundert stark verfolgt, inzwischen erholt.",
+   "naturdeck_ids": [
+    "4b8b1eeb",
+    "590eba35",
+    "766f1614",
+    "ecf8b2fd"
+   ],
+   "korrekturen": [
+    "9989179c: „Langer Stoß und rasche Flügelschläge trennen ihn vom Habicht“ ist nicht belegt. Das Unterscheidungsmerkmal ist vor allem die Größe.",
+    "1dd46d6d: „Kleinvögel verstummen, wenn er nah ist“ ist in den geprüften Quellen nicht belegt und wurde nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Sperber",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/sperber/"
+    ],
+    [
+     "Featherbase: Urheber einer Rupfung",
+     "https://www.featherbase.info/de/article/5"
+    ],
+    [
+     "NABU Cuxhaven: Greifvögel und Eulen",
+     "https://www.nabu-cuxhaven.de/hilfe-f%C3%BCr-wildtiere/greifv%C3%B6gel-und-eulen/"
+    ]
+   ]
+  },
+  {
+   "slug": "maeusebussard",
+   "name": "Mäusebussard",
+   "latein": "Buteo buteo",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Häufigster Greifvogel Deutschlands, sehr unterschiedlich gefärbt, oft kreisend über Feldern und Waldrändern.",
+   "erkennen": [
+    "46 bis 58 cm lang",
+    "Gefieder von fast weiß bis dunkelbraun",
+    "meist eine helle Querbinde zwischen dunklerer Brust und hellerem Bauch",
+    "Ruf ein abfallendes, miauendes „hii-äääh“"
+   ],
+   "verwechslung": "Mit dem Raufußbussard, der im Winter kommt und einen dunklen Bauchfleck sowie einen hellen Schwanz mit dunkler Endbinde hat, und mit dem Wespenbussard.",
+   "lebensraum": "Feldgehölze, Waldränder, Alleen und Einzelbäume, dazu offene Flächen zur Jagd. Dichte Wälder und stark bebaute Bereiche meidet er.",
+   "zeit": "Ganzjährig zu sehen, überwiegend Standvogel.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Abstand zu Horstbäumen halten. Einen am Boden sitzenden, verletzt wirkenden Vogel nicht anfassen, sondern eine Auffangstation oder den Naturschutz fragen.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU nicht gefährdet, 79.000 bis 135.000 Brutpaare.",
+   "naturdeck_ids": [
+    "2c130aeb"
+   ],
+   "korrekturen": [
+    "10f53422, cfe2365e: Das Sitzen auf Pfählen und der „schwere Abflug“ sind in den geprüften Quellen nicht belegt.",
+    "2e07f76e, 55f4fdf1, 7475104c: Mauserlücken, Betteln der Jungvögel im Juni und ein „längerer Ruf als beim Milan“ konnten nicht belegt werden."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Mäusebussard",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/maeusebussard/"
+    ],
+    [
+     "NABU Vogelporträt Raufußbussard",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/raufussbussard/"
+    ],
+    [
+     "NABU Cuxhaven: Greifvögel und Eulen",
+     "https://www.nabu-cuxhaven.de/hilfe-f%C3%BCr-wildtiere/greifv%C3%B6gel-und-eulen/"
+    ]
+   ]
+  },
+  {
+   "slug": "raufussbussard",
+   "name": "Raufußbussard",
+   "latein": "Buteo lagopus",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Wintergast aus dem Norden mit hellem Schwanz, dunkler Endbinde und dunklem Bauchfleck.",
+   "erkennen": [
+    "49 bis 59 cm lang",
+    "Beine bis zu den Füßen befiedert",
+    "heller Schwanz mit markanter dunkler Endbinde",
+    "dunkler Bauchfleck"
+   ],
+   "verwechslung": "Mit hellen Mäusebussarden. Der dunkle Bauchfleck unterscheidet ihn.",
+   "lebensraum": "Im Winter auf offenen, landwirtschaftlich genutzten Flächen. Die Brutgebiete liegen im Norden Europas, etwa in Lappland und Nordrussland.",
+   "zeit": "Wintergast von Oktober bis April.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Abstand halten und aus der Ferne beobachten. Auf den Nahrungsflächen nicht stören.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Keine Einstufung in der Roten Liste der Brutvögel, da nur Wintergast (NABU).",
+   "naturdeck_ids": [
+    "4cc66d73"
+   ],
+   "korrekturen": [
+    "9b2c2eae, cfaa5a36, e0229e95: Das Rütteln über Feldern im Winter war in den geprüften Quellen nicht belegt. Hell und dunkle Endbinde des Schwanzes sind bestätigt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Raufußbussard",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/raufussbussard/"
+    ],
+    [
+     "NABU Cuxhaven: Greifvögel und Eulen",
+     "https://www.nabu-cuxhaven.de/hilfe-f%C3%BCr-wildtiere/greifv%C3%B6gel-und-eulen/"
+    ]
+   ]
+  },
+  {
+   "slug": "wespenbussard",
+   "name": "Wespenbussard",
+   "latein": "Pernis apivorus",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Langstreckenzieher, der Wespennester ausgräbt und Larven frisst.",
+   "erkennen": [
+    "52 bis 60 cm lang",
+    "Männchen mit schiefergrauem Kopf, Oberseite dunkelgraubraun",
+    "Weibchen stärker gebändert",
+    "Gefiederfärbung variiert stark",
+    "miauender Ruf wie beim Mäusebussard"
+   ],
+   "verwechslung": "Mit dem Mäusebussard. Wegen der stark wechselnden Färbung ist die Bestimmung schwierig.",
+   "lebensraum": "Strukturreiche Wälder mit Lichtungen und Wiesen, bevorzugt an Waldrändern.",
+   "zeit": "Kommt ab April, teils erst im Mai, aus Afrika zurück. Im Spätsommer ziehen größere Gruppen durch.",
+   "spuren": "Ausgegrabene Wespennester im Boden. Die Art hat wenig gebogene Krallen, die sich zum Graben nach Larven eignen.",
+   "regional": null,
+   "umgang": "Abstand zu Horstbäumen halten. Aufgegrabene Wespennester sind ein Zeichen für die Nahrungssuche und kein Anlass zum Eingreifen.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU Vorwarnliste, 4.200 bis 6.000 Brutpaare.",
+   "naturdeck_ids": [
+    "187463e4",
+    "42f35f93"
+   ],
+   "korrekturen": [
+    "135e1b5e, 7074dd5d, b035528e: Kleiner „Taubenkopf“, gebänderte Schwänze und „schlanker als Bussarde“ konnten nicht belegt werden.",
+    "187463e4: „Helle Wabenreste im Sand“ ist nicht belegt, das Ausgraben der Wespennester schon."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Wespenbussard",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/wespenbussard/"
+    ],
+    [
+     "NABU Cuxhaven: Greifvögel und Eulen",
+     "https://www.nabu-cuxhaven.de/hilfe-f%C3%BCr-wildtiere/greifv%C3%B6gel-und-eulen/"
+    ]
+   ]
+  },
+  {
+   "slug": "rotmilan",
+   "name": "Rotmilan",
+   "latein": "Milvus milvus",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Rostroter Greifvogel mit tief gegabeltem Schwanz, über die Hälfte des Weltbestands brütet in Deutschland.",
+   "erkennen": [
+    "61 bis 72 cm lang",
+    "tief gegabelter, rostroter Schwanz",
+    "rostfarbene Grundfarbe, grauer Kopf",
+    "weiße Fenster auf der Flügelunterseite",
+    "dünnes Pfeifen und bussardähnliches Miauen"
+   ],
+   "verwechslung": "Mit dem Schwarzmilan. Er ist etwas kleiner und dunkler, sein Schwanz ist nur schwach gegabelt. Die Gabelung allein genügt nicht, bei Jungvögeln ist sie kaum ausgeprägt.",
+   "lebensraum": "Strukturreiche Kulturlandschaft mit Feldern, Wiesen und Feldgehölzen.",
+   "zeit": "Ganzjährig, teilweise bleiben die Vögel im Winter hier, andere ziehen nach Südfrankreich.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Abstand zum Horst halten. Laut NABU hängt die Bestandsentwicklung auch von der Zahl der Windräder ab. Bei verletzten Tieren die Naturschutzbehörde oder eine Auffangstation fragen.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU Vorwarnliste, 14.500 bis 22.000 Brutpaare, mehr als die Hälfte des Weltbestands brütet in Deutschland.",
+   "naturdeck_ids": [
+    "7e15ec20",
+    "44a3882b",
+    "83128c52",
+    "47b50b1b",
+    "ed389495"
+   ],
+   "korrekturen": [
+    "1b635516: „Kippen beim Kreisen“ ist nicht belegt, ebenso „weicher lenken als beim Schwarzmilan“ (47b50b1b) und „jede Schleife steuert der Stoß sichtbar mit“."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Rotmilan",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/rotmilan/"
+    ],
+    [
+     "LBV Leicht verwechselbar: Greifvögel",
+     "https://www.lbv.de/ratgeber/tipps-voegel-bestimmen/leicht-verwechselbar/greifvoegel/"
+    ]
+   ]
+  },
+  {
+   "slug": "schwarzmilan",
+   "name": "Schwarzmilan",
+   "latein": "Milvus migrans",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Dunkler Milan an Seen und Flüssen mit nur schwach gegabeltem Schwanz.",
+   "erkennen": [
+    "48 bis 58 cm lang, dunkelbraunes Gefieder",
+    "etwas kürzere Flügel und kürzerer Schwanz als der Rotmilan",
+    "Schwanz schwächer gegabelt, graubraun statt rostrot",
+    "schwaches weißes Fenster auf der Flügelunterseite",
+    "Ruf ein schnelles „pii-i-i-i“"
+   ],
+   "verwechslung": "Mit dem Rotmilan, der größer ist und einen tief gegabelten, rostroten Schwanz hat. Bei Jungvögeln und gespreiztem Schwanz ist die Gabel kaum zu sehen.",
+   "lebensraum": "Wälder mit Seen oder Flüssen und Feuchtgebiete, vor allem in den östlichen und südlichen Bundesländern.",
+   "zeit": "Langstreckenzieher, der im Winter in Afrika südlich der Sahara ist.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Abstand zu Horstbäumen halten, keine Störung während der Brutzeit. Verletzte Tiere der Auffangstation oder dem Naturschutz melden.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU nicht gefährdet, 7.000 bis 10.500 Brutpaare.",
+   "naturdeck_ids": [
+    "187f1700",
+    "39b2c0a9",
+    "b430ce40",
+    "bf9d8f65",
+    "ee988f28"
+   ],
+   "korrekturen": [
+    "Die Angabe „kreist flacher“ (187f1700) und „kippt unruhiger als der Rotmilan“ (ee988f28) konnten nicht belegt werden. Bestätigt sind Gewässernähe und der schwächer gegabelte Schwanz."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Schwarzmilan",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/schwarzmilan/"
+    ],
+    [
+     "LBV Leicht verwechselbar: Greifvögel",
+     "https://www.lbv.de/ratgeber/tipps-voegel-bestimmen/leicht-verwechselbar/greifvoegel/"
+    ]
+   ]
+  },
+  {
+   "slug": "seeadler",
+   "name": "Seeadler",
+   "latein": "Haliaeetus albicilla",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Größter heimischer Greifvogel mit brettbreiten Flügeln und kurzem, bei Altvögeln weißem Schwanz.",
+   "erkennen": [
+    "76 bis 92 cm lang, Spannweite 180 bis 240 cm",
+    "dunkelbraunes Gefieder, hellerer Kopf",
+    "breite, stark gefingerte, brettartige Flügel",
+    "kurzer, leuchtend weißer Schwanz bei alten Vögeln",
+    "Ruf des Männchens hohes „krick-krick-krick“"
+   ],
+   "verwechslung": "Mit großen Milanen oder dem Fischadler. Die Silhouette mit brettartigen Flügeln und kurzem Schwanz gilt als unverwechselbar, der Fischadler hat schmalere Flügel.",
+   "lebensraum": "Alte, stabile Bäume zum Brüten, zur Nahrungssuche Küsten, große Seen oder Flüsse. Das Hauptvorkommen liegt in Norddeutschland.",
+   "zeit": "Ganzjährig zu sehen.",
+   "spuren": null,
+   "regional": "Mecklenburg-Vorpommern hat bundesweit den größten Bestand. Der LUNG-Bericht Großvögel nennt für 2011 rund 290 revierbesetzende Paare.",
+   "umgang": "Mit großem Abstand beobachten, Horste nicht aufsuchen und nicht stören. Bei Funden toter oder kranker Tiere die Naturschutzbehörde informieren.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU nicht gefährdet, rund 1.100 Brutpaare in Deutschland, früher stark gefährdet.",
+   "naturdeck_ids": [
+    "c01e93f5",
+    "dcc9731e",
+    "ee23b282",
+    "f4a281c9",
+    "ea44b3c0"
+   ],
+   "korrekturen": [
+    "4a5d4b3f: „Keilschwanz“ ist nicht belegt, bestätigt ist der kurze Schwanz.",
+    "Aussagen zu Gefahren wie bleihaltiger Munition wurden mangels Quelle nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Seeadler",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/seeadler/"
+    ],
+    [
+     "LUNG M-V: Bericht Großvögel 2011",
+     "https://www.lung.mv-regierung.de/static/LUNG/Dateien/fachinformationen/natur/bericht_grossvoegel_mv_2011.pdf"
+    ]
+   ]
+  },
+  {
+   "slug": "fischadler",
+   "name": "Fischadler",
+   "latein": "Pandion haliaetus",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Fischfresser mit weißem Kopf, dunklem Augenband und langen, schmalen Flügeln.",
+   "erkennen": [
+    "52 bis 62 cm lang",
+    "Unterseite weiß mit dunklem Brustband",
+    "Oberseite dunkelgraubraun",
+    "weißer Kopf mit dunklem maskenartigem Augenband",
+    "schmale, lange Flügel"
+   ],
+   "verwechslung": "Aus der Ferne wirkt er manchmal wie eine große Möwe.",
+   "lebensraum": "Flache Süßwasserseen und küstennahe Brackgewässer. In Deutschland brütet er vor allem in Mecklenburg-Vorpommern.",
+   "zeit": "Langstreckenzieher. Abzug im August, Rückkehr Ende März bis Mitte April.",
+   "spuren": null,
+   "regional": "Mecklenburg-Vorpommern gehört laut NABU zu den Schwerpunkten der Art in Deutschland.",
+   "umgang": "Abstand zu Horsten halten, Uferbereiche mit Brutplätzen meiden. Er frisst ausschließlich Fisch, Gewässerschutz hilft ihm.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU gefährdet, 800 bis 850 Brutpaare, Trend zunehmend.",
+   "naturdeck_ids": [
+    "0d9b654d",
+    "8fb39eb0"
+   ],
+   "korrekturen": [
+    "65f887ee, d0d2bb0d, ff25e779: Das Rütteln über Seen und die Haltung der Fänge beim Stoß sind in den geprüften Quellen nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Fischadler",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/fischadler/"
+    ]
+   ]
+  },
+  {
+   "slug": "schreiadler",
+   "name": "Schreiadler",
+   "latein": "Clanga pomarina",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Sehr seltener Adler der abgelegenen Wälder im Nordosten Deutschlands, in Mecklenburg-Vorpommern am häufigsten.",
+   "erkennen": [
+    "55 bis 65 cm lang, Spannweite 143 bis 168 cm",
+    "hellbrauner Hals und Kopf, dunkelbrauner Körper",
+    "zwei weiße „Kommas“ auf der Flügelunterseite",
+    "Balzruf „k-jiip“"
+   ],
+   "verwechslung": "Wirkt im Flug kleiner als der Seeadler (der Seeadler misst 76 bis 92 cm).",
+   "lebensraum": "Dünn besiedelte, abgelegene Waldgebiete in Ostdeutschland, besonders in Mecklenburg-Vorpommern, Brandenburg und Sachsen-Anhalt.",
+   "zeit": "Langstreckenzieher, der im Herbst nach Südafrika zieht und im April zurückkehrt.",
+   "spuren": null,
+   "regional": "Der größte Teil des deutschen Bestands brütet in Mecklenburg-Vorpommern. Die Rote Liste der Brutvögel M-V führt ihn als vom Aussterben bedroht.",
+   "umgang": "Brut- und Nahrungsgebiete brauchen Ruhe. Horste und Waldbereiche mit Brutverdacht nicht betreten, Funde der Naturschutzbehörde melden.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU in Deutschland vom Aussterben bedroht, 130 bis 140 Brutpaare. Auch in M-V Kategorie 1 (vom Aussterben bedroht).",
+   "naturdeck_ids": [
+    "f7ba6d22"
+   ],
+   "korrekturen": [
+    "0fd687ba, 35313198, 4f255858: „Lange Fingerflügel“, „feuchte Wiesen“ und der Vergleich mit dem Milan konnten nicht belegt werden. Bestätigt ist der Lebensraum Wald."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Schreiadler",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/schreiadler/"
+    ],
+    [
+     "Rote Liste der Brutvögel M-V (LUNG)",
+     "https://www.lung.mv-regierung.de/static/LUNG/dateien/fachinformationen/natur/artenschutz/rote-listen/rote_liste_voegel.pdf"
+    ],
+    [
+     "NABU M-V: Der Schreiadler",
+     "https://mecklenburg-vorpommern.nabu.de/tiere-und-pflanzen/voegel/vogelkunde/11023.html"
+    ]
+   ]
+  },
+  {
+   "slug": "rohrweihe",
+   "name": "Rohrweihe",
+   "latein": "Circus aeruginosus",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Schlanker Greifvogel, der im flachen V niedrig über Schilf und Wiesen schaukelt.",
+   "erkennen": [
+    "43 bis 55 cm lang",
+    "Männchen braun mit schwarzen Flügelspitzen und blaugrauem Schwanz",
+    "Weibchen dunkelbraun mit cremeweißem Kopf und heller Kehle",
+    "flacher, schaukelnder Flug mit V-förmig gehaltenen Flügeln"
+   ],
+   "verwechslung": "Mit dem Mäusebussard. Weihen halten die Flügel im V und fliegen schaukelnd niedrig über dem Boden.",
+   "lebensraum": "Brutplätze am Wasser, im Schilf am Boden oder zunehmend auf Agrarflächen. Zur Jagd braucht sie offene Landschaft.",
+   "zeit": "Kurzstreckenzieher. Wegzug ab Ende Juli bis Oktober, Rückkehr im März und April.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Schilfränder mit Brutverdacht nicht betreten und Abstand halten. Wer Gelege in Feldern findet, meldet es dem Naturschutz.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU nicht gefährdet, 6.500 bis 8.500 Brutpaare.",
+   "naturdeck_ids": [
+    "44e586f1",
+    "613122b0",
+    "696e9d0d",
+    "81ac32ad",
+    "e37f5226"
+   ],
+   "korrekturen": [
+    "6e7b1477: Die Quelle nennt beim Männchen schwarze Flügelspitzen und einen blaugrauen Schwanz, „graue Flügel“ ist nicht in dieser Form belegt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Rohrweihe",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/rohrweihe/"
+    ],
+    [
+     "Eulen- und Greifvogelstation Haringsee: Rohrweihe",
+     "https://www.eulen-greifvogelstation.at/unsere-tiere/rohrweihe"
+    ]
+   ]
+  },
+  {
+   "slug": "kornweihe",
+   "name": "Kornweihe",
+   "latein": "Circus cyaneus",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Winterliche Weihe mit weißem Bürzel, bei uns fast nur noch Wintergast.",
+   "erkennen": [
+    "43 bis 52 cm lang, schlanker Körper, langer Schwanz",
+    "Männchen blaugrau mit weißer Unterseite und schwarzen Flügelspitzen",
+    "Weibchen braun, unten gelblichweiß mit braunen Streifen",
+    "weißer Bürzel, bei Männchen und Weibchen",
+    "eulenähnlicher Gesichtsausdruck"
+   ],
+   "verwechslung": "Mit der Wiesenweihe, die schlanker ist und längere, spitzere Flügel hat. Bei Weibchen und Jungvögeln ist die Trennung schwierig.",
+   "lebensraum": "Feuchtflächen, Sümpfe und Moore in offener Landschaft. Als Brutvogel fast nur im Norden, im Winter auch auf Wiesen und Feldern.",
+   "zeit": "Hauptsächlich in den Wintermonaten, etwa von Oktober bis Anfang April.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Abstand halten und im Winter Rastplätze nicht stören. Offene Feuchtflächen sind ihr Lebensraum.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU vom Aussterben bedroht, nur 5 bis 10 Brutpaare in Deutschland.",
+   "naturdeck_ids": [
+    "58a0c9af",
+    "87341962",
+    "b9c887e0",
+    "d630e187",
+    "faee6e55"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU Vogelporträt Kornweihe",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kornweihe/"
+    ],
+    [
+     "BUND: Die Kornweihe",
+     "https://www.bund.net/themen/tiere-pflanzen/tiere/voegel/kornweihe/"
+    ]
+   ]
+  },
+  {
+   "slug": "wiesenweihe",
+   "name": "Wiesenweihe",
+   "latein": "Circus pygargus",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Kleinste heimische Weihe mit sehr langen, schmalen Flügeln, brütet am Boden auch in Getreidefeldern.",
+   "erkennen": [
+    "43 bis 47 cm lang, schlank, spitze Flügel",
+    "Männchen braun-aschgrau mit schwarzen Flügelspitzen",
+    "Weibchen unauffälliger braun mit weißlicher Unterseite",
+    "von allen Weihen die längsten und schmalsten Flügel"
+   ],
+   "verwechslung": "Mit der Kornweihe. Die Wiesenweihe ist schlanker und hat längere, spitzere Flügel.",
+   "lebensraum": "Ursprünglich Moore und Feuchtgebiete, heute auch landwirtschaftliche Flächen, das Nest liegt am Boden.",
+   "zeit": "Sommergast, meist von Ende April bis September. Der Wegzug beginnt ab September.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Abstand zu Brutplätzen im Feld halten. Der Naturschutz kartiert Nester, damit sie bei der Ernte stehen bleiben. Nestfunde der Naturschutzbehörde melden.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU stark gefährdet, 400 bis 550 Brutpaare, Trend zunehmend.",
+   "naturdeck_ids": [
+    "99850659",
+    "aedea815",
+    "ea7738ca"
+   ],
+   "korrekturen": [
+    "3dc96a81: Der „helle Bürzel“ ist das Merkmal der Kornweihe, für die Wiesenweihe nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Wiesenweihe",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/wiesenweihe/"
+    ]
+   ]
+  },
+  {
+   "slug": "turmfalke",
+   "name": "Turmfalke",
+   "latein": "Falco tinnunculus",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Kleiner Falke, der im Rüttelflug über Feldern steht und gern an Kirchtürmen und Gebäuden brütet.",
+   "erkennen": [
+    "31 bis 37 cm lang",
+    "Männchen mit rostbrauner, schwarz gerauteter Oberseite, grauem Kopf und grauem Schwanz mit schwarzer Endbinde",
+    "Weibchen unauffälliger braun mit dunklen Querbändern",
+    "Rüttelflug, bei dem er an einer Stelle in der Luft steht",
+    "schneller Ruf „ki-ki-ki“"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Strukturreiche Landschaft in Menschennähe. Gebrütet wird in Felsnischen, heute oft an Kirchtürmen und Gebäuden, gejagt wird auf Feldern und Äckern.",
+   "zeit": "Ganzjährig zu beobachten, Altvögel überwintern oft in Deutschland.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Nistplätze an Gebäuden nicht stören, Mauernischen und Kirchtürme erhalten. Ein Nistkasten kann zusätzliche Brutplätze schaffen; der örtliche NABU gibt Rat.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU nicht gefährdet, 80.000 bis 135.000 Brutpaare.",
+   "naturdeck_ids": [
+    "1f7513cc",
+    "432c5b2d",
+    "6112c7bc",
+    "a463a88a",
+    "b21cbfce",
+    "fe9e1dfa"
+   ],
+   "korrekturen": [
+    "Das Fächern des Schwanzes und das „steile Fallen auf Mäuse“ sind in der Quelle nicht ausdrücklich genannt. Bestätigt sind Rüttelflug, Feldränder als Jagdgebiet und die Nahrung aus Kleinnagern."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Turmfalke",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/turmfalke/"
+    ]
+   ]
+  },
+  {
+   "slug": "baumfalke",
+   "name": "Baumfalke",
+   "latein": "Falco subbuteo",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Schlanker, schneller Falke mit rötlicher „Hose“, der Libellen und Schwalben im Flug fängt.",
+   "erkennen": [
+    "29 bis 36 cm lang",
+    "schwarze Kopfkappe, dunkler Bartstreif, dunkelgraue Oberseite",
+    "weißer Bauch mit dunklen Flecken",
+    "rötliche „Hose“ an den Unterschenkeln",
+    "spitzer, zum Ende langsamer „kikikiki“-Ruf"
+   ],
+   "verwechslung": "Mit anderen Falken. Die schmale Gestalt und die rötlichen Unterschenkelfedern unterscheiden ihn.",
+   "lebensraum": "Strukturreiche Gegenden mit Wäldern, Mooren und halboffener Landschaft, oft in Seenähe.",
+   "zeit": "Langstreckenzieher, Rückkehr im April und Mai.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Abstand halten und Brutplätze in Waldrändern nicht aufsuchen. Seen und Moore mit vielen Libellen sind sein Lebensraum.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU gefährdet, 5.000 bis 6.500 Brutpaare.",
+   "naturdeck_ids": [
+    "25417f7b",
+    "716f97d2",
+    "7c1ca7d3",
+    "864e3872",
+    "e024d5a1",
+    "f36cd222"
+   ],
+   "korrekturen": [
+    "Der Vergleich „schlagen schneller als beim Turmfalken“ ist nicht belegt. Zeitangaben wie Juni oder Juli sind nicht gedeckt. Bestätigt sind die Libellenjagd und die schmale Gestalt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Baumfalke",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/baumfalke/"
+    ]
+   ]
+  },
+  {
+   "slug": "wanderfalke",
+   "name": "Wanderfalke",
+   "latein": "Falco peregrinus",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Kräftiger Falke mit extremen Sturzflügen, der vor allem Vögel schlägt.",
+   "erkennen": [
+    "38 bis 45 cm lang, kräftiger als andere Falken",
+    "Oberseite schiefergrau, Unterseite weiß mit dunkler Querbänderung",
+    "dunkler Kopf, weiße Wangen",
+    "gackernder Ruf „grä grä grä“, aber wenig ruffreudig"
+   ],
+   "verwechslung": "Mit Turm- und Baumfalke. Der Wanderfalke ist größer und massiger.",
+   "lebensraum": "Felswände, Kirchtürme und Brückenpfeiler, aber auch Wälder, dazu große freie Flächen zur Jagd. In Städten schlägt er vor allem Tauben, an Gewässern Enten.",
+   "zeit": "Altvögel überwiegend ganzjährig im Gebiet.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Brutplätze an Gebäuden und Felsen nicht stören, Abstand halten. Bei Hinweisen auf Verfolgung die Polizei oder den Naturschutz informieren.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU nicht gefährdet, 1.600 bis 1.800 Brutpaare, 1971 erster Vogel des Jahres.",
+   "naturdeck_ids": [
+    "3ed3a3a4",
+    "a314ede5"
+   ],
+   "korrekturen": [
+    "6ae4fc48: „Dunkler Bart trennt vom Baumfalken“ ist nicht tragfähig, auch der Baumfalke hat einen Bartstreif. Unterschied ist vor allem die Größe."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Wanderfalke",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/wanderfalke/"
+    ]
+   ]
+  },
+  {
+   "slug": "merlin",
+   "name": "Merlin",
+   "latein": "Falco columbarius",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Kleinster europäischer Falke, im Winter in offenen Landschaften zu Gast.",
+   "erkennen": [
+    "26 bis 33 cm lang",
+    "Männchen blaugrau mit orangegelblicher Unterseite",
+    "Weibchen graubraun mit beiger, braun gestrichelter Unterseite",
+    "Schwanz mit schwarzer Endbinde (Männchen) oder dichter Bänderung (Weibchen)"
+   ],
+   "verwechslung": "Mit dem Turmfalken. Der Merlin ist deutlich kleiner.",
+   "lebensraum": "Im Winter offene, auch landwirtschaftlich genutzte Gegenden, oft in Küstennähe. Gebrütet wird in Moor und Heide im Norden.",
+   "zeit": "Wintergast und Durchzügler, der Herbstzug erreicht im Oktober und November seinen Höhepunkt.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Aus der Ferne beobachten. Rastende Vögel auf Feldern nicht aufscheuchen.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU-Porträt als gefährdet geführt, Bestandstrend unbekannt.",
+   "naturdeck_ids": [
+    "0e7f8c63",
+    "200fd701",
+    "bc7a47ac",
+    "ee006e5b"
+   ],
+   "korrekturen": [
+    "Die Unterscheidung vom Turmfalken über „spitze Flügel“ und „rasche Schläge“ ist nicht belegt, bestätigt ist die geringe Größe. Die Winterbeobachtung über Feldern ist gedeckt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Merlin",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/merlin/"
+    ]
+   ]
+  },
+  {
+   "slug": "rotfussfalke",
+   "name": "Rotfußfalke",
+   "latein": "Falco vespertinus",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Seltener Durchzügler aus Südosteuropa, Männchen fast ganz blaugrau mit orangen Füßen.",
+   "erkennen": [
+    "28 bis 34 cm lang",
+    "Männchen fast ausschließlich blaugrau, mit orangen Füßen",
+    "Weibchen mit rostgelbem Kopf und rostgelber Brust, graue, gebänderte Oberseite"
+   ],
+   "verwechslung": "Das Männchen ist unverwechselbar, das Weibchen kann mit anderen Falken verwechselt werden.",
+   "lebensraum": "Brütet in Steppen und offenen Landschaften Ost- bis Südosteuropas. In Deutschland nur auf dem Durchzug.",
+   "zeit": "Durchzügler, am ehesten im Frühjahr zu sehen.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Aus der Ferne beobachten. Sichtungen kann man an Vogelwarten oder ornithologische Meldeportale weitergeben.",
+   "schutz": "Streng geschützt (alle heimischen Greifvögel). Laut NABU nicht in der Roten Liste der Brutvögel, da kein Brutvogel in Deutschland.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "d1a3aad4: „Rostrote Hosen“ der grauen Männchen sind nicht belegt, die Quelle nennt orange Füße. Dass die Art schlanker als der Turmfalke wirke, ist nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Rotfußfalke",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/rotfussfalke/"
+    ]
+   ]
+  },
+  {
+   "slug": "uhu",
+   "name": "Uhu",
+   "latein": "Bubo bubo",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Größte heimische Eule mit langen Federohren, orangeroten Augen und tiefem Ruf.",
+   "erkennen": [
+    "61 bis 67 cm lang, kräftiger Körper",
+    "rostbraunes Gefieder mit dunklen Flecken",
+    "bis zu 8 cm lange Federohren",
+    "orangerote Augen",
+    "dumpfer Ruf „u-uuooh“ am Brutplatz"
+   ],
+   "verwechslung": "Entfernt mit der Waldohreule, die deutlich kleiner und schlanker ist.",
+   "lebensraum": "Felsige, strukturierte Landschaft mit offenen Jagdflächen. Er brütet an steilen Felswänden und in Steinbrüchen, inzwischen auch in leerstehenden Gebäuden.",
+   "zeit": "Ganzjährig im Gebiet. Außerhalb der Brutzeit ruft er selten.",
+   "spuren": "Große Gewölle von meist etwa 8 cm Länge, vereinzelt auch 12 cm. Eulengewölle enthalten viele Knochen der Beute, bei Greifvögeln sind sie meist weitgehend verdaut. Beute sind unter anderem Hasen, Ratten, Kaninchen und Tauben.",
+   "regional": null,
+   "umgang": "Brutplätze und Tageseinstände nicht aufsuchen, großen Abstand halten. Störungen am Brutplatz sind besonders heikel. Bei verletzten Tieren eine Auffangstation fragen.",
+   "schutz": "Streng geschützt (alle Eulen, Bundesartenschutzverordnung). Laut NABU nicht gefährdet, 4.000 bis 4.600 Brutpaare, früher intensiv bejagt.",
+   "naturdeck_ids": [
+    "065286df",
+    "315f3a80",
+    "67f99a0f",
+    "cd8972b1"
+   ],
+   "korrekturen": [
+    "fc7cca8d, cd8972b1, 065286df: Igelstacheln, Krähenfedern und Kiefern als Gewöllefundort sind nicht belegt. Der Vergleich der Knochengröße mit dem Waldkauz ist nicht belegt, die große Gewöllegröße schon."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Uhu",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/uhu/"
+    ],
+    [
+     "NABU Baden-Württemberg: Fakten zu den Eulen",
+     "https://baden-wuerttemberg.nabu.de/tiere-und-pflanzen/voegel/arten/eulen/36760.html"
+    ],
+    [
+     "NABU Cuxhaven: Greifvögel und Eulen",
+     "https://www.nabu-cuxhaven.de/hilfe-f%C3%BCr-wildtiere/greifv%C3%B6gel-und-eulen/"
+    ]
+   ]
+  },
+  {
+   "slug": "waldkauz",
+   "name": "Waldkauz",
+   "latein": "Strix aluco",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Kompakte, rundköpfige Eule ohne Federohren, die man oft nachts rufen hört.",
+   "erkennen": [
+    "37 bis 43 cm lang, kompakter Körper",
+    "rostbraun bis graubraun mit dunkler Längsstrichelung",
+    "großer Kopf mit weißlichen Stirnbrauen",
+    "Ruf ein wohlklingendes „huuuuuuh-hu-huuuuuh“"
+   ],
+   "verwechslung": "Mit Schleiereule und Waldohreule. Der Waldkauz hat einen kräftigeren Körper und kürzere Flügel.",
+   "lebensraum": "Laub- und Mischwälder, Parks, alte Scheunen, Mauernischen und Nistkästen.",
+   "zeit": "Ganzjährig im Gebiet.",
+   "spuren": "Gewölle sind eher klein und hellgrau, etwa 2 bis 5 cm lang und oft an einem Ende zugespitzt. Sie liegen unter Sitzbäumen. Die Nahrung besteht hauptsächlich aus Mäusen, daher enthalten sie Mäuseknochen.",
+   "regional": null,
+   "umgang": "Junge Waldkäuze verlassen die Höhle früh und sitzen als Ästlinge auf Ästen oder am Boden. Sie werden von den Eltern weiter versorgt und brauchen keine Hilfe, also nicht mitnehmen. Nur bei akuter Gefahr, etwa auf einer Straße, sie wenige Meter weit in Deckung setzen. Die Altvögel verteidigen den Nachwuchs und greifen auch Menschen an.",
+   "schutz": "Streng geschützt (alle Eulen). Laut NABU nicht gefährdet, 42.000 bis 74.000 Brutpaare.",
+   "naturdeck_ids": [
+    "81056368"
+   ],
+   "korrekturen": [
+    "395ed215, 4f18cb97, 71a3b032: Details wie „glänzende Schädel“, „Käferdecken“, „Rufe im Herbst früher“ und „im Sommer seltener“ sind nicht belegt. Mäuse als Hauptnahrung und graue Gewölle sind bestätigt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Waldkauz",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/waldkauz/"
+    ],
+    [
+     "NABU Berlin: Waldkauz-Ästlinge brauchen keine Hilfe",
+     "https://berlin.nabu.de/news/newsarchiv/2021/maerz/29679.html"
+    ],
+    [
+     "NABU Baden-Württemberg: Fakten zu den Eulen",
+     "https://baden-wuerttemberg.nabu.de/tiere-und-pflanzen/voegel/arten/eulen/36760.html"
+    ]
+   ]
+  },
+  {
+   "slug": "waldohreule",
+   "name": "Waldohreule",
+   "latein": "Asio otus",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Schlanke Eule mit auffälligen Federohren, die tagsüber in Nadelbäumen ruht.",
+   "erkennen": [
+    "32 bis 37 cm lang",
+    "auffällige Federohren, die sie anlegen kann",
+    "Oberseite beige bis braungrau marmoriert, Unterseite heller mit dunklen Längsstrichen",
+    "weiß umrandeter Gesichtsschleier"
+   ],
+   "verwechslung": "Entfernt mit dem Uhu und der Sumpfohreule. Sie ist deutlich kleiner und schlanker als der Uhu.",
+   "lebensraum": "Wälder in der Nähe offener Flächen und Feldgehölze. Dichte Waldinnenbereiche meidet sie wegen des Waldkauzes.",
+   "zeit": "Ganzjährig zu beobachten. Im Winter schlafen oft viele Tiere gemeinsam, bis zu 100.",
+   "spuren": "Kot und Gewölle unter Schlafplätzen, oft in Nadelbäumen. Die Gewölle sind etwa 5 bis 6 cm lang. Das Männchen ruft zur Brutzeit dumpf „oh“ im Abstand von zwei bis drei Sekunden.",
+   "regional": null,
+   "umgang": "Schlafbäume nicht aufsuchen und nicht stören, besonders im Winter, wenn viele Tiere zusammen ruhen. Jungvögel, die nach dem Ausflug in Bäumen sitzen, nicht mitnehmen.",
+   "schutz": "Streng geschützt (alle Eulen). Laut NABU nicht gefährdet, 23.000 bis 38.000 Brutpaare, die zweithäufigste Eulenart.",
+   "naturdeck_ids": [
+    "49fe754e"
+   ],
+   "korrekturen": [
+    "36a68c09, 3c5fdd3d, 74f0faf3, e8167340: Betteln im Juni oder Juli, „dicht am Stamm“ sitzen sowie Wühlmausreste in Gewöllen sind nicht belegt. Bestätigt sind Kot und Gewölle als Hinweis auf den Schlafplatz."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Waldohreule",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/waldohreule/"
+    ],
+    [
+     "NABU Baden-Württemberg: Fakten zu den Eulen",
+     "https://baden-wuerttemberg.nabu.de/tiere-und-pflanzen/voegel/arten/eulen/36760.html"
+    ]
+   ]
+  },
+  {
+   "slug": "schleiereule",
+   "name": "Schleiereule",
+   "latein": "Tyto alba",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Helle Eule mit weißem, herzförmigem Gesichtsschleier, die in Scheunen und Kirchtürmen brütet.",
+   "erkennen": [
+    "etwa 34 cm lang",
+    "weißer Gesichtsschleier mit dunklen Augen",
+    "helle Unterseite, gelblich-beige Gesamtfärbung",
+    "Männchen mit schrillem „shriii“, Weibchen mit schnurrendem Ruf"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Offene Kulturlandschaft mit extensiver Landwirtschaft. Gebrütet wird in Scheunen, Kirchtürmen und auf Dachböden, auch in Nistkästen.",
+   "zeit": "Ganzjährig, überwiegend nachtaktiv.",
+   "spuren": "Gewölle sind frisch glänzend schwarz und werden nach einigen Tagen mattschwarz. Sie liegen meist 4 bis 8 cm lang unter den Ruheplätzen, etwa auf Balken. Darin liegen viele Knochen, vor allem von Mäusen und Spitzmäusen.",
+   "regional": null,
+   "umgang": "Einflugöffnungen in Scheunen und Kirchtürmen offen halten. Nistkästen können helfen, sie müssen jährlich gereinigt werden. Brutplätze nicht stören und bei Fragen den NABU vor Ort kontaktieren.",
+   "schutz": "Streng geschützt (alle Eulen). Laut NABU nicht gefährdet, 14.500 bis 26.000 Brutpaare.",
+   "naturdeck_ids": [
+    "2e568385",
+    "3e79ead0",
+    "67e45b47",
+    "ce6e501a",
+    "f31c8cfc"
+   ],
+   "korrekturen": [
+    "c5b565b0: Schleiereulen-Gewölle sind schwarz, nicht grau. „Fast unzerbissen“ ist nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Schleiereule",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/schleiereule/"
+    ],
+    [
+     "NABU Baden-Württemberg: Fakten zu den Eulen",
+     "https://baden-wuerttemberg.nabu.de/tiere-und-pflanzen/voegel/arten/eulen/36760.html"
+    ]
+   ]
+  },
+  {
+   "slug": "sumpfohreule",
+   "name": "Sumpfohreule",
+   "latein": "Asio flammeus",
+   "gruppe": "Greifvögel und Eulen",
+   "kurz": "Bodennah lebende Eule offener Moore und Wiesen, bei uns extrem selten.",
+   "erkennen": [
+    "34 bis 42 cm lang",
+    "tarnfarbenes Gefieder, oben dunkelbraun, unten hell",
+    "kleiner Kopf, grauweißer Gesichtsschleier, schwarze Augenmaske",
+    "Federohren nur sichtbar, wenn sie aufgestellt sind"
+   ],
+   "verwechslung": "Mit der Waldohreule, die kleiner und schlanker ist.",
+   "lebensraum": "Hochmoore, Heideflächen und Wiesen, sie brütet am Boden.",
+   "zeit": "Ganzjährig beobachtbar, nördliche Populationen sind überwiegend Zugvögel.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Bruthabitate und offene Moore nicht betreten, Hunde dort anleinen. Moorschutz und torffreie Blumenerde helfen der Art.",
+   "schutz": "Streng geschützt (alle Eulen). Laut NABU vom Aussterben bedroht, 40 bis 180 Brutpaare in Deutschland.",
+   "naturdeck_ids": [
+    "24b0b38f"
+   ],
+   "korrekturen": [
+    "d1da1cd7, eb6b9f6f: Gaukelnder Suchflug, „runder Kopf“ und „heller Blick“ sind nicht belegt. Winterliche Jagd über Wiesen ist nur sinngemäß durch den Lebensraum gedeckt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Sumpfohreule",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/sumpfohreule/"
+    ]
+   ]
+  }
+ ],
+ "nicht_aufgenommen": [
+  [
+   "Kranich",
+   "Kein Greifvogel oder Eule, gehört nicht zu diesem Paket (Fakten 1882aa2f, 940476c7, b9992bf3, c77e00cd, d05a6ce5, e4c02a81)."
+  ],
+  [
+   "Adlerfarn",
+   "Pflanze, gehört nicht zu diesem Paket."
+  ],
+  [
+   "Graugans, Graureiher, Waldbaumläufer",
+   "Andere Vogelgruppen, gehören nicht zu diesem Paket."
+  ],
+  [
+   "Rote Mordwanze, Krabbenspinne, Gelbrandkäferlarve, Totengräberkäfer, Waschbär, Wasserläufer, Hopfen",
+   "Nicht Greifvögel oder Eulen, Suchtreffer ohne Bezug zum Paket."
+  ]
+ ]
+}

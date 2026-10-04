@@ -1,0 +1,888 @@
+{
+ "paket": "singvoegel-b",
+ "arten": [
+  {
+   "slug": "haubenmeise",
+   "name": "Haubenmeise",
+   "latein": "Lophophanes cristatus",
+   "gruppe": "Singvögel",
+   "kurz": "Die einzige heimische Meise mit spitzer Federhaube, unterwegs vor allem in Nadelwäldern.",
+   "erkennen": [
+    "Spitze Haube aus weißgrauen Federn auf dem Kopf",
+    "Halbmondförmiges schwarzes Band hinter dem Auge",
+    "Oberseite graubraun, Unterseite weiß mit hellbraunen Flanken",
+    "Etwa 10,5 bis 12 cm groß, so groß wie eine Blaumeise"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Vor allem Nadelwälder, besonders alte Fichten- und Kiefernbestände. Bei genug Nadelholz kommt sie auch in Parks und Gärten vor.",
+   "zeit": "Ganzjährig im Revier, denn die Art ist sehr standorttreu.",
+   "spuren": "Recht scheu, man hört sie häufiger, als man sie sieht.",
+   "regional": null,
+   "umgang": "Alte Nadelbäume und stehendes Totholz erhalten, denn die Art baut ihre Nesthöhle in morschen Bäumen. Zum Brüten Abstand halten.",
+   "schutz": "Nicht gefährdet (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "1c039f64",
+    "2746d967",
+    "4a74d105"
+   ],
+   "korrekturen": [
+    "9e39078d: Das Klemmen von Kiefernsamen in Borke ist in den Quellen nicht belegt (genannt ist nur Nadelbaumsamen als Winternahrung).",
+    "1c039f64, 2746d967, 4a74d105: Haube und Nadelwald sind bestätigt, die Rufbeschreibung („rollend“, „Trillerruf“) nicht, und „Kiefernkronen“ ist enger gefasst als die Quellen."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Haubenmeise",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/haubenmeise/"
+    ]
+   ]
+  },
+  {
+   "slug": "tannenmeise",
+   "name": "Tannenmeise",
+   "latein": "Periparus ater",
+   "gruppe": "Singvögel",
+   "kurz": "Kleinste heimische Meise mit schwarzem Kopf, weißen Wangen und weißem Nackenfleck.",
+   "erkennen": [
+    "Schwarzer Kopf mit weißen Wangen, oft mit kleiner Haube",
+    "Weißer, länglicher Nackenfleck",
+    "Oberseite bleigrau, Unterseite graubeige ohne dunklen Längsstreifen",
+    "Etwa 10 bis 11,5 cm groß"
+   ],
+   "verwechslung": "Mit der größeren Kohlmeise. Der Tannenmeise fehlt der dunkle Längsstreifen auf der Unterseite, und sie trägt den weißen Nackenfleck.",
+   "lebensraum": "Nadelwälder, besonders mit Fichtenbeständen. Sie brütet häufig nah am Boden, etwa in Felsspalten oder unter Baumwurzeln.",
+   "zeit": "Überwiegend Standvogel, je nach Nahrungsangebot ziehen manche Tiere südwärts.",
+   "spuren": "Ruf ein kurzes „tüü“ oder „ti tüüe“, der Gesang klingt wie bei der Kohlmeise, aber heller und schneller.",
+   "regional": null,
+   "umgang": "Nadel- und Mischwälder mit Altholz erhalten. Brutplätze am Boden und in Höhlen nicht stören.",
+   "schutz": "Nicht gefährdet (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "06311e30",
+    "54e85445",
+    "e4145093"
+   ],
+   "korrekturen": [
+    "83b1a682: Das Absuchen von Kiefernzapfen „von unten“ ist nicht belegt; der Nackenfleck stimmt.",
+    "54e85445, e4145093: Die Flügelbinden sind je nach Quelle eher weiße Punkte; als sicheres Merkmal gilt der Nackenfleck."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Tannenmeise",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/tannenmeise/"
+    ],
+    [
+     "LBV: Leicht verwechselbar, Meisen",
+     "https://www.lbv.de/ratgeber/tipps-voegel-bestimmen/leicht-verwechselbar/meisen/"
+    ]
+   ]
+  },
+  {
+   "slug": "sumpfmeise",
+   "name": "Sumpfmeise",
+   "latein": "Poecile palustris",
+   "gruppe": "Singvögel",
+   "kurz": "Braune Meise mit glänzend schwarzer Kopfplatte, die trotz ihres Namens feuchte Laubwälder bewohnt.",
+   "erkennen": [
+    "Glänzend schwarze Kopfplatte von der Stirn bis in den Nacken",
+    "Helle Wangen, schmaler schwarzer Kinnfleck",
+    "Oberseite braun, Unterseite hell, kein helles Armschwingenfeld",
+    "11,5 bis 13 cm groß"
+   ],
+   "verwechslung": "Mit der Weidenmeise. Die Sumpfmeise hat die glänzende Kopfplatte, einen schmalen Kinnfleck und kein helles Feld auf dem Flügel. Die Weidenmeise trägt eine matt schwarze Kopfplatte, einen breiteren Kinnfleck und helle Säume an den Armschwingen.",
+   "lebensraum": "Feuchte Laubwälder mit viel Totholz, außerdem Parks mit Laubbäumen und Unterholz. Im eigentlichen Sumpf ist sie nicht zu finden.",
+   "zeit": "Ganzjährig in Deutschland.",
+   "spuren": "Der Ruf ist ein explosives „pitsü“, der Gesang eine monotone Reihe wie „tjepp tjepp tjepp“. Sie brütet in Astlöchern, Baumhöhlen und Nistkästen und legt Futtervorräte an.",
+   "regional": null,
+   "umgang": "Laubwälder mit Totholz und Höhlenbäume stehen lassen. Brutplätze nicht stören.",
+   "schutz": "Nicht gefährdet (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "a704e203, bbd54087, 0a84ce83: Die Kopfplatte der Sumpfmeise ist glänzend, nicht matt. Matt ist sie bei der Weidenmeise. Die Aussagen sind in diesen drei Fakten vertauscht.",
+    "0a84ce83: „Sonnenblumenkerne in Rindenspalten“ ist nicht belegt, bestätigt ist nur das Anlegen von Futtervorräten."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Sumpfmeise",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/sumpfmeise/"
+    ],
+    [
+     "NABU: Vogelporträt Weidenmeise",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/weidenmeise/"
+    ]
+   ]
+  },
+  {
+   "slug": "weidenmeise",
+   "name": "Weidenmeise",
+   "latein": "Poecile montanus",
+   "gruppe": "Singvögel",
+   "kurz": "Der Sumpfmeise ähnlich, aber mit matt schwarzer Kopfplatte; sie zimmert ihre Bruthöhle selbst.",
+   "erkennen": [
+    "Matt schwarze Kopfplatte, ohne Glanz",
+    "Breiter dunkler Kinnfleck",
+    "Weiße Säume an den Armschwingen, beige Flanken",
+    "12 bis 13 cm groß"
+   ],
+   "verwechslung": "Mit der Sumpfmeise, deren Kopfplatte glänzt und deren Kinnfleck schmaler ist. Am sichersten hilft der Ruf („zizidääh dääh“).",
+   "lebensraum": "Mischwälder mit dichtem Unterholz sowie Weiden, Erlen und Pappeln, typisch in Auwäldern. In höheren Lagen auch Nadelwald.",
+   "zeit": null,
+   "spuren": "Sie zimmert die Bruthöhle selbst in morsches Holz oder nutzt Vorarbeit von Spechten, früh im Jahr.",
+   "regional": null,
+   "umgang": "Morsches Holz und Totholz in feuchten Gehölzen stehen lassen, denn die Art ist darauf für den Höhlenbau angewiesen.",
+   "schutz": "Nicht gefährdet, aber mit abnehmendem Bestandstrend (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "7375031b"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Weidenmeise",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/weidenmeise/"
+    ]
+   ]
+  },
+  {
+   "slug": "schwanzmeise",
+   "name": "Schwanzmeise",
+   "latein": "Aegithalos caudatus",
+   "gruppe": "Singvögel",
+   "kurz": "Kugelrunder Winzling mit auffallend langem Schwanz, der im Winter in Trupps durchs Gebüsch zieht.",
+   "erkennen": [
+    "Kugelrunder Körper, Schwanz etwa 60 % der Körperlänge",
+    "Schwarz-weißes Gefieder mit schwarzem Scheitelstreif",
+    "Rosabräunliche Flanken und rosa Schulterfedern",
+    "Ruf ein scharfes „srisrisri“"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Unterholzreiche Laub- und Mischwälder, Parks mit hohem Gebüsch und strukturreiche Gärten.",
+   "zeit": "Außerhalb der Brutzeit in größeren Trupps unterwegs.",
+   "spuren": "Das kugelförmige Nest aus Flechten und Moos entsteht in fast einem Monat Bauzeit.",
+   "regional": null,
+   "umgang": "Hecken und Sträucher mit dichtem Unterholz erhalten. Hecken nicht in der Brutzeit schneiden.",
+   "schutz": "Nicht gefährdet (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "4130942a",
+    "6b7d08d9",
+    "71156610"
+   ],
+   "korrekturen": [
+    "e2b33682: „leise“ und die Nahrungsangabe („Kleininsekten von Zweigspitzen“) sind nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Schwanzmeise",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/schwanzmeise/"
+    ]
+   ]
+  },
+  {
+   "slug": "bartmeise",
+   "name": "Bartmeise",
+   "latein": "Panurus biarmicus",
+   "gruppe": "Singvögel",
+   "kurz": "Zimtbrauner Schilfbewohner mit langem Schwanz; das Männchen trägt einen schwarzen „Bart“.",
+   "erkennen": [
+    "Männchen mit grauem Kopf, weißer Kehle und schwarzem Bart",
+    "Weibchen mit eher braunem Kopf",
+    "Oberseite hellbraun bis zimtfarben, sehr langer Schwanz",
+    "Ruf ein nasales „pschin“ oder rollendes „tschirr“"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Ausschließlich dichte, ausgedehnte Schilfflächen mit Altschilf, meist an Ufern von Binnengewässern.",
+   "zeit": null,
+   "spuren": "Das Nest aus Schilf liegt dicht am Boden oder über dem Wasser und wird oft von oben mit Halmen abgedeckt.",
+   "regional": "Das LUNG nennt für Mecklenburg-Vorpommern rund 900 bis 1.000 Brutpaare (Artentabelle, Fassung 2016).",
+   "umgang": "Altschilf an Ufern stehen lassen und nicht im Frühjahr oder Sommer mähen. Vom Ufer aus beobachten, nicht ins Schilf gehen.",
+   "schutz": "Nicht gefährdet, aber an den Erhalt der Brutgebiete gebunden (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "71ae3b7a"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Bartmeise",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/bartmeise/"
+    ],
+    [
+     "LUNG M-V: Angaben zu den heimischen Vogelarten",
+     "https://www.lung.mv-regierung.de/static/LUNG/dateien/fachinformationen/natur/artenschutz/artenschutz_tabelle_voegel.pdf"
+    ]
+   ]
+  },
+  {
+   "slug": "kleiber",
+   "name": "Kleiber",
+   "latein": "Sitta europaea",
+   "gruppe": "Singvögel",
+   "kurz": "Blaugrauer Stammkletterer, der als einziger Vogel kopfüber den Stamm hinunterläuft.",
+   "erkennen": [
+    "Oberseite blaugrau, Unterseite orange",
+    "Schwarzer Augenstreif im sonst weißen Gesicht",
+    "Langer, spitzer Schnabel, großer Kopf ohne sichtbaren Hals, kurzer Schwanz",
+    "Etwa 12 bis 15 cm groß, so groß wie eine Kohlmeise"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Offene Laub- und Mischwälder, Parks, große Gärten, Alleen, Friedhöfe und Obstwiesen. Die höchsten Dichten erreicht er im Wald.",
+   "zeit": "Ganzjährig in Deutschland, im Winter nicht zwingend im Brutgebiet.",
+   "spuren": "Den Eingang seiner Nisthöhle verkleidet er mit Lehm. Daher stammt der Name, denn „Kleiber“ hieß im Mittelhochdeutschen ein Handwerker, der Lehmwände baut.",
+   "regional": null,
+   "umgang": "Alte Eichen und Buchen und Höhlenbäume erhalten. Zugemauerte Höhleneingänge nicht entfernen.",
+   "schutz": "Nicht gefährdet (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "02a6e3f0",
+    "25bd8090",
+    "8864fcc5",
+    "dab9a805",
+    "e2233b80"
+   ],
+   "korrekturen": [
+    "25bd8090, dab9a805, e2233b80: Die Rufbeschreibung („harter Pfiff“, „harter Ruf“) ist in den genutzten Quellen nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Kleiber",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kleiber/"
+    ]
+   ]
+  },
+  {
+   "slug": "waldbaumlaeufer",
+   "name": "Waldbaumläufer",
+   "latein": "Certhia familiaris",
+   "gruppe": "Singvögel",
+   "kurz": "Schlanker Rindenkletterer mit gebogenem Schnabel, der Stämme ruckartig hinaufläuft.",
+   "erkennen": [
+    "12 bis 13 cm groß, schlanker als der Gartenbaumläufer",
+    "Oberseite braun, beige und weiß gefleckt, Unterseite silbrig weiß",
+    "Deutlicher weißer Überaugenstreif",
+    "Gebogener Schnabel, lange Hinterzehe, steife Schwanzfedern als Stütze"
+   ],
+   "verwechslung": "Mit dem Gartenbaumläufer. Beide sehen sich sehr ähnlich, der Waldbaumläufer hat laut NABU einen kürzeren Schnabel und eine längere Hinterzehe. Am sichersten unterscheidet der Gesang.",
+   "lebensraum": "Dichte Nadel-, Laub- und Mischwälder, gelegentlich Parks und Gärten mit altem Baumbestand.",
+   "zeit": "Ganzjährig in Deutschland, außer im Nordwesten.",
+   "spuren": "Gesang dünn und fein („si-si-drrrrr-si-drrr“) mit Schnörkel oder Triller am Ende, dazu hohe „srri“-Rufe. Er nistet in Baumspalten und unter lockerer Rinde.",
+   "regional": null,
+   "umgang": "Alte Bäume mit rissiger Borke und abstehender Rinde stehen lassen, denn dort nistet und frisst die Art.",
+   "schutz": "Nicht gefährdet (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "5231f6df",
+    "bf142f93",
+    "f108004d",
+    "f5c4ad22"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Waldbaumläufer",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/waldbaumlaeufer/"
+    ]
+   ]
+  },
+  {
+   "slug": "gartenbaumlaeufer",
+   "name": "Gartenbaumläufer",
+   "latein": "Certhia brachydactyla",
+   "gruppe": "Singvögel",
+   "kurz": "Brauner Rindenkletterer mit langem, leicht gebogenem Schnabel, auch in Dörfern und Gärten.",
+   "erkennen": [
+    "12 bis 13 cm groß, dunkelbraun mit weißen Flecken auf der Oberseite",
+    "Unterseite weiß",
+    "Langer, leicht gebogener Schnabel, verhältnismäßig kurze Hinterzehe",
+    "Ruf klar und durchdringend, etwa „tüüt-e-TIT“"
+   ],
+   "verwechslung": "Mit dem Waldbaumläufer. Optisch kaum zu trennen, am besten unterscheidet die Stimme. Der Gartenbaumläufer hat den längeren Schnabel und die kürzere Hinterzehe.",
+   "lebensraum": "Laubwälder, Gärten, Parks und Dörfer mit älterem Baumbestand.",
+   "zeit": "Ganzjährig in Deutschland. Im Winter ist er einzeln unterwegs, bei starker Kälte auch gesellig.",
+   "spuren": "Er pickt Insekten und Spinnen aus der Rinde und klettert spiralförmig am Stamm.",
+   "regional": null,
+   "umgang": "Alte Bäume mit grober Borke im Garten und am Dorfrand stehen lassen.",
+   "schutz": "Nicht gefährdet (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "5a38cf6a: Falsch ist, dass ein kurzer Schnabel den Gartenbaumläufer vom Waldbaumläufer trennt. Der Gartenbaumläufer hat den längeren Schnabel, der Waldbaumläufer den kürzeren. Einen „hellen Bauch“ als Unterscheidung belegen die Quellen nicht.",
+    "92e9470f: Eine „helle Flanke“ gegenüber dem „dunkleren“ Waldbaumläufer ist nicht belegt, die Arten sehen sich laut NABU sehr ähnlich.",
+    "2859cfd6: Der Ruf ist laut NABU klar und durchdringend, nicht „fein“; das ruckweise Steigen ist nicht belegt (genannt ist spiralförmiges Klettern)."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Gartenbaumläufer",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/gartenbaumlaeufer/"
+    ],
+    [
+     "NABU: Vogelporträt Waldbaumläufer",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/waldbaumlaeufer/"
+    ]
+   ]
+  },
+  {
+   "slug": "gimpel",
+   "name": "Gimpel (Dompfaff)",
+   "latein": "Pyrrhula pyrrhula",
+   "gruppe": "Singvögel",
+   "kurz": "Kompakter Fink mit schwarzer Kappe und weißem Bürzel; beim Männchen ist die Unterseite rosarot.",
+   "erkennen": [
+    "Männchen mit rosaroter Unterseite, Weibchen blasser",
+    "Schwarze Kappe, kräftiger schwarzer Schnabel",
+    "Weißer Bürzel und helle Flügelbinden bei beiden Geschlechtern",
+    "Ruf ein weiches „düüh“ oder „pijüt“"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Junge Nadel- und Mischwälder, Parks, Friedhöfe, Gärten und Feldränder, bevorzugt mit vielen Sträuchern.",
+   "zeit": null,
+   "spuren": "Er frisst Knospen, Sämereien, Beeren und andere Früchte, zur Jungenaufzucht auch Insekten und Spinnen. Der Gesang ist selten zu hören, etwas melancholisch mit Pfeiftönen.",
+   "regional": null,
+   "umgang": "Heimische Sträucher und verblühte Stauden stehen lassen, denn sie liefern Nahrung und Deckung.",
+   "schutz": "Nicht gefährdet (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "84dedb0d",
+    "b5b77626",
+    "c14791a9"
+   ],
+   "korrekturen": [
+    "b5b77626: Der weiße Bürzel stimmt, der Vergleich „breiter als beim Buchfinken“ ist nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Gimpel",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/gimpel/"
+    ]
+   ]
+  },
+  {
+   "slug": "kernbeisser",
+   "name": "Kernbeißer",
+   "latein": "Coccothraustes coccothraustes",
+   "gruppe": "Singvögel",
+   "kurz": "Der kräftigste heimische Fink mit massigem Schnabel, der Kirsch- und Obstkerne knackt.",
+   "erkennen": [
+    "Massiver Schnabel, im Prachtkleid graublau, im Schlichtkleid gelblich",
+    "Gelbbrauner Kopf mit grauem Nackenband",
+    "Beige Brust, dunkelbraune Flügel mit metallisch glänzenden Schwungfedern",
+    "Weibchen deutlich heller; Ruf hart „pix“ oder „zick“"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Laub- und Mischwälder mit altem Baumbestand, besonders Eichen, Hainbuchen, Ulmen und Buchen, außerdem Obstbäume.",
+   "zeit": null,
+   "spuren": "Er lebt von Samen und Fruchtkernen, besonders von Kirschkernen und Bucheckern, daneben nimmt er Insekten auf. Er gilt als scheu.",
+   "regional": null,
+   "umgang": "Alte Laub- und Obstbäume erhalten. Beim Knacken der Kerne nicht stören.",
+   "schutz": "Nicht gefährdet (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "11dc598d",
+    "7d09e81a",
+    "96168733",
+    "a2fe67ab",
+    "e7dd171f"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Kernbeißer",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kernbeisser/"
+    ]
+   ]
+  },
+  {
+   "slug": "bluthaenfling",
+   "name": "Bluthänfling",
+   "latein": "Linaria cannabina",
+   "gruppe": "Singvögel",
+   "kurz": "Kleiner Fink der Hecken und Ackerränder; das Männchen trägt eine karminrote Brust und Stirn.",
+   "erkennen": [
+    "Männchen mit karminroter Brust und Stirn, grauem Kopf und kastanienbraunem Rücken",
+    "Weibchen ohne Rot, graubraun mit beiger, gestreifter Unterseite",
+    "Flugruf „tü gitt“",
+    "Gesang aus kurzen, trillernden, pfeifenden Lauten"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Landschaften mit dichten Büschen und Hecken, offenes Gelände mit Busch- und Strauchbestand, Obstgärten und Parks.",
+   "zeit": null,
+   "spuren": "Er frisst Samen, Früchte und Körner, während der Brut auch kleine Insekten.",
+   "regional": null,
+   "umgang": "Dichte Hecken und Ackerränder mit Wildkräutern erhalten, denn die Art leidet unter Heckenverlust und Herbiziden. Hecken nicht in der Brutzeit schneiden.",
+   "schutz": "Gefährdet (Rote Liste der Brutvögel Deutschlands 2020, Kategorie 3). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "175ab9f4"
+   ],
+   "korrekturen": [
+    "175ab9f4: „nur bei alten Männchen“ ist nicht belegt. Rote Brust und Stirn tragen die Männchen im Prachtkleid, die Weibchen nie."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Bluthänfling",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/bluthaenfling/"
+    ],
+    [
+     "NABU: Rote Liste der Brutvögel Deutschlands",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/artenschutz/rote-listen/roteliste-2021.html"
+    ]
+   ]
+  },
+  {
+   "slug": "buchfink",
+   "name": "Buchfink",
+   "latein": "Fringilla coelebs",
+   "gruppe": "Singvögel",
+   "kurz": "Häufiger Fink mit zwei weißen Flügelbinden und einer laut vorgetragenen Strophe mit Endschnörkel.",
+   "erkennen": [
+    "Männchen mit rostbrauner Brust und Rücken, blaugrauem Nacken und Scheitel",
+    "Weibchen unauffällig graubraun mit leichtem Grünstich",
+    "Deutliche weiße Flügelbinden bei beiden Geschlechtern",
+    "Ruf „fink“, dazu ein Regenruf"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Landschaften mit Baumbestand aller Art, vor allem Wälder, aber auch Gärten, Siedlungen und Parks.",
+   "zeit": "Überwiegend ganzjährig zu beobachten, nordöstliche Vögel ziehen durch oder überwintern hier.",
+   "spuren": "Der Gesang ist beständig gegliedert und endet mit einem Schnörkel.",
+   "regional": null,
+   "umgang": "Bäume, Hecken und Altholz in Gärten und am Wegrand erhalten.",
+   "schutz": "Nicht gefährdet (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "3a5b8dba"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Buchfink",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/buchfink/"
+    ]
+   ]
+  },
+  {
+   "slug": "feldsperling",
+   "name": "Feldsperling",
+   "latein": "Passer montanus",
+   "gruppe": "Singvögel",
+   "kurz": "Sperling mit brauner Kappe und schwarzem Wangenfleck, bei dem Männchen und Weibchen gleich aussehen.",
+   "erkennen": [
+    "Einheitlich braune Kopfplatte",
+    "Weiße Wangen mit dunklem Wangenfleck, weißes Nackenband",
+    "Rücken bräunlich mit schwarzer Zeichnung",
+    "Männchen und Weibchen identisch gefärbt"
+   ],
+   "verwechslung": "Mit dem Haussperling. Beim Haussperling unterscheiden sich die Geschlechter, beim Feldsperling sind sie gleich gefärbt. Die Rufe des Feldsperlings klingen härter.",
+   "lebensraum": "Offene und halboffene Landschaften im ländlichen Raum, an lichten Gehölzen, Waldrändern und landwirtschaftlichen Betrieben, in Obstgärten, Dörfern und Kleingärten.",
+   "zeit": null,
+   "spuren": "Er brütet in Baumhöhlen oder Nistkästen, in lockeren Kolonien.",
+   "regional": null,
+   "umgang": "Alte Obstbäume mit Höhlen, strukturreiche Feldränder und Nischen an Hofgebäuden erhalten.",
+   "schutz": "Vorwarnliste (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "91b5701d"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Feldsperling",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/feldsperling/"
+    ]
+   ]
+  },
+  {
+   "slug": "goldammer",
+   "name": "Goldammer",
+   "latein": "Emberiza citrinella",
+   "gruppe": "Singvögel",
+   "kurz": "Ammer der Feldränder und Hecken; das Männchen trägt einen leuchtend gelben Kopf.",
+   "erkennen": [
+    "Männchen im Prachtkleid mit leuchtend gelbem Kopf und gelber Unterseite",
+    "Rotbrauner Bürzel bei beiden Geschlechtern",
+    "15,5 bis 17 cm groß",
+    "Gesang eine schnelle Folge kurzer, hoher Töne mit längerem Schlusselement; beim Abflug ein scharfes „zick“ oder „zürr“"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Offene und halboffene Lebensräume wie Feldränder, Heiden, Waldlichtungen, Obstwiesen und Küsten mit einzelnen Sträuchern.",
+   "zeit": null,
+   "spuren": "Das Nest aus trockenen Halmen und Blättern liegt gut versteckt am Boden oder niedrig im Gebüsch.",
+   "regional": null,
+   "umgang": "Hecken, Säume und samenreiche Randstreifen erhalten. Nicht in die Gras- und Heckensäume gehen, denn die Nester liegen am Boden oder tief im Gebüsch.",
+   "schutz": "Nicht gefährdet (Rote Liste der Brutvögel Deutschlands 2020, laut NABU-Porträt; zuvor Vorwarnliste). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "03d168dc",
+    "353699dd",
+    "4b06fd2d",
+    "b1492754",
+    "e8c893fd"
+   ],
+   "korrekturen": [
+    "e8c893fd: „helle Schwanzkanten“ sind in den genutzten Quellen nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Goldammer",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/goldammer/"
+    ]
+   ]
+  },
+  {
+   "slug": "rohrammer",
+   "name": "Rohrammer",
+   "latein": "Emberiza schoeniclus",
+   "gruppe": "Singvögel",
+   "kurz": "Ammer der Schilf- und Seggenzonen; das Männchen hat einen schwarzen Kopf mit weißem Nacken.",
+   "erkennen": [
+    "Männchen mit schwarzem Kopf, weißen Schnurrbartstreifen und weißem Nacken",
+    "Weibchen mit hellerem Kopf und sichtbarer Bartzeichnung",
+    "Oberseite braun-beige mit dunklen Streifen, heller Bauch",
+    "13 bis 15 cm groß"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Schilf- und Seggengebiete an Gewässern und Feuchtwiesen, zunehmend auch Agrarflächen und große Gärten.",
+   "zeit": "Teilzieher, überwiegend von März bis Oktober anzutreffen.",
+   "spuren": "Das Männchen singt kurze, einfache Strophen mit Triller. Das Weibchen baut das Nest tief im Schilf, dicht über Boden oder Wasser.",
+   "regional": null,
+   "umgang": "Schilf- und Seggenzonen ungestört lassen, denn die Gelege liegen bodennah. Vom Ufer aus beobachten.",
+   "schutz": "Nicht gefährdet, aber mit abnehmendem Bestandstrend (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "3db0574b",
+    "530a391a",
+    "a32b2051"
+   ],
+   "korrekturen": [
+    "bce012c9, f6e32b66: Das Schilfsamen-„Knipsen“ im Herbstkleid und der Vergleich mit jungen Sperlingen sind nicht belegt.",
+    "a32b2051: „knipsen im Schilf hell an“ als Lautbeschreibung ist nicht belegt (NABU nennt Strophen mit Triller und scharfe „zi zi“-Laute)."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Rohrammer",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/rohrammer/"
+    ]
+   ]
+  },
+  {
+   "slug": "grauammer",
+   "name": "Grauammer",
+   "latein": "Emberiza calandra",
+   "gruppe": "Singvögel",
+   "kurz": "Große, graubraune Ammer mit kräftigem Schnabel und metallisch klirrendem Gesang aus offener Feldflur.",
+   "erkennen": [
+    "16 bis 19 cm groß, unauffällig graubraun",
+    "Überproportional großer, kräftiger Schnabel, rosa bis gelb",
+    "Gesang monoton und metallisch",
+    "Fliegt mit herunterhängenden Beinen, ähnlich einer Lerche"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Warme, offene Landschaften mit niedrigen Sträuchern, niedriger dichter Vegetation und Ackerland. Hauptverbreitung im deutschen Osten und im Rheinland.",
+   "zeit": null,
+   "spuren": "Das Nest liegt am Boden in einer flachen Mulde.",
+   "regional": "Mecklenburg-Vorpommern beherbergt laut LUNG-Artentabelle (Fassung 2016) 10.000 bis 14.000 Brutpaare, mehr als 40 % des deutschen Bestands.",
+   "umgang": "Brachen, Ackerrandstreifen und Wegränder erhalten und nicht in der Brutzeit mähen oder betreten, denn die Nester liegen am Boden.",
+   "schutz": "Vorwarnliste (Rote Liste der Brutvögel Deutschlands 2020). Gefährdung durch intensive Landwirtschaft, fehlende Brachen und Herbizide (NABU). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "2f866121"
+   ],
+   "korrekturen": [
+    "2f866121: „von Drähten und Pfählen“ ist nicht gesondert belegt, der Rest stimmt."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Grauammer",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/grauammer/"
+    ],
+    [
+     "LUNG M-V: Angaben zu den heimischen Vogelarten",
+     "https://www.lung.mv-regierung.de/static/LUNG/dateien/fachinformationen/natur/artenschutz/artenschutz_tabelle_voegel.pdf"
+    ],
+    [
+     "NABU: Rote Liste der Brutvögel Deutschlands",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/artenschutz/rote-listen/roteliste-2021.html"
+    ]
+   ]
+  },
+  {
+   "slug": "feldlerche",
+   "name": "Feldlerche",
+   "latein": "Alauda arvensis",
+   "gruppe": "Singvögel",
+   "kurz": "Braun gestrichelter Bodenvogel, der singend bis zu 100 Meter hoch steigt.",
+   "erkennen": [
+    "Braun gestricheltes Gefieder, weißer Bauch",
+    "Kurze, stumpfe Federhaube, die sie aufstellen oder anlegen kann",
+    "16 bis 18 cm groß",
+    "Lang anhaltender Gesang aus Flöten, Zirpen und Rollen im Singflug"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Offene Agrarflächen, Wiesen und Heiden mit abwechslungsreicher Vegetation, bevorzugt in der Nähe von Brachflächen.",
+   "zeit": "Standvogel und Kurzstreckenzieher, im Winter oft noch bei uns oder teils im Süden.",
+   "spuren": "Der Singflug führt bis etwa 100 Meter Höhe.",
+   "regional": null,
+   "umgang": "Feldwege und Äcker in der Brutzeit nicht verlassen und Hunde anleinen, denn sie brütet am Boden. Blühflächen und Brachen helfen der Art.",
+   "schutz": "Gefährdet (Rote Liste der Brutvögel Deutschlands 2020, Kategorie 3). Der Bestand hat sich seit den 1980er-Jahren etwa halbiert (NABU). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "16aa954c",
+    "c462a3c0",
+    "fce6b48e"
+   ],
+   "korrekturen": [
+    "c462a3c0: „fast senkrecht“ und „über Stoppeln“ sind in den genutzten Quellen nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Feldlerche",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/feldlerche/"
+    ],
+    [
+     "NABU: Rote Liste der Brutvögel Deutschlands",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/artenschutz/rote-listen/roteliste-2021.html"
+    ]
+   ]
+  },
+  {
+   "slug": "heidelerche",
+   "name": "Heidelerche",
+   "latein": "Lullula arborea",
+   "gruppe": "Singvögel",
+   "kurz": "Kleine, kurzschwänzige Lerche mit melancholischem Gesang, die sandige Heiden und lichte Kiefernwälder bewohnt.",
+   "erkennen": [
+    "13,5 bis 15 cm groß, braun gestreift, kurzer Schwanz",
+    "Zwei helle Überaugenstreifen, die am Hinterkopf v-förmig zusammenlaufen",
+    "Gesang wohlklingend, leicht melancholisch, auch von Bäumen und im wellenartigen Flug",
+    "Ruf ein weiches, jodelndes „didlüi“"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Offene, karge Standorte mit sandigen Böden, wie Heiden, Lichtungen und offene Kiefernwälder.",
+   "zeit": "Kurzstreckenzieher, im Frühling und Sommer da, im Winter überwiegend in Südwesteuropa.",
+   "spuren": "Das Nest liegt gut versteckt unter trockener Vegetation in einer ausgepolsterten Bodenmulde.",
+   "regional": null,
+   "umgang": "Sandige Lichtungen und Heideflächen offen halten und nicht abseits der Wege betreten, denn die Nester liegen am Boden.",
+   "schutz": "Vorwarnliste (Rote Liste der Brutvögel Deutschlands 2020). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "1465570b",
+    "9a72ffca"
+   ],
+   "korrekturen": [
+    "9a72ffca: Die Angabe „schon im März“ ist in den genutzten Quellen nicht belegt.",
+    "e7ca9159: „kreisen langsam“ ist nicht belegt (NABU nennt wellenartige Flugmanöver)."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Heidelerche",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/heidelerche/"
+    ],
+    [
+     "NABU: Rote Liste der Brutvögel Deutschlands",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/artenschutz/rote-listen/roteliste-2021.html"
+    ]
+   ]
+  },
+  {
+   "slug": "baumpieper",
+   "name": "Baumpieper",
+   "latein": "Anthus trivialis",
+   "gruppe": "Singvögel",
+   "kurz": "Pieper, der von einer Baumspitze singend aufsteigt und sich mit gespreizten Flügeln zurückgleiten lässt.",
+   "erkennen": [
+    "14 bis 16 cm groß",
+    "Deutlicher Überaugenstreif, angedeuteter dunkler Augenstreif",
+    "Beige Brust mit kräftiger Strichelung, weißer Bauch mit dünner Flankenstrichelung",
+    "Singflug mit Gesang am höchsten Punkt, dann fallschirmartiger Abstieg"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Lebensräume mit hohen Singwarten wie Bäumen und hoher Vegetation zur Nahrungssuche. Das napfförmige Nest liegt in Grasbüscheln oder Farnen.",
+   "zeit": "Langstreckenzieher, von April bis Oktober in Deutschland. Rückkehr Ende April oder Anfang Mai, Wegzug ab Anfang August.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Lichte Waldränder, Kiefernlichten, Moore und Feuchtgebiete schonen und Bodennester nicht stören.",
+   "schutz": "Vorwarnliste (Rote Liste der Brutvögel Deutschlands 2020). Ursachen sind Lebensraumverlust und intensivere Forstwirtschaft (NABU). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "315f7a62",
+    "a965ee27",
+    "b5b29583",
+    "c04e8d46",
+    "eef167d3"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Baumpieper",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/baumpieper/"
+    ],
+    [
+     "NABU: Rote Liste der Brutvögel Deutschlands",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/artenschutz/rote-listen/roteliste-2021.html"
+    ]
+   ]
+  },
+  {
+   "slug": "rauchschwalbe",
+   "name": "Rauchschwalbe",
+   "latein": "Hirundo rustica",
+   "gruppe": "Singvögel",
+   "kurz": "Schwalbe mit tief gegabeltem Schwanz und langen Spießen, die in Ställen und Scheunen nistet.",
+   "erkennen": [
+    "Tief gegabelter Schwanz mit langen Spießen",
+    "Braunrotes Gesicht",
+    "Fliegt meist unterhalb der Mehlschwalben",
+    "Schlammnester an Durchgängen und Stallöffnungen"
+   ],
+   "verwechslung": "Mit der Mehlschwalbe. Die Rauchschwalbe hat den tief gegabelten Schwanz mit langen Spießen und jagt im Luftraum meist unter den Mehlschwalben.",
+   "lebensraum": "Ländliche Gegenden mit offenen Scheunen, Ställen und verwinkelten Gebäuden und mit Gewässern in der Nähe, die Insekten liefern.",
+   "zeit": "Sommervogel von April bis Oktober, sie kommt vor den Mehlschwalben und zieht nach ihnen nach Afrika.",
+   "spuren": "Das Nest besteht aus Schlamm und wird in Durchgängen, an Stallöffnungen und Balken angeklebt.",
+   "regional": null,
+   "umgang": "Stall- und Scheunentüren zugänglich lassen, Nester nicht entfernen, auch nicht außerhalb der Brutzeit. Kotbrettchen unter den Nestern und Kunstnester ab etwa zwei Metern Höhe helfen. Bei Fragen zu Nestern die Naturschutzbehörde fragen.",
+   "schutz": "Vorwarnliste (Rote Liste der Brutvögel Deutschlands 2020). Gefährdet durch Nestzerstörung, Insektenschwund und geschlossene Ställe (NABU). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "4931bc14",
+    "f9ff23c6"
+   ],
+   "korrekturen": [
+    "4931bc14: Die „rostrote Kehle“ stimmt nur ungefähr, NABU nennt ein braunrotes Gesicht."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Rauchschwalbe",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/rauchschwalbe/"
+    ],
+    [
+     "NABU: Rote Liste der Brutvögel Deutschlands",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/artenschutz/rote-listen/roteliste-2021.html"
+    ]
+   ]
+  },
+  {
+   "slug": "pirol",
+   "name": "Pirol",
+   "latein": "Oriolus oriolus",
+   "gruppe": "Singvögel",
+   "kurz": "Amselgroßer, leuchtend gelber Vogel hoher Baumkronen, den man meist nur flöten hört.",
+   "erkennen": [
+    "Männchen leuchtend gelb mit schwarzen Flügeln, schwarzem Schwanz und kräftigem rotem Schnabel",
+    "Weibchen oben grünlich gelb, am Bauch schmutzig weiß",
+    "22 bis 25 cm groß, etwa Amselgröße",
+    "Melodischer Flötenruf „didlioh“, dazu ein raues „wjäähk“"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Lichte, sonnige Laub- und Mischwälder und Parks, bevorzugt in Gewässernähe, hoch in den Baumkronen.",
+   "zeit": "Langstreckenzieher, in Deutschland von Mai bis August zu beobachten.",
+   "spuren": "Das Nest ist ein korbartiges Geflecht in einer Astgabel.",
+   "regional": null,
+   "umgang": "Alte Laubbäume, Auwälder und Gehölzreihen am Wasser erhalten. Nicht unter dem Brutbaum verweilen.",
+   "schutz": "Vorwarnliste (Rote Liste der Brutvögel Deutschlands 2020), vor allem wegen des Verlusts von Auwäldern (NABU). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "19157e7b",
+    "1f055fe1",
+    "2740fc67",
+    "9dc3ed82",
+    "a1b2335b"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Pirol",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/pirol/"
+    ],
+    [
+     "NABU: Rote Liste der Brutvögel Deutschlands",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/artenschutz/rote-listen/roteliste-2021.html"
+    ]
+   ]
+  },
+  {
+   "slug": "neuntoeter",
+   "name": "Neuntöter",
+   "latein": "Lanius collurio",
+   "gruppe": "Singvögel",
+   "kurz": "Kleiner Würger der Dornenhecken, der Beute an Dornen aufspießt.",
+   "erkennen": [
+    "Männchen mit grauem Kopf, schwarzer Augenmaske, weißer Kehle, rosa Unterseite und rotbraunem Rücken",
+    "Weibchen rotbraun, im Nacken gräulich, mit dunkelbrauner Augenmaske und gebänderter cremeweißer Unterseite",
+    "Etwa 17 cm groß",
+    "Männchen sitzen gern exponiert auf Warten"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Offene, strukturierte Landschaften mit Hecken und Dornengebüsch, Äcker und Waldränder.",
+   "zeit": "Langstreckenzieher, von Mai bis September in Deutschland.",
+   "spuren": "Übrig gebliebene Beute spießt er zur späteren Verwendung an Dornen oder Stacheldraht auf.",
+   "regional": null,
+   "umgang": "Dornenhecken, Schlehen und Wildrosen erhalten und Hecken nicht in der Brutzeit schneiden. Aufgespießte Beute nicht entfernen.",
+   "schutz": "Nicht gefährdet (NABU-Porträt, Rote Liste der Brutvögel Deutschlands). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "0d9e072e",
+    "3af176dc",
+    "4cce84b1",
+    "544dc3f6"
+   ],
+   "korrekturen": [
+    "ab84a981: „Hakenschnabel“ ist in den genutzten Quellen nicht belegt.",
+    "7c5a51c6: Die Angabe zu Jungvögeln im Juli ist nicht belegt.",
+    "4cce84b1: Dass Käfer und Mäuse „gut gefüllte Reviere“ zeigen, ist nicht belegt; bestätigt ist das Aufspießen von Beute."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Neuntöter",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/neuntoeter/"
+    ]
+   ]
+  },
+  {
+   "slug": "star",
+   "name": "Star",
+   "latein": "Sturnus vulgaris",
+   "gruppe": "Singvögel",
+   "kurz": "Schwarzer, metallisch schimmernder Vogel mit gelbem Schnabel, der andere Stimmen nachahmt und große Schwärme bildet.",
+   "erkennen": [
+    "Prachtkleid schwarz mit violettgrünem Metallglanz",
+    "Schlichtkleid mit weißen Flecken über dem ganzen Körper",
+    "Gelber Schnabel wie bei der Amsel, aber kürzerer Schwanz",
+    "19 bis 22 cm groß"
+   ],
+   "verwechslung": "Mit der Amsel. Der Star hat einen kürzeren Schwanz und im Schlichtkleid weiße Flecken.",
+   "lebensraum": "Gärten, verschiedene Wälder und Parks, gern in der Nähe von Wiesen. Er brütet in Höhlen.",
+   "zeit": "Standvogel und Kurzstreckenzieher. Einige überwintern in milden Gegenden, die meisten ziehen in den westlichen Mittelmeerraum. Außerhalb der Brutzeit bildet er große Schwärme.",
+   "spuren": "Der Ruf klingt heiser („ärr“), dazu ein reiches Repertoire und Imitationen anderer Vogelarten.",
+   "regional": null,
+   "umgang": "Höhlenbäume und Streuobstwiesen erhalten und kurzrasige Wiesen und Weiden zur Nahrungssuche zulassen. Brutplätze nicht stören.",
+   "schutz": "Gefährdet (Rote Liste der Brutvögel Deutschlands 2020, Kategorie 3, mit abnehmendem Trend). Wie alle heimischen Vogelarten nach BNatSchG besonders geschützt.",
+   "naturdeck_ids": [
+    "1e4b0cc2",
+    "38fc28fe",
+    "e20b86cd"
+   ],
+   "korrekturen": [
+    "a6f83c8c: Falsch. Gerade das Schlichtkleid zeigt die weißen Flecken, im Prachtkleid fehlen sie.",
+    "17d7066e: Der Vergleich der Schwarmdichte mit Wacholderdrosseln ist nicht belegt.",
+    "38fc28fe: „Sternig“ stimmt nur für das Schlichtkleid mit weißen Flecken."
+   ],
+   "quellen": [
+    [
+     "NABU: Vogelporträt Star",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/star/"
+    ],
+    [
+     "NABU: Rote Liste der Brutvögel Deutschlands",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/artenschutz/rote-listen/roteliste-2021.html"
+    ]
+   ]
+  }
+ ],
+ "nicht_aufgenommen": [
+  [
+   "Mehlschwalbe",
+   "Nur als Vergleichsart in den Fakten genannt, keine eigenen Fakten."
+  ],
+  [
+   "Haussperling",
+   "Nur als Vergleichsart genannt."
+  ],
+  [
+   "Kohlmeise, Blaumeise, Grünfink",
+   "Nur als Vergleichsarten genannt."
+  ],
+  [
+   "Wacholderdrossel, Trauerschnäpper, Heckenbraunelle",
+   "Gehören zu Teil A."
+  ],
+  [
+   "Kolkrabe",
+   "Gehört nicht zum Paket."
+  ],
+  [
+   "Grünspecht, Wendehals",
+   "Spechte gehören nicht zum Paket."
+  ],
+  [
+   "Sperlingskauz, Kiebitz, Kuckuck, Uhu",
+   "Keine Sperlingsvögel, nicht Teil dieses Pakets."
+  ]
+ ]
+}

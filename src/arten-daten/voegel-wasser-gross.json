@@ -1,0 +1,894 @@
+{
+ "paket": "voegel-wasser-gross",
+ "arten": [
+  {
+   "slug": "singschwan",
+   "name": "Singschwan",
+   "latein": "Cygnus cygnus",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Weißer Schwan, dessen gelbe Schnabelfarbe häufig über das Nasenloch hinausreicht; im Winter an Gewässern und auf Wiesen.",
+   "erkennen": [
+    "etwa 140 bis 160 cm groß, rein weißes Gefieder",
+    "keilförmiger Schnabel, bei dem das Gelb häufig bis über das Nasenloch hinausreicht",
+    "lauter, trompetender Ruf, die Art ist sehr stimmfreudig"
+   ],
+   "verwechslung": "Ähnelt stark dem Zwergschwan (und äußerlich auch dem Höckerschwan). Der Zwergschwan hat weniger Gelb am Schnabel, das Gelb reicht beim Singschwan häufig über das Nasenloch hinaus.",
+   "lebensraum": "Brütet auf ruhigen Moor- und Waldseen, in Deutschland nur sehr selten. Den Winter verbringt er auf Wiesen nahe störungsarmer Gewässer, an Ost- und Nordseeküste und an großen Binnengewässern Norddeutschlands.",
+   "zeit": "Hauptsächlich als Wintergast zu sehen, der im Winter gesellig auftritt.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Singschwäne sind sehr scheu. Rastende Trupps auf Wiesen und Gewässern aus großem Abstand beobachten und nicht aufscheuchen.",
+   "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG), nach Anlage 1 BArtSchV streng geschützt. Laut NABU-Vogelporträt als Brutvogel „extrem selten“ mit 100 bis 140 Brutpaaren in Deutschland, Bestand zunehmend.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "006ec3f6: Das Gelb am Schnabel unterscheidet den Singschwan laut NABU vom Zwergschwan, nicht belegt ist der Vergleich mit dem Höckerschwan als Schnabelmerkmal. Deshalb nicht als bestätigt übernommen."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Singschwan",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/singschwan/"
+    ],
+    [
+     "Anlage 1 BArtSchV",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "graugans",
+   "name": "Graugans",
+   "latein": "Anser anser",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Große Gans mit silbergrauen Flügeldecken, orangem bis rosa Schnabel und rosa Beinen, oft in lauten Trupps.",
+   "erkennen": [
+    "silbergraue Flügeldecken",
+    "kräftiger Schnabel in Orange bis Rosa, mattrosa Beine",
+    "im Flug eine weiße Binde am Schwanz",
+    "dreisilbiger Ruf, dazu knurrende und trompetende Laute"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Besiedelt fast alle Feuchtgebiete, vom Parkteich über Flüsse und große Seen bis zur Küste. Sie hält sich gern auf Wiesen, Viehweiden und Stoppelfeldern auf.",
+   "zeit": "Die Brutzeit reicht von März bis August, die Art wird zunehmend zum Standvogel und ist dann ganzjährig zu sehen.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Gänse nicht füttern und nicht bedrängen, Familien mit Jungen Abstand lassen.",
+   "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG). Laut NABU-Vogelporträt nicht gefährdet, 54.000 bis 77.000 Brutpaare, Bestand stark zunehmend.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "48481486: Das Kurzrupfen von Uferwiesen ist gedeckt, die Angaben zu Kot und Tritt nicht. Nicht als bestätigt übernommen.",
+    "a0c9a29e: Mauser im Frühsommer an Seen in den gelesenen Quellen nicht belegt, daher nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Graugans",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/graugans/"
+    ]
+   ]
+  },
+  {
+   "slug": "gaensesaeger",
+   "name": "Gänsesäger",
+   "latein": "Mergus merganser",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Massige, langgestreckte Ente mit schmalem Hakenschnabel; Weibchen mit rotbraunem Kopf, Männchen mit grünschwarzem.",
+   "erkennen": [
+    "langer Körper, schmaler spitzer Schnabel mit hakenartig gebogener Spitze",
+    "Männchen im Prachtkleid mit schwarzem, grün schimmerndem Kopf",
+    "Weibchen und Männchen im Schlichtkleid mit rotbraunem Kopf",
+    "deutlich größer als Mittel- und Zwergsäger"
+   ],
+   "verwechslung": "Mittel- und Zwergsäger sind deutlich kleiner. Als einziger der drei Säger brütet der Gänsesäger in Deutschland auch ganzjährig.",
+   "lebensraum": "Fischreiche Flüsse und Seen. Er brütet in Baumhöhlen, aber auch in Gebäudenischen und Nisthilfen.",
+   "zeit": "Ganzjährig zu sehen; im Winter kommen Gäste aus Nordeuropa dazu.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Familien mit Jungen am Wasser nicht stören. Die frisch geschlüpften Jungen springen aus der Bruthöhle zu Boden und nehmen dabei laut NABU keinen Schaden, sie müssen nicht eingefangen oder zurückgesetzt werden.",
+   "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG). Laut NABU-Vogelporträt gefährdet, 1.000 bis 1.200 Brutpaare, leichte Zunahme, im Langzeittrend aber weiter als gefährdet geführt.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "bccdb9ff und ee18ca5d: Der Hakenschnabel ist belegt, die rote Schnabelfarbe und der Vergleich der Länge mit Enten nicht durch die gelesene Quelle gedeckt. Nicht als bestätigt übernommen."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Gänsesäger",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/gaensesaeger/"
+    ]
+   ]
+  },
+  {
+   "slug": "schellente",
+   "name": "Schellente",
+   "latein": "Bucephala clangula",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Tauchente mit gelber Iris; der Erpel trägt einen runden weißen Fleck am Schnabelansatz und einen schwarzen, grün glänzenden Kopf.",
+   "erkennen": [
+    "Erpel mit schwarzem, grün glänzendem Kopf und rundem weißem Zügelfleck",
+    "Weibchen mit braunem Kopf und graubraunem Körper",
+    "bei beiden Geschlechtern eine auffallend gelbe Iris",
+    "im Flug ein klingendes Geräusch wie von kleinen Schellen"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Brütet an stehenden Gewässern wie Waldseen und Teichen mit Bäumen am Ufer. Im Winter auch auf Flüssen, großen Binnengewässern und im flachen Meer.",
+   "zeit": "Ganzjährig zu beobachten; Standvögel weichen im Winter auf größere Gewässer aus, dazu kommen Wintergäste aus dem Nordosten.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "An ruhigen Gewässern mit altem Baumbestand können Nisthilfen die Brutplatzwahl erleichtern; dazu bei der örtlichen Naturschutzgruppe nachfragen.",
+   "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG). Laut NABU-Vogelporträt nicht gefährdet, 3.700 bis 4.900 Brutpaare, Bestand zunehmend.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "fffeee0f: Wangenfleck des Erpels ist belegt. Als Startgeräusch nennt NABU ein klingendes Geräusch wie von kleinen Schellen, nicht „klatschend“."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Schellente",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/schellente/"
+    ]
+   ]
+  },
+  {
+   "slug": "tafelente",
+   "name": "Tafelente",
+   "latein": "Aythya ferina",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Tauchente; der Erpel hat einen kastanienbraunen Kopf, rote Augen und hellgraue Seiten.",
+   "erkennen": [
+    "Erpel mit kastanienbraunem Kopf, schwarzem Schnabel mit graublauer Binde und roten Augen",
+    "Erpel mit schwarzer Brust, schwarzem Steiß und hellgrauen Seiten",
+    "Weibchen unauffällig braun, mit grauer Schnabelbinde und schwarzen Augen"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Flache, nährstoffreiche, stehende Binnengewässer. Im Winter suchen wandernde Tiere auch größere Gewässer auf.",
+   "zeit": "Vor allem Wintergast, immer häufiger aber das ganze Jahr zu beobachten.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Beobachten aus Abstand; ruhige, flache Seen mit Ufervegetation helfen der Art.",
+   "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG). Laut NABU-Vogelporträt auf der Vorwarnliste, 2.300 bis 3.100 Brutpaare, Bestand abnehmend.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "14a49115: Laut NABU hat der Erpel hellgraue Seiten (nicht „hellen Rücken“). Ein Vergleich mit der Reiherente und das „steile Abtauchen“ sind in der Quelle nicht belegt, daher nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Tafelente",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/tafelente/"
+    ]
+   ]
+  },
+  {
+   "slug": "haubentaucher",
+   "name": "Haubentaucher",
+   "latein": "Podiceps cristatus",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Schlanker Wasservogel mit langem dünnem Hals; im Prachtkleid mit aufstellbarer schwarzer Haube und rotschwarzem Backenbart.",
+   "erkennen": [
+    "46 bis 51 cm groß, Spannweite 59 bis 73 cm",
+    "schwarze, aufstellbare Haube und rotschwarzer Backenbart im Prachtkleid",
+    "langer, dünner Hals",
+    "Küken werden oft auf dem Rücken der Eltern getragen"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Gewässer mit ausreichend Ufervegetation: Seen, langsame Fließgewässer, Teiche und Boddengewässer. Im Winter vermehrt an Küsten und auf eisfreien Seen.",
+   "zeit": "Ganzjährig zu beobachten.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Brütenden und jungen Vögeln nicht zu nahe kommen, Schilfgürtel und Ufer in der Brutzeit meiden.",
+   "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG). Laut NABU-Vogelporträt nicht gefährdet, 10.500 bis 16.000 Brutpaare; Vogel des Jahres 2001.",
+   "naturdeck_ids": [
+    "fb37be74"
+   ],
+   "korrekturen": [
+    "42b594c9, d220ebb0, fb37be74: Das Tragen der Jungen auf dem Rücken ist belegt. Die Angaben zu gestreiften Köpfen und heiserem Rufen sind in der gelesenen Quelle nicht belegt; nur fb37be74 wurde übernommen."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Haubentaucher",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/haubentaucher/"
+    ]
+   ]
+  },
+  {
+   "slug": "graureiher",
+   "name": "Graureiher",
+   "latein": "Ardea cinerea",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Großer grauer Schreitvogel, der im Flug den Hals einzieht, anders als Kranich und Storch.",
+   "erkennen": [
+    "im Flug eingezogener Kopf und Hals",
+    "leicht verlängerte, schwarze Scheitelfedern",
+    "steht oft reglos in Flachwasser oder auf Wiesen und Äckern"
+   ],
+   "verwechslung": "Kranich und Storch fliegen mit gestrecktem Hals, der Graureiher mit eingezogenem.",
+   "lebensraum": "Besiedelt unterschiedlichste Lebensräume. Er brütet in Kolonien in Baumkronen und sucht an Flüssen, Seen, Teichen, Küstenlagunen sowie auf Wiesen und Äckern nach Nahrung.",
+   "zeit": "Ganzjährig zu beobachten, überwiegend Standvogel bis Kurzstreckenzieher.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Brutkolonien in Bäumen nicht betreten oder stören. Beobachtung am besten aus der Ferne an flachen Gewässern.",
+   "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG). Laut NABU-Vogelporträt nicht gefährdet, 22.000 bis 24.000 Brutpaare, Bestand zunehmend; früher durch Verfolgung stark dezimiert.",
+   "naturdeck_ids": [
+    "b9992bf3"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Graureiher",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/graureiher/"
+    ]
+   ]
+  },
+  {
+   "slug": "rohrdommel",
+   "name": "Rohrdommel",
+   "latein": "Botaurus stellaris",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Scheuer, perfekt getarnter Schilfreiher, den man meist nur an seinem nebelhornartigen Ruf bemerkt.",
+   "erkennen": [
+    "69 bis 81 cm groß, gelbbraun mit schwarzbraunem Muster",
+    "schwarzer Scheitel und Hinterkopf, kompakte Gestalt, breite Flügel",
+    "bei Gefahr „Pfahlstellung“ mit senkrecht gestrecktem Kopf und Hals",
+    "Balzruf des Männchens ein tiefes, dumpfes „whuuump“, das bis zu 5 km weit trägt"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Ausgedehnte, ungestörte Schilf- und Röhrichtbestände am Wasser.",
+   "zeit": "Dämmerungs- und nachtaktiv; ganzjährig im Land, bei Vereisung weicht sie nach Süden aus. Der Balzruf ist im Frühjahr zu hören.",
+   "spuren": "Der tiefe Balzruf aus dem Schilf; im Flug tiefe, krächzende Töne.",
+   "regional": "Laut NABU liegt der Verbreitungsschwerpunkt im Nordosten Deutschlands; Mecklenburg-Vorpommern wird als Land mit Rohrdommel-Vorkommen genannt.",
+   "umgang": "Röhrichte nicht betreten und die Tiere nicht suchen, denn Störungen und Entwässerung gefährden die Art. Wer Rufe hört, kann sie der Naturschutzbehörde oder dem NABU melden.",
+   "schutz": "Europäische Vogelart, besonders und nach Anlage 1 BArtSchV streng geschützt. Laut NABU-Vogelporträt gefährdet, 800 bis 850 Brutpaare, Trend rückläufig; Hauptursache ist der Verlust großer, ungestörter Röhrichte.",
+   "naturdeck_ids": [
+    "1dd5a210",
+    "4127dcde"
+   ],
+   "korrekturen": [
+    "b569e915: Die Rufzeit „April bis Juni“ nennt das NABU-Porträt nicht genau (dort: Frühjahr), daher nicht übernommen.",
+    "4127dcde: „pumpen“ ist keine Angabe der Quelle; Ruf, der weit trägt, und Unsichtbarkeit im Röhricht sind belegt."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Rohrdommel",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/rohrdommel/"
+    ],
+    [
+     "Anlage 1 BArtSchV",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "kranich",
+   "name": "Kranich",
+   "latein": "Grus grus",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Sehr großer blaugrauer Vogel mit roter Kappe und trompetenden Rufen, im Flug mit gestrecktem Hals.",
+   "erkennen": [
+    "96 bis 116 cm groß, überwiegend helles Blaugrau, größer als ein Weißstorch",
+    "lange, schwarz zulaufende Schirmfedern am Hinterkörper",
+    "unbefiederte rote Kappe auf dem Kopf",
+    "trompetenartige Rufe, jeder Kranich hat einen eigenen Ruf"
+   ],
+   "verwechslung": "Der Graureiher zieht im Flug den Hals ein, der Kranich streckt ihn.",
+   "lebensraum": "Brütet am Boden in Feuchtgebieten und Mooren. Auf dem Zug rastet er häufig auf Feldern und übernachtet an störungsfreien Gewässern.",
+   "zeit": "Ganzjährig zu beobachten, die meisten sind Kurzstreckenzieher. Rund 400.000 Kraniche ziehen jährlich über Deutschland.",
+   "spuren": "Die weit tragenden Rufe über Wiesen, Moor und Feldern.",
+   "regional": "Rastplätze liegen laut NABU vor allem im Norden und Nordosten Deutschlands. Das NABU-Kranichzentrum liegt nahe Stralsund.",
+   "umgang": "Rastende Kraniche auf Feldern und an Schlafplätzen aus großer Entfernung beobachten und nicht aufscheuchen. Brutplätze in Mooren und Feuchtgebieten nicht betreten.",
+   "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG); nach LfU Bayern streng geschützt und in Anhang I der EU-Vogelschutzrichtlinie. Laut NABU-Vogelporträt nicht gefährdet, 12.000 bis 12.500 Brutpaare, Bestand stark zunehmend.",
+   "naturdeck_ids": [
+    "940476c7",
+    "e4c02a81"
+   ],
+   "korrekturen": [
+    "1882aa2f, c77e00cd, d05a6ce5: Keilflug, Landung mit baumelnden Beinen und die Trittspur wurden in den gelesenen Quellen nicht belegt, daher nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Kranich",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kranich/"
+    ],
+    [
+     "LfU Bayern, Artensteckbrief Kranich",
+     "https://www.lfu.bayern.de/natur/sap/arteninformationen/steckbrief/zeige?stbname=Grus+grus"
+    ]
+   ]
+  },
+  {
+   "slug": "teichhuhn",
+   "name": "Teichhuhn",
+   "latein": "Gallinula chloropus",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Dunkle Ralle mit rotem Stirnschild, rot-gelbem Schnabel und weißem Unterschwanz, die am Schilfrand huscht.",
+   "erkennen": [
+    "27 bis 31 cm groß",
+    "roter Schnabel mit gelber Spitze, rotes Stirnschild",
+    "weißer Unterschwanz",
+    "Flanke mit weißer, gefleckter Linie"
+   ],
+   "verwechslung": "Das Blässhuhn hat ein weißes Stirnschild und einen weißen Schnabel, das Teichhuhn ein rotes Stirnschild. Beide gehören zu den Rallen; „Teichralle“ gilt als der korrektere Name.",
+   "lebensraum": "Süßwasser mit ausreichend Ufervegetation: kleine Seen, Teiche, Sümpfe und Flüsse.",
+   "zeit": "Ganzjährig bei uns zu beobachten.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Bei Störungen verlassen Teichhühner ihr Nest. Familien am Nest in ausreichendem Abstand beobachten.",
+   "schutz": "Europäische Vogelart, besonders und nach Anlage 1 BArtSchV streng geschützt. Laut NABU-Vogelporträt auf der Vorwarnliste, 36.000 bis 63.000 Brutpaare, Bestand stabil.",
+   "naturdeck_ids": [
+    "c9bae080"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Teichhuhn",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/teichhuhn/"
+    ],
+    [
+     "Anlage 1 BArtSchV",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "blaesshuhn",
+   "name": "Blässhuhn",
+   "latein": "Fulica atra",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Schieferschwarze Ralle mit weißem Stirnschild und weißem Schnabel; die Füße tragen Schwimmlappen.",
+   "erkennen": [
+    "schiefergraues Gefieder, schwarzer Kopf",
+    "weißes Stirnschild, weißer Schnabel mit rosa Spitze, rote Iris",
+    "Füße mit Schwimmlappen an den Zehen",
+    "langer, platschender Anlauf über das Wasser beim Start"
+   ],
+   "verwechslung": "Das Teichhuhn hat ein rotes Stirnschild und einen rot-gelben Schnabel.",
+   "lebensraum": "Alle Süßgewässer mit Schwimmpflanzen oder Ufervegetation: Seen, Sumpfland, Flüsse, Kanäle, Teiche. Im Winter auch an der Meeresküste.",
+   "zeit": "Ganzjährig zu sehen, Jahresvogel und Kurzstreckenzieher.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Nicht füttern und beim Beobachten Abstand zu Nest und Jungen halten.",
+   "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG). Laut NABU-Vogelporträt nicht gefährdet, 61.000 bis 105.000 Brutpaare.",
+   "naturdeck_ids": [
+    "5dd4f990"
+   ],
+   "korrekturen": [
+    "90f47bfb: Gelappte Zehen sind belegt, „breite Spuren im Schlamm“ nicht, daher nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Blässhuhn",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/blaesshuhn/"
+    ]
+   ]
+  },
+  {
+   "slug": "kiebitz",
+   "name": "Kiebitz",
+   "latein": "Vanellus vanellus",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Schwarz-weißer Wiesenvogel mit Federholle, breiten runden Flügeln und dem Ruf „kie-wit“.",
+   "erkennen": [
+    "28 bis 31 cm groß, Spannweite 67 bis 72 cm",
+    "schwarz-weißes Gefieder mit metallisch grünem oder violettem Glanz",
+    "auffällige Federholle auf dem Kopf",
+    "breite, gerundete Flügel; Rufe wie „kie-wit“"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Feuchtwiesen, Weiden, Sümpfe und Moore mit kurzer Vegetation ohne dichtere Gehölze.",
+   "zeit": "Teil- bis Kurzstreckenzieher, bei uns etwa von Februar bis November.",
+   "spuren": "Der Ruf, der dem Vogel den Namen gab.",
+   "regional": null,
+   "umgang": "Brutflächen in Feuchtwiesen und auf Äckern nicht betreten und Hunde dort nicht frei laufen lassen. Brutplätze oder Küken auf Flächen der Naturschutzbehörde oder dem NABU melden.",
+   "schutz": "Europäische Vogelart, besonders und nach Anlage 1 BArtSchV streng geschützt. Laut NABU-Vogelporträt stark gefährdet, 49.000 bis 77.000 Brutpaare, Bestand stark abnehmend; Hauptursachen sind Entwässerung und intensive Landwirtschaft.",
+   "naturdeck_ids": [
+    "368f133c"
+   ],
+   "korrekturen": [
+    "368f133c und c73b576d: Ruf „kie-wit“ und breite Flügel sind belegt; der Vergleich mit dem Star und der „raue Warnruf“ sind in der gelesenen Quelle nicht belegt. Nur 368f133c übernommen."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Kiebitz",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kiebitz/"
+    ],
+    [
+     "Anlage 1 BArtSchV",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "bekassine",
+   "name": "Bekassine",
+   "latein": "Gallinago gallinago",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Gut getarnter Schnepfenvogel mit langem geradem Schnabel, der im Zickzack aufsteigt.",
+   "erkennen": [
+    "langer, gerader Schnabel, braun gemustertes Gefieder mit hellen Längsstreifen",
+    "zickzackförmiger Aufflug mit Rufen",
+    "weißer Flügelhinterrand im Flug",
+    "beim Balzflug erzeugen die Steuerfedern einen meckernden Klang"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Feuchtwiesen, Moore und Sümpfe mit dichter Vegetation; zur Zugzeit auch Schlammflächen, Tümpel und Gräben.",
+   "zeit": "Überwiegend im Norden Deutschlands verbreitet, vom Standvogel bis zum Langstreckenzieher, ganzjährig beobachtbar.",
+   "spuren": "Das Meckern der Männchen im Balzflug.",
+   "regional": null,
+   "umgang": "Feuchtwiesen und Moore als Lebensraum erhalten und Brutflächen nicht betreten. Torffreie Erde im Garten schont die Moore.",
+   "schutz": "Europäische Vogelart, besonders und nach Anlage 1 BArtSchV streng geschützt. Laut NABU-Vogelporträt vom Aussterben bedroht, 2.600 bis 3.900 Brutpaare, Bestand stark abnehmend; Vogel des Jahres 2013.",
+   "naturdeck_ids": [
+    "d0eadd32"
+   ],
+   "korrekturen": [
+    "01d791f8: Zickzackflug ist belegt; das NABU-Porträt nennt einen weißen Flügelhinterrand statt weißer Schwanzkanten. Nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Bekassine",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/bekassine/"
+    ],
+    [
+     "Anlage 1 BArtSchV",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "waldschnepfe",
+   "name": "Waldschnepfe",
+   "latein": "Scolopax rusticola",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Scheuer, hervorragend getarnter Waldvogel mit langem Schnabel, der in der Dämmerung seinen Balzflug zeigt.",
+   "erkennen": [
+    "33 bis 38 cm groß, Schnabel 6 bis 8 cm lang",
+    "breite Querbänderung auf dem Kopf, braun gemustertes Gefieder",
+    "im Flug rotbrauner Schwanz und Bürzel sichtbar",
+    "Balzflug der Männchen in der Dämmerung mit tiefen, quorrenden Lauten und einem spitzen „pisp“"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Lichte, feuchte Laub- und Mischwälder mit Lichtungen, ausgeprägter Kraut- und Strauchschicht und weicher Humusschicht. Sie ernährt sich vor allem von Regenwürmern.",
+   "zeit": "Aktiv in der Morgen- und Abenddämmerung. Der Balzflug dauert vom Frühjahr bis in den Sommer; ganzjährig zu beobachten, überwiegend Kurzstreckenzieher.",
+   "spuren": "Der Balzflug entlang von Waldrändern und über Lichtungen.",
+   "regional": null,
+   "umgang": "Waldstücke mit Lichtungen und weichem Humusboden erhalten. In der Dämmerung nicht abseits der Wege durch Brutwälder laufen.",
+   "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG), nicht streng geschützt. Laut NABU-Vogelporträt auf der Vorwarnliste, 20.000 bis 39.000 Reviere; die Art ist bejagbar (Jagdzeit laut NABU 16. Oktober bis 15. Januar), der NABU kritisiert das.",
+   "naturdeck_ids": [
+    "781ff578",
+    "7f85bd6a",
+    "937c23b0"
+   ],
+   "korrekturen": [
+    "152585b6: „starten stumm“ ist nicht belegt.",
+    "4be3f37e: „schnurrend im Juni“ und „knarrend“ nicht belegt; NABU nennt Balzflug im Frühjahr mit quorrenden Lauten, der NABU Schleswig-Holstein nennt eine Balzzeit von Mitte März bis Juli."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Waldschnepfe",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/waldschnepfe/"
+    ],
+    [
+     "NABU Schleswig-Holstein, Waldschnepfe",
+     "https://schleswig-holstein.nabu.de/tiere-und-pflanzen/voegel/wasservoegel-andere/29971.html"
+    ]
+   ]
+  },
+  {
+   "slug": "waldwasserlaeufer",
+   "name": "Waldwasserläufer",
+   "latein": "Tringa ochropus",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Dunkelbrauner Watvogel mit weißem Bürzel, der in Gräben und an Tümpeln rastet und ansteigend ruft.",
+   "erkennen": [
+    "Oberseite dunkel- bis schwarzbraun mit feinen weißen Tupfern",
+    "weißer Bürzel mit schwarzen Querbinden",
+    "weißer Überaugenstreif und heller Augenring",
+    "Flugruf ein klares, ansteigendes „plüit-witt-witt“"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Brütet in feuchten Wäldern, an Moorrändern und in Sümpfen mit Bäumen. Auf dem Zug rastet er an Gräben, Tümpeln und Ufern.",
+   "zeit": "Von März bis September zu beobachten.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Rastende Vögel an Gräben und Tümpeln nicht aufscheuchen; Uferbereiche als Rastplätze erhalten.",
+   "schutz": "Europäische Vogelart, besonders und nach Anlage 1 BArtSchV streng geschützt. Laut NABU-Vogelporträt nicht gefährdet, 1.000 bis 1.300 Brutpaare, Brutvogel vor allem im Osten Deutschlands.",
+   "naturdeck_ids": [
+    "04039dee"
+   ],
+   "korrekturen": [
+    "04039dee: Rastplätze an Gräben und der weiße Bürzel sind belegt; „rufen scharf“ weicht leicht von der Beschreibung „klar, ansteigend“ ab."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Waldwasserläufer",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/waldwasserlaeufer/"
+    ],
+    [
+     "Anlage 1 BArtSchV",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "eisvogel",
+   "name": "Eisvogel",
+   "latein": "Alcedo atthis",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Kleiner, azurblauer Vogel mit rostroter Unterseite, der niedrig über dem Wasser jagt und hell „ziii“ ruft.",
+   "erkennen": [
+    "Oberseite und Oberkopf schillernd azur- bis kobaltblau",
+    "Unterseite rostbraun bis rostorange, weiße Flecke an Kehle und Halsseiten",
+    "langer, kräftiger, dunkler Schnabel",
+    "heller, durchdringender Ruf „ziii“"
+   ],
+   "verwechslung": "Laut NABU praktisch unverwechselbar.",
+   "lebensraum": "Langsam fließende, fischreiche Flüsse und Bäche mit Steilhängen zum Graben der Brutröhre; auch an Parkteichen.",
+   "zeit": "In Deutschland ganzjährig zu beobachten, überwiegend Standvogel, teils Kurzstreckenzieher.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Brutröhren in Steilufern und Uferabbrüchen nicht betreten, nicht stören und nicht fotografieren. Natürliche Gewässerabschnitte erhalten.",
+   "schutz": "Europäische Vogelart, besonders und nach Anlage 1 BArtSchV streng geschützt. Laut NABU-Vogelporträt nicht gefährdet, 9.500 bis 15.500 Brutpaare; Gefahren sind Gewässerverbauung und Verschmutzung.",
+   "naturdeck_ids": [
+    "52bc220f"
+   ],
+   "korrekturen": [
+    "52bc220f: Der Ruf ist belegt. Das NABU-Porträt nennt Flüsse, Bäche und Parkteiche, Gräben werden nicht ausdrücklich genannt."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Eisvogel",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/eisvogel/"
+    ],
+    [
+     "Anlage 1 BArtSchV",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "kuckuck",
+   "name": "Kuckuck",
+   "latein": "Cuculus canorus",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Schlanker, grauer Vogel mit quergebänderter Unterseite, der seinen Namen ruft und seine Eier fremden Vögeln unterlegt.",
+   "erkennen": [
+    "32 bis 36 cm groß, grauer Kopf, dünner gerader Schnabel",
+    "Rücken, Flügel und Brust grau, weiße Unterseite mit schwarzer Querbänderung",
+    "gelbe Augen und gelbe Beine",
+    "Männchen rufen ihren Namen „Ku-Kuck“, bei nahem Weibchen schneller"
+   ],
+   "verwechslung": "Im Vorbeiflug mit dem Sperber, vom Kuckuck unterscheiden ihn der graue Kopf und der dünnere Schnabel.",
+   "lebensraum": "Wälder und halboffene Landschaften mit Gebüsch, gern in Gewässernähe. Er meidet ausgeräumte Agrarlandschaften und Siedlungen.",
+   "zeit": "Von April bis September bei uns; Ankunft ab Ende März bis Ende April, Langstreckenzieher mit Winterquartier im tropischen Afrika.",
+   "spuren": "Der Ruf der Männchen im Frühjahr.",
+   "regional": null,
+   "umgang": "Der Kuckuck legt bis zu 25 Eier einzeln in fremde Nester und wirft vorher ein Wirtsei hinaus. Das ist natürliches Verhalten, der Jungvogel wird nicht entfernt oder umgesetzt. Hilfreich sind strukturreiche Hecken und Waldränder für die Wirtsvögel.",
+   "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG). Laut NABU-Vogelporträt gefährdet (Rote Liste, Stand 2021), 39.000 bis 65.000 Reviere; Rückgang der Wirtsvögel ist die Hauptgefahr.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "275fd1fb: Ruf im Frühjahr ist belegt, die Aussage zum Verstummen ab Juli nicht, daher nicht übernommen.",
+    "45202978: Abstimmung von Ei und Wirtsart nicht in den gelesenen Quellen belegt.",
+    "663647b9: Wirtsarten Rohrsänger sind belegt, „Pieper“ und der Juni-Bezug nicht."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Kuckuck",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kuckuck/"
+    ],
+    [
+     "LBV-Artenporträt Kuckuck",
+     "https://www.lbv.de/ratgeber/naturwissen/artenportraits/detail/kuckuck/"
+    ]
+   ]
+  },
+  {
+   "slug": "hohltaube",
+   "name": "Hohltaube",
+   "latein": "Columba oenas",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Blaugraue Taube mit grünlich schillerndem Halsfleck, die als einzige Taubenart in Baumhöhlen brütet.",
+   "erkennen": [
+    "blaugraues Gefieder, rosa schimmernde Brust",
+    "grünlich schillernder Fleck am Hals, dunkle Knopfaugen, heller Schnabel",
+    "ähnlich der Stadttaube, aber ohne weiße Gefiederpartien",
+    "leiser Gesang wie „oo-uo“ oder „huu“"
+   ],
+   "verwechslung": "Der Stadttaube ähnlich; ihr fehlen die weißen Gefiederpartien.",
+   "lebensraum": "Lichte Wälder und Gehölze mit alten Bäumen, in Städten große Parks und Gärten. Sie nutzt verlassene Baumhöhlen und alte Spechthöhlen, auch Nistkästen.",
+   "zeit": "Von März bis Oktober bei uns, Zugvogel mit Winterquartier in Süd- und Westeuropa.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Alte Höhlenbäume und Spechthöhlen im Wald erhalten, besonders Altbuchen mit Höhlen nicht fällen.",
+   "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG). Laut NABU-Vogelporträt nicht gefährdet, 87.000 bis 145.000 Brutpaare, Bestand stark zunehmend.",
+   "naturdeck_ids": [
+    "2fff18d0"
+   ],
+   "korrekturen": [
+    "5728651d, c626a174: Spechthöhlen sind belegt, ausdrücklich Schwarzspechthöhlen nennt das NABU-Porträt nicht; „kurzer Hals“ und Vergleich mit der Ringeltaube sind nicht belegt.",
+    "c0b62857, d6d8a12b: Der Rufklang „dumpf“, der „runde Flügelschlag“ und das fehlende Halsfeld im Vergleich zur Ringeltaube sind in der gelesenen Quelle nicht belegt; das NABU-Porträt nennt einen leisen, monotonen Gesang."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Hohltaube",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/hohltaube/"
+    ]
+   ]
+  },
+  {
+   "slug": "schwarzspecht",
+   "name": "Schwarzspecht",
+   "latein": "Dryocopus martius",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Größter Specht Europas, ganz schwarz mit hellem Meißelschnabel und rotem Scheitel.",
+   "erkennen": [
+    "40 bis 46 cm groß, komplett schwarzes Gefieder",
+    "heller, meißelförmiger Schnabel",
+    "Männchen mit ganz rotem Scheitel, Weibchen nur am Hinterkopf rot",
+    "klagender Gesang „kvoih-kvih-kvih“, im Flug „krrück“; kräftiges, weithin hörbares Trommeln"
+   ],
+   "verwechslung": "Laut NABU durch Größe und Färbung unverwechselbar.",
+   "lebensraum": "Alte Buchen- oder Mischwälder, auch Nadelwälder mit älteren Bäumen. Wichtig sind die Größe des Waldes und Bäume über 80 Jahre.",
+   "zeit": "Ganzjährig zu beobachten, Standvogel; Eiablage im April und Mai.",
+   "spuren": "Höhle mit ovalem Eingang, die mit Holzspänen ausgepolstert wird; viele Tiere nutzen die Höhlen später als Nachmieter.",
+   "regional": null,
+   "umgang": "Alte Höhlenbäume stehen lassen, denn viele andere Arten sind auf die Höhlen angewiesen.",
+   "schutz": "Europäische Vogelart, besonders und nach Anlage 1 BArtSchV streng geschützt. Laut NABU-Vogelporträt nicht gefährdet, rund 50.000 Brutpaare, Bestand stabil.",
+   "naturdeck_ids": [
+    "932a81eb",
+    "c4205a3c"
+   ],
+   "korrekturen": [
+    "932a81eb, c4205a3c: Ovale Höhlen in Buchen sind belegt; die Späne am Stammfuß sind in den gelesenen Quellen nicht ausdrücklich belegt."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Schwarzspecht",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/schwarzspecht/"
+    ],
+    [
+     "Anlage 1 BArtSchV",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "gruenspecht",
+   "name": "Grünspecht",
+   "latein": "Picus viridis",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Grüner Specht mit gelbgrünem Bürzel, der am Boden Ameisen sucht und wie lachend ruft.",
+   "erkennen": [
+    "grüner Rücken, gelbgrüner Bürzel",
+    "Männchen mit rotem, Weibchen mit schwarzem Bartstreif",
+    "Gesang wie ein menschliches Lachen, „klü-klü-klü-klü“"
+   ],
+   "verwechslung": "Dem selteneren Grauspecht sehr ähnlich. Der Grauspecht hat einen grauen Kopf und einen schmalen schwarzen Bartstreif.",
+   "lebensraum": "Offene Laub- und Mischwälder, Obstwiesen und Parks, auch Friedhöfe und Alleen. Er ist ein ausgesprochener Ameisenspezialist und sucht am Boden nach Ameisen.",
+   "zeit": "In Deutschland nahezu flächendeckend verbreitet und ganzjährig zu beobachten.",
+   "spuren": "Der lachende Ruf; Ameisenlöcher im Rasen oder in Wiesen.",
+   "regional": null,
+   "umgang": "Streuobstwiesen, alte Obstbäume und Ameisenrasen erhalten; auf den Einsatz von Insektengiften im Garten verzichten.",
+   "schutz": "Europäische Vogelart, besonders und nach Anlage 1 BArtSchV streng geschützt. Laut NABU-Vogelporträt nicht gefährdet, 69.000 bis 125.000 Brutpaare, Bestand zunehmend.",
+   "naturdeck_ids": [
+    "1af8a346",
+    "2dad3f02",
+    "61466d8b"
+   ],
+   "korrekturen": [
+    "1af8a346, 2dad3f02, 61466d8b: „Wellenflug“, „flache Wühlstellen“ und „Ameisenlöcher“ sind in den gelesenen Quellen nicht im Wortlaut belegt; Ameisensuche am Boden und Lachen sind belegt."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Grünspecht",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/gruenspecht/"
+    ],
+    [
+     "Anlage 1 BArtSchV",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "grauspecht",
+   "name": "Grauspecht",
+   "latein": "Picus canus",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Grüner Specht mit grauem Kopf und schmalem schwarzem Bartstreif, der wehmütig ruft.",
+   "erkennen": [
+    "27 bis 34 cm groß, grünes Gefieder, grauer Kopf",
+    "schmaler schwarzer Bartstreif; Männchen mit rotem Stirnfleck, Weibchen ohne",
+    "Gesang ein eher wehmütiges „kikiki küh-küh-küh-küh“, zum Ende langsamer",
+    "lauter, schneller Trommelwirbel von ein bis zwei Sekunden"
+   ],
+   "verwechslung": "Dem Grünspecht zum Verwechseln ähnlich, auch in der Stimme. Unterscheidungsmerkmale sind der graue Kopf, die mattere Unterseite und das hellere Gesicht.",
+   "lebensraum": "Lichte Laub- und Mischwälder, große Parks und Streuobstwiesen, gern auch feuchte Bruch- und Auwälder.",
+   "zeit": "Ganzjährig zu beobachten, Standvogel; am besten Ende März und im April, wenn die Männchen singen.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Alte Laubbäume, Streuobstwiesen und feuchte Wälder erhalten; Brutbäume nicht stören.",
+   "schutz": "Europäische Vogelart, besonders und nach Anlage 1 BArtSchV streng geschützt. Laut NABU-Vogelporträt stark gefährdet (Rote Liste Deutschland, 2016), 16.500 bis 25.000 Brutpaare.",
+   "naturdeck_ids": [
+    "db0c571f"
+   ],
+   "korrekturen": [
+    "db0c571f: Der Gesang wird als wehmütig beschrieben, „weich fallend“ ist nicht wörtlich belegt."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Grauspecht",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/grauspecht/"
+    ],
+    [
+     "Anlage 1 BArtSchV",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "kleinspecht",
+   "name": "Kleinspecht",
+   "latein": "Dendrocopos minor",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Spatzengroßer Specht mit gestricheltem Bauch und schwarz-weiß gebändertem Rücken.",
+   "erkennen": [
+    "nur 14 bis 16,5 cm groß, spatzengroß",
+    "gestrichelter Bauch, schwarz-weiß gebänderter Rücken",
+    "Männchen mit rotem Scheitel, Weibchen mit schwarzem Kopf",
+    "kurzer, scharfer „kjik“-Ruf, etwas weicher als beim Buntspecht; schwaches, schnelles, knatterndes Trommeln"
+   ],
+   "verwechslung": "Bunt- und Mittelspecht haben rote Färbung an der Körperunterseite, der Kleinspecht nicht.",
+   "lebensraum": "Laub- und Mischwälder in Wassernähe, besonders Auen, Erlenbrüche und Moorwälder, gelegentlich Parks und Streuobstwiesen.",
+   "zeit": "Standvogel, auch im Winter zu beobachten.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Totholz und alte Erlen in Feuchtwäldern stehen lassen. Als Grund für den Rückgang nennt der NABU schwindende lichte Bruchwälder.",
+   "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG); in Anlage 1 BArtSchV nicht als streng geschützt aufgeführt. Laut NABU-Vogelporträt gefährdet (Rote Liste Deutschland 2020).",
+   "naturdeck_ids": [
+    "135a38cc",
+    "4ef646cc"
+   ],
+   "korrekturen": [
+    "135a38cc: Leiseres Trommeln ist belegt, „feine Hackspuren an dünnem Totholz“ nicht.",
+    "6cd2f329: „kürzer und heller“ ist nicht belegt; das NABU-Porträt nennt schwaches, schnelles Trommeln mit bis zu 15 Wirbeln."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Kleinspecht",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kleinspecht/"
+    ],
+    [
+     "Anlage 1 BArtSchV",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "mittelspecht",
+   "name": "Mittelspecht",
+   "latein": "Dendrocoptes medius",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Mittelgroßer Specht mit leuchtend roter Kopfplatte und gestrichelten Flanken, an alten Eichen zu Hause.",
+   "erkennen": [
+    "19,5 bis 22 cm groß, leuchtend rote Kopfplatte",
+    "gestrichelte Flanken, hellrote Unterschwanzdecken",
+    "Ruf eine Serie schneller „kücks“",
+    "trommelt im Vergleich zum Buntspecht kaum"
+   ],
+   "verwechslung": "Bunt- und Kleinspecht sind ähnlich; für eine sichere Bestimmung empfiehlt der NABU ein Fernglas.",
+   "lebensraum": "Alte, lichte Laubwälder mit alten Eichen und Buchen. Monokulturen meidet er, weil dort nicht genügend Insekten leben.",
+   "zeit": "Standvogel, ganzjährig zu beobachten; Brut ab Mitte April.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Alte Eichen und Biotopbäume im Wald erhalten.",
+   "schutz": "Europäische Vogelart, besonders und nach Anlage 1 BArtSchV streng geschützt. Laut NABU-Vogelporträt nicht gefährdet, Bestand seit etwa 30 Jahren steigend.",
+   "naturdeck_ids": [
+    "96d78941"
+   ],
+   "korrekturen": [
+    "96d78941: Alte Eichen sind belegt, „weicher und näselnder“ als Buntspecht ist nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Mittelspecht",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/mittelspecht/"
+    ],
+    [
+     "Anlage 1 BArtSchV",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "wendehals",
+   "name": "Wendehals",
+   "latein": "Jynx torquilla",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Unscheinbarer, rindenfarben getarnter Specht, der bei Gefahr den Kopf dreht und windet.",
+   "erkennen": [
+    "16 bis 18 cm groß, Oberseite grau mit braunen Flügeln",
+    "ockergelbe Kehle, hellbraune, gefleckte Unterseite",
+    "überall dunkle Flecken und Bänderung als Tarnung",
+    "Gesang ein lautes, abfallendes „gjä-gjä-gjä“, Warnruf ein harter „teck“"
+   ],
+   "verwechslung": "Er unterscheidet sich von den übrigen Spechten: Er trommelt nicht, baut keine Höhle und läuft nicht senkrecht am Stamm.",
+   "lebensraum": "Offene, strukturreiche Flächen wie Waldlichtungen, Windwurfflächen, Obstwiesen oder Parks. Er bewohnt Baumhöhlen oder Nistkästen und frisst vor allem Ameisenpuppen und -larven.",
+   "zeit": "Langstreckenzieher, von Mitte April bis September bei uns; Winterquartier in Afrika.",
+   "spuren": "Der Gesang ab dem Frühjahr; bei Gefahr plustert er sich auf und dreht den Kopf hin und her.",
+   "regional": "Laut NABU hat man die besten Chancen, den Wendehals in Brandenburg, Mecklenburg-Vorpommern oder im Norden Baden-Württembergs zu beobachten.",
+   "umgang": "Ameisenreiche, offene Flächen und alte Obstbäume mit Höhlen erhalten; Nistkästen werden laut NABU angenommen.",
+   "schutz": "Europäische Vogelart, besonders und nach Anlage 1 BArtSchV streng geschützt. Laut NABU-Vogelporträt gefährdet, 10.500 bis 19.500 Brutpaare, Trend abnehmend.",
+   "naturdeck_ids": [
+    "3f2b5b36"
+   ],
+   "korrekturen": [
+    "ecdf4c3b: „weicher Spechtkörper“ ist nicht belegt; belegt ist, dass der Wendehals keine Höhle baut, aber vorhandene nutzt.",
+    "3f2b5b36: „nasal“ ist nicht wörtlich belegt, Ameisensuche und fehlendes Hämmern sind belegt."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Wendehals",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/wendehals/"
+    ],
+    [
+     "Anlage 1 BArtSchV",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ]
+   ]
+  },
+  {
+   "slug": "kolkrabe",
+   "name": "Kolkrabe",
+   "latein": "Corvus corax",
+   "gruppe": "Wasser-, Wiesen- und Großvögel",
+   "kurz": "Größter Rabenvogel Europas, ganz schwarz mit tiefen Rufen und keilförmigem Schwanz im Flug.",
+   "erkennen": [
+    "54 bis 67 cm groß, Spannweite 115 bis 130 cm, bussardgroß",
+    "komplett schwarz mit metallischem Glanz, schwarzer Schnabel und Beine",
+    "im Flug keilförmiger (rautenförmiger) Schwanz",
+    "tiefe, gurgelnde Rufe, auffallend tiefer als bei Rabenkrähen"
+   ],
+   "verwechslung": "Rabenkrähen sind kleiner und rufen höher („kark“, „kok“); im Flug unterscheidet der keilförmige Schwanz den Kolkraben.",
+   "lebensraum": "Große Wälder, bevorzugt am Waldrand, halboffene Landschaften, Steilküsten und Gebirge, zunehmend auch in Stadtnähe.",
+   "zeit": "Ganzjährig in Deutschland zu beobachten.",
+   "spuren": "Die tiefen, gurgelnden Rufe; der Kolkrabe hat sehr viele verschiedene Lautäußerungen.",
+   "regional": null,
+   "umgang": "Der Kolkrabe ist ganzjährig geschont. Geschichten vom „Kälber- und Lämmerkiller“ sind laut LBV unzutreffend, Raben können kein Kalb töten. Horste nicht stören.",
+   "schutz": "Europäische Vogelart, besonders geschützt (§ 7 BNatSchG). Laut NABU nicht gefährdet, 21.000 bis 30.000 Brutpaare, bedroht durch illegale Jagd und Vergiftung.",
+   "naturdeck_ids": [
+    "20634cfb",
+    "41c03b86",
+    "61feff83"
+   ],
+   "korrekturen": [
+    "20634cfb: „Krähen kürzer und gerader“ ist nicht belegt; belegt sind tiefe Rufe und keilförmiger Schwanz.",
+    "e3a71d2e: „paarweise“ und das „raue Korr“ nicht belegt, daher nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "NABU-Vogelporträt Kolkrabe",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kolkrabe/"
+    ],
+    [
+     "LBV-Artenporträt Kolkrabe",
+     "https://www.lbv.de/ratgeber/naturwissen/artenportraits/detail/kolkrabe/"
+    ]
+   ]
+  }
+ ],
+ "nicht_aufgenommen": [
+  [
+   "Pirol",
+   "Sperlingsvogel (Singvogel), gehört nicht in dieses Paket."
+  ],
+  [
+   "Gemeine Wasserläufer, Teichläufer",
+   "Wanzen (Insekten), keine Vögel; Fakten gehören zu den Insektenpaketen."
+  ],
+  [
+   "Abendsegler",
+   "Fledermäuse, keine Mauersegler; anderes Paket."
+  ],
+  [
+   "Wanderfalke, Seeadler, Rot- und Schwarzmilan, Wespen-, Raufuß- und Mäusebussard, Rohr- und Wiesenweihe, Turmfalke, Sperber, Habicht, Uhu, Raufußkauz, Sperlingskauz",
+   "Greifvögel und Eulen, ausdrücklich nicht in diesem Paket."
+  ],
+  [
+   "Trauerschnäpper, Kleiber, Baumläufer, Zaunkönig, Schwanzmeise, Tannenmeise, Baumpieper, Goldammer, Rauchschwalbe, Gartenrotschwanz, Zilpzalp",
+   "Sperlingsvögel (Singvögel), nicht in diesem Paket."
+  ]
+ ]
+}

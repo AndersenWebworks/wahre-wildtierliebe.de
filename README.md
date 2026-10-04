@@ -6,7 +6,7 @@ Die öffentliche Struktur beginnt bei der wirklichen Situation: Tier gefunden, L
 
 ## Umfang
 
-- 46 statische Routen mit Startseite, fünf Aufgabenbereichen und vertiefenden Situations-, Lebensraum-, Gefahren-, Bestimmungs- und Beobachtungsseiten
+- 347 statische Routen mit Startseite, fünf Aufgabenbereichen, vertiefenden Situations-, Lebensraum-, Gefahren-, Bestimmungs- und Beobachtungsseiten sowie einer Artenebene mit 290 Steckbriefen in zehn Gruppen
 - neun Werkzeuge für Fundtiere, Jungvögel, Flächen, Außenlicht, Zäune, Saison, Bestimmung und regionale Hilfestellen
 - strukturierte lokale Suche über konkrete Situationen statt freier Schlagwortlogik
 - regionale Ebene für Plau am See und Mecklenburg-Vorpommern
@@ -15,6 +15,7 @@ Die öffentliche Struktur beginnt bei der wirklichen Situation: Tier gefunden, L
 ## Struktur
 
 - `src/site-source.js` enthält Seiten, Werkzeuge, Verknüpfungen, Quellen und Bildnachweise.
+- `src/arten.js` erzeugt aus den Dateien in `src/arten-daten/` die Artenübersicht, die Gruppenseiten und die Steckbriefe unter `/arten/`. Jeder Steckbrief nennt Quellen; Naturdeck-Fakten sind nur übernommen, wenn eine Fachquelle sie trägt.
 - `tools/build-static-pages.mjs` erzeugt die öffentlichen HTML-Seiten und maschinenlesbaren Dateien.
 - `tools/extract-public-copy.mjs` liest die gebauten HTML-Seiten mit einem HTML-Parser und erzeugt die vollständige öffentliche Copy-Fläche.
 - `.clautz/public-copy-surface.json` bindet die unabhängige Copy-Prüfung an den gebauten Stand.

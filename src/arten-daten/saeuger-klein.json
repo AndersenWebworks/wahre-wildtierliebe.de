@@ -1,0 +1,594 @@
+{
+ "paket": "saeuger-klein",
+ "arten": [
+  {
+   "slug": "waldspitzmaus",
+   "name": "Waldspitzmaus",
+   "latein": "Sorex araneus",
+   "gruppe": "Säugetiere",
+   "kurz": "Kleine Spitzmaus mit zweifarbigem Fell: dunkler Rücken, hellere Flanken, graue Unterseite.",
+   "erkennen": [
+    "Kopf-Rumpf-Länge etwa 6,5 bis 8,5 cm, Schwanz etwa 3,5 bis 4,7 cm",
+    "Gewicht etwa 6,5 bis 14 g",
+    "Oberseite schwarzbraun, Flanken hellbraun, Unterseite grau",
+    "Deutlich zweifarbig, aber kleiner als die Wasserspitzmaus"
+   ],
+   "verwechslung": "Mit der Zwergspitzmaus: Diese ist deutlich kleiner, ihr Schwanz wirkt dicker und länger. Von der Schabrackenspitzmaus ist die Waldspitzmaus äußerlich kaum zu trennen, sicher gelingt das nur genetisch.",
+   "lebensraum": "Am häufigsten in feuchten Wäldern und auf Feuchtwiesen, besiedelt aber fast alle Landlebensräume.",
+   "zeit": "Sie ist tag- und nachtaktiv.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Spitzmäuse sind keine Nager und stehen unter Schutz. Man lässt sie in Ruhe; Laub- und Reisighaufen im Garten bieten ihnen Deckung. Eine tot aufgefundene Spitzmaus ist nichts Ungewöhnliches.",
+   "schutz": "Besonders geschützt (Spitzmäuse nach Bundesartenschutzverordnung). Rote Liste Deutschland (Meinig et al. 2020): ungefährdet.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "00f1e986: Fünfzehen-Trittsiegel, die „enger“ laufen als bei jungen Mäusen, sind nicht belegt.",
+    "2317150e: Feinere Suchspuren als bei Mäusen sind nicht belegt.",
+    "1c7f2fd7: Scharf riechende, leicht krümelnde schwarze Losung und Gänge unter Laub sind nicht belegt.",
+    "9279266a: Die Jagd im feuchten Laub passt zum Lebensraum (feuchte Wälder), die Insektenkot-Krümel als Spur sind nicht belegt.",
+    "79237e97: Trittreihen im Ufersand mit Schwanzlinie, ohne Artbezug, sind nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Waldspitzmaus",
+     "https://de.wikipedia.org/wiki/Waldspitzmaus"
+    ],
+    [
+     "Rote-Liste-Zentrum: Säugetiere Deutschlands (Meinig et al. 2020)",
+     "https://www.rote-liste-zentrum.de/de/Saugetiere-Mammalia-1730.html"
+    ],
+    [
+     "Fachgruppe Säugetierkunde Weser-Ems: Säugetierliste",
+     "https://www.bsh-natur.de/uploads/S%C3%A4ugetierListeW+E.pdf"
+    ]
+   ]
+  },
+  {
+   "slug": "wasserspitzmaus",
+   "name": "Wasserspitzmaus",
+   "latein": "Neomys fodiens",
+   "gruppe": "Säugetiere",
+   "kurz": "Europas größte Spitzmaus: glänzend schwarze Oberseite, Schwimm- und Tauchjägerin an naturnahen Ufern.",
+   "erkennen": [
+    "Kopf-Rumpf-Länge etwa 7 bis 9,6 cm, Gewicht etwa 15 bis 20 g",
+    "Oberseite glänzend schwarz",
+    "Unterseite von silbrig weiß bis schwarzbraun, daher nicht immer weißbäuchig",
+    "Borstenkiel an der Schwanzunterseite und behaarte Hinterfüße als Anpassung ans Wasser"
+   ],
+   "verwechslung": "Wald- und Zwergspitzmaus haben braunes statt schwarzes Fell und sind kleiner.",
+   "lebensraum": "Naturnahe, vielgestaltige Ufer von Bächen, Gräben und Seen, außerdem nasse Wälder und Sümpfe. Sie erbeutet ihre Nahrung überwiegend tauchend.",
+   "zeit": "Sie ist das ganze Jahr aktiv, ohne Winterschlaf, und wechselt zwischen Jagd und Ruhe, tags wie nachts.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Ufer mit Steilkanten, Wurzeln und dichtem Bewuchs sind ihr Lebensraum und ihre Wurfhöhle. Bei Grabenpflege nur abschnittsweise und behutsam arbeiten, Erdbauten an Abbruchkanten nicht beschädigen.",
+   "schutz": "Besonders geschützt (BNatSchG). Rote Liste Deutschland (Meinig et al. 2020): Vorwarnliste.",
+   "naturdeck_ids": [
+    "56144b10"
+   ],
+   "korrekturen": [
+    "56144b10: Die Oberseite ist schwarz, die Unterseite aber nur oft silbrig weiß, sie kann bis schwarzbraun reichen. „Weißer Bauch“ ist daher zu pauschal.",
+    "3384db70: Das Tauchen ist belegt, die silbrigen Luftblasen im Fell sind in den geprüften Quellen nicht genannt.",
+    "04198605, 6495795f: Winzige Tritte, schwarzer Kot dicht über der Wasserlinie sowie Chitinreste in der Losung sind nicht belegt.",
+    "Die ältere Einstufung „gefährdet (3)“ (Wikipedia, niedersächsische Liste von 1991) ist überholt; die Rote Liste 2020 führt die Art auf der Vorwarnliste."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Wasserspitzmaus",
+     "https://de.wikipedia.org/wiki/Wasserspitzmaus"
+    ],
+    [
+     "NLWKN: Leitfaden Artenschutz, Steckbrief Wasserspitzmaus (Stand 2019)",
+     "https://www.nlwkn.niedersachsen.de/download/175269/Wasserspitzmaus_-_Neomys_fodiens.pdf"
+    ],
+    [
+     "Rote-Liste-Zentrum: Säugetiere Deutschlands (Meinig et al. 2020)",
+     "https://www.rote-liste-zentrum.de/de/Saugetiere-Mammalia-1730.html"
+    ]
+   ]
+  },
+  {
+   "slug": "zwergspitzmaus",
+   "name": "Zwergspitzmaus",
+   "latein": "Sorex minutus",
+   "gruppe": "Säugetiere",
+   "kurz": "Eines der kleinsten Landsäugetiere Europas, nur 3 bis 6 g leicht, mit braunem Fell und langem Schwanz.",
+   "erkennen": [
+    "Kopf-Rumpf-Länge etwa 4,2 bis 6,6 cm, Schwanz etwa 3,5 bis 4,6 cm",
+    "Gewicht etwa 2,6 bis 5,9 g",
+    "Oberseite braun, Unterseite grau",
+    "Schwanz dicker und länger als bei der Waldspitzmaus"
+   ],
+   "verwechslung": "Mit der Waldspitzmaus: Diese ist deutlich größer und schärfer zweifarbig. Wasserspitzmäuse sind schwarz statt braun.",
+   "lebensraum": "Feuchtwiesen, Moore und Mischwälder; in Nordeuropa werden auch trockene, sandige Standorte besiedelt.",
+   "zeit": null,
+   "spuren": null,
+   "regional": null,
+   "umgang": "Man lässt sie in Ruhe. Strukturreiche Wiesenränder, Hecken und Moosflächen ohne Mulchen und Gift erhalten ihren Lebensraum.",
+   "schutz": "Besonders geschützt (Spitzmäuse nach Bundesartenschutzverordnung). Rote Liste Deutschland (Meinig et al. 2020): ungefährdet.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "67f601fb: Winzige Köttel im Moos mit glänzenden Insektenresten sind nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Zwergspitzmaus",
+     "https://de.wikipedia.org/wiki/Zwergspitzmaus"
+    ],
+    [
+     "Rote-Liste-Zentrum: Säugetiere Deutschlands (Meinig et al. 2020)",
+     "https://www.rote-liste-zentrum.de/de/Saugetiere-Mammalia-1730.html"
+    ],
+    [
+     "Fachgruppe Säugetierkunde Weser-Ems: Säugetierliste",
+     "https://www.bsh-natur.de/uploads/S%C3%A4ugetierListeW+E.pdf"
+    ]
+   ]
+  },
+  {
+   "slug": "feldmaus",
+   "name": "Feldmaus",
+   "latein": "Microtus arvalis",
+   "gruppe": "Säugetiere",
+   "kurz": "Gelblich graue Wühlmaus der offenen Kulturlandschaft mit Laufgängen im kurzen Gras.",
+   "erkennen": [
+    "Kopf-Rumpf-Länge etwa 9 bis 12 cm, Schwanz nur etwa 2,5 bis 3,8 cm",
+    "Gewicht meist 18 bis 40 g",
+    "Fell oberseits gelblich grau",
+    "Stumpfe Schnauze und kurzer Schwanz, typisch für Wühlmäuse"
+   ],
+   "verwechslung": "Mit der Erdmaus, die etwas größer ist, dunkler und lockerer behaart.",
+   "lebensraum": "Äcker, kurzgrasige Wiesen und Weiden, außerdem Dünen und lichte Kiefernwälder.",
+   "zeit": "Sie ist tag- und nachtaktiv; Aktivitäts- und Ruhephasen von je drei bis vier Stunden wechseln sich ab.",
+   "spuren": "Verzweigte Erdbaue mit oberirdischen, teils viele Meter langen Laufgängen im Gras; die Kotplätze liegen in den Laufgängen. Unter Schnee werden die Gänge nach oben mit Erde ausgekleidet.",
+   "regional": null,
+   "umgang": "Die Art ist häufig und ungefährdet, in Gradationsjahren kann sie massenhaft auftreten. Greifvögel, Eulen, Füchse und Wiesel regulieren den Bestand; Ansitzstangen und Hecken fördern diese Jäger.",
+   "schutz": "Rote Liste Deutschland (Meinig et al. 2020): ungefährdet.",
+   "naturdeck_ids": [
+    "05d950ba",
+    "19eddd0c",
+    "803eedcb",
+    "d30df871"
+   ],
+   "korrekturen": [
+    "05d950ba, 19eddd0c, 803eedcb, d30df871: Bestätigt sind die Laufgänge unter Gras. Frische Fraßhäufchen aus grünen Halmen, „kurze Stummel“ und Nagespuren tief an den Halmbasen sind nicht eigens belegt.",
+    "e94e71a0: Grünliche Kotstücke an den Eingängen sind nicht belegt; belegt ist nur, dass die Kotplätze in den Laufgängen liegen."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Feldmaus",
+     "https://de.wikipedia.org/wiki/Feldmaus"
+    ],
+    [
+     "Rote-Liste-Zentrum: Säugetiere Deutschlands (Meinig et al. 2020)",
+     "https://www.rote-liste-zentrum.de/de/Saugetiere-Mammalia-1730.html"
+    ]
+   ]
+  },
+  {
+   "slug": "erdmaus",
+   "name": "Erdmaus",
+   "latein": "Microtus agrestis",
+   "gruppe": "Säugetiere",
+   "kurz": "Dunkelbraune, lockerer behaarte Wühlmaus feuchter Wiesen, Lichtungen und Moore.",
+   "erkennen": [
+    "Kopf-Rumpf-Länge etwa 9,5 bis 13 cm, Schwanz etwa 2,6 bis 4,7 cm",
+    "Gewicht etwa 20 bis 47 g",
+    "Größer als die Feldmaus, Fell dunkelbraun und lockerer",
+    "Gänge verlaufen versteckt unter Gras und Moos oder flach unter der Oberfläche"
+   ],
+   "verwechslung": "Mit der sehr ähnlichen Feldmaus; die Erdmaus ist größer und dunkler und liebt es feuchter und kühler.",
+   "lebensraum": "Relativ feuchte und kühle Lebensräume: lichte Wälder, Lichtungen, vergraste Schonungen, Feuchtwiesen, auch Hochmoore.",
+   "zeit": "Sie ist tag- und nachtaktiv.",
+   "spuren": "Röhren und Gänge im Grasfilz und unter Moos; Kotplätze liegen in den Laufgängen. Im Winter werden auch Rinde und Wurzeln gefressen.",
+   "regional": null,
+   "umgang": "Nicht stören; Feuchtwiesen mit Altgrasstreifen und Gräben erhalten ihren Lebensraum.",
+   "schutz": "Rote Liste Deutschland (Meinig et al. 2020): ungefährdet.",
+   "naturdeck_ids": [
+    "05506f9b",
+    "34dd40da",
+    "a8b7bb52",
+    "bfe95a27"
+   ],
+   "korrekturen": [
+    "a68d9b89: Dass Erdmauskot dunkler und weicher als Feldmauskot sei, ist nicht belegt.",
+    "05506f9b: Kotspindeln und frisch geschnittene Halme an den Eingängen sind nicht belegt; die Gänge unter Grasfilz sind bestätigt.",
+    "34dd40da, a8b7bb52: Bestätigt sind Gänge in feuchten Wiesen und Kot in den Gängen; die Beschreibung der Kotform („Pillen“, „grüne Krümel“) ist nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Erdmaus",
+     "https://de.wikipedia.org/wiki/Erdmaus"
+    ],
+    [
+     "Rote-Liste-Zentrum: Säugetiere Deutschlands (Meinig et al. 2020)",
+     "https://www.rote-liste-zentrum.de/de/Saugetiere-Mammalia-1730.html"
+    ]
+   ]
+  },
+  {
+   "slug": "roetelmaus",
+   "name": "Rötelmaus",
+   "latein": "Myodes glareolus",
+   "gruppe": "Säugetiere",
+   "kurz": "Wühlmaus mit rotbraunem bis fuchsrotem Rücken, weißlichem Bauch und Waldrand-Lebensraum.",
+   "erkennen": [
+    "Rücken rotbraun bis fuchsrot, Flanken bräunlich bis graubraun, Bauch weißlich",
+    "Schwanz etwa 3 bis 6,5 cm, am Ende mit längeren schwarzen Haaren",
+    "An Haselnüssen: rauer Lochrand mit Zahnspuren quer zur Öffnung, aber keine Zahnabdrücke auf der Nussoberfläche"
+   ],
+   "verwechslung": "Mit anderen Wühlmäusen der Wiese; der rotbraune Rücken ist das auffälligste Merkmal.",
+   "lebensraum": "Buchen- und Mischwälder, waldnahe Hecken, Gebüsche und Feuchtgebiete; auch in Gärten und an Holzbauten.",
+   "zeit": "Mit mehreren Aktivitätsphasen am Tag, Spitzen in der Dämmerung.",
+   "spuren": "Haselnüsse werden von außen vorgenagt, der Rand des Lochs ist rau; Eicheln, Bucheckern und Samen werden als Wintervorrat eingelagert. Im Winter kann sie Rinde von Jungbäumen abnagen.",
+   "regional": null,
+   "umgang": "Nicht stören. Wer Obstbäume und Jungpflanzen schützen will, kann Stämme mit Manschetten sichern, statt Mäuse zu verfolgen.",
+   "schutz": "Rote Liste Deutschland (Meinig et al. 2020): ungefährdet.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "0b5e20ff, 45de279d, 725e6a53: Dass Rötelmäuse Bucheckern fressen und als Vorrat sammeln, ist belegt. Die „saubere“ Kante, „glatte Öffnungen“ und „leere, saubere Hälften“ sind nicht belegt; an Haselnüssen ist der Lochrand rau.",
+    "3a519742: Seitlich aufgenagte Eicheln und engere Zahnspuren als beim Eichhörnchen sind nicht belegt.",
+    "adb891f4: Löcher im Laub und rundliche Kotpillen sind nicht belegt.",
+    "Die Spur an Haselnüssen („Nagespuren am Rand“, 15bede98, 4feb8c5a): Rötelmaus und Waldmaus hinterlassen beide einen rauen Rand mit Zahnspuren quer zur Öffnung. Unterschied ist, dass nur bei Wald- und Gelbhalsmaus Zahnabdrücke auf der Nussoberfläche zu sehen sind."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Rötelmaus",
+     "https://de.wikipedia.org/wiki/Rötelmaus"
+    ],
+    [
+     "Pro Natura: Wer hat die Nuss benagt? (2010)",
+     "https://www.pronatura.ch/sites/pronatura.ch/files/2017-11/wer_hat_die_nuss_benagt.pdf"
+    ],
+    [
+     "Rote-Liste-Zentrum: Säugetiere Deutschlands (Meinig et al. 2020)",
+     "https://www.rote-liste-zentrum.de/de/Saugetiere-Mammalia-1730.html"
+    ]
+   ]
+  },
+  {
+   "slug": "waldmaus",
+   "name": "Waldmaus",
+   "latein": "Apodemus sylvaticus",
+   "gruppe": "Säugetiere",
+   "kurz": "Große Augen und Ohren, langer Schwanz, Fell oben gelb- bis braungrau, Brust ohne durchgehendes Band.",
+   "erkennen": [
+    "Kopf-Rumpf-Länge etwa 8 bis 11 cm, Schwanz etwa 7 bis 11,5 cm",
+    "Gewicht etwa 13 bis 36 g",
+    "Fell oberseits gelb- bis braungrau, unterseits schmutzig weiß",
+    "Brustzeichnung fehlt oder ist nur ein gelblichbrauner, längsovaler Fleck"
+   ],
+   "verwechslung": "Mit der Gelbhalsmaus, die ein durchgehendes gelblichbraunes Halsband trägt; mit der Hausmaus, die an der Rückseite der oberen Schneidezähne eine Kerbe hat und bei der der Bauch weniger scharf abgesetzt ist.",
+   "lebensraum": "Trotz des Namens vor allem Saumbiotope wie Hecken, Brachen und Gewässerufer; im Westen und Süden auch in geschlossenen Wäldern.",
+   "zeit": "Sie ist überwiegend nachtaktiv und klettert gut.",
+   "spuren": "Haselnüsse: rauer Lochrand mit Zahnspuren senkrecht zur Öffnung und deutlichen Zahnabdrücken auf der Nussoberfläche, weil die Maus die oberen Schneidezähne in der Schale einhakt. Das Eichhörnchen sprengt die Nuss dagegen in zwei Hälften.",
+   "regional": null,
+   "umgang": "Waldmäuse nutzen Fassadenbewuchs, um unter Dachdeckungen zu gelangen. Bewuchs an Dachkanten kurz zu halten und Öffnungen zu schließen, sobald das Quartier leer ist, hält sie draußen.",
+   "schutz": "Rote Liste Deutschland (Meinig et al. 2020): ungefährdet.",
+   "naturdeck_ids": [
+    "0fbbd4e6"
+   ],
+   "korrekturen": [
+    "15bede98, 4feb8c5a, 93aad496: Falsch ist, Gelbhalsmäuse hinterließen glattere oder sauberere Nageränder als Waldmäuse. Beide Arten nagen gleich: rauer Rand, Zahnspuren senkrecht zum Loch. Auch „schräge“ Nagespuren (15bede98) passen zur Haselmaus, nicht zur Waldmaus.",
+    "0fbbd4e6: Bestätigt ist der Unterschied zum Eichhörnchen; „feine Rillen“ ist ungenau, der Lochrand ist rau mit deutlichen Zahnspuren.",
+    "2080bab9: Der Vergleich mit der „gemeißelten Meisenkante“ wurde nicht geprüft."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Waldmaus",
+     "https://de.wikipedia.org/wiki/Waldmaus"
+    ],
+    [
+     "Wikipedia (de): Hausmaus",
+     "https://de.wikipedia.org/wiki/Hausmaus"
+    ],
+    [
+     "Pro Natura: Wer hat die Nuss benagt? (2010)",
+     "https://www.pronatura.ch/sites/pronatura.ch/files/2017-11/wer_hat_die_nuss_benagt.pdf"
+    ],
+    [
+     "Rote-Liste-Zentrum: Säugetiere Deutschlands (Meinig et al. 2020)",
+     "https://www.rote-liste-zentrum.de/de/Saugetiere-Mammalia-1730.html"
+    ]
+   ]
+  },
+  {
+   "slug": "gelbhalsmaus",
+   "name": "Gelbhalsmaus",
+   "latein": "Apodemus flavicollis",
+   "gruppe": "Säugetiere",
+   "kurz": "Waldmausverwandte mit durchgehendem gelblichbraunem Halsband, gute Kletterin und Springerin.",
+   "erkennen": [
+    "Durchgehendes gelblichbraunes Halsband auf der Brust",
+    "Große Ohren und Augen, mittelgroße Waldmaus-Art",
+    "Klettert sehr gut, teils bis in die Baumkronen, und ist springfreudig",
+    "Nachtaktiv"
+   ],
+   "verwechslung": "Mit der Waldmaus, bei der das Brustband fehlt oder nur ein längsovaler Fleck ist.",
+   "lebensraum": "Ältere, von Buchen und Eichen geprägte Laubwälder sowie baumreiche Hecken und Gärten.",
+   "zeit": "Sie ist nachtaktiv; im Herbst dringen manche Tiere in Gebäude ein.",
+   "spuren": "Haselnüsse: rauer Lochrand mit Zahnspuren quer zur Öffnung und Zahnabdrücken auf der Schale, genau wie bei der Waldmaus. Sie legt Nahrungsdepots für den Winter an und nistet meist in Erdbauen zwischen Baumwurzeln, seltener in Nistkästen.",
+   "regional": null,
+   "umgang": "Nicht stören. Alte Laubwälder, baumreiche Hecken und Gärten mit Altbäumen sind ihr Lebensraum.",
+   "schutz": "Rote Liste Deutschland (Meinig et al. 2020): ungefährdet.",
+   "naturdeck_ids": [
+    "1326ef4a"
+   ],
+   "korrekturen": [
+    "1326ef4a: Bestätigt sind Halsband und Sprungfreude. „Ockerhell“ ist nur eine Farbnuance; „weit“ springen ist nicht gemessen belegt.",
+    "a1cd0ecf, b2c49f59: Große Hinterfüße und kräftige Fluchtspur im Laub sind nicht belegt.",
+    "4feb8c5a, 93aad496: Die Behauptung, Gelbhalsmäuse nagten glatter oder sauberer als Waldmäuse, ist falsch; beide hinterlassen den gleichen rauen Lochrand."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Gelbhalsmaus",
+     "https://de.wikipedia.org/wiki/Gelbhalsmaus"
+    ],
+    [
+     "Pro Natura: Wer hat die Nuss benagt? (2010)",
+     "https://www.pronatura.ch/sites/pronatura.ch/files/2017-11/wer_hat_die_nuss_benagt.pdf"
+    ],
+    [
+     "Rote-Liste-Zentrum: Säugetiere Deutschlands (Meinig et al. 2020)",
+     "https://www.rote-liste-zentrum.de/de/Saugetiere-Mammalia-1730.html"
+    ]
+   ]
+  },
+  {
+   "slug": "brandmaus",
+   "name": "Brandmaus",
+   "latein": "Apodemus agrarius",
+   "gruppe": "Säugetiere",
+   "kurz": "Kleine rotbraune Maus mit schmalem schwarzem Strich vom Nacken bis zur Schwanzwurzel.",
+   "erkennen": [
+    "Schmaler schwarzer Streifen zwischen den Ohren bis zur Schwanzwurzel",
+    "Oberseite rotbraun, Unterseite grauweiß",
+    "Kopf-Rumpf-Länge etwa 7,5 bis 11,5 cm, Schwanz relativ kurz",
+    "Überwiegend tag- und dämmerungsaktiv"
+   ],
+   "verwechslung": "Mit anderen Waldmäusen und der Hausmaus: Nur die Brandmaus trägt den dunklen Rückenstrich.",
+   "lebensraum": "Deckungsreiche, meist feuchte Lebensräume wie Waldränder, Gebüsch, feuchte Wiesen und Röhricht, auch Gärten und Parks. Im Sommer nutzt sie Getreidefelder, im Winter Scheunen.",
+   "zeit": "Überwiegend tag- und dämmerungsaktiv.",
+   "spuren": null,
+   "regional": "Die Verbreitungsgrenze der Art verläuft von der Unterweser bis zum Erzgebirge; Mecklenburg-Vorpommern liegt östlich davon im Verbreitungsgebiet.",
+   "umgang": "Nicht stören; Feldränder und Hecken mit Altgras geben ihr Deckung. Im Winter sucht sie manchmal Scheunen auf, ohne dass Handlungsbedarf besteht.",
+   "schutz": "Rote Liste Deutschland (Meinig et al. 2020): Daten unzureichend.",
+   "naturdeck_ids": [
+    "2a9d500b",
+    "9c054669",
+    "9da1172f",
+    "cea85084"
+   ],
+   "korrekturen": [
+    "eded6006: Feine Tritte im Feldrandsand und der Rückenstrich „oft erst im Sprung“ sind nicht belegt.",
+    "Wikipedia nennt die Art als nicht gefährdet; die Rote Liste 2020 führt sie dagegen als „Daten unzureichend“ (D)."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Brandmaus",
+     "https://de.wikipedia.org/wiki/Brandmaus"
+    ],
+    [
+     "Rote-Liste-Zentrum: Säugetiere Deutschlands (Meinig et al. 2020)",
+     "https://www.rote-liste-zentrum.de/de/Saugetiere-Mammalia-1730.html"
+    ]
+   ]
+  },
+  {
+   "slug": "hausmaus",
+   "name": "Hausmaus",
+   "latein": "Mus musculus",
+   "gruppe": "Säugetiere",
+   "kurz": "Mausgraue Kulturfolgerin mit geschupptem Schwanz und gekerbten oberen Schneidezähnen.",
+   "erkennen": [
+    "Kopf-Rumpf-Länge etwa 7 bis 11 cm, Schwanz etwa 7 bis 10 cm, Gewicht etwa 20 bis 25 g",
+    "Oberseite mausgrau bis braungrau, Unterseite etwas heller",
+    "Schwanz mit deutlichen Schuppen",
+    "Obere Schneidezähne an der Rückseite eingekerbt"
+   ],
+   "verwechslung": "Mit der Waldmaus, die ebenfalls in Gebäuden vorkommt. Bei der Waldmaus ist der helle Bauch deutlicher vom Rücken abgesetzt, und sie hat keine Kerbe an den oberen Schneidezähnen.",
+   "lebensraum": "Als Kulturfolgerin in der Nähe des Menschen; im Freiland Kulturland und Steppen.",
+   "zeit": "In Menschennähe meist nachtaktiv.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Im Haus hilft es, Vorräte verschlossen zu lagern und Zugänge zu dichten. Bei Befall wenden sich Betroffene an das Gesundheitsamt oder an einen Fachbetrieb.",
+   "schutz": "Rote Liste Deutschland (Meinig et al. 2020): ungefährdet.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "d2e42f8a: Seitlich sauber angenagte Körner mit zwei feinen Zahnrillen, „enger als bei Rattenfraß“, sind nicht belegt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Hausmaus",
+     "https://de.wikipedia.org/wiki/Hausmaus"
+    ],
+    [
+     "Rote-Liste-Zentrum: Säugetiere Deutschlands (Meinig et al. 2020)",
+     "https://www.rote-liste-zentrum.de/de/Saugetiere-Mammalia-1730.html"
+    ]
+   ]
+  },
+  {
+   "slug": "zwergmaus",
+   "name": "Zwergmaus",
+   "latein": "Micromys minutus",
+   "gruppe": "Säugetiere",
+   "kurz": "Kleinstes Nagetier Deutschlands, das in hohem Gras und Schilf kugelige Nester zwischen lebenden Halmen flicht.",
+   "erkennen": [
+    "Kopf-Rumpf-Länge etwa 5,5 bis 7,5 cm, Gewicht nur wenige Gramm",
+    "Oberseite braun bis rotbraun, Unterseite weiß",
+    "Schwanz fast so lang wie der Körper, dient als Greifschwanz beim Klettern",
+    "Kugelnest von wenigen Zentimetern Durchmesser zwischen Halmen, mit seitlicher Öffnung"
+   ],
+   "verwechslung": "Mit jungen Hausmäusen und Waldmäusen; der Greifschwanz, die Größe und der Nestbau im Halm trennen sie.",
+   "lebensraum": "Hohe Gräser, Schilf und Röhricht am Rand von Gewässern und in Feuchtgebieten, auch Getreidefelder und gelegentlich Hecken. Im Winter werden auch Bodennester gebaut.",
+   "zeit": "Überwiegend nachtaktiv und dämmerungsaktiv, gelegentlich auch tagsüber im dichten Bewuchs.",
+   "spuren": "Kugelnester aus Gras- und Schilfblättern, die noch am Halm hängend verflochten werden, sodass die Halme lebend bleiben; typischerweise 20 bis 130 cm über dem Boden.",
+   "regional": null,
+   "umgang": "Nester nicht berühren. Hohe Gras- und Schilfbestände an Ufern und Feuchtgebieten sind ihr Lebensraum und sollten stehen bleiben.",
+   "schutz": "Rote Liste Deutschland (Meinig et al. 2020): Vorwarnliste.",
+   "naturdeck_ids": [
+    "5873126b",
+    "604297de",
+    "97547703",
+    "c64879d3"
+   ],
+   "korrekturen": [
+    "9974eb3a: „Längs gespaltene“ Blätter im Nest sind nicht belegt; belegt ist das Verflechten lebender Halme.",
+    "97547703: „Die Halme bleiben grün, weil sie nicht abgebissen werden“ ist als Begründung nicht belegt; belegt ist, dass die Halme beim Nestbau lebend bleiben."
+   ],
+   "quellen": [
+    [
+     "Deutsche Wildtier Stiftung: Zwergmaus",
+     "https://www.deutschewildtierstiftung.de/wildtiere/zwergmaus"
+    ],
+    [
+     "Wikipedia (de): Zwergmaus",
+     "https://de.wikipedia.org/wiki/Zwergmaus"
+    ],
+    [
+     "Rote-Liste-Zentrum: Säugetiere Deutschlands (Meinig et al. 2020)",
+     "https://www.rote-liste-zentrum.de/de/Saugetiere-Mammalia-1730.html"
+    ]
+   ]
+  },
+  {
+   "slug": "schermaus",
+   "name": "Schermaus",
+   "latein": "Arvicola amphibius",
+   "gruppe": "Säugetiere",
+   "kurz": "Große Wühlmaus mit dunklem, dichtem Fell; ihre flachen Erdhaufen unterscheiden sich von Maulwurfshügeln.",
+   "erkennen": [
+    "Gedrungener Körper mit stumpfer Schnauze, kleinen Augen und Ohren",
+    "Kopf-Rumpf-Länge je nach Form etwa 13 bis 24 cm, Gewicht etwa 65 bis 320 g",
+    "Fell lang, dicht und glänzend, meist dunkelbraun bis schwarz",
+    "Erdhaufen flach und weniger stabil, der Gang öffnet sich seitlich"
+   ],
+   "verwechslung": "Der Haufen ähnelt dem Maulwurfshügel, ist aber flacher; der Gang liegt nicht mittig darunter, sondern seitlich. Der Gang der Wühlmaus ist hochoval, der des Maulwurfs queroval.",
+   "lebensraum": "Gewässerufer, Gräben und Sümpfe, aber auch Wiesen, Obstanlagen und Gärten, wo sie flache Gangsysteme anlegt.",
+   "zeit": "Nacht- und dämmerungsaktiv, seltener tagaktiv.",
+   "spuren": "Flache, längliche Erdhaufen, oft mit Pflanzenresten durchsetzt; abgenagte Wurzeln an Obstbäumen, Möhren und Spargel.",
+   "regional": null,
+   "umgang": "Vor jedem Eingriff den Haufen sicher bestimmen: Der Maulwurf steht unter besonderem Schutz. Wurzeln von Obstbäumen lassen sich mit Drahtkörben schützen, kurze Vegetation nimmt der Maus die Deckung.",
+   "schutz": "Rote Liste Deutschland (Meinig et al. 2020): ungefährdet.",
+   "naturdeck_ids": [
+    "296f89b4",
+    "715c0091",
+    "45323ce0",
+    "bb121090",
+    "3b39d1d4"
+   ],
+   "korrekturen": [
+    "3b39d1d4: Dass frische Löcher oft nah am Grabenrand sitzen, passt zum Uferlebensraum, ist aber nicht eigens belegt.",
+    "bb121090: Der Wurzelfraß ist für Obstanlagen und Gärten belegt; „unter Wiese“ ist allgemein gehalten."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Schermaus",
+     "https://de.wikipedia.org/wiki/Schermaus"
+    ],
+    [
+     "Umweltbundesamt: Wühlmäuse",
+     "https://www.umweltbundesamt.de/wuehlmaeuse"
+    ],
+    [
+     "Rote-Liste-Zentrum: Säugetiere Deutschlands (Meinig et al. 2020)",
+     "https://www.rote-liste-zentrum.de/de/Saugetiere-Mammalia-1730.html"
+    ]
+   ]
+  },
+  {
+   "slug": "wanderratte",
+   "name": "Wanderratte",
+   "latein": "Rattus norvegicus",
+   "gruppe": "Säugetiere",
+   "kurz": "Große, kräftige Ratte mit stumpfer Schnauze und Schwanz kürzer als der Körper.",
+   "erkennen": [
+    "Kopf-Rumpf-Länge etwa 18 bis 26 cm, Schwanz etwa 14 bis 21 cm und kürzer als der Körper",
+    "Gewicht etwa 170 bis 350 g",
+    "Eckiger Schädel, stumpfe Schnauze, kleine Ohren",
+    "Fell oberseits graubraun bis braunschwarz, unterseits grauweiß"
+   ],
+   "verwechslung": "Mit der Hausratte, die einen dünneren, längeren Schwanz, größere Ohren und einen schlankeren Schädel hat.",
+   "lebensraum": "Meist in Siedlungen: Kanäle, Keller, Lagerhäuser, Ställe, Bauernhöfe; in Europa auch an Gewässerrändern und Küsten.",
+   "zeit": "Dämmerungs- und nachtaktiv, mit Höhepunkten kurz nach Sonnenuntergang und kurz vor Sonnenaufgang.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Ratten können Krankheitserreger wie Leptospiren übertragen; keinen Kontakt zu Tieren oder Kot suchen. Bei Befall im Haus an Gesundheitsamt oder Fachbetrieb wenden und Futterquellen wie Abfälle und offenes Tierfutter beseitigen.",
+   "schutz": "Rote Liste Deutschland (Meinig et al. 2020): ungefährdet.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "29f75362, 7ff70818, b1248361, cfc461f7: Stumpfe Zehen, Fünfzehenabdrücke, eine feine Schwanz-Schleifspur und die „breitere“ Schwanzspur gegenüber Mäusen sind in den geprüften Quellen nicht belegt. b1248361 nennt zudem „fünfzehige Vorderfüße“; die Zehenzahl wurde nicht bestätigt."
+   ],
+   "quellen": [
+    [
+     "Wikipedia (de): Wanderratte",
+     "https://de.wikipedia.org/wiki/Wanderratte"
+    ],
+    [
+     "Rote-Liste-Zentrum: Säugetiere Deutschlands (Meinig et al. 2020)",
+     "https://www.rote-liste-zentrum.de/de/Saugetiere-Mammalia-1730.html"
+    ]
+   ]
+  },
+  {
+   "slug": "haselmaus",
+   "name": "Haselmaus",
+   "latein": "Muscardinus avellanarius",
+   "gruppe": "Säugetiere",
+   "kurz": "Kleiner goldbrauner Bilch (keine echte Maus) mit Kugelnest in Sträuchern, Winterschläfer.",
+   "erkennen": [
+    "Kopf-Rumpf-Länge etwa 6,5 bis 9 cm, Schwanz etwa 5,7 bis 8,6 cm",
+    "Fell grau bis goldfarben, Bauch hellgelb, weiße Flecken an Kehle und Brust",
+    "Nachtaktiver Kletterer, schläft tagsüber im Nest",
+    "Fraßspur an Haselnüssen: rundes Loch, glatter Rand, Zahnspuren parallel oder leicht schräg zum Rand"
+   ],
+   "verwechslung": "Mit Gelbhals-, Wald- und Rötelmaus, die ähnliche Lebensräume teilen; deren Nüsse zeigen einen rauen Lochrand mit quer verlaufenden Zahnspuren.",
+   "lebensraum": "Dichte Gebüsche, Hecken, Waldsäume und Mischwälder mit gut entwickelter Strauchschicht; bevorzugt fruchttragende Sträucher wie Hasel, Holunder und Weißdorn.",
+   "zeit": "Aktiv von etwa Mai bis Oktober, den Winter verbringt sie im Winterschlaf in einem Bodennest.",
+   "spuren": "Faustgroße, fest gewebte Kugelnester aus Gras, Blättern und Moos mit seitlichem Eingang in dichten Büschen wie Brombeere oder Weißdorn; Haselnüsse mit kreisrundem, glattem Loch.",
+   "regional": "Weite Teile des norddeutschen Tieflands sind nach BfN und Artensteckbrief nicht besiedelt. Die Rote Liste Mecklenburg-Vorpommern von 1991 führte die Haselmaus als ausgestorben oder verschollen; sie ist veraltet. Aktuelle Nachweise bei der Naturschutzbehörde oder beim LUNG erfragen.",
+   "umgang": "Nicht berühren, Nester nicht öffnen. Hecken, Waldsäume und fruchttragende Sträucher bewahren und nicht auf den Stock setzen, solange Tiere im Winterschlaf oder im Nest sein können. Bei Verdacht auf Vorkommen die Untere Naturschutzbehörde fragen.",
+   "schutz": "Streng geschützt, FFH-Richtlinie Anhang IV. Rote Liste Deutschland (Meinig et al. 2020): Vorwarnliste.",
+   "naturdeck_ids": [],
+   "korrekturen": [
+    "8c86bd5e: Kugelnester in Brombeerhecken sind belegt, ein Zuschneiden von Blättern aber nicht; die Nester sind aus Gras, Blättern und Moos geflochten. Der Bezug zu Mecklenburg-Vorpommern ist fraglich, da das Tiefland dort weitgehend nicht besiedelt ist."
+   ],
+   "quellen": [
+    [
+     "BfN: Artenportrait Haselmaus",
+     "https://www.bfn.de/artenportraits/muscardinus-avellanarius"
+    ],
+    [
+     "Rote-Liste-Zentrum: Haselmaus",
+     "https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=17deccac-54ac-45a4-ab62-46103704cbff"
+    ],
+    [
+     "Deutsche Wildtier Stiftung: Wie findet man Haselmäuse?",
+     "https://www.deutschewildtierstiftung.de/aktuelles/artikel/wie-findet-man-haselmaeuse"
+    ],
+    [
+     "Pro Natura: Wer hat die Nuss benagt? (2010)",
+     "https://www.pronatura.ch/sites/pronatura.ch/files/2017-11/wer_hat_die_nuss_benagt.pdf"
+    ],
+    [
+     "Wikipedia (de): Haselmaus",
+     "https://de.wikipedia.org/wiki/Haselmaus"
+    ]
+   ]
+  }
+ ],
+ "nicht_aufgenommen": [
+  [
+   "Hausspitzmaus (Crocidura russula)",
+   "Nach Wikipedia verläuft die Nordostgrenze des Verbreitungsgebiets von Wilhelmshaven über Bremen und Celle bis Dresden; Mecklenburg-Vorpommern liegt außerhalb. Die Naturdeck-Fakten 7254408f und 7fba3554 (Region Plau/Seenplatte, Moschusgeruch) sind damit unbelegt, nur eine Quelle."
+  ],
+  [
+   "Spitzmäuse allgemein (79237e97)",
+   "Kein Artbezug, Trittreihen und Schwanzlinie nicht belegt."
+  ],
+  [
+   "Mausgänge allgemein (685ad8ec)",
+   "Kein Artbezug, nicht belegt."
+  ]
+ ]
+}

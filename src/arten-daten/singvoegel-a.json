@@ -1,0 +1,953 @@
+{
+ "paket": "singvoegel-a",
+ "arten": [
+  {
+   "slug": "moenchsgrasmuecke",
+   "name": "Mönchsgrasmücke",
+   "latein": "Sylvia atricapilla",
+   "gruppe": "Singvögel",
+   "kurz": "Die häufigste Grasmücke: schlichtes Grau mit schwarzer Kappe beim Männchen und rotbrauner beim Weibchen.",
+   "erkennen": [
+    "Männchen mit schwarzer, Weibchen mit rotbrauner Kappe",
+    "Sonst recht einheitlich grau, an Kehle und Steiß etwas heller",
+    "Auch Jungvögel tragen eine rotbraune Kappe",
+    "Ruf wie zwei aneinandergeschlagene Kieselsteine, Gesang melodisch",
+    "13,5 bis 15 cm groß"
+   ],
+   "verwechslung": "Von Klapper- und Gartengrasmücke unterscheidet sie die Kappe, die bei diesen beiden fehlt. Die Mönchsgrasmücke ist zudem leichter zu entdecken als die beiden.",
+   "lebensraum": "Sie lebt meist versteckt in dichtem Gestrüpp und baut dort im April ein Nest aus Grashalmen und dünnen Zweigen.",
+   "zeit": "Kurzstreckenzieher, von Ende März bis Oktober zu beobachten.",
+   "spuren": "Der Kieselsteinruf verrät sie oft früher als ein Blick ins Gebüsch.",
+   "regional": null,
+   "umgang": "Dichte, heimische Sträucher und Beerensträucher wie Holunder bieten Nistplatz und Nahrung. Wildes Gestrüpp im Garten darf stehen bleiben.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG (alle europäischen Vogelarten). Laut NABU-Vogelporträt nicht gefährdet, Bestand zunehmend.",
+   "naturdeck_ids": [
+    "2290b223",
+    "9fdd5fbf",
+    "fc3ff49c"
+   ],
+   "korrekturen": [
+    "d5d0f7fb: Das Merkmal \"schwarze Kappe tief über dem Auge\" und das \"Tackern\" sind durch die genutzte Quelle nicht belegt. Belegt ist der Kieselsteinruf."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Mönchsgrasmücke",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/moenchsgrasmuecke/"
+    ],
+    [
+     "NABU Vogeltrainer Mönchsgrasmücke",
+     "https://vogeltrainer.nabu.de/vogel/moenchsgrasmuecke/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "gartengrasmuecke",
+   "name": "Gartengrasmücke",
+   "latein": "Sylvia borin",
+   "gruppe": "Singvögel",
+   "kurz": "Unauffällig olivgrau ohne Kopfzeichnung, dafür mit langem, flötendem Gesang aus dem Gebüsch.",
+   "erkennen": [
+    "Oberseite olivgrau, Unterseite hell",
+    "Halsseiten leicht graublau",
+    "Beide Geschlechter sehen gleich aus",
+    "Gesang langanhaltend, laut und vielseitig, mit kratzigen Elementen, an Drosseln erinnernd",
+    "13 bis 14 cm groß"
+   ],
+   "verwechslung": "Dorn-, Klapper- und Mönchsgrasmücke sind verwandt und ähnlich. Anders als diese hat die Gartengrasmücke keine auffällige Kopf- oder Flügelzeichnung.",
+   "lebensraum": "Gebüschreiches, offenes Gelände: Waldränder, Lichtungen, Auwälder, Hecken, Parks und Gärten. Das Nest ist meist nach oben geschlossen und besteht aus Grashalmen.",
+   "zeit": "Langstreckenzieher, von Ende April bis September in Deutschland.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Heimische Sträucher und wilde Ecken im Garten helfen ihr. Auf Pflanzenschutzmittel zu verzichten erhält ihre Insektennahrung.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, der Bestand nimmt aber ab (Trend minus 60 Prozent).",
+   "naturdeck_ids": [
+    "9418e044"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU Vogelporträt Gartengrasmücke",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/gartengrasmuecke/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "dorngrasmuecke",
+   "name": "Dorngrasmücke",
+   "latein": "Sylvia communis",
+   "gruppe": "Singvögel",
+   "kurz": "Die bunteste heimische Grasmücke: rostbraune Flügel, weiße Kehle und beim Männchen ein grauer Kopf.",
+   "erkennen": [
+    "Rostbraune Flügel und weiße Kehle bei beiden Geschlechtern",
+    "Männchen mit grauem Kopf, rosafarbener Brust und rötlicher Iris",
+    "Weibchen und Jungvögel mit braunem Kopf",
+    "Gesang eine raue, schwätzende, eher kurze Strophe",
+    "13 bis 15 cm groß"
+   ],
+   "verwechslung": "Mit der Klapper- und der Gartengrasmücke. Die rostbraunen Flügel unterscheiden sie von der Klappergrasmücke, deren Oberseite einfarbig graubraun ist.",
+   "lebensraum": "Offene und halboffene Flächen mit einzelnen Büschen und Stauden. Sie fliegt gern sonnige Dornensträucher an und baut ihr Nest niedrig aus Grashalmen und Pflanzenstängeln.",
+   "zeit": "Langstreckenzieher, von Mitte April bis September in Deutschland.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Dornige Hecken und Stauden an Feldrändern und im Garten bieten ihr Nistplätze. Insektenfreundliche Landwirtschaft und der Verzicht auf Pflanzenschutzmittel kommen ihr zugute.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, Bestand stabil. Dürren im afrikanischen Winterquartier gefährden den Bestand.",
+   "naturdeck_ids": [
+    "aa0af226",
+    "b2fff662"
+   ],
+   "korrekturen": [
+    "9eb8fc72: Die weißen Außenfedern im Flug sind durch die genutzte Quelle nicht belegt.",
+    "c84b12f7: Die Angabe zu Jungvögeln dicht über dem Boden im Juni ist nicht belegt.",
+    "5ac6f405: \"Weißkehlchen\" ist kein Artname, der in der Quelle auftaucht. Die rostigen Flügeldecken sind belegt, der Vergleich bleibt unklar."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Dorngrasmücke",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/dorngrasmuecke/"
+    ],
+    [
+     "NABU Vogelporträt Klappergrasmücke",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/klappergrasmuecke/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "klappergrasmuecke",
+   "name": "Klappergrasmücke",
+   "latein": "Curruca curruca",
+   "gruppe": "Singvögel",
+   "kurz": "Kleine, gedrungene Grasmücke mit dunkelgrauem Kopf, weißer Kehle und einem Gesang wie eine klappernde Mühle.",
+   "erkennen": [
+    "Gedrungen und kurzschwänzig",
+    "Dunkelgrauer Kopf und weiße Kehle, Unterseite hell",
+    "Oberseite einfarbig graubraun",
+    "Mühlenähnlicher Gesang",
+    "11,5 bis 13,5 cm groß"
+   ],
+   "verwechslung": "Mit der Dorngrasmücke. Bei der Klappergrasmücke fehlen die rostbraunen Flügel, und der Gesang klingt mühlenartig.",
+   "lebensraum": "Flächen mit einzelnen Gebüschen und kleinen Bäumen, große Gärten, Parks, junge Nadelwälder und heckenreiche Feldränder. Das Nest ist ein lockerer, oft niedrig gelegener Napf aus Halmen und dünnen Zweigen.",
+   "zeit": "Langstreckenzieher, von April bis Ende September in Deutschland. Mai und Juni eignen sich am besten zur Beobachtung.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Heckenreiche Feldränder und große, naturnahe Gärten helfen ihr. Auf Insektizide im Garten zu verzichten erhält ihre Nahrung.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, Bestand stabil.",
+   "naturdeck_ids": [
+    "18b1f5fe",
+    "fb308e4a"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU Vogelporträt Klappergrasmücke",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/klappergrasmuecke/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "teichrohrsaenger",
+   "name": "Teichrohrsänger",
+   "latein": "Acrocephalus scirpaceus",
+   "gruppe": "Singvögel",
+   "kurz": "Warmbrauner Schilfbewohner mit beiger Unterseite, der sein Nest an Halme über dem Wasser hängt.",
+   "erkennen": [
+    "Warmbrauner Mantel, beige Unterseite",
+    "Längerer Schnabel als der Sumpfrohrsänger",
+    "Beine dunkler und grauer als beim Sumpfrohrsänger",
+    "Bürzel lang und kräftig rotbraun",
+    "Gesang aus Elementen wie „tschir“, „tiri“ und „tjäg“ im Wechsel mit Trillern"
+   ],
+   "verwechslung": "Mit dem Sumpfrohrsänger. Der Teichrohrsänger hat den längeren Schnabel und dunklere Beine. Vom Drosselrohrsänger unterscheidet ihn die geringere Größe.",
+   "lebensraum": "Dichte Schilfbiotope und bewachsenes Uferdickicht. Das Nest hängt aus Gräsern und Schilf an mehreren Halmen über dem Wasser.",
+   "zeit": "Langstreckenzieher, von Ende April bis September oder Oktober in Deutschland, Winterquartier im tropischen Afrika.",
+   "spuren": "Das hängende Nest im Schilf, sofern man es ohne Störung vom Ufer aus sieht.",
+   "regional": null,
+   "umgang": "Schilfgürtel nicht betreten und nicht mähen lassen, wo es vermeidbar ist. Ufer sollten nicht verbaut werden, denn Verbauung, Entwässerung und Gewässerverschmutzung bedrohen die Art.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, Bestand zunehmend.",
+   "naturdeck_ids": [
+    "22f85772"
+   ],
+   "korrekturen": [
+    "1662bd5e, 4b399518: Der \"gleichmäßig raspelnde\" oder \"knarrende\" Gesang ist in der NABU-Beschreibung nicht so belegt (dort: tschir, tiri, tjäg, Triller). Das \"Klettern selten über die Halmspitzen\" ist nicht belegt.",
+    "986f83a8: Die Aussage zu den \"Sprüngen\" im Lied des Sumpfrohrsängers ist nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Teichrohrsänger",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/teichrohrsaenger/"
+    ],
+    [
+     "NABU Vogelporträt Sumpfrohrsänger",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/sumpfrohrsaenger/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "sumpfrohrsaenger",
+   "name": "Sumpfrohrsänger",
+   "latein": "Acrocephalus palustris",
+   "gruppe": "Singvögel",
+   "kurz": "Brauner, olivgetönter Rohrsänger, der anders als seine Verwandten oft in Brennnesseln und Hochstauden lebt.",
+   "erkennen": [
+    "Braun mit weißgelblichem Bauch und olivgrünem Hauch",
+    "Beine hellbraun",
+    "Schnabel kürzer als beim Teichrohrsänger",
+    "Überaugenstreif verwaschen",
+    "13 bis 15 cm groß"
+   ],
+   "verwechslung": "Mit dem Teichrohrsänger. Der Sumpfrohrsänger hat den kürzeren Schnabel und einen verwaschenen Überaugenstreif.",
+   "lebensraum": "Dichte Vegetation in Gewässernähe mit Brennnesseln, Mädesüß und Wasserdost. Er versteckt sich zwischen Halmen und Gräsern und nistet in dichtem Gebüsch.",
+   "zeit": "Langstreckenzieher, von Mai bis August zu beobachten. Er kehrt im Mai zurück und zieht im September ab.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Brennnesselsäume und verwilderte Uferstreifen an Gewässern stehen lassen. Der NABU empfiehlt dafür auch Totholzhecken mit Brennnesseln und Gartenteiche mit dichtem Uferbewuchs.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, der Bestand nimmt aber ab (Trend minus 44 Prozent).",
+   "naturdeck_ids": [
+    "cc568755"
+   ],
+   "korrekturen": [
+    "cc568755, f68355fe: Das Brennnesselhabitat ist belegt. Das Nachahmen fremder Rufe und die Beschreibung \"Knarren, Pfeifen\" sind in der genutzten Quelle nicht belegt und wurden nicht übernommen."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Sumpfrohrsänger",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/sumpfrohrsaenger/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "drosselrohrsaenger",
+   "name": "Drosselrohrsänger",
+   "latein": "Acrocephalus arundinaceus",
+   "gruppe": "Singvögel",
+   "kurz": "Der größte heimische Rohrsänger: kräftiger Schnabel, laut quarrender Gesang aus dem Schilf.",
+   "erkennen": [
+    "Größter unserer Rohrsänger, Männchen etwa 18 cm, Weibchen etwa 20 cm",
+    "Brauner Rücken, beiger Bauch, weiße Kehle",
+    "Heller Überaugenstrich",
+    "Schnabel lang und kräftig wie bei einer Drossel",
+    "Gesang laut, quarrend und markant, auch nachts"
+   ],
+   "verwechslung": "Mit dem Teichrohrsänger. Der Drosselrohrsänger ist deutlich größer.",
+   "lebensraum": "Schilfflächen an Gewässerufern. Das geflochtene Körbchen hängt an Schilfhalmen.",
+   "zeit": "Langstreckenzieher mit Winterquartier bis Südafrika, von April bis September in Deutschland.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Der Rückgang des Röhrichts ist die Gefahr. Schilfgürtel am Ufer sollten erhalten und nicht betreten werden.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Das NABU-Vogelporträt nennt den Röhrichtrückgang als Gefährdung, die Rote-Liste-Angabe auf der Seite ist in sich widersprüchlich, deshalb hier keine Kategorie. Bestand laut NABU zunehmend.",
+   "naturdeck_ids": [
+    "115269fc",
+    "35d1524e"
+   ],
+   "korrekturen": [
+    "35d1524e: \"altes Schilf\" ist nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Drosselrohrsänger",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/drosselrohrsaenger/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "schilfrohrsaenger",
+   "name": "Schilfrohrsänger",
+   "latein": "Acrocephalus schoenobaenus",
+   "gruppe": "Singvögel",
+   "kurz": "Kleiner Rohrsänger mit breitem hellem Überaugenstreif und gestreifter Oberseite.",
+   "erkennen": [
+    "Beigebraun, Oberseite dunkel gestreift",
+    "Breiter, heller Überaugenstreif",
+    "Bauch weißlich-gelb, Beine dunkel und grau",
+    "Im Flug fällt der gelbbraun bis rostrote Bürzel auf",
+    "Gesang aufgeregt, schnell schwatzend mit knarrenden und trillernden Elementen"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Dicht bewachsene Schilf- und Binsenflächen an Ufern und Gräben, auch hochgewachsene Büsche und Weiden am Wasser.",
+   "zeit": "Langstreckenzieher, von Ende April bis September in Deutschland, Rückkehr im Mai.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Verlandungszonen und Grabenränder mit Röhricht erhalten und nicht betreten.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, Bestand zunehmend.",
+   "naturdeck_ids": [
+    "a9114c23"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU Vogelporträt Schilfrohrsänger",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/schilfrohrsaenger/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "feldschwirl",
+   "name": "Feldschwirl",
+   "latein": "Locustella naevia",
+   "gruppe": "Singvögel",
+   "kurz": "Unscheinbarer, olivbraun gestrichelter Vogel, dessen Gesang wie ein anhaltendes Heuschreckenzirpen klingt.",
+   "erkennen": [
+    "Olivbraune Oberseite mit dunkler Strichelung",
+    "Grauweiße Brust und Bauch",
+    "Relativ langer, stumpf gerundeter Schwanz",
+    "Gesang ein anhaltendes, heuschreckenartiges Schwirren, vor allem in der Dämmerung",
+    "12,5 bis 13,5 cm groß"
+   ],
+   "verwechslung": "Der Gesang wird leicht mit dem einer Heuschrecke verwechselt. Der Vogel selbst bleibt meist verborgen.",
+   "lebensraum": "Feuchte bis trockene Flächen mit hoher Krautschicht und einzelnen Warten wie Stauden oder Sträuchern. Reine Schilfbestände meidet er.",
+   "zeit": "Langstreckenzieher, von April bis September in Deutschland.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Brachen und Staudenfluren, wie sie in der intensiv genutzten Landschaft verschwinden, helfen ihm. Solche Flächen möglichst nicht umbrechen oder mähen, solange er singt.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Rote Liste Deutschland 2020: stark gefährdet (nach NABU-Vogelporträt), Bestandstrend minus 80 Prozent.",
+   "naturdeck_ids": [
+    "21962d54",
+    "860357ec",
+    "969f60b1"
+   ],
+   "korrekturen": [
+    "21962d54: \"bleibt stehen, statt zu springen\" und 969f60b1: \"Ton bleibt gleich hoch\" sind nicht belegt, nur das heuschreckenartige Schwirren."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Feldschwirl",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/feldschwirl/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "fitis",
+   "name": "Fitis",
+   "latein": "Phylloscopus trochilus",
+   "gruppe": "Singvögel",
+   "kurz": "Kleiner Laubsänger mit melodischem, weich abfallendem Gesang und hellen Beinen.",
+   "erkennen": [
+    "Gräulich-braungrüne Oberseite, heller Bauch",
+    "Deutlicherer Augenstreif als der Zilpzalp",
+    "Hellere Beine und hellerer Schnabel als beim Zilpzalp",
+    "Klarer Übergang von gelblicher Brust zu weißlichem Bauch",
+    "11 bis 12,5 cm groß"
+   ],
+   "verwechslung": "Mit dem Zilpzalp, der ihm sehr ähnelt. Der Fitis hat den deutlicheren Augenstreif, hellere Beine und einen melodischen Gesang. Sein Ruf ist weicher und eher zweisilbig.",
+   "lebensraum": "Trockene bis feuchte Standorte mit Strauch- und Krautschicht: aufgelockerte Wälder, Gebüsche, Lichtungen, bevorzugt Nadelwald sowie Erlen- und Birkenbruchwälder. Das Nest liegt meist am Boden.",
+   "zeit": "Von Ende März bis Oktober in Deutschland, Winterquartier in Afrika. Jungvögel ziehen vor den Altvögeln ab.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Wald- und Gebüschränder mit Kraut- und Strauchschicht erhalten. Bodennahe Nester sind leicht zu übersehen, deshalb Gebüsch- und Randflächen in der Brutzeit in Ruhe lassen.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, aber stark abnehmend (Trend minus 52 Prozent).",
+   "naturdeck_ids": [
+    "443ef098",
+    "66b5f467"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU Vogelporträt Fitis",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/fitis/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "zilpzalp",
+   "name": "Zilpzalp",
+   "latein": "Phylloscopus collybita",
+   "gruppe": "Singvögel",
+   "kurz": "Olivbrauner Laubsänger, der seinen Namen im Gesang ruft: „zilp zalp zilp zalp“.",
+   "erkennen": [
+    "Olivbraunes Gefieder, Unterseite weißlich mit Beige und Gelb",
+    "Dunkler Augenstreif, kurzer heller Überaugenstreif",
+    "Weißlicher Augenring",
+    "Dunklere Beine als der Fitis",
+    "Gesang „zilp zalp zilp zalp“"
+   ],
+   "verwechslung": "Mit dem Fitis. Der Zilpzalp hat den weniger ausgeprägten Überaugenstreif und dunklere Beine.",
+   "lebensraum": "Aufgelockerte Wälder mit Altholz und dichter Strauch- und Krautdecke, außerdem Gärten und Parks. Das Weibchen baut ein kugeliges Nest in der Bodenvegetation.",
+   "zeit": "Im Winter hält er sich im Mittelmeerraum und im südlichen Mitteleuropa auf.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Wilde Gärten mit Bäumen und dichter Vegetation bieten ihm Lebensraum. Das bodennahe Nest nicht suchen und Brutbereiche in Ruhe lassen.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, Bestand stabil.",
+   "naturdeck_ids": [
+    "adfcc3b6",
+    "e2930512"
+   ],
+   "korrekturen": [
+    "533dbe7a: Das Schwanzschlagen nach unten beim Rufen ist durch die genutzte Quelle nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Zilpzalp",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/zilpzalp/"
+    ],
+    [
+     "NABU Vogelporträt Fitis",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/fitis/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "waldlaubsaenger",
+   "name": "Waldlaubsänger",
+   "latein": "Phylloscopus sibilatrix",
+   "gruppe": "Singvögel",
+   "kurz": "Grünlicher Laubsänger mit zitronengelbem Gesicht und fast rein weißem Bauch, Bewohner geschlossener Laubwälder.",
+   "erkennen": [
+    "Grünliches Obergefieder mit hellen Schirmfederrändern",
+    "Zitronengelber Gesichtsbereich mit dunklem Augenstreif",
+    "Bauch fast rein weiß, starker Kontrast zum gelben Gesicht",
+    "11 bis 12,5 cm groß"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Laub- und Laubmischwälder mit schwach ausgeprägter Strauch- und Krautschicht, vor allem Eichen-Hainbuchen- und Rotbuchenwälder mit geschlossenem Kronendach. Das Nest liegt in einer kleinen Vertiefung am Boden.",
+   "zeit": "Langstreckenzieher, von April bis September in Deutschland. Die Männchen singen ab etwa Mitte April.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Alte, geschlossene Laubwälder sind sein Lebensraum. Der Wald sollte in der Brutzeit am Boden nicht durchstreift werden, weil das Nest auf dem Boden liegt.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, aber vom Lebensraumverlust durch intensive Forstwirtschaft betroffen.",
+   "naturdeck_ids": [
+    "55075b91",
+    "6d572d72",
+    "e0581071"
+   ],
+   "korrekturen": [
+    "00e4a324, 37a9a030, 55075b91, 6d572d72, e0581071: Die Beschreibung des Gesangs (Triller, der schneller wird, Schwirren, Münze) ist in der genutzten Quelle nicht belegt und wurde nicht übernommen. Übernommen ist nur der Lebensraum Laubmischwald.",
+    "37a9a030: Der Gegensatz zum \"fallenden Fitis\" ist nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Waldlaubsänger",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/waldlaubsaenger/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "gelbspoetter",
+   "name": "Gelbspötter",
+   "latein": "Hippolais icterina",
+   "gruppe": "Singvögel",
+   "kurz": "Zitronengelber Sänger mit kräftigem Schnabel, der in seinem Lied andere Vögel nachahmt.",
+   "erkennen": [
+    "Unterseite einheitlich zitronengelb, Oberseite grüngrau",
+    "Kräftiger Schnabel",
+    "Lange Flügel, kurzer Schwanz",
+    "Helles Flügelfeld und kurzer Überaugenstreif",
+    "Gesang sehr variationsreich, laut und schnell, mit Imitationen anderer Vögel"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Parks und verwilderte Gärten, Auenwälder, feuchte Laubwälder und Feldgehölze.",
+   "zeit": "Langstreckenzieher, von Anfang Mai bis August in Mitteleuropa.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Verwilderte Gartenecken mit Büschen und Bäumen helfen ihm. Der NABU empfiehlt außerdem, Landwirte zu unterstützen, die ohne Pestizide arbeiten.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, aber stark abnehmend (Trend minus 51 Prozent).",
+   "naturdeck_ids": [
+    "40e338a9"
+   ],
+   "korrekturen": [
+    "1514b550: Der Vergleich mit der \"Nachtigallenwucht\" und die Bindung an Holunderhecken sind nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Gelbspötter",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/gelbspoetter/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "zaunkoenig",
+   "name": "Zaunkönig",
+   "latein": "Troglodytes troglodytes",
+   "gruppe": "Singvögel",
+   "kurz": "Winziger brauner Vogel mit fast immer aufgestelltem Stummelschwanz und erstaunlich lautem Gesang.",
+   "erkennen": [
+    "9 bis 10,5 cm, einer der kleinsten europäischen Vögel",
+    "Braun, oben dunkler, unten heller",
+    "Stummelschwanz, fast immer aufgestellt",
+    "Feine schwarze Bänderung auf Bauch, Schwanz und Flügeln",
+    "Gesang ein hohes Zwitschern, bis zu 90 Dezibel laut"
+   ],
+   "verwechslung": "Kaum möglich: Er ist der einzige Vertreter seiner Familie in Europa und Asien.",
+   "lebensraum": "Wälder, Gärten, Parks und Feldränder mit dichtem Bewuchs, besonders Brombeerhecken in feuchten Wäldern. Das Nest ist eine kugelige, geschlossene Lehm- und Moos-Höhle.",
+   "zeit": "Teilzieher, ganzjährig zu beobachten. Ab Ende März brütet er 5 bis 7 Eier aus.",
+   "spuren": "Das kugelige, geschlossene Nest aus Moos und Lehm.",
+   "regional": null,
+   "umgang": "Ein naturnaher Garten mit vielen Sträuchern und heimischen, insektenfreundlichen Blütenpflanzen hilft ihm. Reisig- und Brombeerecken dürfen bleiben.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, Bestand zunehmend.",
+   "naturdeck_ids": [
+    "3bbbd75f",
+    "57e445da",
+    "6493cd4a"
+   ],
+   "korrekturen": [
+    "Reisighaufen als Singwarte und Versteck sind in der NABU-Quelle nicht ausdrücklich genannt (dort Dickicht, Brombeerhecken). Als Alltagsbeobachtung plausibel, hier aber nicht als belegt geführt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Zaunkönig",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/zaunkoenig/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "heckenbraunelle",
+   "name": "Heckenbraunelle",
+   "latein": "Prunella modularis",
+   "gruppe": "Singvögel",
+   "kurz": "Unauffälliger, braun-schwarz gestrichelter Vogel mit grauem Kopf und grauer Brust, der im Dickicht bleibt.",
+   "erkennen": [
+    "Etwa rotkehlchengroß",
+    "Braun-schwarz gestricheltes Gefieder",
+    "Grauer Kopf und graue Brust",
+    "Männchen und Weibchen sehen sehr ähnlich aus"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Dickicht wie Waldunterwuchs, Hecken und Gebüsche in Gärten, auf Friedhöfen und in Parks. Das Nest liegt meist bodennah in dichtem Gebüsch oder niedrig in Nadelbäumen.",
+   "zeit": "Teilzieher. Brutvögel sind ganzjährig zu sehen, nordische Vögel überwintern bei uns.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Unterwuchs und Gestrüpp stehen lassen und Totholzhecken anlegen. Harte Winter mit hoher Schneedecke sind ein natürliches Risiko.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet.",
+   "naturdeck_ids": [
+    "b4750c58"
+   ],
+   "korrekturen": [
+    "1b1e899d: Der Unterschied \"dünner Schnabel gegenüber dem Sperling\" ist in der genutzten Quelle nicht belegt.",
+    "34e1eba3: \"Mausartig\" am Boden und der dünne Gesang aus Schlehen sind nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Heckenbraunelle",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/heckenbraunelle/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "nachtigall",
+   "name": "Nachtigall",
+   "latein": "Luscinia megarhynchos",
+   "gruppe": "Singvögel",
+   "kurz": "Unscheinbar braun mit rostrotem Schwanz, aber berühmt für den Gesang unverpaarter Männchen in der Nacht.",
+   "erkennen": [
+    "Braune Oberseite, rostroter Schwanz und Bürzel",
+    "Graubeige Unterseite",
+    "Zarter weißer Augenring",
+    "Gesang: Unverpaarte Männchen singen nachts, verpaarte tagsüber zur Revierverteidigung"
+   ],
+   "verwechslung": "Mit dem Sprosser, ihrer Zwillingsart. Im Nordosten Deutschlands ersetzt der Sprosser sie teilweise.",
+   "lebensraum": "Unterholzreiche Laubwälder, bevorzugt in Gewässernähe, auch strukturreiche Gärten mit viel Unterholz und Gebüsch. Sie brütet in Hecken und im Gebüsch.",
+   "zeit": "Langstreckenzieher mit Winterquartier im tropischen Afrika, in den Sommermonaten zu beobachten.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Unterholz, Gebüsch und herumliegendes Laub sind für sie förderlich, auch im Garten. Der NABU rät zu etwas mehr Wildnis.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, Bestand zunehmend.",
+   "naturdeck_ids": [
+    "102c6d4b"
+   ],
+   "korrekturen": [
+    "102c6d4b: Die \"harten Schnalzer\" im Vergleich zum Rotkehlchen sind in der genutzten Quelle nicht belegt. Nächtlicher Gesang betrifft laut NABU nur unverpaarte Männchen."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Nachtigall",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/nachtigall/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "sprosser",
+   "name": "Sprosser",
+   "latein": "Luscinia luscinia",
+   "gruppe": "Singvögel",
+   "kurz": "Zwillingsart der Nachtigall mit graubraunem Rücken und diffus gefleckter Brust, im Nordosten Deutschlands zu Hause.",
+   "erkennen": [
+    "Graubraune Färbung des Rückens, rötlich abgehobener Schwanz",
+    "Diffus graubraun gefleckte Brust, angedeuteter Bartstreif",
+    "Gemusterte Unterschwanzdecken",
+    "Gesang etwas härter als bei der Nachtigall, mit längeren Strophen",
+    "15 bis 17 cm groß"
+   ],
+   "verwechslung": "Mit der Nachtigall. Beide ähneln sich stark in Aussehen, Stimme und Lebensraum und lassen sich nur durch eine Kombination von Merkmalen unterscheiden. Im Überschneidungsgebiet treten Mischsänger auf.",
+   "lebensraum": "Dichte Gehölze, im Gegensatz zur Nachtigall in feuchteren Zonen wie Verlandungszonen, Flussauen und Bruchwäldern. Nötig ist eine krautige Bodenvegetation mit offenen Stellen. Das Nest steht häufig in Brennnesseln und bei Weiden- oder Haselsträuchern.",
+   "zeit": "Langstreckenzieher mit Winterquartier in Ostafrika, von April bis August zu beobachten.",
+   "spuren": null,
+   "regional": "Nach NABU kommt der Sprosser fast nur im Nordosten Deutschlands vor, die östliche Verbreitungsgrenze verläuft durch Ostdeutschland. Mecklenburg-Vorpommern liegt in diesem Raum.",
+   "umgang": "Feuchte, dichte Gehölze und Bruchwälder mit krautiger Bodenvegetation erhalten und nicht betreten.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Rote Liste Deutschland 2020: Vorwarnliste (nach NABU-Vogelporträt).",
+   "naturdeck_ids": [
+    "641fbf81",
+    "d0280415",
+    "fc8ccdd6"
+   ],
+   "korrekturen": [
+    "9054839e: \"Klare Pfeiftöne\" ist nicht belegt.",
+    "d0280415: \"Tiefer\" als bei der Nachtigall ist nicht belegt, belegt ist \"etwas härter\".",
+    "641fbf81, 9054839e, d0280415: Nächtlicher Gesang ist für die Nachtigall belegt, auf der Sprosser-Seite des NABU nicht ausdrücklich genannt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Sprosser",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/sprosser/"
+    ],
+    [
+     "NABU Vogelporträt Nachtigall",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/nachtigall/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "rotkehlchen",
+   "name": "Rotkehlchen",
+   "latein": "Erithacus rubecula",
+   "gruppe": "Singvögel",
+   "kurz": "Orange Brust und Kehle auf braunem Grund, singt auch im Herbst, im Winter und nachts.",
+   "erkennen": [
+    "Orange Brust und Kehle, heller Bauch",
+    "Rücken, Schwanz und Hinterkopf braun",
+    "Männchen und Weibchen gleich gefärbt",
+    "Jungvögel ohne Orange, Brust braun geschuppt",
+    "12,5 bis 14 cm groß"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Wälder, Parks und Gärten, auch offene Landschaften, solange es Sträucher zum Brüten gibt. Dichte Hecken und Efeu an Hauswänden bieten Brutplätze.",
+   "zeit": "Teilzieher: Manche bleiben ganzjährig, andere ziehen kurze Strecken. Der Gesang erklingt auch im Herbst, im Winter und nachts.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Strukturreiche Gärten mit dichten Hecken und Efeu helfen ihm. Monotone Steingärten und asphaltierte Wege nehmen ihm den Lebensraum.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, Bestand stabil.",
+   "naturdeck_ids": [
+    "4380d452"
+   ],
+   "korrekturen": [
+    "4380d452: Das \"harte Ticken\" und der Auftritt des orangen Flecks \"erst im Aufflug\" sind nicht belegt. Das Rotkehlchen ist an der orangen Brust deutlich erkennbar."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Rotkehlchen",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/rotkehlchen/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "schwarzkehlchen",
+   "name": "Schwarzkehlchen",
+   "latein": "Saxicola rubicola",
+   "gruppe": "Singvögel",
+   "kurz": "Kleiner Vogel offener Brachen: Männchen mit schwarzem Kopf und weißem Halsfleck, orangebrauner Unterseite.",
+   "erkennen": [
+    "Männchen mit schwarzem Kopf und weißem Halsfleck",
+    "Beide Geschlechter orangebraune Unterseite, dunkler Schwanz, helles Flügelfeld",
+    "Jagt von Sitzwarten wie Sträuchern, Zäunen oder Schilfhalmen",
+    "Gesang eine eher monotone Pfeifstrophe, ähnlich der Heckenbraunelle",
+    "11,5 bis 13 cm groß"
+   ],
+   "verwechslung": "Mit dem Braunkehlchen. Das Schwarzkehlchen bevorzugt eher trockene, buschige Bereiche im Offenland.",
+   "lebensraum": "Offene Brachen, Wiesen, Heideflächen und Moore. Das Nest liegt am Boden oder knapp darüber, bis zu drei Bruten im Jahr.",
+   "zeit": "Von März bis Oktober in Deutschland zu beobachten.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Brachen, Säume und einzelne Sträucher oder Pfähle am Feldrand erhalten. Bodennahe Nester nicht suchen und Abstand halten.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, Bestand deutlich zunehmend.",
+   "naturdeck_ids": [
+    "900d84ec",
+    "cbe34d44",
+    "e6f872e9",
+    "e8f0c51f"
+   ],
+   "korrekturen": [
+    "Das Wippen auf Pfählen und die Lage \"hoch auf Stauden\" sind in der genutzten Quelle nur als Nutzung von Sitzwarten belegt, das Wippen nicht."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Schwarzkehlchen",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/schwarzkehlchen/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "misteldrossel",
+   "name": "Misteldrossel",
+   "latein": "Turdus viscivorus",
+   "gruppe": "Singvögel",
+   "kurz": "Große, langschwänzige Drossel mit stark gepunkteter Unterseite und schnarrendem Ruf.",
+   "erkennen": [
+    "Langschwänzig und kräftig, größer als die Singdrossel",
+    "Unterseite stark gepunktet, ohne ockergelben Ton",
+    "Schnabel schwarz mit heller Basis",
+    "Dunkler, vertikaler Strich auf der Wange",
+    "Ruf schnarrend und lang gezogen"
+   ],
+   "verwechslung": "Mit der Singdrossel. Die Misteldrossel ist deutlich größer und hat keine ockergelbe Unterseite.",
+   "lebensraum": "Nadel- und Mischwälder, große Gärten und Parks. Das stabile Napfnest steht häufig in Nadelbäumen und besteht aus Lehm, Moos und Flechten.",
+   "zeit": "Überwiegend Kurzstreckenzieher, teilweise Standvogel. Der Gesang ist melodisch und ähnelt dem der Amsel, ist aber etwas schneller und wehmütiger.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Heimische Beerensträucher pflanzen und auf Pflanzenschutzmittel verzichten.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, Bestand stabil.",
+   "naturdeck_ids": [
+    "215681f1",
+    "6da4e60b",
+    "8e6a8869"
+   ],
+   "korrekturen": [
+    "b8dcc2d4, 660acc17, 215681f1, 6da4e60b: Die \"hellen Unterflügel\" im Abflug sind in der genutzten Quelle nicht belegt und wurden nicht übernommen. Ebenso die Aussagen zu kurzrasigen Wiesen und Wacholdernähe (660acc17)."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Misteldrossel",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/misteldrossel/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "singdrossel",
+   "name": "Singdrossel",
+   "latein": "Turdus philomelos",
+   "gruppe": "Singvögel",
+   "kurz": "Braune Drossel mit keilförmig gefleckter Unterseite, die Schneckenhäuser an Steinen aufschlägt.",
+   "erkennen": [
+    "Oberseite nahezu einfarbig braun",
+    "Unterseite weiß mit dunklen, keilförmigen Flecken",
+    "Brust und Flanken ockerfarben",
+    "Beine hellrosa, Schnabel schwarz mit heller Basis",
+    "Deutlich kleiner als die Misteldrossel"
+   ],
+   "verwechslung": "Mit der Misteldrossel. Die Singdrossel ist deutlich kleiner und hat ockerfarbene Brust und Flanken.",
+   "lebensraum": "Laub-, Misch- und Nadelwälder sowie Parks und Gärten. Das Nest ist gut versteckt, meist in Nadelgehölzen.",
+   "zeit": "Von Anfang März bis Ende Oktober in Deutschland. Überwintert vor allem in Südeuropa und Nordafrika.",
+   "spuren": "Steine, auf denen Schneckenhäuser aufgeschlagen werden, heißen Drosselschmiede. Dort liegen die Scherben der zerbrochenen Häuser.",
+   "regional": null,
+   "umgang": "Garten mit Beerensträuchern und Gehölzen erhalten. Die Drosselschmiede nicht aufräumen.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, Bestand stabil. Auf dem Zug erleidet sie hohe Verluste durch Jagd in südeuropäischen Ländern.",
+   "naturdeck_ids": [
+    "0b65d886",
+    "61655d4b",
+    "9104fed2"
+   ],
+   "korrekturen": [],
+   "quellen": [
+    [
+     "NABU Vogelporträt Singdrossel",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/singdrossel/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "wacholderdrossel",
+   "name": "Wacholderdrossel",
+   "latein": "Turdus pilaris",
+   "gruppe": "Singvögel",
+   "kurz": "Große Drossel mit grauem Kopf und gelbem Schnabel, die in Kolonien brütet und schackernd ruft.",
+   "erkennen": [
+    "22 bis 27 cm groß",
+    "Grauer Kopf, gelber Schnabel",
+    "Unterseite weiß mit dunklen, dreieckigen Flecken",
+    "Ruf ein auffälliges, schackerndes „Tschäck“",
+    "Gesang aus schwätzenden Elementen mit kurzen Pausen"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Lichte Laub- und Mischwälder, große Parks und Gärten, Feldgehölze oder Alleen, wo sie in Kolonien brütet. Die tiefen Napfnester stehen oft in Stammgabelungen.",
+   "zeit": "Kurzstreckenzieher, ganzjährig zu beobachten.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Heimische Beerensträucher und insektenfreundliches Gärtnern helfen ihr. Brutkolonien in Ruhe lassen.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Laut NABU-Vogelporträt nicht gefährdet, aber stark abnehmend (Trend minus 59 Prozent).",
+   "naturdeck_ids": [
+    "241fed12"
+   ],
+   "korrekturen": [
+    "241fed12: Die \"rostigen Achseln\" sind in der genutzten Quelle nicht belegt.",
+    "17d7066e: Betrifft den Star, nicht diese Art. Der Vergleich der Schwarmdichte ist nicht belegt."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Wacholderdrossel",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/wacholderdrossel/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "trauerschnaepper",
+   "name": "Trauerschnäpper",
+   "latein": "Ficedula hypoleuca",
+   "gruppe": "Singvögel",
+   "kurz": "Schwarzweißer Höhlenbrüter mit weißem Fleck am Schnabelansatz, der gern Nistkästen bezieht.",
+   "erkennen": [
+    "Männchen graubraun bis schwarz, Weibchen dunkelbraun",
+    "Unterseite und Kehle strahlend weiß",
+    "Großer weißer Fleck am Schnabelansatz",
+    "Kleine weiße Zeichnungen auf den Flügeln"
+   ],
+   "verwechslung": "Mit dem Halsbandschnäpper. Beim Trauerschnäpper fehlt die kleine weiße Komma-Markierung an den Handschwingen, die der Halsbandschnäpper hat.",
+   "lebensraum": "Laub- und Mischwälder, Parks und Gärten. Er nistet in Baumhöhlen oder Nistkästen mit 3,5 Zentimetern Einflugloch.",
+   "zeit": "Langstreckenzieher mit Winterquartier südlich der Sahara, von Mai bis August in Deutschland.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Höhlenbäume und Totholz erhalten. Nistkästen mit 3,5 Zentimetern Einflugloch können fehlende Bruthöhlen ersetzen.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Nach dem NABU-Vogelporträt gefährdet (Rote Liste Deutschland), wegen fehlender Bruthöhlen in der intensiven Waldwirtschaft und Nahrungsmangel durch Pestizide.",
+   "naturdeck_ids": [
+    "09bdae32",
+    "0e929d5f",
+    "c5d6227b"
+   ],
+   "korrekturen": [
+    "d2556cbc: Der \"harte Ruf\" und der Vergleich mit dem Spatz sind nicht belegt. Spechthöhlen (0e929d5f) sind als Brutplatz plausibel, belegt sind Baumhöhlen allgemein."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Trauerschnäpper",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/trauerschnaepper/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  },
+  {
+   "slug": "grauschnaepper",
+   "name": "Grauschnäpper",
+   "latein": "Muscicapa striata",
+   "gruppe": "Singvögel",
+   "kurz": "Grauer Ansitzjäger, der von Zaunpfählen und Ästen aus Insekten fängt und zur Warte zurückkehrt.",
+   "erkennen": [
+    "Graues Obergefieder, weißer Bauch",
+    "Dunkle Stirn, diffus grau gestrichelte Brust",
+    "Dunkler, schlanker Schnabel mit feinem Haken",
+    "Jagt von exponierten Sitzwarten mit Stoßflügen nach Insekten",
+    "Geschlechter gleich"
+   ],
+   "verwechslung": null,
+   "lebensraum": "Lichte Laub-, Nadel- und Mischwälder, besonnte Waldränder, Lichtungen und halboffene Gebiete mit hohen Bäumen, auch Dörfer, Villenviertel, Friedhöfe und Parks. Er nistet in Baumhöhlen, Astgabeln, Mauerlöchern oder Rankenpflanzen, auch in Schwalbennestern, hinter Fensterläden und in Blumenkästen.",
+   "zeit": "Langstreckenzieher mit Winterquartier südlich der Sahara, von April bis September in Deutschland.",
+   "spuren": null,
+   "regional": null,
+   "umgang": "Alte Bäume im Garten erhalten, besonders mit kahlen Ästen, die als Sitzwarten dienen. Nester hinter Läden oder in Kästen in Ruhe lassen.",
+   "schutz": "Besonders geschützt nach § 7 Abs. 2 Nr. 13 BNatSchG. Rote Liste Deutschland: Vorwarnliste (nach NABU-Vogelporträt), Bestand laut NABU stabil (Trend minus 20 Prozent).",
+   "naturdeck_ids": [
+    "0ce4cf18",
+    "1ec2688b",
+    "80d876a8",
+    "bfb04e73",
+    "da96d052"
+   ],
+   "korrekturen": [
+    "0ce4cf18: \"Hoch aufrecht\" und \"fast punktgenau\" sind nicht belegt, das Zurückkehren zur Warte ist es."
+   ],
+   "quellen": [
+    [
+     "NABU Vogelporträt Grauschnäpper",
+     "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/grauschnaepper/"
+    ],
+    [
+     "BNatSchG § 7",
+     "https://www.gesetze-im-internet.de/bnatschg_2009/__7.html"
+    ]
+   ]
+  }
+ ],
+ "nicht_aufgenommen": [
+  [
+   "Gartenrotschwanz",
+   "Im Naturdeck kein Fakt gefunden."
+  ],
+  [
+   "Star",
+   "Gehört nicht zu Teil A (Fakt 17d7066e nennt ihn nur im Vergleich)."
+  ],
+  [
+   "Kuckuck",
+   "Kein Singvogel, nicht Teil des Pakets (Fakt 663647b9)."
+  ],
+  [
+   "Eberesche",
+   "Pflanze, keine Art des Pakets (Fakt 84ca1219)."
+  ]
+ ]
+}
