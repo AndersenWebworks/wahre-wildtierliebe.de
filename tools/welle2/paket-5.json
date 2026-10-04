@@ -1,0 +1,132 @@
+{
+  "paket": 5,
+  "ergebnisse": [
+    {
+      "slug": "glaenzende-glattschnecke",
+      "status": "korrigiert",
+      "quellen_neu": [["Naturportal Südwest: Cochlicopa nitens", "https://naturportal-suedwest.de/de/weichtiere/systematik/art/gehaeuseschnecken-land-gastropoda/cochlicopidae-glattschnecken/cochlicopa/nitens-2/"]],
+      "aenderungen": {
+        "erkennen": ["Gehäusehöhe etwa 6,2 bis 7,5 mm, Breite etwa 2,8 bis 3,4 mm", "Rechtsgewunden, stark gewölbte Umgänge mit deutlicher Naht; größte und bauchigste Art der Gattung", "Hornbraun bis kaffeebraun, durchscheinend und stark glänzend"],
+        "lebensraum": "Bevorzugt sehr feuchte, kalkreiche Standorte wie periodisch überflutete Moore und Sümpfe, Kanalufer, sehr nasse Wiesen und nasse Wälder auf kalkigem Grund. Zerstreut und selten."
+      },
+      "anmerkung": "Die Maße der Wikipedia-Seite stammen von der Gattungsseite. Das Naturportal Südwest nennt für Cochlicopa nitens 6,2 bis 7,5 mm Höhe und 2,8 bis 3,4 mm Breite (Breite 2,8 bis 3,2 mm an anderer Stelle derselben Seite). Dort wird auch die Bindung an sehr feuchte, kalkreiche Standorte genannt; 'aber auch trockenere Stellen' ist dort nicht belegt und wurde entfernt. Rote Liste Deutschland nicht ermittelt, daher keine Schutzangabe ergänzt. Ergebnis aus Websuche, Seite nicht einzeln abgerufen."
+    },
+    {
+      "slug": "schliessmundschnecken",
+      "status": "nur_wikipedia",
+      "quellen_neu": [],
+      "aenderungen": {},
+      "anmerkung": "Keine zweite Fachquelle gezielt geprüft, bleibt unverändert."
+    },
+    {
+      "slug": "sumpfdeckelschnecken",
+      "status": "nur_wikipedia",
+      "quellen_neu": [],
+      "aenderungen": {},
+      "anmerkung": "Websuche liefert Angaben nur für Viviparus contectus (30 bis 50 mm, lebendgebärend, Deckel, Männchen mit umgewandeltem rechtem Fühler, überwiegend stehende, verkrautete Gewässer); das stützt die Familienangaben teilweise, widerspricht aber der Formulierung 'bewegte Gewässer' für diese Art. Die Fachquellen waren Aquaristik- und Händlerseiten, keine belastbare Fachquelle, daher keine Änderung. Rote-Liste-Angaben (gefährdet) ohne Jahr, nicht übernommen."
+    },
+    {
+      "slug": "grosse-teichmuschel",
+      "status": "korrigiert",
+      "quellen_neu": [
+        ["Rote-Liste-Zentrum: Anodonta cygnea (Jungbluth & von Knorre 2011)", "https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=1e254e01-63c2-4e07-9ff9-1792d9654de4"],
+        ["BArtSchV Anlage 1", "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"],
+        ["Merkblatt Große Teichmuschel (TU München, Muschelkoordination)", "https://www.lss.ls.tum.de/fileadmin/w00bds/aquasys/upload/Muschelkoordination/Artensteckbriefe/Merkblatt_Grosse_Teichmuschel.pdf"]
+      ],
+      "aenderungen": {
+        "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1). Rote Liste Deutschland (Jungbluth & von Knorre 2011): gefährdet (früher stark gefährdet). Rückgang durch Gewässerverschmutzung und Verschlechterung der Habitatqualität.",
+        "verwechslung": "Die Gemeine Teichmuschel hat einen innen verdickten Unterrand der Schale, bei der Großen Teichmuschel ist die Schale überall gleich dick. Die Gemeine bleibt meist kleiner und glänzt innen weniger stark."
+      },
+      "anmerkung": "BArtSchV-Eintrag (Anodonta cygnea besonders geschützt, nicht streng) abgerufen. Rote Liste 2011 'gefährdet' laut Rote-Liste-Zentrum abgerufen. Größenangabe: Das Merkblatt nennt bis 25 cm (Websuche-Zusammenfassung), Wikipedia bis 20 cm; 'erkennen' deshalb unverändert gelassen. Das Merkmal gleich dicke Schale versus verdickter Unterrand stammt aus dem Merkblatt (Zusammenfassung aus Websuche). Larvenabgabe Februar bis April laut Merkblatt, nicht im Originaltext verwendet."
+    },
+    {
+      "slug": "gemeine-teichmuschel",
+      "status": "korrigiert",
+      "quellen_neu": [
+        ["Rote-Liste-Zentrum: Anodonta anatina (Jungbluth & von Knorre 2011)", "https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=92e4652c-8e66-4179-b6e5-cfd3ae71477a"],
+        ["BArtSchV Anlage 1", "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"],
+        ["Weichtiere in Sachsen: Anodonta anatina", "https://www.weichtiere-sachsen.de/Pages/TaxonomyBrowser.aspx?id=338073"]
+      ],
+      "aenderungen": {
+        "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1). Rote Liste Deutschland (Jungbluth & von Knorre 2011): Vorwarnliste."
+      },
+      "anmerkung": "BArtSchV-Eintrag abgerufen (besonders geschützt). Vorwarnliste 2011 laut Rote-Liste-Zentrum (Websuche-Zusammenfassung) und Sachsen-Seite (abgerufen). Lebensraum Flüsse, Altwässer, Seen, Teiche auf schlammigem oder kiesigem Grund durch die Sachsen-Seite bestätigt. Sachsen nennt Schalen bis selten über 15 cm, Original nennt meist 8 bis 10 cm; unverändert, da 'meist' nicht widerlegt."
+    },
+    {
+      "slug": "kellerassel",
+      "status": "bestaetigt",
+      "quellen_neu": [
+        ["Bodentier hoch vier: Porcellio scaber", "https://bodentierhochvier.de/steckbrief-2/porcellio-scaber/"],
+        ["Bestimmungsleitfaden für die häufigsten Landasseln Deutschlands", "https://www.researchgate.net/publication/381995519_Bestimmungsleitfaden_fur_die_haufigsten_Landasseln_Deutschlands"]
+      ],
+      "aenderungen": {},
+      "anmerkung": "Bestätigt laut Websuche-Zusammenfassung: zweigliedrige Antennengeißel, spitz zulaufendes Telson, keine Kugelfähigkeit, Mauerassel mit dreigliedriger Geißel, Lebensraum unter Steinen, in Holz, Kellern. Größenangaben schwanken (12 bis 18 mm bis 20 mm), Original 9 bis 18 mm bleibt unverändert. Seiten nicht einzeln abgerufen."
+    },
+    {
+      "slug": "gemeine-rollassel",
+      "status": "bestaetigt",
+      "quellen_neu": [
+        ["Steckbrief Rollassel, Universität Münster (hypersoil)", "https://hypersoil.uni-muenster.de/0/07/06/p/p16.htm"],
+        ["Bestimmungsleitfaden für die häufigsten Landasseln Deutschlands", "https://www.researchgate.net/publication/381995519_Bestimmungsleitfaden_fur_die_haufigsten_Landasseln_Deutschlands"]
+      ],
+      "aenderungen": {},
+      "anmerkung": "Bestätigt laut Websuche-Zusammenfassung: Einrollen zur Kugel, geringere Trockenheitsempfindlichkeit als Keller- und Mauerassel, Männchen einfarbig dunkel- bis blaugrau. Hinweis: Neben Armadillidium kann in Deutschland auch Cylisticus convexus eine Kugel formen; die Aussage zur Verwechslung bleibt für Kellerassel und Mauerassel richtig. Größenangabe der Quelle 10 bis 16 mm, Original 8 bis 18 mm unverändert. Seiten nicht einzeln abgerufen."
+    },
+    {
+      "slug": "wasserassel",
+      "status": "korrigiert",
+      "quellen_neu": [["Rote-Liste-Zentrum: Asellus aquaticus (Haferkorn, Allspach & Knorre 2024)", "https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=352b2383-1a2b-4494-b9b4-1ae2e70f3bf5"]],
+      "aenderungen": {
+        "schutz": "Rote Liste Deutschland (Binnenasseln, Haferkorn, Allspach & Knorre 2024): ungefährdet, sehr häufig."
+      },
+      "anmerkung": "Rote-Liste-Stand mit Jahr ergänzt (Websuche-Zusammenfassung des Rote-Liste-Zentrums, Seite nicht einzeln abgerufen). Größe 8 bis 20 mm sowie Lebensraum stehende und langsam fließende nährstoffreiche Gewässer durch digital-nature.de und weitere Seiten gestützt; keine Änderung."
+    },
+    {
+      "slug": "gewoehnlicher-flohkrebs",
+      "status": "nur_wikipedia",
+      "quellen_neu": [],
+      "aenderungen": {},
+      "anmerkung": "Websuche stützt Färbung und Nahrung (Falllaub) nur indirekt; die Größenangaben der Treffer stammen wieder aus Wikipedia. Die Angabe 'Wirbellosen des Jahres 2002' konnte nicht belegt werden. Hinweis: G. pulex ist laut Treffern euryök und kommt auch in stehenden Gewässern vor, die Einschränkung auf kühle Fließgewässer ist daher eher zu eng; ohne belastbare Fachquelle keine Änderung."
+    },
+    {
+      "slug": "pferdeegel",
+      "status": "nur_wikipedia",
+      "quellen_neu": [],
+      "aenderungen": {},
+      "anmerkung": "Websuche (u. a. Landesbildungsserver Baden-Württemberg) liefert inhaltlich dieselben Angaben (kein Blutsauger, fünf Augenpaare, stehende und langsam fließende Gewässer, Eikokons in feuchter Erde), die Zuordnung zu einzelnen Seiten ist aber nicht sauber möglich, Seiten nicht abgerufen. Deshalb nicht als bestätigt gewertet. Keine bundesweite Rote-Liste-Einstufung gefunden."
+    },
+    {
+      "slug": "grosser-schneckenegel",
+      "status": "nur_wikipedia",
+      "quellen_neu": [],
+      "aenderungen": {},
+      "anmerkung": "Websuche liefert übereinstimmende Angaben (bis 3 cm, drei Augenpaare, saugt vor allem an Wasserschnecken, stehende und fließende Gewässer, Brutpflege), aber ohne einzeln abgerufene Fachseite. Hinweis: Nach den Treffern trägt das Weibchen den Eikokon nicht am Bauch, sondern schützt ihn mit der Körperunterseite; die Jungen heften sich nach dem Schlupf an den Bauch. Der Originaltext ist damit vereinbar."
+    },
+    {
+      "slug": "grasfrosch",
+      "status": "korrigiert",
+      "quellen_neu": [
+        ["BArtSchV Anlage 1 (Amphibia spp., alle europäischen Arten)", "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"],
+        ["Rote-Liste-Zentrum: Amphibien (Rote Liste 2020)", "https://www.rote-liste-zentrum.de/de/Amphibien-Amphibia-1728.html"],
+        ["NABU Dreisamtal: Grasfrosch", "https://www.nabu-dreisamtal.de/teichschild-bickenreute/grasfrosch/"]
+      ],
+      "aenderungen": {
+        "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (alle europäischen Amphibien), FFH-Richtlinie Anhang V. Rote Liste Deutschland (Amphibien, 2020): Vorwarnliste.",
+        "zeit": "Laichzeit im zeitigen Frühjahr, bei günstigem Klima ab Ende Februar, meist im März."
+      },
+      "anmerkung": "BArtSchV abgerufen: Amphibia spp. pauschal besonders geschützt. Rote Liste 2020 Vorwarnliste laut Rote-Liste-Zentrum (Websuche-Zusammenfassung). FFH Anhang V wurde nicht geprüft und bleibt aus dem Original. Größe 7 bis 11 cm (meist 7 bis 9), dreieckiger Schläfenfleck und Laichgewässertypen durch Websuche (NABU-Seiten) bestätigt. Laichbeginn Ende Februar aus der Websuche; 'Mitte bis Ende März' im Original ersetzt durch 'meist im März'."
+    },
+    {
+      "slug": "erdkroetenkaulquappe",
+      "status": "korrigiert",
+      "quellen_neu": [
+        ["BArtSchV Anlage 1 (Amphibia spp., alle europäischen Arten)", "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"],
+        ["Rote-Liste-Zentrum: Amphibien (Rote Liste 2020)", "https://www.rote-liste-zentrum.de/de/Amphibien-Amphibia-1728.html"]
+      ],
+      "aenderungen": {
+        "schutz": "Alle heimischen Amphibien sind nach Bundesartenschutzverordnung (Anlage 1) besonders geschützt. Rote Liste Deutschland (Amphibien, 2020): Erdkröte ungefährdet. Die Erdkröte steht nicht in der FFH-Richtlinie."
+      },
+      "anmerkung": "BArtSchV abgerufen: Amphibia spp. alle europäischen Arten besonders geschützt. Rote Liste 2020 'ungefährdet' laut Rote-Liste-Zentrum (Websuche-Zusammenfassung). Die Aussage zur FFH-Richtlinie wurde nicht gegengeprüft und bleibt. Maße, Laichschnüre und Ungenießbarkeit nicht zweitgeprüft."
+    }
+  ]
+}

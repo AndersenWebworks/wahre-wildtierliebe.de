@@ -1,0 +1,152 @@
+{
+ "paket": 4,
+ "ergebnisse": [
+  {
+   "slug": "wolfsspinnen",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["Arachnologische Gesellschaft: Wiki Lycosidae", "https://wiki.arages.de/index.php?title=Lycosidae"],
+    ["Spektrum Lexikon der Biologie: Wolfspinnen", "https://www.spektrum.de/lexikon/biologie/wolfspinnen/70955"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Eikokon an den Spinnwarzen und Jungtiere auf dem Rücken der Mutter durch Fachquellen bestätigt. Raubspinnen (Listspinnen) tragen den Kokon mit den Kieferklauen, passt zur Verwechslungsangabe. Artenzahl (etwa 90) und Größenspanne in den abgerufenen Ergebnissen nicht gesondert belegt, daher unverändert."
+  },
+  {
+   "slug": "gemeine-streckerspinne",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["Arachnologische Gesellschaft: Wiki Tetragnatha extensa", "https://wiki.arages.de/index.php?title=Tetragnatha_extensa"],
+    ["Naturspektrum: Streckerspinne (Tetragnatha extensa)", "https://naturspektrum.de/db/spezies.php?art=tetragnatha_extensa"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Größe 10 bis 12 mm (Weibchen) und 6 bis 9 mm (Männchen) laut Naturspektrum, das Arages-Wiki nennt 6,5 bis 11 mm (Roberts 1996), also je nach Quelle leicht abweichend. Größte Art der Gattung, Netze nahe am Boden oder über Wasser, Mai bis September bestätigt. Rote Liste Deutschland ungefährdet nur in Suchergebnissen gesehen, das Original (Blick et al. 2016, Naturschutz und Biologische Vielfalt 70(4)) wurde nicht direkt gelesen. Daher kein Eintrag mit Jahr, Feld schutz unverändert."
+  },
+  {
+   "slug": "mauer-zebraspringspinne",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["Arachnologische Gesellschaft: Spinne des Jahres", "https://arages.de/spinne-des-jahres/"],
+    ["Arachnologische Gesellschaft: Wiki Salticus scenicus", "https://wiki.arages.de/index.php/Salticus_scenicus"],
+    ["Naturspektrum: Zebraspringspinne (Salticus scenicus)", "https://naturspektrum.de/db/spezies.php?art=salticus_scenicus"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Spinne des Jahres 2005 (Zebraspringspinne) durch Arages bestätigt. Größe 4 bis 7,5 mm und Sicherungsfaden vor dem Sprung bestätigt. Die Sprungweite von etwa 5 cm ist nicht gesondert belegt, eine Suchquelle nennt bis etwa das Zwanzigfache der Körperlänge. Wert unverändert gelassen, zur Prüfung markiert. Laut Arages sind Mauer- und Holz-Zebraspringspinne habituell nur mit Erfahrung und Fundortbezug sicher zu trennen."
+  },
+  {
+   "slug": "veraenderliche-krabbenspinne",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["Arachnologische Gesellschaft: Wiki Misumena vatia", "https://wiki.arages.de/index.php?title=Misumena_vatia"],
+    ["Naturportal Südwest: Misumena vatia", "https://naturportal-suedwest.de/de/insekten-spinnen/systematik/art/webspinnen-araneae/krabbenspinnen-thomisidae/misumena/vatia/"],
+    ["Arachnologische Gesellschaft: Spinne des Jahres", "https://arages.de/spinne-des-jahres/"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Spinne des Jahres 2006 durch Arages bestätigt. Weibchen 7 bis 10 mm, Männchen 3 bis 5 mm, Farbwechsel nur bei adulten Weibchen zwischen Gelb, Grünlich und Weiß bestätigt. Rote Liste ungefährdet nur aus Suchergebnissen, Original nicht direkt gelesen, daher schutz unverändert."
+  },
+  {
+   "slug": "baldachinspinnen",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["Spektrum Lexikon der Biologie: Baldachinspinnen", "https://www.spektrum.de/lexikon/biologie/baldachinspinnen/6942"],
+    ["Arachnologische Gesellschaft: Wiki Linyphiidae", "https://wiki.arages.de/index.php?title=Linyphiidae"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Deckennetz mit Spinne unter der Decke, Größe überwiegend bis 3 mm, Luftschiffen (Ballooning) auch erwachsener Tiere und Auffälligkeit im Spätsommer bestätigt. Die Beispielarten Erigone atra und Bathyphantes gracilis wurden nicht unabhängig belegt, Text unverändert."
+  },
+  {
+   "slug": "weberknechte",
+   "status": "korrigiert",
+   "quellen_neu": [
+    ["Rote Liste Zentrum: Weberknechte (Opiliones)", "https://www.rote-liste-zentrum.de/de/Weberknechte-Arachnida-Opiliones-1763.html"],
+    ["Naturspektrum: Informationen zu den Weberknechten", "https://www.naturspektrum.de/text/m_text_opiliones.php"]
+   ],
+   "aenderungen": {
+    "erkennen": [
+     "Vorder- und Hinterkörper sind verwachsen, der Hinterleib ist gegliedert",
+     "Keine Spinndrüsen und keine Giftdrüsen",
+     "Stinkdrüsen mit Abwehrsekret gegen Fressfeinde, für Menschen ungefährlich"
+    ]
+   },
+   "anmerkung": "Verwachsung von Vorder- und Hinterkörper, gegliederter Hinterleib sowie fehlende Spinn- und Giftdrüsen bestätigt. Die Aussage, die Wehrstoffe wirkten nicht giftig, war in den Suchergebnissen nicht gedeckt (dort teils als giftige Substanzen gegen Feinde beschrieben), daher neutraler formuliert. Lebensraum und Nachtaktivität nicht gesondert geprüft."
+  },
+  {
+   "slug": "wassermilben",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["Spektrum Lexikon der Biologie: Süßwassermilben", "https://www.spektrum.de/lexikon/biologie/suesswassermilben/64860"],
+    ["ResearchGate: Wassermilben (Hydrachnidia, Acari) und Insekten, Überblick", "https://www.researchgate.net/publication/255895643_Wassermilben_Hydrachnidia_Acari_und_Insekten_Ein_Uberblick_uber_eine_selten_betrachtete_Beziehung"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Parasitische Larven an Wasserinsekten, räuberische Adulte, Schwimmhaare an den Beinen und Bedeutung als Zeiger der Gewässergüte (Sauerstoffbedarf) bestätigt. Die Aussage oft rot wurde nicht gesondert belegt, unverändert."
+  },
+  {
+   "slug": "hain-baenderschnecke",
+   "status": "korrigiert",
+   "quellen_neu": [
+    ["Tierlexikon: Hain-Bänderschnecke (Cepaea nemoralis)", "https://tierlexikon.info/cepaea-nemoralis/"],
+    ["Tier und Natur: Bänderschnecken (Cepaea)", "http://www.tierundnatur.de/mar-cepa.htm"]
+   ],
+   "aenderungen": {
+    "erkennen": [
+     "Gehäuse etwa 17 bis 23 mm, gelblich oder rötlichbraun",
+     "Bis zu fünf dunkle Bänder, die verschmelzen oder fehlen können",
+     "Bei erwachsenen Tieren meist dunkle Mündung, daran unterscheidet man sie von der Garten-Bänderschnecke. Ausnahmen mit heller Mündung kommen vor, bei Jungtieren ist das Merkmal noch nicht ausgebildet"
+    ]
+   },
+   "anmerkung": "Dunkle Mündung gegenüber heller Mündung der Garten-Bänderschnecke bestätigt, aber nur bei erwachsenen Tieren und mit Ausnahmen, daher präzisiert. Gehäusemaße laut Quellen meist 17 bis 18 mm hoch und 21 bis 23 mm breit, die Spanne 17 bis 23 mm bleibt als grobe Angabe unverändert. Bänder und Lebensraum nicht gesondert geprüft. Alternativ lässt sich über die Genitalanhänge unterscheiden."
+  },
+  {
+   "slug": "bernsteinschnecken",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["Tier und Natur: Bernsteinschnecken (Succineidae)", "http://www.tierundnatur.de/mar-succ.htm"],
+    ["Stadtwildtiere: Gemeine Bernsteinschnecke", "https://www.stadtwildtiere.de/artportraet/gemeine-bernsteinschnecke"],
+    ["Nationalpark Donau-Auen: Bernsteinschnecke", "https://www.donauauen.at/wissen/natur-wissenschaft/fauna/bernsteinschnecke-succinea-putris"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Dünnes, glänzendes, oft durchscheinendes rechtsgewundenes Gehäuse, Körper bei den meisten Arten nicht vollständig zurückziehbar, Vorkommen an Ufern von Flüssen und Seen, einzelne Arten in Küstendünen, bestätigt."
+  },
+  {
+   "slug": "rote-wegschnecke",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["Naturportal Südwest: Arion rufus", "https://naturportal-suedwest.de/de/weichtiere/systematik/art/nacktschnecken-gastropoda/arionidae-wegschnecken/arion/rufus/"],
+    ["Weichtiere.at: Wegschnecken Teil 1, Große Arten", "https://www.weichtiere.at/Schnecken/land/arionidae.html"],
+    ["Offene Naturführer: Rote Wegschnecke", "https://offene-naturfuehrer.de/web/Rote_Wegschnecke_%E2%80%93_Arion_rufus"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Länge 12 bis 15 cm, in Ausnahmen bis 18 bis 20 cm, sichere Trennung von Arion ater nur anatomisch (Genitalorgane) und Einstufung in Bayern als gefährdet bestätigt. Hinweis: Reise et al. (2020) fassen Arion rufus als Unterart Arion ater rufus auf, Weichtiere.at hält die Trennung für begründet. Die Bayern-Angabe hat keinen Stand der Roten Liste, Original nicht geprüft, Text unverändert."
+  },
+  {
+   "slug": "schwarze-wegschnecke",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["Weichtiere.at: Wegschnecken Teil 1, Große Arten", "https://www.weichtiere.at/Schnecken/land/arionidae.html"],
+    ["Naturportal Südwest: Arion rufus", "https://naturportal-suedwest.de/de/weichtiere/systematik/art/nacktschnecken-gastropoda/arionidae-wegschnecken/arion/rufus/"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Länge bis etwa 13 cm und sichere Trennung von der Roten Wegschnecke nur über Genitalorgane bestätigt. Atemloch, Verbreitungsangaben und Nahrung (Pflanzen, Aas) nicht gesondert belegt, unverändert. Taxonomischer Hinweis wie bei der Roten Wegschnecke (Reise et al. 2020: Unterarten von Arion ater)."
+  },
+  {
+   "slug": "schwarzer-schnegel",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["NABU Niedersachsen: Der Schwarze Schnegel", "https://niedersachsen.nabu.de/tiere-und-pflanzen/sonstige-arten/schnecken/arten-niedersachsen/11740.html"],
+    ["Schnegel.at: Schwarzer Schnegel", "https://www.schnegel.at/arten/limax_cinereoniger.html"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Länge 10 bis 20 cm, selten mehr, dreigeteilte Sohle mit hellem Mittelfeld, Nahrung aus Pilzen, welkenden Pflanzen, Algenaufwuchs und toten Schnecken, naturnahe Wälder und Totholz, nachtaktiv: durch NABU Niedersachsen bestätigt. Rückenkiel nur durch Suchergebnis zu Schnegel.at gestützt. Laut NABU nicht gefährdet, aber ohne Stand der Roten Liste, daher kein Eintrag bei schutz."
+  },
+  {
+   "slug": "tigerschnegel",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["Schnegel.at: Großer oder Tigerschnegel (Limax maximus)", "https://www.schnegel.at/arten/limax_maximus.html"],
+    ["Naturschutzbund Österreich: Tigerschnegel, Weichtier des Jahres 2018/2019", "https://naturschutzbund.at/weichtier-leser/items/id-20182019-tigerschnegel.html"],
+    ["Tier und Natur: Tigerschnegel (Limax maximus)", "https://www.tierundnatur.de/mar-lmax.htm"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Länge 10 bis 20 cm, Nahrung aus Pilzen, Pflanzenresten, Aas und anderen Nacktschnecken, Nachtaktivität und Paarung hängend an einem selbst erzeugten Schleimseil bestätigt. Die Quellen nennen für den Faden bis etwa 40 cm, der Text sagt 43 cm, geringe Abweichung, daher unverändert. Das Institut für Schädlingskunde sieht den Tigerschnegel abweichend von den übrigen Quellen als Gemüseschädling."
+  }
+ ]
+}

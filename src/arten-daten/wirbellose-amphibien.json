@@ -8,18 +8,18 @@
    "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
    "kurz": "Große Radnetzspinne mit schwarz-gelb-weiß quergebändertem Hinterleib und einem Zickzackband im Netz.",
    "erkennen": [
-    "Weibchen bis etwa 2,5 cm lang, Hinterleib gelb-weiß mit schwarzen Querbändern wie bei einer Wespe",
-    "Männchen nur etwa 6 mm groß und unscheinbar",
+    "Weibchen etwa 14 bis 17 mm lang, in südlichen Populationen auch über 20 mm; Hinterleib gelb-weiß mit schwarzen Querbändern wie bei einer Wespe",
+    "Männchen nur 4 bis 6 mm groß und unscheinbar bräunlich",
     "Im Radnetz ein senkrechtes Zickzackband (Stabiliment) über und unter der Netzmitte",
     "Netz meist 20 bis 70 cm über dem Boden"
    ],
    "verwechslung": null,
-   "lebensraum": "Sonnige, offene Flächen mit niedriger bis halbhoher Vegetation, etwa Wiesen und Feldränder.",
+   "lebensraum": "Sonnige, offene Flächen mit niedriger bis halbhoher Vegetation, etwa Trockenrasen, Feuchtwiesen, Brachen und Feldränder.",
    "zeit": "Halbwüchsige Tiere ab Mai, erwachsene Tiere ab Juli, die Weibchen sind bis in den Oktober zu sehen.",
    "spuren": "Das Radnetz mit dem auffälligen Zickzackband.",
    "regional": null,
    "umgang": "Das Netz im Gras nicht zerstören, die Spinne nicht anfassen. Ihr Biss ist für Menschen ungefährlich, die Giftklauen dringen normalerweise nicht durch die Haut. Gras an Wegrändern gestaffelt statt komplett zu mähen lässt ihr Raum.",
-   "schutz": "Rote Liste Deutschland: ungefährdet. Spinne des Jahres 2001.",
+   "schutz": "Rote Liste Deutschland (Spinnen, 2016): ungefährdet, Bestand zunehmend. Spinne des Jahres 2001.",
    "naturdeck_ids": [
     "03d183b9",
     "11444c08",
@@ -32,6 +32,14 @@
     [
      "Wikipedia (de): Wespenspinne",
      "https://de.wikipedia.org/wiki/Wespenspinne"
+    ],
+    [
+     "ARAGES Wiki: Argiope bruennichi",
+     "https://wiki.arages.de/index.php/Argiope_bruennichi"
+    ],
+    [
+     "Arachnologische Gesellschaft: Spinne des Jahres",
+     "https://arages.de/spinne-des-jahres/"
     ]
    ]
   },
@@ -42,18 +50,18 @@
    "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
    "kurz": "Häufige Radnetzspinne, auf dem Hinterleib ein Kreuz aus hellen Flecken.",
    "erkennen": [
-    "Auf dem Hinterleib helle Flecken, die sich zu einem Kreuz fügen: vier längliche und ein kleiner runder in der Mitte",
-    "Färbung sehr unterschiedlich, von hell bis dunkel",
-    "Weibchen bis etwa 18 mm, Männchen etwa 10 mm",
-    "Baut senkrechte Radnetze"
+    "Auf dem Hinterleib helle, längliche Flecken, die sich zu einem Kreuz fügen",
+    "Färbung sehr unterschiedlich, von dunkelbraun bis fast rötlich",
+    "Weibchen 12 bis 17 mm, Männchen 5 bis 10 mm",
+    "Baut senkrechte Radnetze, oft etwa 50 cm breit"
    ],
    "verwechslung": null,
-   "lebensraum": "In Mitteleuropa weit verbreitet, besonders häufig in Streuobstwiesen, Hecken und an Zäunen.",
-   "zeit": "Paarung im Juli und August, die Eier überwintern im Kokon, die Jungspinnen schlüpfen im April oder Mai.",
+   "lebensraum": "In Europa weit verbreitet, in halbschattigen Lebensräumen wie Waldrändern und Gärten, bis über 1500 m Höhe.",
+   "zeit": "Entwicklung über zwei Jahre; die Weibchen legen im Spätsommer oder Herbst Kokons, die Jungspinnen schlüpfen im Mai und überwintern als Jungtiere; erwachsen sind sie im zweiten Jahr, etwa ab August.",
    "spuren": "Radnetz, oft zwischen Hecke und Zaun gespannt.",
    "regional": null,
    "umgang": "Netze lassen sich meist leicht umgehen. Der Biss ist unangenehm, hat aber medizinisch keine langfristigen Folgen und kommt kaum vor, weil die Haut nur an dünnen Stellen durchdrungen wird.",
-   "schutz": null,
+   "schutz": "Spinne des Jahres 2010.",
    "naturdeck_ids": [
     "072a75b2",
     "0c5fbce8"
@@ -66,6 +74,10 @@
     [
      "Wikipedia (de): Gartenkreuzspinne",
      "https://de.wikipedia.org/wiki/Gartenkreuzspinne"
+    ],
+    [
+     "ARAGES Wiki: Araneus diadematus",
+     "https://wiki.arages.de/index.php/Araneus_diadematus"
     ]
    ]
   },
@@ -82,8 +94,8 @@
     "Großes Netz von 45 bis 70 cm Durchmesser, abends in der Netzmitte"
    ],
    "verwechslung": null,
-   "lebensraum": "Lichte Laub- und Mischwälder, dazu alte Bäume, Holzbauten und Hauswände. Tagsüber unter loser Rinde, in Rindenritzen oder Mauerspalten.",
-   "zeit": "Erwachsene Tiere vor allem von Juli bis Oktober, die Weibchen überwintern unter Rinde und Ähnlichem.",
+   "lebensraum": "Ursprünglich an Bäumen, besonders an Totholz mit loser Rinde; heute auch an Hauswänden, Zäunen und in Gebäudeecken. Tagsüber versteckt in engen Spalten an Bäumen oder Gebäuden.",
+   "zeit": "Männchen reifen vor allem im Herbst (September bis November), Weibchen sind von August bis Dezember erwachsen; die Weibchen überwintern unter Rinde und Ähnlichem.",
    "spuren": null,
    "regional": null,
    "umgang": "Das Tagesversteck nicht öffnen oder stören. Lose Rinde und Spalten an Holzteilen sind ihr Lebensraum.",
@@ -96,6 +108,14 @@
     [
      "Wikipedia (de): Spaltenkreuzspinne",
      "https://de.wikipedia.org/wiki/Nuctenea_umbratica"
+    ],
+    [
+     "ARAGES Wiki: Nuctenea umbratica",
+     "https://wiki.arages.de/index.php/Nuctenea_umbratica"
+    ],
+    [
+     "Arachnologische Gesellschaft: Spinne des Jahres",
+     "https://arages.de/spinne-des-jahres/"
     ]
    ]
   },
@@ -110,7 +130,7 @@
     "Hinterleib je nach Tier schwarz-weiß bis braun, vorn mit dunklem Keilfleck mit breitem hellem Rand",
     "Radnetz zwischen Gräsern und Schilf, daneben ein dicht gewebter, nach unten offener Unterschlupf"
    ],
-   "verwechslung": "Brückenkreuzspinne (Larinioides sclopetarius) und Gerandete Schilfradspinne (Larinioides patagiatus) sehen ähnlich aus und lassen sich nach Zeichnung und Lebensraum unterscheiden.",
+   "verwechslung": "Brückenkreuzspinne (Larinioides sclopetarius), Gerandete Schilfradspinne (Larinioides patagiatus) und Larinioides suspicax sehen ähnlich aus; sie lassen sich nur nach Zeichnung des Hinterleibs, Beinmerkmalen und Genitalstrukturen sicher unterscheiden.",
    "lebensraum": "Küstenbiotope, Niedermoore und andere Feuchtgebiete, in Europa weit verbreitet und nicht selten.",
    "zeit": "Paarung im Frühjahr und Herbst, den Tag verbringt die Spinne im Unterschlupf.",
    "spuren": "Radnetz mit angrenzendem Gespinstunterschlupf.",
@@ -125,6 +145,10 @@
     [
      "Wikipedia (de): Schilfradspinne",
      "https://de.wikipedia.org/wiki/Schilfradspinne"
+    ],
+    [
+     "ARAGES Wiki: Larinioides cornutus",
+     "https://wiki.arages.de/index.php/Larinioides_cornutus"
     ]
    ]
   },
@@ -135,13 +159,13 @@
    "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
    "kurz": "Kleine Radnetzspinne mit glänzend gelbgrünem, kürbisförmigem Hinterleib.",
    "erkennen": [
-    "Hinterleib glänzend gelblich-grün und rundlich wie ein Kürbis",
-    "Weibchen etwa 6 mm, Männchen etwa 4 mm",
-    "Radnetz von etwa 10 cm Durchmesser",
-    "Jungtiere rötlich-braun, grün erst als erwachsene Tiere im Frühjahr"
+    "Hinterleib glänzend gelblich-grün und rundlich wie ein Kürbis, mit dunklen Punktpaaren und rotem Fleck hinter den Spinnwarzen",
+    "Weibchen etwa 4,5 bis 8,5 mm, Männchen etwa 3,5 bis 4,5 mm",
+    "Kleines, meist schräg bis senkrecht gespanntes Radnetz in ein bis zwei Metern Höhe",
+    "Jungtiere rötlich"
    ],
-   "verwechslung": "Die nahe verwandte Araniella opisthographa sieht fast gleich aus und ist nur an den Genitalmerkmalen sicher zu unterscheiden.",
-   "lebensraum": "Eine der häufigsten heimischen Spinnen, in Wäldern, Hecken, Wiesen, Mooren und auf Feldern bis etwa 3 m Höhe.",
+   "verwechslung": "Die ähnlichen Arten Araniella opisthographa und Araniella proxima sind nur durch die Untersuchung der Genitalmerkmale sicher zu unterscheiden.",
+   "lebensraum": "Sehr häufig auf Zweigen von Bäumen und Sträuchern sowie in niedriger Vegetation: Wiesen- und Wegrandvegetation, Waldränder und Lichtungen.",
    "zeit": "Erwachsene Tiere von Mai bis August, die Art überwintert als Jungtier an Zweigen.",
    "spuren": null,
    "regional": null,
@@ -155,6 +179,10 @@
     [
      "Wikipedia (de): Kürbisspinne",
      "https://de.wikipedia.org/wiki/K%C3%BCrbisspinne"
+    ],
+    [
+     "ARAGES Wiki: Araniella cucurbitina",
+     "https://wiki.arages.de/index.php/Araniella_cucurbitina"
     ]
    ]
   },
@@ -165,18 +193,18 @@
    "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
    "kurz": "Große Spinne an Gewässerufern, die über das Wasser läuft und hellgelbe Seitenstreifen trägt.",
    "erkennen": [
-    "Weibchen 15 bis 25 mm, Männchen 9 bis 15 mm",
+    "Weibchen etwa 15 bis 22 mm, Männchen etwa 9 bis 15 mm",
     "Gelbliche oder weiße Längsstreifen an den Körperseiten, Grundfarbe gelbbraun bis dunkelbraun",
     "Manche Tiere ohne Streifen",
     "Läuft und rudert auf der Wasseroberfläche"
    ],
    "verwechslung": "Wird gelegentlich ebenfalls 'Listspinne' genannt, ist aber nicht die Listspinne (Pisaura mirabilis). Diese ist kleiner und lebt nicht auf dem Wasser.",
-   "lebensraum": "Nahe an stehenden oder langsam fließenden Gewässern, in Hochmooren, Feuchtwiesen, Auwäldern und auch in Gärten mit Teich.",
-   "zeit": "Paarung im Mai und Juni, Eikokons ab Ende Juni.",
-   "spuren": "Kugelige, weiße bis hellbraune Eikokons von etwa 1 cm.",
+   "lebensraum": "Strukturreiche Feuchtbereiche an stehenden oder langsam fließenden Gewässern, bevorzugt mit offener Wasserfläche, auch Hochmoore, Feuchtwiesen, Auwälder und Gärten mit Teich.",
+   "zeit": "Paarung von Mai bis Juli.",
+   "spuren": "Kugelige Eikokons; die Weibchen tragen den Kokon in den Kieferklauen und hängen ihn später zwischen Blättern auf, wo sie die geschlüpften Jungspinnen bewachen.",
    "regional": null,
    "umgang": "Die Spinne am Ufer ungestört lassen. Naturnahe Teichränder mit Pflanzen und Schilf erhalten. Sie frisst Insekten, Kaulquappen und kleine Fische, das ist normales Verhalten.",
-   "schutz": "Spinne des Jahres 2020. Ein Gefährdungsstatus wurde nicht geprüft.",
+   "schutz": "Rote Liste Deutschland (Spinnen, 2016): Vorwarnliste; früher als gefährdet eingestuft, langfristig starker Rückgang, kurzfristig gleich bleibend. Spinne des Jahres 2020.",
    "naturdeck_ids": [
     "05e205da"
    ],
@@ -187,6 +215,18 @@
     [
      "Wikipedia (de): Gerandete Jagdspinne",
      "https://de.wikipedia.org/wiki/Gerandete_Jagdspinne"
+    ],
+    [
+     "Rote-Liste-Zentrum: Dolomedes fimbriatus",
+     "https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=2bf78335-f61c-4fa0-9f5f-5efed3dad4e6"
+    ],
+    [
+     "ARAGES Wiki: Dolomedes fimbriatus",
+     "https://wiki.arages.de/index.php?title=Dolomedes_fimbriatus"
+    ],
+    [
+     "Senckenberg Museum für Naturkunde Görlitz: Spinne des Jahres 2020",
+     "https://www.smnk.de/en/forschung/zoologie/wissenswertes/spinne-des-jahres-2020/"
     ]
    ]
   },
@@ -198,12 +238,12 @@
    "kurz": "Langbeinige Jagdspinne, deren Weibchen den Eikokon unter dem Vorderkörper trägt.",
    "erkennen": [
     "Lange Beine, das vierte Paar ist am längsten",
-    "Männchen 10 bis 13 mm, Weibchen 12 bis 15 mm",
-    "Weibchen tragen den Eikokon unter dem Vorderkörper",
-    "Bewacht später ein Kinderstubennetz mit den Jungtieren"
+    "Männchen bis etwa 13 mm, Weibchen bis etwa 15 mm",
+    "Heller Mittelstreifen auf dem Vorderkörper, Färbung hell- bis dunkelbraun und variabel",
+    "Weibchen tragen den Eikokon in den Kieferklauen, später hängen sie ihn zwischen Pflanzen auf und bewachen ihn im Kinderstubennetz"
    ],
    "verwechslung": "Wolfsspinnen tragen ihren Eikokon am Hinterleib, die Listspinne unter dem Vorderkörper. Der Name 'Listspinne' wird auch für die Gerandete Jagdspinne verwendet.",
-   "lebensraum": "Fast alle Lebensräume, bevorzugt feuchte wie Feuchtwiesen und Niedermoore, bis etwa 1500 m Höhe.",
+   "lebensraum": "Eurytope Art, besiedelt alle offenen Lebensräume unabhängig von der Feuchte, bevorzugt gut bewachsene Flächen; in Europa und Deutschland weit verbreitet.",
    "zeit": "Fortpflanzung im Frühjahr und Sommer, geschlechtsreif ab Mai.",
    "spuren": "Kinderstubennetz mit Jungspinnen, vom Weibchen bewacht.",
    "regional": null,
@@ -217,6 +257,14 @@
     [
      "Wikipedia (de): Listspinne",
      "https://de.wikipedia.org/wiki/Listspinne"
+    ],
+    [
+     "ARAGES Wiki: Pisaura mirabilis",
+     "https://wiki.arages.de/index.php/Pisaura_mirabilis"
+    ],
+    [
+     "Arachnologische Gesellschaft: Spinne des Jahres",
+     "https://arages.de/spinne-des-jahres/"
     ]
    ]
   },
@@ -250,6 +298,14 @@
     [
      "Wikipedia (de): Wolfspinnen",
      "https://de.wikipedia.org/wiki/Wolfsspinnen"
+    ],
+    [
+     "Arachnologische Gesellschaft: Wiki Lycosidae",
+     "https://wiki.arages.de/index.php?title=Lycosidae"
+    ],
+    [
+     "Spektrum Lexikon der Biologie: Wolfspinnen",
+     "https://www.spektrum.de/lexikon/biologie/wolfspinnen/70955"
     ]
    ]
   },
@@ -282,6 +338,14 @@
     [
      "Wikipedia (de): Gemeine Streckerspinne",
      "https://de.wikipedia.org/wiki/Gemeine_Streckerspinne"
+    ],
+    [
+     "Arachnologische Gesellschaft: Wiki Tetragnatha extensa",
+     "https://wiki.arages.de/index.php?title=Tetragnatha_extensa"
+    ],
+    [
+     "Naturspektrum: Streckerspinne (Tetragnatha extensa)",
+     "https://naturspektrum.de/db/spezies.php?art=tetragnatha_extensa"
     ]
    ]
   },
@@ -315,6 +379,18 @@
     [
      "Wikipedia (de): Mauer-Zebraspringspinne",
      "https://de.wikipedia.org/wiki/Mauer-Zebraspringspinne"
+    ],
+    [
+     "Arachnologische Gesellschaft: Spinne des Jahres",
+     "https://arages.de/spinne-des-jahres/"
+    ],
+    [
+     "Arachnologische Gesellschaft: Wiki Salticus scenicus",
+     "https://wiki.arages.de/index.php/Salticus_scenicus"
+    ],
+    [
+     "Naturspektrum: Zebraspringspinne (Salticus scenicus)",
+     "https://naturspektrum.de/db/spezies.php?art=salticus_scenicus"
     ]
    ]
   },
@@ -346,6 +422,18 @@
     [
      "Wikipedia (de): Veränderliche Krabbenspinne",
      "https://de.wikipedia.org/wiki/Ver%C3%A4nderliche_Krabbenspinne"
+    ],
+    [
+     "Arachnologische Gesellschaft: Wiki Misumena vatia",
+     "https://wiki.arages.de/index.php?title=Misumena_vatia"
+    ],
+    [
+     "Naturportal Südwest: Misumena vatia",
+     "https://naturportal-suedwest.de/de/insekten-spinnen/systematik/art/webspinnen-araneae/krabbenspinnen-thomisidae/misumena/vatia/"
+    ],
+    [
+     "Arachnologische Gesellschaft: Spinne des Jahres",
+     "https://arages.de/spinne-des-jahres/"
     ]
    ]
   },
@@ -377,6 +465,14 @@
     [
      "Wikipedia (de): Baldachinspinnen",
      "https://de.wikipedia.org/wiki/Baldachinspinnen"
+    ],
+    [
+     "Spektrum Lexikon der Biologie: Baldachinspinnen",
+     "https://www.spektrum.de/lexikon/biologie/baldachinspinnen/6942"
+    ],
+    [
+     "Arachnologische Gesellschaft: Wiki Linyphiidae",
+     "https://wiki.arages.de/index.php?title=Linyphiidae"
     ]
    ]
   },
@@ -389,7 +485,7 @@
    "erkennen": [
     "Vorder- und Hinterkörper sind verwachsen, der Hinterleib ist gegliedert",
     "Keine Spinndrüsen und keine Giftdrüsen",
-    "Wehrstoffe aus Stinkdrüsen, die nicht giftig wirken"
+    "Stinkdrüsen mit Abwehrsekret gegen Fressfeinde, für Menschen ungefährlich"
    ],
    "verwechslung": "Spinnen haben einen deutlich abgesetzten Vorder- und Hinterkörper und Spinndrüsen.",
    "lebensraum": "Überwiegend in der Bodenschicht und bodennah, nachtaktiv.",
@@ -406,6 +502,14 @@
     [
      "Wikipedia (de): Weberknechte",
      "https://de.wikipedia.org/wiki/Weberknechte"
+    ],
+    [
+     "Rote Liste Zentrum: Weberknechte (Opiliones)",
+     "https://www.rote-liste-zentrum.de/de/Weberknechte-Arachnida-Opiliones-1763.html"
+    ],
+    [
+     "Naturspektrum: Informationen zu den Weberknechten",
+     "https://www.naturspektrum.de/text/m_text_opiliones.php"
     ]
    ]
   },
@@ -469,6 +573,14 @@
     [
      "Wikipedia (de): Süßwassermilben",
      "https://de.wikipedia.org/wiki/Hydrachnidia"
+    ],
+    [
+     "Spektrum Lexikon der Biologie: Süßwassermilben",
+     "https://www.spektrum.de/lexikon/biologie/suesswassermilben/64860"
+    ],
+    [
+     "ResearchGate: Wassermilben (Hydrachnidia, Acari) und Insekten, Überblick",
+     "https://www.researchgate.net/publication/255895643_Wassermilben_Hydrachnidia_Acari_und_Insekten_Ein_Uberblick_uber_eine_selten_betrachtete_Beziehung"
     ]
    ]
   },
@@ -515,7 +627,7 @@
    "erkennen": [
     "Gehäuse etwa 17 bis 23 mm, gelblich oder rötlichbraun",
     "Bis zu fünf dunkle Bänder, die verschmelzen oder fehlen können",
-    "Dunkle Mündung, daran unterscheidet man sie von der Garten-Bänderschnecke"
+    "Bei erwachsenen Tieren meist dunkle Mündung, daran unterscheidet man sie von der Garten-Bänderschnecke. Ausnahmen mit heller Mündung kommen vor, bei Jungtieren ist das Merkmal noch nicht ausgebildet"
    ],
    "verwechslung": "Garten-Bänderschnecke (Cepaea hortensis) hat eine helle Gehäusemündung.",
    "lebensraum": "Gärten, Parks, Wälder und Hecken.",
@@ -540,6 +652,14 @@
     [
      "Wikipedia (de): Schnirkelschnecken",
      "https://de.wikipedia.org/wiki/Schnirkelschnecken"
+    ],
+    [
+     "Tierlexikon: Hain-Bänderschnecke (Cepaea nemoralis)",
+     "https://tierlexikon.info/cepaea-nemoralis/"
+    ],
+    [
+     "Tier und Natur: Bänderschnecken (Cepaea)",
+     "http://www.tierundnatur.de/mar-cepa.htm"
     ]
    ]
   },
@@ -574,6 +694,18 @@
     [
      "Wikipedia (de): Bernsteinschnecken",
      "https://de.wikipedia.org/wiki/Bernsteinschnecken"
+    ],
+    [
+     "Tier und Natur: Bernsteinschnecken (Succineidae)",
+     "http://www.tierundnatur.de/mar-succ.htm"
+    ],
+    [
+     "Stadtwildtiere: Gemeine Bernsteinschnecke",
+     "https://www.stadtwildtiere.de/artportraet/gemeine-bernsteinschnecke"
+    ],
+    [
+     "Nationalpark Donau-Auen: Bernsteinschnecke",
+     "https://www.donauauen.at/wissen/natur-wissenschaft/fauna/bernsteinschnecke-succinea-putris"
     ]
    ]
   },
@@ -604,6 +736,18 @@
     [
      "Wikipedia (de): Rote Wegschnecke",
      "https://de.wikipedia.org/wiki/Rote_Wegschnecke"
+    ],
+    [
+     "Naturportal Südwest: Arion rufus",
+     "https://naturportal-suedwest.de/de/weichtiere/systematik/art/nacktschnecken-gastropoda/arionidae-wegschnecken/arion/rufus/"
+    ],
+    [
+     "Weichtiere.at: Wegschnecken Teil 1, Große Arten",
+     "https://www.weichtiere.at/Schnecken/land/arionidae.html"
+    ],
+    [
+     "Offene Naturführer: Rote Wegschnecke",
+     "https://offene-naturfuehrer.de/web/Rote_Wegschnecke_%E2%80%93_Arion_rufus"
     ]
    ]
   },
@@ -635,6 +779,14 @@
     [
      "Wikipedia (de): Schwarze Wegschnecke",
      "https://de.wikipedia.org/wiki/Schwarze_Wegschnecke"
+    ],
+    [
+     "Weichtiere.at: Wegschnecken Teil 1, Große Arten",
+     "https://www.weichtiere.at/Schnecken/land/arionidae.html"
+    ],
+    [
+     "Naturportal Südwest: Arion rufus",
+     "https://naturportal-suedwest.de/de/weichtiere/systematik/art/nacktschnecken-gastropoda/arionidae-wegschnecken/arion/rufus/"
     ]
    ]
   },
@@ -668,6 +820,14 @@
     [
      "Wikipedia (de): Schwarzer Schnegel",
      "https://de.wikipedia.org/wiki/Schwarzer_Schnegel"
+    ],
+    [
+     "NABU Niedersachsen: Der Schwarze Schnegel",
+     "https://niedersachsen.nabu.de/tiere-und-pflanzen/sonstige-arten/schnecken/arten-niedersachsen/11740.html"
+    ],
+    [
+     "Schnegel.at: Schwarzer Schnegel",
+     "https://www.schnegel.at/arten/limax_cinereoniger.html"
     ]
    ]
   },
@@ -697,6 +857,18 @@
     [
      "Wikipedia (de): Tigerschnegel",
      "https://de.wikipedia.org/wiki/Tigerschnegel"
+    ],
+    [
+     "Schnegel.at: Großer oder Tigerschnegel (Limax maximus)",
+     "https://www.schnegel.at/arten/limax_maximus.html"
+    ],
+    [
+     "Naturschutzbund Österreich: Tigerschnegel, Weichtier des Jahres 2018/2019",
+     "https://naturschutzbund.at/weichtier-leser/items/id-20182019-tigerschnegel.html"
+    ],
+    [
+     "Tier und Natur: Tigerschnegel (Limax maximus)",
+     "https://www.tierundnatur.de/mar-lmax.htm"
     ]
    ]
   },
@@ -707,12 +879,12 @@
    "gruppe": "Spinnen, Schnecken, Krebstiere und Amphibien",
    "kurz": "Winzige Gehäuseschnecke mit glattem, glänzendem, bräunlichem Haus von etwa 6 bis 7 mm Höhe.",
    "erkennen": [
-    "Gehäusehöhe etwa 5,5 bis 7,5 mm, Breite 2,1 bis 2,8 mm",
-    "Rechtsgewunden, bauchig-konisch",
-    "Bräunlich, glatt und glänzend"
+    "Gehäusehöhe etwa 6,2 bis 7,5 mm, Breite etwa 2,8 bis 3,4 mm",
+    "Rechtsgewunden, stark gewölbte Umgänge mit deutlicher Naht; größte und bauchigste Art der Gattung",
+    "Hornbraun bis kaffeebraun, durchscheinend und stark glänzend"
    ],
    "verwechslung": null,
-   "lebensraum": "Feuchte Wälder in Moos und unter Laub, Talauen und kalkreiche Sümpfe, aber auch trockenere Stellen.",
+   "lebensraum": "Bevorzugt sehr feuchte, kalkreiche Standorte wie periodisch überflutete Moore und Sümpfe, Kanalufer, sehr nasse Wiesen und nasse Wälder auf kalkigem Grund. Zerstreut und selten.",
    "zeit": null,
    "spuren": null,
    "regional": null,
@@ -726,6 +898,10 @@
     [
      "Wikipedia (de): Glänzende Glattschnecke",
      "https://de.wikipedia.org/wiki/Glattschnecken"
+    ],
+    [
+     "Naturportal Südwest: Cochlicopa nitens",
+     "https://naturportal-suedwest.de/de/weichtiere/systematik/art/gehaeuseschnecken-land-gastropoda/cochlicopidae-glattschnecken/cochlicopa/nitens-2/"
     ]
    ]
   },
@@ -803,13 +979,13 @@
     "Innen deutlich perlmuttartig glänzend",
     "Keine Zähne am Schloss (daher der Gattungsname)"
    ],
-   "verwechslung": "Die Gemeine Teichmuschel wird nur 8 bis 10 cm groß und hat eine eher matte Perlmuttschicht.",
+   "verwechslung": "Die Gemeine Teichmuschel hat einen innen verdickten Unterrand der Schale, bei der Großen Teichmuschel ist die Schale überall gleich dick. Die Gemeine bleibt meist kleiner und glänzt innen weniger stark.",
    "lebensraum": "Saubere stehende Gewässer in Nord- und Mitteleuropa, in weichem oder sandigem Grund eingegraben.",
    "zeit": null,
    "spuren": "Leere Schalen am Ufer.",
    "regional": null,
    "umgang": "Muscheln nicht entnehmen. Als Filtrierer reinigt sie das Wasser, ihre Larven leben zeitweise parasitisch an Fischen. Gewässer vor Nährstoffeintrag schützen.",
-   "schutz": "Besonders geschützt nach Bundesnaturschutzrecht, durch Gewässerverschmutzung rückläufig.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1). Rote Liste Deutschland (Jungbluth & von Knorre 2011): gefährdet (früher stark gefährdet). Rückgang durch Gewässerverschmutzung und Verschlechterung der Habitatqualität.",
    "naturdeck_ids": [
     "e4ba253a"
    ],
@@ -820,6 +996,18 @@
     [
      "Wikipedia (de): Große Teichmuschel",
      "https://de.wikipedia.org/wiki/Gro%C3%9Fe_Teichmuschel"
+    ],
+    [
+     "Rote-Liste-Zentrum: Anodonta cygnea (Jungbluth & von Knorre 2011)",
+     "https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=1e254e01-63c2-4e07-9ff9-1792d9654de4"
+    ],
+    [
+     "BArtSchV Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ],
+    [
+     "Merkblatt Große Teichmuschel (TU München, Muschelkoordination)",
+     "https://www.lss.ls.tum.de/fileadmin/w00bds/aquasys/upload/Muschelkoordination/Artensteckbriefe/Merkblatt_Grosse_Teichmuschel.pdf"
     ]
    ]
   },
@@ -840,7 +1028,7 @@
    "spuren": "Leere Schalen am Ufer.",
    "regional": null,
    "umgang": "Muscheln im Wasser lassen. Die Larven setzen sich an Fischen wie Barsch und Plötze fest. Gefährdet durch Gewässerverschmutzung und die eingeschleppte Dreikantmuschel.",
-   "schutz": null,
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (Anlage 1). Rote Liste Deutschland (Jungbluth & von Knorre 2011): Vorwarnliste.",
    "naturdeck_ids": [
     "4b0dbec2"
    ],
@@ -851,6 +1039,18 @@
     [
      "Wikipedia (de): Gemeine Teichmuschel",
      "https://de.wikipedia.org/wiki/Gemeine_Teichmuschel"
+    ],
+    [
+     "Rote-Liste-Zentrum: Anodonta anatina (Jungbluth & von Knorre 2011)",
+     "https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=92e4652c-8e66-4179-b6e5-cfd3ae71477a"
+    ],
+    [
+     "BArtSchV Anlage 1",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ],
+    [
+     "Weichtiere in Sachsen: Anodonta anatina",
+     "https://www.weichtiere-sachsen.de/Pages/TaxonomyBrowser.aspx?id=338073"
     ]
    ]
   },
@@ -886,6 +1086,14 @@
     [
      "Wikipedia (de): Mauerassel",
      "https://de.wikipedia.org/wiki/Mauerassel"
+    ],
+    [
+     "Bodentier hoch vier: Porcellio scaber",
+     "https://bodentierhochvier.de/steckbrief-2/porcellio-scaber/"
+    ],
+    [
+     "Bestimmungsleitfaden für die häufigsten Landasseln Deutschlands",
+     "https://www.researchgate.net/publication/381995519_Bestimmungsleitfaden_fur_die_haufigsten_Landasseln_Deutschlands"
     ]
    ]
   },
@@ -917,6 +1125,14 @@
     [
      "Wikipedia (de): Gemeine Rollassel",
      "https://de.wikipedia.org/wiki/Gemeine_Rollassel"
+    ],
+    [
+     "Steckbrief Rollassel, Universität Münster (hypersoil)",
+     "https://hypersoil.uni-muenster.de/0/07/06/p/p16.htm"
+    ],
+    [
+     "Bestimmungsleitfaden für die häufigsten Landasseln Deutschlands",
+     "https://www.researchgate.net/publication/381995519_Bestimmungsleitfaden_fur_die_haufigsten_Landasseln_Deutschlands"
     ]
    ]
   },
@@ -936,7 +1152,7 @@
    "spuren": null,
    "regional": null,
    "umgang": "Frisst zerfallendes Pflanzenmaterial und Aufwuchs und ist selbst Nahrung für Fische und Amphibien. Falllaub im Graben nicht restlos entfernen.",
-   "schutz": "Rote Liste Deutschland: ungefährdet, häufigste Art der Familie.",
+   "schutz": "Rote Liste Deutschland (Binnenasseln, Haferkorn, Allspach & Knorre 2024): ungefährdet, sehr häufig.",
    "naturdeck_ids": [
     "2042e954",
     "7b76e048"
@@ -946,6 +1162,10 @@
     [
      "Wikipedia (de): Wasserassel",
      "https://de.wikipedia.org/wiki/Wasserassel"
+    ],
+    [
+     "Rote-Liste-Zentrum: Asellus aquaticus (Haferkorn, Allspach & Knorre 2024)",
+     "https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=352b2383-1a2b-4494-b9b4-1ae2e70f3bf5"
     ]
    ]
   },
@@ -1056,11 +1276,11 @@
    ],
    "verwechslung": "Moorfrosch: Die Männchen des Moorfroschs färben sich zur Paarung kräftig blau, beim Grasfrosch ist nur ein bläulicher Schimmer möglich.",
    "lebensraum": "Grünland, Gebüsche, Wälder und Gärten. Zum Laichen sonnige, bewachsene Gewässer.",
-   "zeit": "Laichzeit im zeitigen Frühjahr, in Mitteleuropa meist Mitte bis Ende März.",
+   "zeit": "Laichzeit im zeitigen Frühjahr, bei günstigem Klima ab Ende Februar, meist im März.",
    "spuren": "Leise Paarungsrufe der Männchen.",
    "regional": null,
    "umgang": "Nicht anfassen. Auf Wanderungen zwischen Winterquartier und Laichgewässer sterben viele Tiere im Straßenverkehr, im Frühjahr mit Rücksicht fahren. Naturnahe Teiche, Laub- und Steinhaufen helfen.",
-   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung, FFH-Richtlinie Anhang V.",
+   "schutz": "Besonders geschützt nach Bundesartenschutzverordnung (alle europäischen Amphibien), FFH-Richtlinie Anhang V. Rote Liste Deutschland (Amphibien, 2020): Vorwarnliste.",
    "naturdeck_ids": [
     "968c2316"
    ],
@@ -1071,6 +1291,18 @@
     [
      "Wikipedia (de): Grasfrosch",
      "https://de.wikipedia.org/wiki/Grasfrosch"
+    ],
+    [
+     "BArtSchV Anlage 1 (Amphibia spp., alle europäischen Arten)",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ],
+    [
+     "Rote-Liste-Zentrum: Amphibien (Rote Liste 2020)",
+     "https://www.rote-liste-zentrum.de/de/Amphibien-Amphibia-1728.html"
+    ],
+    [
+     "NABU Dreisamtal: Grasfrosch",
+     "https://www.nabu-dreisamtal.de/teichschild-bickenreute/grasfrosch/"
     ]
    ]
   },
@@ -1091,7 +1323,7 @@
    "spuren": "Laichschnüre im Wasser.",
    "regional": null,
    "umgang": "Kaulquappen nicht fangen und nicht umsetzen. Besatz mit Fischen und Entenfüttern meiden. Auf Wanderstrecken bei Regen im Frühjahr aufmerksam fahren.",
-   "schutz": "Alle heimischen Amphibien sind nach Bundesartenschutzverordnung besonders geschützt. Die Erdkröte steht nicht in der FFH-Richtlinie.",
+   "schutz": "Alle heimischen Amphibien sind nach Bundesartenschutzverordnung (Anlage 1) besonders geschützt. Rote Liste Deutschland (Amphibien, 2020): Erdkröte ungefährdet. Die Erdkröte steht nicht in der FFH-Richtlinie.",
    "naturdeck_ids": [
     "f542374d"
    ],
@@ -1102,6 +1334,14 @@
     [
      "Wikipedia (de): Erdkröte",
      "https://de.wikipedia.org/wiki/Erdkr%C3%B6te"
+    ],
+    [
+     "BArtSchV Anlage 1 (Amphibia spp., alle europäischen Arten)",
+     "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html"
+    ],
+    [
+     "Rote-Liste-Zentrum: Amphibien (Rote Liste 2020)",
+     "https://www.rote-liste-zentrum.de/de/Amphibien-Amphibia-1728.html"
     ]
    ]
   }

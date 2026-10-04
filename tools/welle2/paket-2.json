@@ -1,0 +1,153 @@
+{
+ "paket": 2,
+ "ergebnisse": [
+  {
+   "slug": "hornissenschwebfliege",
+   "status": "korrigiert",
+   "quellen_neu": [
+    ["NaturaDB: Hornissenschwebfliege", "https://www.naturadb.de/tiere/volucella-zonaria/"],
+    ["hornissen.de: Hornissenschwebfliege", "https://www.hornissen.de/hschwfliege.htm"],
+    ["Natur in NRW: Große Waldschwebfliege", "https://www.natur-in-nrw.de/HTML/Tiere/Insekten/Schwebfliegen/TSW-444a.html"]
+   ],
+   "aenderungen": {"zeit": "Von Mai bis September."},
+   "anmerkung": "Länge 16 bis 22 mm, zwei schwarze Hinterleibsbinden, harmlos ohne Stachel, Larven in Wespen-, Hornissen-, seltener Hummelnestern (Detritus) bestätigt. Flugzeit Mai bis September ergänzt (gilt für den Eintrag in insekten-kaefer-hautfluegler.json, dort zeit null; im Eintrag in insekten-falter-netzfluegler.json steht dieselbe Angabe bereits). Rote Liste: Quellen widersprüchlich (Vorwarnliste, ungefährdet, Zuwanderer), daher bewusst keine Angabe; Originalliste nicht abgerufen, bleibt offen."
+  },
+  {
+   "slug": "bienenwolf",
+   "status": "korrigiert",
+   "quellen_neu": [
+    ["NABU Berlin: Der Bienenwolf", "https://berlin.nabu.de/tiere-und-pflanzen/insekten/arten/hautfluegler/wespen/28414.html"],
+    ["Stadt Gütersloh: Artenkorb Bienenwolf", "https://www.guetersloh.de/de/rathaus/fachbereiche-und-einrichtungen/umweltschutz/programm-biologische-vielfalt/guetersloher-artenkorb/bienenwolf.php"]
+   ],
+   "aenderungen": {
+    "zeit": "Von Mai bis September, vor allem auf sandigen Flächen.",
+    "lebensraum": "Warme, trockene Heiden und Magerrasen, auch als Kulturfolger in Siedlungen. Die Weibchen graben Nester in sandigen Boden; nach NABU Berlin reichen sie bis in 150 cm Tiefe und haben meist drei bis acht Brutzellen. Die Längenangaben der Röhren schwanken je nach Quelle."
+   },
+   "anmerkung": "Größe (Weibchen 13 bis 17, nach anderen Quellen bis 18 mm; Männchen bis 10 mm), Honigbienen als Beute, Sandaushub am Nest, kolonieartige Nester bestätigt. Aktivität von Mai bis September statt ab Mitte Juni (NABU Berlin). Nesttiefe laut NABU 150 cm, andere Quellen 60 cm bis 2 m. Rote Liste nicht aufgenommen, keine belastbare Angabe gefunden."
+  },
+  {
+   "slug": "gemeine-sichelschrecke",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["Natur in NRW: Gemeine Sichelschrecke", "https://www.natur-in-nrw.de/HTML/Tiere/Insekten/Heuschrecken/TH-38.html"],
+    ["Insektenreich-SH: Gemeine Sichelschrecke", "https://www.insektenreich-sh.de/wissen/artensteckbriefe-insekten/gemeine-sichelschrecke"],
+    ["Landesbildungsserver Baden-Württemberg: Sichelschrecke", "https://www.schule-bw.de/faecher-und-schularten/mathematisch-naturwissenschaftliche-faecher/biologie/unterrichtsmaterialien/um56bnt/wirbellos/insekt/heuschrecken/phaneroptera_falcata.html"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Länge 12 bis 18 mm, Fühler etwa viermal körperlang, Legeröhre sichelförmig, Cerci gekrümmt, sehr leiser Gesang (hörbar etwa 1 m, nachts), Wärmeliebe und Ausbreitung nach Norden bestätigt. Flugzeit uneinheitlich (Juli bis Oktober bzw. August bis Oktober), daher unverändert. Rügen als Fundort nicht separat belegt. Rote Liste Deutschland laut Suchtreffer nicht gefährdet, Originalliste nicht abgerufen, daher nicht eingetragen."
+  },
+  {
+   "slug": "gewoehnliche-strauchschrecke",
+   "status": "korrigiert",
+   "quellen_neu": [
+    ["Deutschlands Natur: Gewöhnliche Strauchschrecke", "https://www.deutschlands-natur.de/tierarten/heuschrecken/gewoehnliche-strauchschrecke/"],
+    ["Natur in NRW: Gewöhnliche Strauchschrecke", "https://www.natur-in-nrw.de/HTML/Tiere/Insekten/Heuschrecken/TH-39.html"],
+    ["orthoptera.ch: Pholidoptera griseoaptera", "https://www.orthoptera.ch/wiki/arten/ensifera/tettigoniinae/item/pholidoptera-griseoaptera"]
+   ],
+   "aenderungen": {"zeit": "Erwachsene Tiere von Mitte oder Ende Juli bis Oktober oder November; die Männchen singen ab dem Nachmittag bis spät in den Abend, auch bei kühlem, feuchtem Wetter."},
+   "anmerkung": "Länge 13 bis 20 mm, graubraun mit gelber Unterseite, flugunfähig, weißer Halsschildrand, dreisilbiger Gesang bis etwa 10 m hörbar, Aktivität auch bei kühlem Wetter bestätigt. Erwachsene erst ab Mitte oder Ende Juli statt Juni. Der Satz, auf Sandböden fehle sie, wurde nicht belegt und bleibt unverändert."
+  },
+  {
+   "slug": "saebel-dornschrecke",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["orthoptera.ch: Tetrix subulata", "https://www.orthoptera.ch/wiki/arten/caelifera/tetriginae/item/tetrix-subulata"],
+    ["Natur in NRW: Säbeldornschrecke", "https://www.natur-in-nrw.de/HTML/Tiere/Insekten/Heuschrecken/TH-50.html"],
+    ["Insektenreich-SH: Säbeldornschrecke", "https://www.insektenreich-sh.de/wissen/artensteckbriefe-insekten/saebeldornschrecke"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Länge ohne Dorn 7 bis 12 mm, langer Halsschilddorn, variable Färbung, keine Lauterzeugung, feuchte Wiesen mit Rohboden, Nahrung Algen, Moose, Flechten, Imagines ab August und nach Überwinterung März bis Juni oder Juli bestätigt. Heiden als Lebensraum nicht ausdrücklich belegt, unverändert. Laut Quellen nicht gefährdet, Originalliste nicht abgerufen."
+  },
+  {
+   "slug": "gemeine-dornschrecke",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["Rote-Liste-Zentrum: Tetrix undulata", "https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=7f2372a5-a3e2-4da8-80a5-8698c3eccbf2"],
+    ["HLNUG: Artensteckbrief Gemeine Dornschrecke", "https://www.hlnug.de/fileadmin/dokumente/naturschutz/artenschutz/steckbriefe/Heuschrecken/Steckbriefe/Artensteckbrief_2020_Gemeine_Dornschrecke_Tetrix_undulata.pdf"],
+    ["orthoptera.ch: Tetrix undulata", "https://www.orthoptera.ch/wiki/arten/caelifera/tetriginae/item/tetrix-undulata"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Länge 6 bis 12 mm, gewölbter Mittelkiel als Unterschied zur Säbel-Dornschrecke, Moore, Feuchtwiesen, Offenbodenstellen, keine Lauterzeugung bestätigt. Nicht belegt blieben Flügelangaben, Vibrations- und Sichtsignale und Sandheiden; unverändert. Rote Liste: Quellen nennen ungefährdet, Stand und Jahr nicht abgerufen, daher nicht eingetragen."
+  },
+  {
+   "slug": "punktierte-zartschrecke",
+   "status": "korrigiert",
+   "quellen_neu": [
+    ["Natur in NRW: Punktierte Zartschrecke", "https://www.natur-in-nrw.de/HTML/Tiere/Insekten/Heuschrecken/TH-22.html"],
+    ["Insektenreich-SH: Punktierte Zartschrecke", "https://www.insektenreich-sh.de/wissen/artensteckbriefe-insekten/punktierte-zartschrecke"],
+    ["Deutschlands Natur: Punktierte Zartschrecke", "https://www.deutschlands-natur.de/tierarten/heuschrecken/punktierte-zartschrecke/"]
+   ],
+   "aenderungen": {"zeit": "Erwachsene Tiere von Juli bis November."},
+   "anmerkung": "Länge 10 bis 15 mm, verkümmerte, sehr kurze Flügel, Männchen mit braunroter Rückenbinde, sichelförmiger Legebohrer, sehr leiser hochfrequenter Gesang (20 bis 40 kHz), Kulturfolger bestätigt. Erwachsene schon ab Juli bis November statt nur Männchen ab August. Laut Quellen nicht gefährdet, Originalliste nicht abgerufen."
+  },
+  {
+   "slug": "gemeine-feuerwanze",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["BUND Naturschutz Altötting: Gemeine Feuerwanze", "https://altoetting.bund-naturschutz.de/natur-und-umweltthemen/biotop-und-artenschutz/artensteckbriefe/insekten/gemeine-feuerwanze"],
+    ["Institut für Schädlingskunde: Feuerwanze", "https://schaedlingskunde.de/schaedlinge/steckbriefe/wanzen/feuerwanze-pyrrhocoris-apterus/feuerwanze-pyrrhocoris-apterus/"],
+    ["PH Karlsruhe: Steckbrief Gemeine Feuerwanze", "https://natwiss.ph-karlsruhe.de/GARTEN/material/steckbrief/Sortenvielfalt/Gemeine_Feuerwanze.pdf"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Länge, Halsschild- und Kopfzeichnung, Verkürzung der Flügel bei etwa 95 Prozent der Tiere, Ansammlungen an Linden, Lindensamen als Nahrung, eine Generation, Überwinterung der Erwachsenen, Wanze statt Käfer bestätigt. Quellen sind uneinig, ob vereinzelt voll geflügelte Tiere fliegen können; die Formulierung im Eintrag (meist kurzflügelig) bleibt vorsichtig genug."
+  },
+  {
+   "slug": "gruene-stinkwanze",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["NABU: Artenporträt Grüne Stinkwanze", "https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/wanzen/26469.html"],
+    ["Insektenbox: Grüne Stinkwanze", "https://www.insektenbox.de/wanzen/grstin.htm"],
+    ["Deutschlands Natur: Grüne Stinkwanze", "https://www.deutschlands-natur.de/tierarten/wanzen/palomena-prasina/"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Größe 12 bis 14 mm, Farbwechsel von grün zu braun im Herbst, eingebuchteter Halsschild-Vorderrand im Unterschied zu Palomena viridissima, Paarung und Eiablage Mai und Juni, eine Generation, Überwinterung der Adulten, Wehrsekret, Saugen an Samen und Früchten bestätigt."
+  },
+  {
+   "slug": "rote-mordwanze",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["Nationalpark Donau-Auen: Rote Mordwanze", "https://www.donauauen.at/wissen/natur-wissenschaft/fauna/rote-mordwanze-rhinocoris-iracundus"],
+    ["Insektenbox: Rote Mordwanze", "https://www.insektenbox.de/wanzen/rotmor.htm"],
+    ["Deutschlands Natur: Rote Mordwanze", "https://www.deutschlands-natur.de/tierarten/wanzen/rhynocoris-iracundus/"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Länge 14 bis 18 mm, rot-schwarz, kräftiger dreigliedriger Rüssel, schmerzhafter Stich, räuberische Lebensweise, Wärme und Trockenheit bestätigt. Quellen nennen Imagines teils von Mai bis September und Überwinterung als Larve; die Zeitangabe Juni und Juli im Eintrag ist daher nur teilweise gestützt, bewusst unverändert und offen. Rote Liste widersprüchlich (Vorwarnliste, ohne Eintrag), nicht aufgenommen."
+  },
+  {
+   "slug": "streifenwanze",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["NABU Insektentrainer: Streifenwanze", "https://insektentrainer.nabu.de/insekt/streifenwanze/"],
+    ["LBV: Streifenwanze", "https://www.lbv.de/ratgeber/naturwissen/artenportraits/detail/streifenwanze/"],
+    ["Insektenbox: Streifenwanze", "https://www.insektenbox.de/wanzen/streiw.htm"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Länge 8 bis 12 mm, sechs schwarze Längsstreifen, schwarze Beine und Fühler (rotbeiniges G. lineatum nur Sizilien und Nordafrika), großes Schildchen, Doldenblütler, Ausbreitung nach Norden bis zur Nord- und Ostsee bestätigt. Einzelne Zeitangaben (Paarung Ende Mai bis Juni, Adulte ab Ende Juli) nicht separat belegt, unverändert."
+  },
+  {
+   "slug": "gemeiner-wasserlaeufer",
+   "status": "bestaetigt",
+   "quellen_neu": [
+    ["Deutschlands Natur: Gemeiner Wasserläufer", "https://www.deutschlands-natur.de/tierarten/wanzen/gerris-lacustris/"],
+    ["insects.ch: Gerris lacustris", "https://www.insects.ch/art/gerris-lacustris/"],
+    ["Offene Naturführer: Gemeiner Wasserläufer", "https://offene-naturfuehrer.de/web/Gemeiner_Wasserl%C3%A4ufer_%E2%80%93_Gerris_lacustris"]
+   ],
+   "aenderungen": {},
+   "anmerkung": "Länge 8 bis 10 mm, zwei Generationen, Überwinterung adulter Tiere an Land ab Mitte Juli, wasserabweisende Behaarung, kurze Vorderbeine als Fangbeine, nahezu alle Stillgewässertypen bestätigt. Die Vorderschenkelzeichnung (zwei dunkle Streifen) wurde nicht separat belegt, unverändert."
+  },
+  {
+   "slug": "teichlaeufer",
+   "status": "korrigiert",
+   "quellen_neu": [
+    ["Natur in NRW: Teichläufer", "https://natur-in-nrw.de/HTML/Tiere/Insekten/Wanzen/TWA-50.html"],
+    ["Insektenbox: Gemeiner Teichläufer", "https://www.insektenbox.de/wanzen/teichl.htm"],
+    ["Digital Nature: Gemeiner Teichläufer", "https://www.digital-nature.de/tierwelt/insekten/nepomorpha/hydrometra/teichlaeufer.html"]
+   ],
+   "aenderungen": {
+    "erkennen": ["9 bis 12,5 mm lang, sehr schmaler, langgestreckter Körper", "Unverhältnismäßig lange, dünne Beine", "Meist flügellos, selten kurz- oder langflügelig", "Läuft über die Wasseroberfläche"],
+    "zeit": "Erwachsene Tiere überwintern in der Ufervegetation."
+   },
+   "anmerkung": "Länge, extrem lange Beine, meist flügellos, flache Uferzone mit wenig bewegtem Wasser, räuberische Ernährung von Oberflächeninsekten, Überwinterung adulter Tiere in der Ufervegetation bestätigt; Länge, Flügelangabe und Überwinterung ergänzt."
+  }
+ ]
+}

@@ -960,7 +960,7 @@
    ],
    "verwechslung": "Von der Hornisse unterscheidet sie sich durch ein Flügelpaar statt zwei und die kurzen Fühler.",
    "lebensraum": "Blüten wie Baldrian, Dost und Skabiose. Die Larven leben in Nestern von Wespen, Hornissen oder Hummeln und fressen tote Insekten und Reste.",
-   "zeit": null,
+   "zeit": "Von Mai bis September.",
    "spuren": null,
    "regional": null,
    "umgang": "Nicht mit der Hornisse verwechseln, sie sticht nicht. Beobachten.",
@@ -976,6 +976,18 @@
     [
      "Wikipedia: Hornissenschwebfliege",
      "https://de.wikipedia.org/wiki/Hornissenschwebfliege"
+    ],
+    [
+     "NaturaDB: Hornissenschwebfliege",
+     "https://www.naturadb.de/tiere/volucella-zonaria/"
+    ],
+    [
+     "hornissen.de: Hornissenschwebfliege",
+     "https://www.hornissen.de/hschwfliege.htm"
+    ],
+    [
+     "Natur in NRW: Große Waldschwebfliege",
+     "https://www.natur-in-nrw.de/HTML/Tiere/Insekten/Schwebfliegen/TSW-444a.html"
     ]
    ]
   },
@@ -1109,8 +1121,8 @@
     "Das Weibchen betäubt Honigbienen mit einem Stich und trägt sie als Larvennahrung zum Nest."
    ],
    "verwechslung": "Mit Wespen oder Honigbienen leicht zu verwechseln; der große Kopf und die Beute im Flug verraten ihn.",
-   "lebensraum": "Warme, trockene Heiden und Magerrasen, auch als Kulturfolger in Siedlungen. Die Weibchen graben bis zu 1 m lange Röhren in sandigen Boden mit mehreren Brutkammern.",
-   "zeit": "Ab Mitte Juni aktiv.",
+   "lebensraum": "Warme, trockene Heiden und Magerrasen, auch als Kulturfolger in Siedlungen. Die Weibchen graben Nester in sandigen Boden; nach NABU Berlin reichen sie bis in 150 cm Tiefe und haben meist drei bis acht Brutzellen. Die Längenangaben der Röhren schwanken je nach Quelle.",
+   "zeit": "Von Mai bis September, vor allem auf sandigen Flächen.",
    "spuren": "Sandaushub vor dem Eingang einer Röhre in sandigem Boden.",
    "regional": null,
    "umgang": "Nester in Sandflächen und Wegrändern nicht zerstören oder zutreten. Er ist für Menschen nicht aggressiv.",
@@ -1125,6 +1137,14 @@
     [
      "Wikipedia: Bienenwolf",
      "https://de.wikipedia.org/wiki/Philanthus_triangulum"
+    ],
+    [
+     "NABU Berlin: Der Bienenwolf",
+     "https://berlin.nabu.de/tiere-und-pflanzen/insekten/arten/hautfluegler/wespen/28414.html"
+    ],
+    [
+     "Stadt Gütersloh: Artenkorb Bienenwolf",
+     "https://www.guetersloh.de/de/rathaus/fachbereiche-und-einrichtungen/umweltschutz/programm-biologische-vielfalt/guetersloher-artenkorb/bienenwolf.php"
     ]
    ]
   },
